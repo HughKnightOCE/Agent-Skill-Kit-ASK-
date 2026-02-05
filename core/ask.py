@@ -49,11 +49,20 @@ class SkillManager:
     
     def __init__(self, skills_dir: str = None):
         if skills_dir is None:
-            # When installed via pip, skills are in the package directory
-            # When running directly, skills are in the local 'skills' folder
-            package_skills = Path(__file__).parent.parent / "skills"
-            if package_skills.exists():
-                skills_dir = package_skills
+            # Try multiple locations for skills folder:
+            # 1. Relative to this file (site-packages structure)
+            # 2. Project root (local development)
+            # 3. Current working directory (fallback)
+            
+            # For site-packages: skills is a top-level package alongside core
+            site_skills = Path(__file__).parent.parent / "skills"
+            # For development: skills is at project root
+            project_skills = Path(__file__).resolve().parent.parent / "skills"
+            
+            if site_skills.exists():
+                skills_dir = site_skills
+            elif project_skills.exists():
+                skills_dir = project_skills
             else:
                 skills_dir = "skills"
         

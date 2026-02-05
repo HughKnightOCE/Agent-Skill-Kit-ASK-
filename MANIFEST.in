@@ -1,0 +1,3 @@
+recursive-include skills *.yaml *.yml *.py
+recursive-include core *.py
+include README.md LICENSE requirements.txt
