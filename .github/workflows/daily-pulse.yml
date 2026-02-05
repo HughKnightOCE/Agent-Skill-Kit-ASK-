@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  tech-pulse:
+  update-intelligence:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -18,50 +18,17 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Update README with latest tech intelligence
+        run: python update_readme_intelligence.py
       
-      - name: Run Tech-Pulse
-        id: pulse
-        run: |
-          python skills/tech-pulse/script.py > pulse_output.txt 2>&1
-          cat pulse_output.txt
-      
-      - name: Update README with Tech-Pulse Results
-        run: |
-          python -c "
-          from datetime import datetime
-          import os
-          
-          # Read the pulse output
-          with open('pulse_output.txt', 'r') as f:
-              pulse_content = f.read()
-          
-          # Read current README
-          with open('README.md', 'r') as f:
-              readme = f.read()
-          
-          # Get today's date
-          today = datetime.now().strftime('%B %d, %Y')
-          
-          # Create updated section
-          update_marker = '## 🚀 Today\\'s Agent Intelligence'
-          new_section = f'{update_marker}\n\n> **Last Updated:** {today}\n\n```\n{pulse_content}\n```\n\n> *This section is auto-updated daily with trending tech intelligence.*\n'
-          
-          # Replace the section
-          import re
-          pattern = r'## 🚀 Today\\'s Agent Intelligence.*?(?=\n## )'
-          updated_readme = re.sub(pattern, new_section, readme, flags=re.DOTALL)
-          
-          # Write back
-          with open('README.md', 'w') as f:
-              f.write(updated_readme)
-          "
-      
-      - name: Commit results
+      - name: Commit and push updates
         run: |
           git config user.name "Agent-Skill-Kit Bot"
           git config user.email "bot@agent-skill-kit.local"
-          git add README.md
-          git commit -m "chore: auto-update README with daily tech intelligence" || true
-          git push
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "chore: auto-update README with daily tech intelligence"
+            git push
+          fi
