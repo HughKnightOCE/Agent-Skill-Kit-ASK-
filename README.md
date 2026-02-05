@@ -106,18 +106,53 @@ ask dashboard
 ask run architect "Convert CSV to JSON"
 ```
 
-### **Option 3: Run Source Directly - No Installation**
+### **Option 3: Desktop GUI - Modern Interface**
+Best for: Visual users, no command-line needed
+
+```bash
+# Install with GUI support
+pip install git+https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
+
+# Launch the beautiful desktop application
+ask-gui
+```
+
+This opens a professional PyQt6 desktop application with:
+- 🎨 Modern, intuitive interface
+- 🔍 Skill browser and search
+- 📊 Real-time execution dashboard  
+- 📜 Execution history tracking
+- ⚡ One-click skill execution with argument forms
+
+[Learn more about the GUI →](gui/README.md)
+
+### **Option 4: Run Source Directly - No Installation**
 Best for: Quick testing, trying it out
 
 ```bash
 git clone https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
 cd Agent-Skill-Kit-ASK-
 
-# Run directly
+# Run directly via CLI
 ask dashboard
 ask run tech-pulse
 ask run architect "Your skill description"
+
+# Or launch GUI (requires PyQt6)
+pip install PyQt6
+ask-gui
 ```
+
+### **Option 5: Standalone Executable - Zero Dependencies**
+Best for: No Python installed, portable use
+
+Download pre-built executables from [Releases](https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-/releases):
+
+- **Windows**: `ask-gui.exe` - Double-click to run
+- **macOS**: `ask-gui` - Run from terminal
+- **Linux**: `ask-gui` - Run from terminal
+
+No Python installation required!
 
 ### **Windows Command Prompt Troubleshooting**
 
@@ -127,6 +162,7 @@ If `ask` doesn't work in Command Prompt (cmd), use one of these alternatives:
 ```powershell
 ask dashboard
 ask run tech-pulse
+ask-gui  # GUI also works great in PowerShell
 ```
 
 **Option B: Use Python directly** (Works everywhere)
@@ -171,6 +207,17 @@ Enhanced TUI with:
 - System health dashboard
 - Live progress displays
 - Professional color-coded output
+
+#### 🖥️ **Desktop GUI Application (NEW!)**
+Modern PyQt6 desktop interface featuring:
+- **Skill Browser** - Search and filter all available skills
+- **Visual Executor** - Execute skills with beautiful form inputs
+- **Real-Time Output** - Watch skill execution live
+- **History Tracking** - Review past skill executions
+- **Dashboard** - See system statistics and skill categories
+- **Professional Design** - Polished, native desktop application feel
+
+Launch with: `ask-gui`
 
 ---
 
