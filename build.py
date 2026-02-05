@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Build script for Agent-Skill-Kit
 Creates both:
@@ -11,6 +12,11 @@ import sys
 import subprocess
 import shutil
 from pathlib import Path
+import io
+
+# Fix encoding on Windows
+if sys.platform == 'win32':
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 def run_cmd(cmd, description):
     """Run a command and report status."""
@@ -60,7 +66,7 @@ def main():
     print("="*50)
     
     if run_cmd(
-        f"{sys.executable} -m PyInstaller pyinstaller.spec --onefile",
+        f"{sys.executable} -m PyInstaller pyinstaller.spec",
         "Building standalone executable"
     ):
         print("\n✅ Executable built: dist/ask.exe")
