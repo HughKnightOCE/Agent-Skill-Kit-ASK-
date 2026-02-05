@@ -37,8 +37,6 @@
 - 🔗 [Read on HackerNews](https://www.anthropic.com/engineering/building-c-compiler)
 - 👤 By modeless | 📈 271 points | 💬 257 comments
 
-
-
 > *This section is auto-updated daily with trending tech intelligence.*
 ## ⚡ What is ASK?
 
