@@ -5,17 +5,24 @@ Builds a standalone executable for Windows
 """
 
 import sys
-from PyInstaller.utils.hooks import collect_data_files
+from PyInstaller.utils.hooks import collect_data_files, get_module_file_attribute
+
+# Collect data files from Rich and PyYAML
+datas = [
+    ('skills', 'skills'),
+    ('requirements.txt', '.'),
+]
+
+# Add Rich unicode data
+rich_data = collect_data_files('rich')
+datas.extend(rich_data)
 
 a = Analysis(
     ['core/ask.py'],
     pathex=[],
     binaries=[],
-    datas=[
-        ('skills', 'skills'),
-        ('requirements.txt', '.'),
-    ],
-    hiddenimports=['rich', 'yaml'],
+    datas=datas,
+    hiddenimports=['rich', 'yaml', 'rich._unicode_data'],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
