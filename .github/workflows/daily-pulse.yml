@@ -30,11 +30,7 @@ jobs:
         id: tech_pulse
         run: |
           cd "${{ github.workspace }}"
-          python -c "
-import sys
-sys.path.insert(0, '.')
-exec(open('skills/tech-pulse/script.py').read())
-" > /tmp/tech_pulse_output.txt 2>&1
+          python skills/tech-pulse/script.py > /tmp/tech_pulse_output.txt 2>&1
           cat /tmp/tech_pulse_output.txt
       
       - name: Extract Tech-Pulse output
