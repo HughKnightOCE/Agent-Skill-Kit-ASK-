@@ -1,84 +1,62 @@
 #!/usr/bin/env python3
 """
-Setup script for Agent-Skill-Kit.
-Installs dependencies and verifies the environment.
+Setup configuration for Agent-Skill-Kit.
+Allows installation via: pip install .
+Or: pip install agent-skill-kit
 """
 
-import subprocess
-import sys
-import os
+from setuptools import setup, find_packages
+from pathlib import Path
 
-def run_command(cmd, description):
-    """Run a shell command and report status."""
-    print(f"\n📦 {description}...")
-    try:
-        result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
-        if result.returncode == 0:
-            print(f"✅ {description} - Done!")
-            return True
-        else:
-            print(f"❌ {description} - Failed!")
-            print(result.stderr)
-            return False
-    except Exception as e:
-        print(f"❌ {description} - Error: {e}")
-        return False
+# Read README
+readme_file = Path(__file__).parent / "README.md"
+long_description = readme_file.read_text(encoding="utf-8") if readme_file.exists() else ""
 
-def main():
-    print("""
-    ╔════════════════════════════════════════╗
-    ║   🤖 Agent-Skill-Kit Setup Script     ║
-    ╚════════════════════════════════════════╝
-    """)
-    
-    # Check Python version
-    if sys.version_info < (3, 8):
-        print("❌ Python 3.8+ required!")
-        sys.exit(1)
-    
-    print(f"✅ Python {sys.version.split()[0]} detected")
-    
-    # Install requirements
-    success = True
-    success &= run_command(
-        f"{sys.executable} -m pip install --upgrade pip",
-        "Upgrading pip"
-    )
-    
-    success &= run_command(
-        f"{sys.executable} -m pip install -r requirements.txt",
-        "Installing dependencies"
-    )
-    
-    # Test CLI
-    print(f"\n🧪 Testing CLI...")
-    result = subprocess.run(
-        [sys.executable, "core/ask.py", "help"],
-        capture_output=True,
-        text=True
-    )
-    
-    if result.returncode == 0:
-        print("✅ CLI test passed!")
-    else:
-        print("❌ CLI test failed!")
-        print(result.stderr)
-        success = False
-    
-    # Final message
-    print(f"\n{'='*40}")
-    if success:
-        print("✅ Setup complete! You're ready to go!")
-        print("\n🚀 Quick start:")
-        print("   python core/ask.py dashboard")
-        print("   python core/ask.py run repo-visualizer")
-        print("   python core/ask.py doctor")
-    else:
-        print("⚠️  Setup completed with warnings.")
-        print("   Please fix any errors above.")
-    print(f"{'='*40}\n")
-    
-    return 0 if success else 1
+# Read requirements
+requirements_file = Path(__file__).parent / "requirements.txt"
+requirements = []
+if requirements_file.exists():
+    requirements = [
+        line.strip()
+        for line in requirements_file.read_text(encoding="utf-8").split("\n")
+        if line.strip() and not line.startswith("#")
+    ]
 
-if __name__ == "__main__":
-    sys.exit(main())
+setup(
+    name="agent-skill-kit",
+    version="2.0.0",
+    description="Zero-config, agent-native skill framework with MCP integration",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    author="Hugh Knight",
+    author_email="hugh@example.com",
+    url="https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-",
+    license="MIT",
+    py_modules=["core"],
+    packages=find_packages(exclude=["tests", "build", "dist"]),
+    install_requires=requirements,
+    entry_points={
+        "console_scripts": [
+            "ask=core.ask:main",
+        ],
+    },
+    classifiers=[
+        "Development Status :: 4 - Beta",
+        "Intended Audience :: Developers",
+        "Topic :: Software Development :: Libraries",
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
+    ],
+    python_requires=">=3.8",
+    keywords="agent skills mcp claude copilot automation",
+    project_urls={
+        "Documentation": "https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-#readme",
+        "Source": "https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-",
+        "Issues": "https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-/issues",
+    },
+)
