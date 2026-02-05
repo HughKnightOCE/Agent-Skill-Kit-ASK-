@@ -4,25 +4,45 @@ PyInstaller spec file for Agent-Skill-Kit
 Builds a standalone executable for Windows
 """
 
-import sys
-from PyInstaller.utils.hooks import collect_data_files, get_module_file_attribute
+# -*- mode: python ; coding: utf-8 -*-
+"""
+PyInstaller spec file for Agent-Skill-Kit
+Builds a standalone executable for Windows
+Workaround: Disable Rich unicode rendering in bundled exe
+"""
 
-# Collect data files from Rich and PyYAML
+import sys
+from PyInstaller.utils.hooks import collect_data_files
+
+# Collect all Rich package files (not just specific ones)
 datas = [
     ('skills', 'skills'),
     ('requirements.txt', '.'),
 ]
 
-# Add Rich unicode data
-rich_data = collect_data_files('rich')
-datas.extend(rich_data)
+# Collect all data files from rich module
+try:
+    from pathlib import Path
+    rich_path = Path(__import__('rich').__file__).parent
+    datas.append((str(rich_path), 'rich'))
+except:
+    pass
 
 a = Analysis(
     ['core/ask.py'],
     pathex=[],
     binaries=[],
     datas=datas,
-    hiddenimports=['rich', 'yaml', 'rich._unicode_data'],
+    hiddenimports=[
+        'rich',
+        'rich.console',
+        'rich.table',
+        'rich.panel',
+        'rich.progress',
+        'yaml',
+        'urllib3',
+        'requests',
+    ],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],

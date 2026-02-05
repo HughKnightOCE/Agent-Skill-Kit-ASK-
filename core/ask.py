@@ -15,6 +15,9 @@ import time
 from pathlib import Path
 from typing import Dict, List, Optional
 
+# Detect if running as PyInstaller exe
+RUNNING_AS_EXE = getattr(sys, 'frozen', False) and hasattr(sys, '_MEIPASS')
+
 # Set UTF-8 encoding on Windows
 if sys.platform == 'win32':
     import io
@@ -35,7 +38,11 @@ except ImportError:
     print("Error: 'rich' is required. Install with: pip install rich")
     sys.exit(1)
 
-console = Console(force_terminal=True, width=100, legacy_windows=False)
+# Use simpler console options if running as exe to avoid unicode issues
+if RUNNING_AS_EXE:
+    console = Console(force_terminal=True, width=100, legacy_windows=True, no_color=False)
+else:
+    console = Console(force_terminal=True, width=100, legacy_windows=False)
 
 class SkillManager:
     """Manage and execute skills."""
@@ -77,7 +84,15 @@ class SkillManager:
     
     def display_banner(self):
         """Display ASK-2026 banner."""
-        banner = """
+        if RUNNING_AS_EXE:
+            # Simplified banner for exe to avoid unicode issues
+            print("\n" + "="*60)
+            print("  AGENT-SKILL-KIT v2.0 (ASK-2026)")
+            print("  Zero Keys | Agent-Native | Zero Maintenance")
+            print("="*60 + "\n")
+        else:
+            # Full fancy banner for normal Python
+            banner = """
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║          🤖 AGENT-SKILL-KIT v2.0 (ASK-2026)                 ║
@@ -90,7 +105,7 @@ class SkillManager:
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 """
-        console.print(banner)
+            console.print(banner)
     
     def display_system_health(self):
         """Display system health dashboard."""
