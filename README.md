@@ -57,43 +57,46 @@ python core/ask.py run tech-pulse
 
 Choose the option that fits your needs:
 
-### **Option 1: Standalone Executable (.exe) - Easiest for Windows**
-Best for: Non-technical users, Windows machines
-
-1. Download `ask.exe` from [Releases](https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-/releases)
-2. Double-click to run:
-   ```bash
-   ask.exe dashboard
-   ask.exe run tech-pulse
-   ```
-3. **No Python installation needed!**
-
-### **Option 2: pip Package - Best for Python Developers**
-Best for: Python developers, cross-platform (Windows/Mac/Linux)
+### **Option 1: pip Package - Recommended (Works everywhere)**
+Best for: All users (Windows, Mac, Linux)
 
 ```bash
-# Install from wheel
-pip install agent-skill-kit.whl
-
-# Or install from source
+# Install from GitHub
 pip install git+https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
 
-# Use the global command
+# Or install from wheel file
+pip install agent_skill_kit-2.0.0-py3-none-any.whl
+
+# Then use the global command
 ask dashboard
+ask run tech-pulse
 ask run repo-visualizer
 ```
 
-### **Option 3: Source Installation - Best for Contributors**
+### **Option 2: Source Installation - Best for Contributors**
 Best for: Developers, customization, contributing
 
 ```bash
-# Clone and install in editable mode
 git clone https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
 cd Agent-Skill-Kit-ASK-
 pip install -e .
 
-# Edit code directly and test
+# Use the global command
+ask dashboard
+ask run architect "Convert CSV to JSON"
+```
+
+### **Option 3: Run Source Directly - No Installation**
+Best for: Quick testing, trying it out
+
+```bash
+git clone https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
+cd Agent-Skill-Kit-ASK-
+
+# Run directly
 python core/ask.py dashboard
+python core/ask.py run tech-pulse
+python core/ask.py run architect "Your skill description"
 ```
 
 ---
