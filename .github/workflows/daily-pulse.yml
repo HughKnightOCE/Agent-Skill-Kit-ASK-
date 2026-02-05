@@ -2,42 +2,32 @@ name: Daily Tech-Pulse Update
 
 on:
   schedule:
-    # Run every day at 9 AM UTC
     - cron: '0 9 * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  tech-pulse:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
       
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
       
-      - name: Run Tech-Pulse skill
-        run: |
-          cd "${{ github.workspace }}"
-          python skills/tech-pulse/script.py > /tmp/tech_pulse_output.txt 2>&1
-          cat /tmp/tech_pulse_output.txt
+      - name: Run Tech-Pulse
+        run: python skills/tech-pulse/script.py
       
-      - name: Commit and push changes
+      - name: Commit results
         run: |
           git config user.name "Agent-Skill-Kit Bot"
           git config user.email "bot@agent-skill-kit.local"
           git add -A
-          git commit -m "chore: tech-pulse update $(date -u +'%Y-%m-%d')" || true
+          git commit -m "chore: tech-pulse daily update" || true
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
