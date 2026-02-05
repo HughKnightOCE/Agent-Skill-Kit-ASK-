@@ -99,6 +99,28 @@ python core/ask.py run tech-pulse
 python core/ask.py run architect "Your skill description"
 ```
 
+### **Windows Command Prompt Troubleshooting**
+
+If `ask` doesn't work in Command Prompt (cmd), use one of these alternatives:
+
+**Option A: Use PowerShell instead** (Recommended)
+```powershell
+ask dashboard
+ask run tech-pulse
+```
+
+**Option B: Use Python directly** (Works everywhere)
+```cmd
+python -m core.ask dashboard
+python -m core.ask run tech-pulse
+```
+
+**Option C: Add Scripts to PATH manually**
+```cmd
+setx PATH "%PATH%;%APPDATA%\Python\Python314\Scripts"
+```
+Then restart Command Prompt and try `ask` again.
+
 ---
 
 ## 📦 What's Included?
