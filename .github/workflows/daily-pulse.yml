@@ -27,84 +27,17 @@ jobs:
           pip install -r requirements.txt
       
       - name: Run Tech-Pulse skill
-        id: tech_pulse
         run: |
           cd "${{ github.workspace }}"
           python skills/tech-pulse/script.py > /tmp/tech_pulse_output.txt 2>&1
           cat /tmp/tech_pulse_output.txt
       
-      - name: Extract Tech-Pulse output
-        id: extract_output
-        run: |
-          CONTENT=$(cat /tmp/tech_pulse_output.txt)
-          # Use delimiter to handle multi-line content
-          {
-            echo "TECH_PULSE_CONTENT<<EOF"
-            echo "$CONTENT"
-            echo "EOF"
-          } >> $GITHUB_OUTPUT
-      
-      - name: Update README with Tech-Pulse
-        run: |
-          python - << 'PYTHON_SCRIPT'
-          from datetime import datetime
-          
-          # Read current README
-          with open('README.md', 'r', encoding='utf-8') as f:
-              content = f.read()
-          
-          # Get the tech-pulse output
-          with open('/tmp/tech_pulse_output.txt', 'r', encoding='utf-8') as f:
-              tech_pulse_content = f.read()
-          
-          # Create the section
-          timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
-          section = f"""## 🚀 Today's Agent Intelligence
-
-> Last Updated: {timestamp}
-
-{tech_pulse_content}
-
----
-"""
-          
-          # Find and replace the section
-          start_marker = "## 🚀 Today's Agent Intelligence"
-          
-          if start_marker in content:
-              # Find the end of the section (next ## heading or end of file)
-              start_idx = content.find(start_marker)
-              end_idx = content.find('\n## ', start_idx + 1)
-              
-              if end_idx == -1:
-                  # Check for other section markers
-                  next_markers = ['---', '## ', '# ']
-                  min_idx = len(content)
-                  for marker in next_markers[1:]:
-                      idx = content.find(marker, start_idx + 1)
-                      if idx > -1 and idx < min_idx:
-                          min_idx = idx
-                  end_idx = min_idx if min_idx < len(content) else len(content)
-              
-              content = content[:start_idx] + section + content[end_idx:]
-          else:
-              # Insert after the main heading
-              main_heading_end = content.find('\n', content.find('# '))
-              content = content[:main_heading_end] + '\n\n' + section + content[main_heading_end:]
-          
-          # Write updated README
-          with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(content)
-          
-          print("✅ README updated with Tech-Pulse data")
-          PYTHON_SCRIPT
-      
       - name: Commit and push changes
         run: |
           git config user.name "Agent-Skill-Kit Bot"
           git config user.email "bot@agent-skill-kit.local"
-          git add README.md
-          git commit -m "chore: update tech-pulse intelligence $(date -u +'%Y-%m-%d')" || true
+          git add -A
+          git commit -m "chore: tech-pulse update $(date -u +'%Y-%m-%d')" || true
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
