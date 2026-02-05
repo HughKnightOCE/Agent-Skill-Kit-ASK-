@@ -32,10 +32,11 @@ setup(
     author_email="hugh@example.com",
     url="https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-",
     license="MIT",
-    packages=find_packages(include=["core", "skills"]),
+    packages=find_packages(),
     package_data={
-        "": ["*.yaml", "*.yml", "*.py"],
+        "": ["*.yaml", "*.yml"],
         "skills": ["*/*.yaml", "*/*.py"],
+        "core": ["*.py"],
     },
     include_package_data=True,
     install_requires=requirements,
