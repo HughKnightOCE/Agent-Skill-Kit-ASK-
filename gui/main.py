@@ -210,8 +210,28 @@ class ASKDesktopGUI(QMainWindow):
         self.setGeometry(100, 100, 1200, 700)
         self.setStyleSheet(self.get_stylesheet())
         
-        self.manager = SkillManager()
+        # Try to find skills with explicit path resolution
+        skills_dir = None
+        
+        # First try: site-packages installation
+        site_skills = Path(__file__).parent.parent / "skills"
+        if site_skills.exists():
+            skills_dir = site_skills
+        # Second try: Development/local installation
+        else:
+            local_skills = Path(__file__).resolve().parent.parent / "skills"
+            if local_skills.exists():
+                skills_dir = local_skills
+        
+        self.manager = SkillManager(str(skills_dir) if skills_dir else None)
         self.execution_history = []
+        
+        # Debug: Check if skills are loaded
+        if not self.manager.skills:
+            print(f"Warning: No skills found! Skills dir: {self.manager.skills_dir}")
+            print(f"Skills dir exists: {self.manager.skills_dir.exists()}")
+        else:
+            print(f"✓ Loaded {len(self.manager.skills)} skills from {self.manager.skills_dir}")
         
         self.init_ui()
         self.load_skills()
@@ -321,12 +341,40 @@ class ASKDesktopGUI(QMainWindow):
         """Load and display available skills."""
         self.skills_list.clear()
         
-        for skill_name in sorted(self.manager.skills.keys()):
-            item = QListWidgetItem(skill_name)
-            item.setData(Qt.ItemDataRole.UserRole, skill_name)
-            self.skills_list.addItem(item)
+        try:
+            skills = self.manager.skills
+            if not skills:
+                self.detail_text.setText("""
+                <h2>⚠️ No Skills Found</h2>
+                <p>The skills directory appears to be empty or not accessible.</p>
+                <p><b>Skills Directory:</b> {}</p>
+                <p>Please ensure ASK is properly installed.</p>
+                <p>Try running: <code>ask dashboard</code> to verify.</p>
+                """.format(self.manager.skills_dir))
+                self.statusBar().showMessage("No skills found - check installation")
+                return
+            
+            for skill_name in sorted(skills.keys()):
+                item = QListWidgetItem(skill_name)
+                item.setData(Qt.ItemDataRole.UserRole, skill_name)
+                self.skills_list.addItem(item)
+            
+            # Auto-select first skill
+            if self.skills_list.count() > 0:
+                self.skills_list.setCurrentRow(0)
+                self.on_skill_selected()
+            
+            self.statusBar().showMessage(f"Loaded {len(skills)} skills")
+            self.update_stats()
         
-        self.update_stats()
+        except Exception as e:
+            error_msg = f"Error loading skills: {str(e)}"
+            print(f"ERROR: {error_msg}")
+            self.detail_text.setText(f"""
+            <h2>❌ Error Loading Skills</h2>
+            <p>{error_msg}</p>
+            """)
+            self.statusBar().showMessage(f"Error: {str(e)}")
     
     def filter_skills(self, text: str):
         """Filter skills based on search text."""
