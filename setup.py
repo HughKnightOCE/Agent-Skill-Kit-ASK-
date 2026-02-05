@@ -32,8 +32,12 @@ setup(
     author_email="hugh@example.com",
     url="https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-",
     license="MIT",
-    py_modules=["core"],
-    packages=find_packages(exclude=["tests", "build", "dist"]),
+    packages=find_packages(include=["core", "skills"]),
+    package_data={
+        "": ["*.yaml", "*.yml", "*.py"],
+        "skills": ["*/*.yaml", "*/*.py"],
+    },
+    include_package_data=True,
     install_requires=requirements,
     entry_points={
         "console_scripts": [
