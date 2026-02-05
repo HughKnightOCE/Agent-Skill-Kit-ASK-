@@ -47,7 +47,16 @@ else:
 class SkillManager:
     """Manage and execute skills."""
     
-    def __init__(self, skills_dir: str = "skills"):
+    def __init__(self, skills_dir: str = None):
+        if skills_dir is None:
+            # When installed via pip, skills are in the package directory
+            # When running directly, skills are in the local 'skills' folder
+            package_skills = Path(__file__).parent.parent / "skills"
+            if package_skills.exists():
+                skills_dir = package_skills
+            else:
+                skills_dir = "skills"
+        
         self.skills_dir = Path(skills_dir)
         self.skills = self._load_skills()
     
