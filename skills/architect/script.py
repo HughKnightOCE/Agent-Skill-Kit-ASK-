@@ -145,7 +145,7 @@ def main(description: str, output_dir: str = "."):
         print(f"\n📍 Skill Location: {skill_path}")
         print(f"\n🚀 Next Steps:")
         print(f"   1. Edit {script_file}")
-        print(f"   2. Run: python core/ask.py run {skill_name}")
+        print(f"   2. Run: ask run {skill_name}")
         print(f"   3. Update manifest.yaml as needed\n")
         
         return 0

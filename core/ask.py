@@ -275,27 +275,27 @@ def show_help():
 ## Usage
 
 ```bash
-python ask.py [COMMAND] [OPTIONS]
+ ask [COMMAND] [OPTIONS]
 ```
 
 ## Commands
 
 **dashboard**
   Display available skills and their status
-  Example: `python ask.py dashboard`
+  Example: `ask dashboard`
 
 **run <skill-name> [args]**
   Execute a specific skill
-  Example: `python ask.py run repo-visualizer .`
-  Example: `python ask.py run agent-identity MyProject`
+  Example: `ask run repo-visualizer .`
+  Example: `ask run agent-identity MyProject`
 
 **doctor**
   Check system dependencies and configuration
-  Example: `python ask.py doctor`
+  Example: `ask doctor`
 
 **help**
   Show this help message
-  Example: `python ask.py help`
+  Example: `ask help` (or `ask --help`)
 
 ## Available Skills
 
@@ -338,12 +338,12 @@ def main():
         manager = SkillManager()
         manager.display_banner()
         manager.display_dashboard()
-        console.print("[dim]Tip: Run 'python ask.py help' for commands[/dim]\n")
+        console.print("[dim]Tip: Run 'ask help' for commands[/dim]\n")
         return 0
     
     command = sys.argv[1].lower()
     
-    if command == 'help':
+    if command in ('help', '--help', '-h'):
         show_help()
         return 0
     
@@ -359,7 +359,7 @@ def main():
     
     elif command == 'run':
         if len(sys.argv) < 3:
-            console.print("[red]Usage: python ask.py run <skill-name> [args][/red]")
+            console.print("[red]Usage: ask run <skill-name> [args][/red]")
             return 1
         
         skill_name = sys.argv[2]
@@ -368,7 +368,7 @@ def main():
     
     else:
         console.print(f"[red]Unknown command: {command}[/red]")
-        console.print("[dim]Run 'python ask.py help' for available commands[/dim]\n")
+        console.print("[dim]Run 'ask help' for available commands[/dim]\n")
         return 1
 
 if __name__ == "__main__":

@@ -36,17 +36,16 @@ Think of it as a "turbo-charged plugin system for AI agents—2026 edition."
 ## ⚡ Quick Start (30 seconds)
 
 ```bash
-# Clone the repo
-git clone https://github.com/yourusername/Agent-Skill-Kit.git
-cd Agent-Skill-Kit
+# Install from GitHub
+pip install git+https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
 
-# View available skills
-python core/ask.py dashboard
+# View available skills  
+ask dashboard
 
 # Run a skill
-python core/ask.py run repo-visualizer
-python core/ask.py run agent-identity "My Project"
-python core/ask.py run tech-pulse
+ask run tech-pulse
+ask run repo-visualizer
+ask run architect "Your idea"
 ```
 
 **That's it!** No `.env` files. No API key hunting. No OAuth redirects.
@@ -94,9 +93,9 @@ git clone https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
 cd Agent-Skill-Kit-ASK-
 
 # Run directly
-python core/ask.py dashboard
-python core/ask.py run tech-pulse
-python core/ask.py run architect "Your skill description"
+ask dashboard
+ask run tech-pulse
+ask run architect "Your skill description"
 ```
 
 ### **Windows Command Prompt Troubleshooting**
@@ -139,7 +138,7 @@ python core/mcp_gateway.py
 Generate new skills from natural language descriptions. The Architect creates skeleton Python scripts and YAML manifests instantly.
 
 ```bash
-python core/ask.py run architect "Convert CSV to JSON format"
+ask run architect "Convert CSV to JSON format"
 ```
 
 #### 💫 **Living README**
@@ -160,7 +159,7 @@ Enhanced TUI with:
 Generates **Mermaid.js class diagrams** of your project structure instantly.
 
 ```bash
-python core/ask.py run repo-visualizer /path/to/project
+ask run repo-visualizer /path/to/project
 ```
 
 **Output:** A clean Mermaid diagram ready to paste into documentation or feed to AI agents.
@@ -179,7 +178,7 @@ graph TD
 Generates a **unique SVG avatar** for your project using the free DiceBear API.
 
 ```bash
-python core/ask.py run agent-identity "Agent-Skill-Kit"
+ask run agent-identity "Agent-Skill-Kit"
 ```
 
 **Output:** A beautiful, deterministic SVG avatar saved to disk and displayed.
@@ -196,7 +195,7 @@ python core/ask.py run agent-identity "Agent-Skill-Kit"
 Fetches **top 5 trending tech stories** from HackerNews so your AI agent stays contextually aware.
 
 ```bash
-python core/ask.py run tech-pulse
+ask run tech-pulse
 ```
 
 **Output:** Markdown-formatted stories with links, scores, and comment counts.
@@ -214,7 +213,7 @@ python core/ask.py run tech-pulse
 **NEW!** Generate new skills from descriptions. The Architect creates starter templates automatically.
 
 ```bash
-python core/ask.py run architect "Analyze code complexity"
+ask run architect "Analyze code complexity"
 ```
 
 **Output:** A complete skill directory with `script.py` and `manifest.yaml`.
@@ -239,22 +238,22 @@ ASK is built **specifically for AI agents.** Each skill outputs:
 
 ---
 
-## 🔧 CLI Manager: `ask.py` (2026 Edition)
+## 🔧 CLI Manager: `ask` (2026 Edition)
 
 The **high-performance TUI** with ASK-2026 styling and live displays.
 
 ```bash
 # Dashboard with system health (NEW!)
-python core/ask.py dashboard
+ask dashboard
 
 # Run a skill with live progress
-python core/ask.py run <skill-name> [args...]
+ask run <skill-name> [args...]
 
 # System diagnostics
-python core/ask.py doctor
+ask doctor
 
 # Help
-python core/ask.py help
+ask help
 ```
 
 **Features:**
@@ -291,7 +290,7 @@ Turn ideas into skills instantly:
 
 ```bash
 # Create from natural language
-python core/ask.py run architect "Convert YAML to JSON"
+ask run architect "Convert YAML to JSON"
 
 # Output:
 # ✅ Created: skills/convert-yaml-to-json/
@@ -500,7 +499,7 @@ pip install rich pyyaml
 
 ### "Skill not found"
 ```bash
-python core/ask.py dashboard  # Check installed skills
+ask dashboard  # Check installed skills
 ```
 
 ### "API call failed"
