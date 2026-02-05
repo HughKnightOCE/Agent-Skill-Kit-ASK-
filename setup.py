@@ -43,6 +43,7 @@ setup(
     entry_points={
         "console_scripts": [
             "ask=core.ask:main",
+            "ask-gui=gui.main:main",
         ],
     },
     classifiers=[
