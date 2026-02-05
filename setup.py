@@ -37,6 +37,7 @@ setup(
         "": ["*.yaml", "*.yml"],
         "skills": ["*/*.yaml", "*/*.py"],
         "core": ["*.py"],
+        "gui": ["*.png", "*.ico", "*.svg", "*.py"],
     },
     include_package_data=True,
     install_requires=requirements,

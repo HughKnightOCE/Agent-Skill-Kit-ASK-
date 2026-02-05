@@ -13,6 +13,8 @@ a = Analysis(
     datas=[
         ('skills', 'skills'),
         ('core', 'core'),
+        ('gui/ask_icon.ico', 'gui'),
+        ('gui/ask_icon.png', 'gui'),
     ],
     hiddenimports=[
         'PyQt6',
@@ -53,7 +55,7 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=None,
+    icon='gui/ask_icon.ico',
 )
 
 coll = COLLECT(
