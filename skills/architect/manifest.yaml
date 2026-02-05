@@ -1,0 +1,32 @@
+name: The Architect
+version: "1.0.0"
+description: "Generate new ASK skills from natural language descriptions. The Architect analyzes your idea and creates a skeleton skill with Python script and YAML manifest."
+
+author: "Agent-Skill-Kit Contributors"
+category: "development"
+
+requirements:
+  - name: "python"
+    version: ">=3.8"
+
+api_keys_required: false
+dependencies: []
+
+usage:
+  command: "python script.py"
+  args_required:
+    - name: "description"
+      description: "One-sentence skill description"
+      example: "python script.py 'Convert CSV to JSON format'"
+  args_optional:
+    - name: "output_dir"
+      description: "Output directory (default: current directory)"
+      example: "python script.py 'My skill idea' /path/to/project"
+
+output_format: "markdown"
+
+tags:
+  - "development"
+  - "generator"
+  - "keyless"
+  - "local"

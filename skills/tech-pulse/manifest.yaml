@@ -1,0 +1,38 @@
+name: Tech-Pulse
+version: "1.0.0"
+description: "Fetch top 5 trending tech stories from HackerNews. Keep AI agents contextually aware of today's technology landscape and trending discussions."
+
+author: "Agent-Skill-Kit Contributors"
+category: "information"
+
+requirements:
+  - name: "python"
+    version: ">=3.8"
+
+api_keys_required: false
+dependencies: []
+
+external_apis:
+  - name: "HackerNews Firebase API"
+    url: "https://news.ycombinator.com/api"
+    requires_auth: false
+    rate_limit: "Unlimited (community maintained)"
+
+usage:
+  command: "python script.py"
+  args_optional: []
+
+output_format: "markdown"
+output_example: |
+  **#1. Breakthrough in AI Reasoning**
+  - 🔗 URL: https://example.com/article
+  - 👤 Author: username
+  - 📈 Score: 1234 | 💬 Comments: 456
+
+tags:
+  - "information"
+  - "news"
+  - "keyless"
+  - "api-free"
+  - "context-awareness"
+  - "realtime"

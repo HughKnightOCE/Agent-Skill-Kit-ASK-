@@ -1,0 +1,27 @@
+name: Transform Json To
+version: "1.0.0"
+description: "Transform JSON to YAML"
+
+author: "Agent-Skill-Kit Contributors"
+category: "utility"
+
+requirements:
+  - name: "python"
+    version: ">=3.8"
+
+api_keys_required: false
+dependencies: []
+
+usage:
+  command: "python script.py"
+  args_optional:
+    - name: "input"
+      description: "Input argument"
+      example: "python script.py example"
+
+output_format: "markdown"
+
+tags:
+  - "keyless"
+  - "local"
+  - "utility"

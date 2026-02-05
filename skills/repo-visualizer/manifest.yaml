@@ -1,0 +1,33 @@
+name: Repo-Visualizer
+version: "1.0.0"
+description: "Generates a Mermaid.js class diagram of your project structure. Perfect for understanding codebase architecture at a glance."
+
+author: "Agent-Skill-Kit Contributors"
+category: "development"
+
+requirements:
+  - name: "python"
+    version: ">=3.8"
+
+api_keys_required: false
+dependencies: []
+
+usage:
+  command: "python script.py"
+  args_optional:
+    - name: "repo_path"
+      description: "Path to repository (default: current directory)"
+      example: "python script.py /path/to/repo"
+
+output_format: "mermaid"
+output_example: |
+  graph TD
+    Root["Project Name"]
+    Root --> skills["📁 skills"]
+    Root --> core["📁 core"]
+
+tags:
+  - "visualization"
+  - "local"
+  - "keyless"
+  - "development"

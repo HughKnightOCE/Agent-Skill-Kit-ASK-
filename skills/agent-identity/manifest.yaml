@@ -1,0 +1,42 @@
+name: Agent-Identity
+version: "1.0.0"
+description: "Generate a unique SVG avatar for your project using the free DiceBear API. Deterministic avatars based on project name."
+
+author: "Agent-Skill-Kit Contributors"
+category: "branding"
+
+requirements:
+  - name: "python"
+    version: ">=3.8"
+
+api_keys_required: false
+dependencies: []
+
+external_apis:
+  - name: "DiceBear Avatars API"
+    url: "https://api.dicebear.com"
+    requires_auth: false
+    rate_limit: "Free tier available"
+
+usage:
+  command: "python script.py"
+  args_required:
+    - name: "project_name"
+      description: "Name of the project"
+      example: "python script.py MyProject"
+  args_optional:
+    - name: "output_path"
+      description: "Where to save the SVG file (default: avatar.svg)"
+      example: "python script.py MyProject ./assets/avatar.svg"
+
+output_format: "svg"
+output_example: |
+  <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Avatar SVG content -->
+  </svg>
+
+tags:
+  - "branding"
+  - "keyless"
+  - "api-free"
+  - "avatar"
