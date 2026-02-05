@@ -23,8 +23,8 @@ output_format: "mermaid"
 output_example: |
   graph TD
     Root["Project Name"]
-    Root --> skills["📁 skills"]
-    Root --> core["📁 core"]
+    Root --> skills["skills"]
+    Root --> core["core"]
 
 tags:
   - "visualization"
