@@ -4,6 +4,11 @@
 > **Agent-Native. MCP-Ready. Living & Breathing.**  
 > Local-first skills framework for AI agents. Clone. Run. Integrate.
 
+[![GitHub Stars](https://img.shields.io/github/stars/HughKnightOCE/Agent-Skill-Kit-ASK-?style=flat-square)](https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-)
+[![GitHub License](https://img.shields.io/github/license/HughKnightOCE/Agent-Skill-Kit-ASK-?style=flat-square)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue?style=flat-square)](https://www.python.org/)
+[![Downloads](https://img.shields.io/github/downloads/HughKnightOCE/Agent-Skill-Kit-ASK-/total?style=flat-square)](https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-/releases)
+
 ---
 
 ## 🚀 Today's Agent Intelligence
@@ -45,6 +50,51 @@ python core/ask.py run tech-pulse
 ```
 
 **That's it!** No `.env` files. No API key hunting. No OAuth redirects.
+
+---
+
+## 📥 Installation Options
+
+Choose the option that fits your needs:
+
+### **Option 1: Standalone Executable (.exe) - Easiest for Windows**
+Best for: Non-technical users, Windows machines
+
+1. Download `ask.exe` from [Releases](https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-/releases)
+2. Double-click to run:
+   ```bash
+   ask.exe dashboard
+   ask.exe run tech-pulse
+   ```
+3. **No Python installation needed!**
+
+### **Option 2: pip Package - Best for Python Developers**
+Best for: Python developers, cross-platform (Windows/Mac/Linux)
+
+```bash
+# Install from wheel
+pip install agent-skill-kit.whl
+
+# Or install from source
+pip install git+https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
+
+# Use the global command
+ask dashboard
+ask run repo-visualizer
+```
+
+### **Option 3: Source Installation - Best for Contributors**
+Best for: Developers, customization, contributing
+
+```bash
+# Clone and install in editable mode
+git clone https://github.com/HughKnightOCE/Agent-Skill-Kit-ASK-.git
+cd Agent-Skill-Kit-ASK-
+pip install -e .
+
+# Edit code directly and test
+python core/ask.py dashboard
+```
 
 ---
 
