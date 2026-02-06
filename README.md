@@ -13,31 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 05, 2026
+> **Last Updated:** February 06, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
 **#1. Claude Opus 4.6**
 - 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-opus-4-6)
-- 👤 By HellsMaddy | 📈 1297 points | 💬 579 comments
+- 👤 By HellsMaddy | 📈 1955 points | 💬 827 comments
 
-**#2. GPT-5.3-Codex**
+**#2. Things Unix can do atomically (2010)**
+- 🔗 [Read on HackerNews](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
+- 👤 By onurkanbkrc | 📈 94 points | 💬 34 comments
+
+**#3. Systems Thinking**
+- 🔗 [Read on HackerNews](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
+- 👤 By r4um | 📈 87 points | 💬 38 comments
+
+**#4. GPT-5.3-Codex**
 - 🔗 [Read on HackerNews](https://openai.com/index/introducing-gpt-5-3-codex/)
-- 👤 By meetpateltech | 📈 877 points | 💬 341 comments
+- 👤 By meetpateltech | 📈 1304 points | 💬 485 comments
 
-**#3. It's 2026, Just Use Postgres**
-- 🔗 [Read on HackerNews](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
-- 👤 By turtles3 | 📈 135 points | 💬 73 comments
-
-**#4. My AI Adoption Journey**
+**#5. My AI Adoption Journey**
 - 🔗 [Read on HackerNews](https://mitchellh.com/writing/my-ai-adoption-journey)
-- 👤 By anurag | 📈 202 points | 💬 60 comments
+- 👤 By anurag | 📈 588 points | 💬 198 comments
 
-**#5. We tasked Opus 4.6 using agent teams to build a C Compiler**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/engineering/building-c-compiler)
-- 👤 By modeless | 📈 271 points | 💬 257 comments
+
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 ## ⚡ What is ASK?
 
 **Agent-Skill-Kit** is a modern, AI-native framework that gives agents (Claude, Copilot, custom bots) **local, keyless superpowers** through the Model Context Protocol (MCP).
