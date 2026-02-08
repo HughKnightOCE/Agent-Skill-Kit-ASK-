@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 07, 2026
+> **Last Updated:** February 08, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. OpenCiv3: Open-source, cross-platform reimagining of Civilization III**
-- 🔗 [Read on HackerNews](https://openciv3.org/)
-- 👤 By klaussilveira | 📈 601 points | 💬 178 comments
+**#1. DoNotNotify is now Open Source**
+- 🔗 [Read on HackerNews](https://donotnotify.com/opensource.html)
+- 👤 By awaaz | 📈 69 points | 💬 11 comments
 
-**#2. The Waymo World Model**
-- 🔗 [Read on HackerNews](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
-- 👤 By xnx | 📈 908 points | 💬 545 comments
+**#2. Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory**
+- 🔗 [Read on HackerNews](https://github.com/localgpt-app/localgpt)
+- 👤 By yi_wang | 📈 211 points | 💬 87 comments
 
-**#3. What Is Ruliology?**
-- 🔗 [Read on HackerNews](https://writings.stephenwolfram.com/2026/01/what-is-ruliology/)
-- 👤 By helloplanets | 📈 23 points | 💬 19 comments
+**#3. Haskell for all: Beyond agentic coding**
+- 🔗 [Read on HackerNews](https://haskellforall.com/2026/02/beyond-agentic-coding)
+- 👤 By RebelPotato | 📈 105 points | 💬 27 comments
 
-**#4. How we made geo joins 400× faster with H3 indexes**
-- 🔗 [Read on HackerNews](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
-- 👤 By matheusalmeida | 📈 97 points | 💬 23 comments
+**#4. Moroccan sardine prices to stabilise via new measures: officials**
+- 🔗 [Read on HackerNews](https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/)
+- 👤 By mooreds | 📈 26 points | 💬 2 comments
 
-**#5. Unseen Footage of Atari Battlezone Arcade Cabinet Production**
-- 🔗 [Read on HackerNews](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
-- 👤 By videotopia | 📈 28 points | 💬 0 comments
+**#5. Roger Ebert Reviews "The Shawshank Redemption" (1999)**
+- 🔗 [Read on HackerNews](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
+- 👤 By monero-xmr | 📈 29 points | 💬 26 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 ## ⚡ What is ASK?
