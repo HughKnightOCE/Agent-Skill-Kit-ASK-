@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 08, 2026
+> **Last Updated:** February 09, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. DoNotNotify is now Open Source**
-- 🔗 [Read on HackerNews](https://donotnotify.com/opensource.html)
-- 👤 By awaaz | 📈 69 points | 💬 11 comments
+**#1. Art of Roads in Games**
+- 🔗 [Read on HackerNews](https://sandboxspirit.com/blog/art-of-roads-in-games/)
+- 👤 By linolevan | 📈 305 points | 💬 102 comments
 
-**#2. Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory**
-- 🔗 [Read on HackerNews](https://github.com/localgpt-app/localgpt)
-- 👤 By yi_wang | 📈 211 points | 💬 87 comments
+**#2. Vouch**
+- 🔗 [Read on HackerNews](https://github.com/mitchellh/vouch)
+- 👤 By chwtutha | 📈 848 points | 💬 384 comments
 
-**#3. Haskell for all: Beyond agentic coding**
-- 🔗 [Read on HackerNews](https://haskellforall.com/2026/02/beyond-agentic-coding)
-- 👤 By RebelPotato | 📈 105 points | 💬 27 comments
+**#3. LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation**
+- 🔗 [Read on HackerNews](https://github.com/naver/lispe)
+- 👤 By PaulHoule | 📈 51 points | 💬 4 comments
 
-**#4. Moroccan sardine prices to stabilise via new measures: officials**
-- 🔗 [Read on HackerNews](https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/)
-- 👤 By mooreds | 📈 26 points | 💬 2 comments
+**#4. Clean Coder: The Dark Path (2017)**
+- 🔗 [Read on HackerNews](https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html)
+- 👤 By andrewjf | 📈 7 points | 💬 1 comments
 
-**#5. Roger Ebert Reviews "The Shawshank Redemption" (1999)**
-- 🔗 [Read on HackerNews](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
-- 👤 By monero-xmr | 📈 29 points | 💬 26 comments
+**#5. Show HN: A custom font that displays Cistercian numerals using ligatures**
+- 🔗 [Read on HackerNews](https://bobbiec.github.io/cistercian-font.html)
+- 👤 By bobbiechen | 📈 91 points | 💬 12 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
