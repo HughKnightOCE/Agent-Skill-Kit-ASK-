@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 09, 2026
+> **Last Updated:** February 10, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Art of Roads in Games**
-- 🔗 [Read on HackerNews](https://sandboxspirit.com/blog/art-of-roads-in-games/)
-- 👤 By linolevan | 📈 305 points | 💬 102 comments
+**#1. Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2512.20798)
+- 👤 By tiny-automates | 📈 269 points | 💬 172 comments
 
-**#2. Vouch**
-- 🔗 [Read on HackerNews](https://github.com/mitchellh/vouch)
-- 👤 By chwtutha | 📈 848 points | 💬 384 comments
+**#2. Qwen-Image-2.0: Professional infographics, exquisite photorealism**
+- 🔗 [Read on HackerNews](https://qwen.ai/blog?id=qwen-image-2.0)
+- 👤 By meetpateltech | 📈 22 points | 💬 3 comments
 
-**#3. LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation**
-- 🔗 [Read on HackerNews](https://github.com/naver/lispe)
-- 👤 By PaulHoule | 📈 51 points | 💬 4 comments
+**#3. Discord will require a face scan or ID for full access next month**
+- 🔗 [Read on HackerNews](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
+- 👤 By x01 | 📈 1660 points | 💬 1599 comments
 
-**#4. Clean Coder: The Dark Path (2017)**
-- 🔗 [Read on HackerNews](https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html)
-- 👤 By andrewjf | 📈 7 points | 💬 1 comments
+**#4. Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser**
+- 🔗 [Read on HackerNews](https://github.com/TrevorS/voxtral-mini-realtime-rs)
+- 👤 By Curiositry | 📈 226 points | 💬 23 comments
 
-**#5. Show HN: A custom font that displays Cistercian numerals using ligatures**
-- 🔗 [Read on HackerNews](https://bobbiec.github.io/cistercian-font.html)
-- 👤 By bobbiechen | 📈 91 points | 💬 12 comments
+**#5. Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model**
+- 🔗 [Read on HackerNews](https://github.com/antirez/voxtral.c)
+- 👤 By Curiositry | 📈 145 points | 💬 12 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
