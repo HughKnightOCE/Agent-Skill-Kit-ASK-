@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 10, 2026
+> **Last Updated:** February 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2512.20798)
-- 👤 By tiny-automates | 📈 269 points | 💬 172 comments
+**#1. Windows Notepad App Remote Code Execution Vulnerability**
+- 🔗 [Read on HackerNews](https://www.cve.org/CVERecord?id=CVE-2026-20841)
+- 👤 By riffraff | 📈 176 points | 💬 94 comments
 
-**#2. Qwen-Image-2.0: Professional infographics, exquisite photorealism**
-- 🔗 [Read on HackerNews](https://qwen.ai/blog?id=qwen-image-2.0)
-- 👤 By meetpateltech | 📈 22 points | 💬 3 comments
+**#2. A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST**
+- 🔗 [Read on HackerNews](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
+- 👤 By yread | 📈 9 points | 💬 2 comments
 
-**#3. Discord will require a face scan or ID for full access next month**
-- 🔗 [Read on HackerNews](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
-- 👤 By x01 | 📈 1660 points | 💬 1599 comments
+**#3. The Feynman Lectures on Physics (1961-1964)**
+- 🔗 [Read on HackerNews](https://www.feynmanlectures.caltech.edu/)
+- 👤 By rramadass | 📈 322 points | 💬 79 comments
 
-**#4. Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser**
-- 🔗 [Read on HackerNews](https://github.com/TrevorS/voxtral-mini-realtime-rs)
-- 👤 By Curiositry | 📈 226 points | 💬 23 comments
+**#4. The Singularity will occur on a Tuesday**
+- 🔗 [Read on HackerNews](https://campedersen.com/singularity)
+- 👤 By ecto | 📈 1091 points | 💬 600 comments
 
-**#5. Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model**
-- 🔗 [Read on HackerNews](https://github.com/antirez/voxtral.c)
-- 👤 By Curiositry | 📈 145 points | 💬 12 comments
+**#5. Show HN: CodeMic**
+- 🔗 [Read on HackerNews](https://codemic.io/#hn)
+- 👤 By seansh | 📈 13 points | 💬 3 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
