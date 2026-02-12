@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 11, 2026
+> **Last Updated:** February 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Windows Notepad App Remote Code Execution Vulnerability**
-- 🔗 [Read on HackerNews](https://www.cve.org/CVERecord?id=CVE-2026-20841)
-- 👤 By riffraff | 📈 176 points | 💬 94 comments
+**#1. Warcraft III Peon Voice Notifications for Claude Code**
+- 🔗 [Read on HackerNews](https://github.com/tonyyont/peon-ping)
+- 👤 By doppp | 📈 330 points | 💬 120 comments
 
-**#2. A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST**
-- 🔗 [Read on HackerNews](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
-- 👤 By yread | 📈 9 points | 💬 2 comments
+**#2. Discord/Twitch/Snapchat age verification bypass**
+- 🔗 [Read on HackerNews](https://age-verifier.kibty.town/)
+- 👤 By JustSkyfall | 📈 726 points | 💬 313 comments
 
-**#3. The Feynman Lectures on Physics (1961-1964)**
-- 🔗 [Read on HackerNews](https://www.feynmanlectures.caltech.edu/)
-- 👤 By rramadass | 📈 322 points | 💬 79 comments
+**#3. Using an engineering notebook**
+- 🔗 [Read on HackerNews](https://ntietz.com/blog/using-an-engineering-notebook/)
+- 👤 By evakhoury | 📈 168 points | 💬 55 comments
 
-**#4. The Singularity will occur on a Tuesday**
-- 🔗 [Read on HackerNews](https://campedersen.com/singularity)
-- 👤 By ecto | 📈 1091 points | 💬 600 comments
+**#4. “Nothing” is the secret to structuring your work**
+- 🔗 [Read on HackerNews](https://www.vangemert.dev/blog/nothing)
+- 👤 By spmvg | 📈 267 points | 💬 93 comments
 
-**#5. Show HN: CodeMic**
-- 🔗 [Read on HackerNews](https://codemic.io/#hn)
-- 👤 By seansh | 📈 13 points | 💬 3 comments
+**#5. The missing digit of Stela C**
+- 🔗 [Read on HackerNews](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
+- 👤 By chmaynard | 📈 10 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
