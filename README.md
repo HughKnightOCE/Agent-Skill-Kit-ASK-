@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 12, 2026
+> **Last Updated:** February 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Warcraft III Peon Voice Notifications for Claude Code**
-- 🔗 [Read on HackerNews](https://github.com/tonyyont/peon-ping)
-- 👤 By doppp | 📈 330 points | 💬 120 comments
+**#1. MinIO repository is no longer maintained**
+- 🔗 [Read on HackerNews](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
+- 👤 By psvmcc | 📈 102 points | 💬 44 comments
 
-**#2. Discord/Twitch/Snapchat age verification bypass**
-- 🔗 [Read on HackerNews](https://age-verifier.kibty.town/)
-- 👤 By JustSkyfall | 📈 726 points | 💬 313 comments
+**#2. Resizing windows on macOS Tahoe – the saga continues**
+- 🔗 [Read on HackerNews](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
+- 👤 By erickhill | 📈 539 points | 💬 241 comments
 
-**#3. Using an engineering notebook**
-- 🔗 [Read on HackerNews](https://ntietz.com/blog/using-an-engineering-notebook/)
-- 👤 By evakhoury | 📈 168 points | 💬 55 comments
+**#3. MMAcevedo aka Lena by qntm**
+- 🔗 [Read on HackerNews](https://qntm.org/mmacevedo)
+- 👤 By stickynotememo | 📈 75 points | 💬 43 comments
 
-**#4. “Nothing” is the secret to structuring your work**
-- 🔗 [Read on HackerNews](https://www.vangemert.dev/blog/nothing)
-- 👤 By spmvg | 📈 267 points | 💬 93 comments
+**#4. GPT‑5.3‑Codex‑Spark**
+- 🔗 [Read on HackerNews](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
+- 👤 By meetpateltech | 📈 729 points | 💬 304 comments
 
-**#5. The missing digit of Stela C**
-- 🔗 [Read on HackerNews](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
-- 👤 By chmaynard | 📈 10 points | 💬 0 comments
+**#5. Gemini 3 Deep Think**
+- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
+- 👤 By tosh | 📈 854 points | 💬 539 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
