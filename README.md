@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 13, 2026
+> **Last Updated:** February 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. MinIO repository is no longer maintained**
-- 🔗 [Read on HackerNews](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
-- 👤 By psvmcc | 📈 102 points | 💬 44 comments
+**#1. Zig – io_uring and Grand Central Dispatch std.Io implementations landed**
+- 🔗 [Read on HackerNews](https://ziglang.org/devlog/2026/#2026-02-13)
+- 👤 By Retro_Dev | 📈 50 points | 💬 6 comments
 
-**#2. Resizing windows on macOS Tahoe – the saga continues**
-- 🔗 [Read on HackerNews](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
-- 👤 By erickhill | 📈 539 points | 💬 241 comments
+**#2. The Three Year Myth**
+- 🔗 [Read on HackerNews](https://green.spacedino.net/the-three-year-myth/)
+- 👤 By surprisetalk | 📈 44 points | 💬 23 comments
 
-**#3. MMAcevedo aka Lena by qntm**
-- 🔗 [Read on HackerNews](https://qntm.org/mmacevedo)
-- 👤 By stickynotememo | 📈 75 points | 💬 43 comments
+**#3. Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL**
+- 🔗 [Read on HackerNews](https://github.com/mickamy/sql-tap)
+- 👤 By mickamy | 📈 95 points | 💬 16 comments
 
-**#4. GPT‑5.3‑Codex‑Spark**
-- 🔗 [Read on HackerNews](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
-- 👤 By meetpateltech | 📈 729 points | 💬 304 comments
+**#4. Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986**
+- 🔗 [Read on HackerNews](https://www.wallstreetraider.com/story.html)
+- 👤 By benstopics | 📈 269 points | 💬 90 comments
 
-**#5. Gemini 3 Deep Think**
-- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
-- 👤 By tosh | 📈 854 points | 💬 539 comments
+**#5. Understanding the Go Compiler: The Linker**
+- 🔗 [Read on HackerNews](https://internals-for-interns.com/posts/the-go-linker/)
+- 👤 By valyala | 📈 66 points | 💬 6 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
