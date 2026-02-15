@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 14, 2026
+> **Last Updated:** February 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Zig – io_uring and Grand Central Dispatch std.Io implementations landed**
-- 🔗 [Read on HackerNews](https://ziglang.org/devlog/2026/#2026-02-13)
-- 👤 By Retro_Dev | 📈 50 points | 💬 6 comments
+**#1. Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library**
+- 🔗 [Read on HackerNews](https://oat.ink/)
+- 👤 By twapi | 📈 93 points | 💬 12 comments
 
-**#2. The Three Year Myth**
-- 🔗 [Read on HackerNews](https://green.spacedino.net/the-three-year-myth/)
-- 👤 By surprisetalk | 📈 44 points | 💬 23 comments
+**#2. I love the work of the ArchWiki maintainers**
+- 🔗 [Read on HackerNews](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
+- 👤 By panic | 📈 374 points | 💬 78 comments
 
-**#3. Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL**
-- 🔗 [Read on HackerNews](https://github.com/mickamy/sql-tap)
-- 👤 By mickamy | 📈 95 points | 💬 16 comments
+**#3. Flashpoint Archive – Over 200k web games and animations preserved**
+- 🔗 [Read on HackerNews](https://flashpointarchive.org)
+- 👤 By helloplanets | 📈 76 points | 💬 18 comments
 
-**#4. Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986**
-- 🔗 [Read on HackerNews](https://www.wallstreetraider.com/story.html)
-- 👤 By benstopics | 📈 269 points | 💬 90 comments
+**#4. My smart sleep mask broadcasts users' brainwaves to an open MQTT broker**
+- 🔗 [Read on HackerNews](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
+- 👤 By minimalthinker | 📈 445 points | 💬 207 comments
 
-**#5. Understanding the Go Compiler: The Linker**
-- 🔗 [Read on HackerNews](https://internals-for-interns.com/posts/the-go-linker/)
-- 👤 By valyala | 📈 66 points | 💬 6 comments
+**#5. Zvec: A lightweight, fast, in-process vector database**
+- 🔗 [Read on HackerNews](https://github.com/alibaba/zvec)
+- 👤 By dvrp | 📈 143 points | 💬 23 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
