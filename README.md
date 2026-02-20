@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 19, 2026
+> **Last Updated:** February 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Sizing chaos**
-- 🔗 [Read on HackerNews](https://pudding.cool/2026/02/womens-sizing/)
-- 👤 By zdw | 📈 554 points | 💬 306 comments
+**#1. Defer available in gcc and clang**
+- 🔗 [Read on HackerNews](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
+- 👤 By r4um | 📈 148 points | 💬 88 comments
 
-**#2. 27-year-old Apple iBooks can connect to Wi-Fi and download official updates**
-- 🔗 [Read on HackerNews](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
-- 👤 By surprisetalk | 📈 334 points | 💬 179 comments
+**#2. Consistency diffusion language models: Up to 14x faster, no quality loss**
+- 🔗 [Read on HackerNews](https://www.together.ai/blog/consistency-diffusion-language-models)
+- 👤 By zagwdt | 📈 102 points | 💬 28 comments
 
-**#3. 15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern**
-- 🔗 [Read on HackerNews](https://nicolasdickenmann.com/blog/the-great-fp64-divide.html)
-- 👤 By fp64enjoyer | 📈 113 points | 💬 39 comments
+**#3. Gemini 3.1 Pro**
+- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+- 👤 By MallocVoidstar | 📈 760 points | 💬 803 comments
 
-**#4. Cosmologically Unique IDs**
-- 🔗 [Read on HackerNews](https://jasonfantl.com/posts/Universal-Unique-IDs/)
-- 👤 By jfantl | 📈 385 points | 💬 115 comments
+**#4. Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit**
+- 🔗 [Read on HackerNews](https://github.com/olvvier/apple-silicon-accelerometer)
+- 👤 By todsacerdoti | 📈 58 points | 💬 24 comments
 
-**#5. Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act**
-- 🔗 [Read on HackerNews](https://static.stepfun.com/blog/step-3.5-flash/)
-- 👤 By kristianp | 📈 76 points | 💬 24 comments
+**#5. I tried building my startup entirely on European infrastructure**
+- 🔗 [Read on HackerNews](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
+- 👤 By willy__ | 📈 119 points | 💬 48 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
