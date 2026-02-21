@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 20, 2026
+> **Last Updated:** February 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Defer available in gcc and clang**
-- 🔗 [Read on HackerNews](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
-- 👤 By r4um | 📈 148 points | 💬 88 comments
+**#1. Keep Android Open**
+- 🔗 [Read on HackerNews](https://f-droid.org/2026/02/20/twif.html)
+- 👤 By LorenDB | 📈 1468 points | 💬 542 comments
 
-**#2. Consistency diffusion language models: Up to 14x faster, no quality loss**
-- 🔗 [Read on HackerNews](https://www.together.ai/blog/consistency-diffusion-language-models)
-- 👤 By zagwdt | 📈 102 points | 💬 28 comments
+**#2. Turn Dependabot off**
+- 🔗 [Read on HackerNews](https://words.filippo.io/dependabot/)
+- 👤 By todsacerdoti | 📈 448 points | 💬 116 comments
 
-**#3. Gemini 3.1 Pro**
-- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
-- 👤 By MallocVoidstar | 📈 760 points | 💬 803 comments
+**#3. I found a Vulnerability. They found a Lawyer**
+- 🔗 [Read on HackerNews](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
+- 👤 By toomuchtodo | 📈 572 points | 💬 254 comments
 
-**#4. Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit**
-- 🔗 [Read on HackerNews](https://github.com/olvvier/apple-silicon-accelerometer)
-- 👤 By todsacerdoti | 📈 58 points | 💬 24 comments
+**#4. Facebook is cooked**
+- 🔗 [Read on HackerNews](https://pilk.website/3/facebook-is-absolutely-cooked)
+- 👤 By npilk | 📈 1072 points | 💬 580 comments
 
-**#5. I tried building my startup entirely on European infrastructure**
-- 🔗 [Read on HackerNews](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
-- 👤 By willy__ | 📈 119 points | 💬 48 comments
+**#5. Trunk Based Development**
+- 🔗 [Read on HackerNews](https://trunkbaseddevelopment.com/)
+- 👤 By handfuloflight | 📈 23 points | 💬 9 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
