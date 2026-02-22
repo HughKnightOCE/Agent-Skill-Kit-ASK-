@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 21, 2026
+> **Last Updated:** February 22, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Keep Android Open**
-- 🔗 [Read on HackerNews](https://f-droid.org/2026/02/20/twif.html)
-- 👤 By LorenDB | 📈 1468 points | 💬 542 comments
+**#1. How I use Claude Code: Separation of planning and execution**
+- 🔗 [Read on HackerNews](https://boristane.com/blog/how-i-use-claude-code/)
+- 👤 By vinhnx | 📈 505 points | 💬 313 comments
 
-**#2. Turn Dependabot off**
-- 🔗 [Read on HackerNews](https://words.filippo.io/dependabot/)
-- 👤 By todsacerdoti | 📈 448 points | 💬 116 comments
+**#2. Japanese Woodblock Print Search**
+- 🔗 [Read on HackerNews](https://ukiyo-e.org/)
+- 👤 By curmudgeon22 | 📈 93 points | 💬 15 comments
 
-**#3. I found a Vulnerability. They found a Lawyer**
-- 🔗 [Read on HackerNews](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
-- 👤 By toomuchtodo | 📈 572 points | 💬 254 comments
+**#3. How Taalas "prints" LLM onto a chip?**
+- 🔗 [Read on HackerNews](https://www.anuragk.com/blog/posts/Taalas.html)
+- 👤 By beAroundHere | 📈 117 points | 💬 52 comments
 
-**#4. Facebook is cooked**
-- 🔗 [Read on HackerNews](https://pilk.website/3/facebook-is-absolutely-cooked)
-- 👤 By npilk | 📈 1072 points | 💬 580 comments
+**#4. A Botnet Accidentally Destroyed I2P**
+- 🔗 [Read on HackerNews](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
+- 👤 By Cider9986 | 📈 101 points | 💬 58 comments
 
-**#5. Trunk Based Development**
-- 🔗 [Read on HackerNews](https://trunkbaseddevelopment.com/)
-- 👤 By handfuloflight | 📈 23 points | 💬 9 comments
+**#5. Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU**
+- 🔗 [Read on HackerNews](https://github.com/xaskasdf/ntransformer)
+- 👤 By xaskasdf | 📈 240 points | 💬 57 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
