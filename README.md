@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 22, 2026
+> **Last Updated:** February 23, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. How I use Claude Code: Separation of planning and execution**
-- 🔗 [Read on HackerNews](https://boristane.com/blog/how-i-use-claude-code/)
-- 👤 By vinhnx | 📈 505 points | 💬 313 comments
+**#1. Sub-$200 Lidar could reshuffle auto sensor economics**
+- 🔗 [Read on HackerNews](https://spectrum.ieee.org/solid-state-lidar-microvision-adas)
+- 👤 By mhb | 📈 81 points | 💬 73 comments
 
-**#2. Japanese Woodblock Print Search**
-- 🔗 [Read on HackerNews](https://ukiyo-e.org/)
-- 👤 By curmudgeon22 | 📈 93 points | 💬 15 comments
+**#2. I built Timeframe, our family e-paper dashboard**
+- 🔗 [Read on HackerNews](https://hawksley.org/2026/02/17/timeframe.html)
+- 👤 By saeedesmaili | 📈 1105 points | 💬 263 comments
 
-**#3. How Taalas "prints" LLM onto a chip?**
-- 🔗 [Read on HackerNews](https://www.anuragk.com/blog/posts/Taalas.html)
-- 👤 By beAroundHere | 📈 117 points | 💬 52 comments
+**#3. Elsevier shuts down its finance journal citation cartel**
+- 🔗 [Read on HackerNews](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
+- 👤 By qsi | 📈 45 points | 💬 4 comments
 
-**#4. A Botnet Accidentally Destroyed I2P**
-- 🔗 [Read on HackerNews](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
-- 👤 By Cider9986 | 📈 101 points | 💬 58 comments
+**#4. 0 A.D. Release 28: Boiorix**
+- 🔗 [Read on HackerNews](https://play0ad.com/new-release-0-a-d-release-28-boiorix/)
+- 👤 By jonbaer | 📈 122 points | 💬 28 comments
 
-**#5. Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU**
-- 🔗 [Read on HackerNews](https://github.com/xaskasdf/ntransformer)
-- 👤 By xaskasdf | 📈 240 points | 💬 57 comments
+**#5. Pope tells priests to use their brains, not AI, to write homilies**
+- 🔗 [Read on HackerNews](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+- 👤 By josephcsible | 📈 179 points | 💬 148 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
