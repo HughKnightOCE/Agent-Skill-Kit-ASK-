@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 23, 2026
+> **Last Updated:** February 24, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Sub-$200 Lidar could reshuffle auto sensor economics**
-- 🔗 [Read on HackerNews](https://spectrum.ieee.org/solid-state-lidar-microvision-adas)
-- 👤 By mhb | 📈 81 points | 💬 73 comments
+**#1. Diode – Build, program, and simulate hardware**
+- 🔗 [Read on HackerNews](https://www.withdiode.com/)
+- 👤 By rossant | 📈 37 points | 💬 8 comments
 
-**#2. I built Timeframe, our family e-paper dashboard**
-- 🔗 [Read on HackerNews](https://hawksley.org/2026/02/17/timeframe.html)
-- 👤 By saeedesmaili | 📈 1105 points | 💬 263 comments
+**#2. Terence Tao, at 8 years old (1984) [pdf]**
+- 🔗 [Read on HackerNews](https://gwern.net/doc/iq/high/smpy/1984-clements.pdf)
+- 👤 By gurjeet | 📈 251 points | 💬 110 comments
 
-**#3. Elsevier shuts down its finance journal citation cartel**
-- 🔗 [Read on HackerNews](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
-- 👤 By qsi | 📈 45 points | 💬 4 comments
+**#3. Firefox 148 Launches with AI Kill Switch Feature and More Enhancements**
+- 🔗 [Read on HackerNews](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+- 👤 By shaunpud | 📈 230 points | 💬 187 comments
 
-**#4. 0 A.D. Release 28: Boiorix**
-- 🔗 [Read on HackerNews](https://play0ad.com/new-release-0-a-d-release-28-boiorix/)
-- 👤 By jonbaer | 📈 122 points | 💬 28 comments
+**#4. Show HN: enveil – hide your .env secrets from prAIng eyes**
+- 🔗 [Read on HackerNews](https://github.com/GreatScott/enveil)
+- 👤 By parkaboy | 📈 74 points | 💬 38 comments
 
-**#5. Pope tells priests to use their brains, not AI, to write homilies**
-- 🔗 [Read on HackerNews](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
-- 👤 By josephcsible | 📈 179 points | 💬 148 comments
+**#5. I Ported Coreboot to the ThinkPad X270**
+- 🔗 [Read on HackerNews](https://dork.dev/posts/2026-02-20-ported-coreboot/)
+- 👤 By todsacerdoti | 📈 191 points | 💬 30 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
