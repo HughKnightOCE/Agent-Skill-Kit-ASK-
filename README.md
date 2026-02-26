@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 25, 2026
+> **Last Updated:** February 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. LLM=True**
-- 🔗 [Read on HackerNews](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
-- 👤 By avh3 | 📈 34 points | 💬 33 comments
+**#1. Google API keys weren't secrets, but then Gemini changed the rules**
+- 🔗 [Read on HackerNews](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
+- 👤 By hiisthisthingon | 📈 629 points | 💬 126 comments
 
-**#2. I'm helping my dog vibe code games**
-- 🔗 [Read on HackerNews](https://www.calebleak.com/posts/dog-game/)
-- 👤 By cleak | 📈 915 points | 💬 279 comments
+**#2. Jimi Hendrix was a systems engineer**
+- 🔗 [Read on HackerNews](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+- 👤 By tintinnabula | 📈 485 points | 💬 153 comments
 
-**#3. Meta problem with URPF our bundle in Boca raton**
-- 🔗 [Read on HackerNews](https://metafixthis.com/)
-- 👤 By synthesis5x | 📈 18 points | 💬 0 comments
+**#3. First Website (1992)**
+- 🔗 [Read on HackerNews](https://info.cern.ch)
+- 👤 By shrikaranhanda | 📈 218 points | 💬 57 comments
 
-**#4. Show HN: Quantifying opportunity cost with a deliberately "simple" web app**
-- 🔗 [Read on HackerNews](https://shouldhavebought.com/)
-- 👤 By b0bbi | 📈 17 points | 💬 14 comments
+**#4. How will OpenAI compete?**
+- 🔗 [Read on HackerNews](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x)
+- 👤 By iamskeole | 📈 234 points | 💬 291 comments
 
-**#5. Pi – A minimal terminal coding harness**
-- 🔗 [Read on HackerNews](https://pi.dev)
-- 👤 By kristianpaul | 📈 372 points | 💬 165 comments
+**#5. Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention**
+- 🔗 [Read on HackerNews](https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/)
+- 👤 By prismatic | 📈 17 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
