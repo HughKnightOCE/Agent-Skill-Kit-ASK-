@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 26, 2026
+> **Last Updated:** February 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Google API keys weren't secrets, but then Gemini changed the rules**
-- 🔗 [Read on HackerNews](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
-- 👤 By hiisthisthingon | 📈 629 points | 💬 126 comments
+**#1. Statement from Dario Amodei on our discussions with the Department of War**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/news/statement-department-of-war)
+- 👤 By qwertox | 📈 1860 points | 💬 987 comments
 
-**#2. Jimi Hendrix was a systems engineer**
-- 🔗 [Read on HackerNews](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
-- 👤 By tintinnabula | 📈 485 points | 💬 153 comments
+**#2. The Hunt for Dark Breakfast**
+- 🔗 [Read on HackerNews](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
+- 👤 By moultano | 📈 218 points | 💬 83 comments
 
-**#3. First Website (1992)**
-- 🔗 [Read on HackerNews](https://info.cern.ch)
-- 👤 By shrikaranhanda | 📈 218 points | 💬 57 comments
+**#3. The normalization of corruption in organizations (2003) [pdf]**
+- 🔗 [Read on HackerNews](https://gwern.net/doc/sociology/2003-ashforth.pdf)
+- 👤 By rendx | 📈 47 points | 💬 10 comments
 
-**#4. How will OpenAI compete?**
-- 🔗 [Read on HackerNews](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x)
-- 👤 By iamskeole | 📈 234 points | 💬 291 comments
+**#4. Julia: Performance Tips**
+- 🔗 [Read on HackerNews](https://docs.julialang.org/en/v1/manual/performance-tips/)
+- 👤 By tosh | 📈 47 points | 💬 26 comments
 
-**#5. Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention**
-- 🔗 [Read on HackerNews](https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/)
-- 👤 By prismatic | 📈 17 points | 💬 0 comments
+**#5. 80386 Protection**
+- 🔗 [Read on HackerNews](https://nand2mario.github.io/posts/2026/80386_protection/)
+- 👤 By nand2mario | 📈 64 points | 💬 11 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
