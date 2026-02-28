@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 27, 2026
+> **Last Updated:** February 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Statement from Dario Amodei on our discussions with the Department of War**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/statement-department-of-war)
-- 👤 By qwertox | 📈 1860 points | 💬 987 comments
+**#1. We Will Not Be Divided**
+- 🔗 [Read on HackerNews](https://notdivided.org)
+- 👤 By BloondAndDoom | 📈 1607 points | 💬 530 comments
 
-**#2. The Hunt for Dark Breakfast**
-- 🔗 [Read on HackerNews](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
-- 👤 By moultano | 📈 218 points | 💬 83 comments
+**#2. How do I cancel my ChatGPT subscription?**
+- 🔗 [Read on HackerNews](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
+- 👤 By tobr | 📈 812 points | 💬 195 comments
 
-**#3. The normalization of corruption in organizations (2003) [pdf]**
-- 🔗 [Read on HackerNews](https://gwern.net/doc/sociology/2003-ashforth.pdf)
-- 👤 By rendx | 📈 47 points | 💬 10 comments
+**#3. Croatia declared free of landmines after 31 years**
+- 🔗 [Read on HackerNews](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
+- 👤 By toomuchtodo | 📈 247 points | 💬 46 comments
 
-**#4. Julia: Performance Tips**
-- 🔗 [Read on HackerNews](https://docs.julialang.org/en/v1/manual/performance-tips/)
-- 👤 By tosh | 📈 47 points | 💬 26 comments
+**#4. Rust Is Just a Tool**
+- 🔗 [Read on HackerNews](https://lewiscampbell.tech/blog/260204.html)
+- 👤 By JuniperMesos | 📈 84 points | 💬 51 comments
 
-**#5. 80386 Protection**
-- 🔗 [Read on HackerNews](https://nand2mario.github.io/posts/2026/80386_protection/)
-- 👤 By nand2mario | 📈 64 points | 💬 11 comments
+**#5. Don't use passkeys for encrypting user data**
+- 🔗 [Read on HackerNews](https://blog.timcappalli.me/p/passkeys-prf-warning/)
+- 👤 By zdw | 📈 148 points | 💬 90 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
