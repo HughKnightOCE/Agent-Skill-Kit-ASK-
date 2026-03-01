@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** February 28, 2026
+> **Last Updated:** March 01, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. We Will Not Be Divided**
-- 🔗 [Read on HackerNews](https://notdivided.org)
-- 👤 By BloondAndDoom | 📈 1607 points | 💬 530 comments
+**#1. Microgpt**
+- 🔗 [Read on HackerNews](http://karpathy.github.io/2026/02/12/microgpt/)
+- 👤 By tambourine_man | 📈 776 points | 💬 126 comments
 
-**#2. How do I cancel my ChatGPT subscription?**
-- 🔗 [Read on HackerNews](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
-- 👤 By tobr | 📈 812 points | 💬 195 comments
+**#2. We do not think Anthropic should be designated as a supply chain risk**
+- 🔗 [Read on HackerNews](https://twitter.com/OpenAI/status/2027846016423321831)
+- 👤 By golfer | 📈 533 points | 💬 252 comments
 
-**#3. Croatia declared free of landmines after 31 years**
-- 🔗 [Read on HackerNews](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
-- 👤 By toomuchtodo | 📈 247 points | 💬 46 comments
+**#3. 10-202: Introduction to Modern AI (CMU)**
+- 🔗 [Read on HackerNews](https://modernaicourse.org)
+- 👤 By vismit2000 | 📈 33 points | 💬 6 comments
 
-**#4. Rust Is Just a Tool**
-- 🔗 [Read on HackerNews](https://lewiscampbell.tech/blog/260204.html)
-- 👤 By JuniperMesos | 📈 84 points | 💬 51 comments
+**#4. Switch to Claude without starting over**
+- 🔗 [Read on HackerNews](https://claude.com/import-memory)
+- 👤 By doener | 📈 103 points | 💬 58 comments
 
-**#5. Don't use passkeys for encrypting user data**
-- 🔗 [Read on HackerNews](https://blog.timcappalli.me/p/passkeys-prf-warning/)
-- 👤 By zdw | 📈 148 points | 💬 90 comments
+**#5. An ode to houseplant programming (2025)**
+- 🔗 [Read on HackerNews](https://hannahilea.com/blog/houseplant-programming/)
+- 👤 By evakhoury | 📈 16 points | 💬 4 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
