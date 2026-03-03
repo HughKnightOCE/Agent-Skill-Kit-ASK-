@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 02, 2026
+> **Last Updated:** March 03, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Motorola announces a partnership with GrapheneOS Foundation**
-- 🔗 [Read on HackerNews](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
-- 👤 By km | 📈 487 points | 💬 151 comments
+**#1. Meta’s AI smart glasses and data privacy concerns**
+- 🔗 [Read on HackerNews](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+- 👤 By sandbach | 📈 1078 points | 💬 608 comments
 
-**#2. Making Video Games in 2025 (without an engine)**
-- 🔗 [Read on HackerNews](https://www.noelberry.ca/posts/making_games_in_2025/)
-- 👤 By alvivar | 📈 128 points | 💬 32 comments
+**#2. Arm's Cortex X925: Reaching Desktop Performance**
+- 🔗 [Read on HackerNews](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
+- 👤 By ingve | 📈 68 points | 💬 9 comments
 
-**#3. /e/OS is a complete "deGoogled", mobile ecosystem**
-- 🔗 [Read on HackerNews](https://e.foundation/e-os/)
-- 👤 By doener | 📈 24 points | 💬 5 comments
+**#3. British Columbia is permanently adopting daylight time**
+- 🔗 [Read on HackerNews](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
+- 👤 By ireflect | 📈 809 points | 💬 402 comments
 
-**#4. Show HN: Omni – Open-source workplace search and chat, built on Postgres**
-- 🔗 [Read on HackerNews](https://github.com/getomnico/omni)
-- 👤 By prvnsmpth | 📈 18 points | 💬 3 comments
+**#4. Ars Technica fires reporter after AI controversy involving fabricated quotes**
+- 🔗 [Read on HackerNews](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+- 👤 By danso | 📈 282 points | 💬 163 comments
 
-**#5. Computer-generated dream world: Virtual reality for a 286 processor**
-- 🔗 [Read on HackerNews](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)
-- 👤 By MBCook | 📈 103 points | 💬 15 comments
+**#5. We Built a Video Rendering Engine by Lying to the Browser About What Time It Is**
+- 🔗 [Read on HackerNews](https://blog.replit.com/browsers-dont-want-to-be-cameras)
+- 👤 By darshkpatel | 📈 22 points | 💬 5 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
