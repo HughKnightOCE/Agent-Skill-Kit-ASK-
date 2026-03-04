@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 03, 2026
+> **Last Updated:** March 04, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Meta’s AI smart glasses and data privacy concerns**
-- 🔗 [Read on HackerNews](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
-- 👤 By sandbach | 📈 1078 points | 💬 608 comments
+**#1. Motorola GrapheneOS devices will be bootloader unlockable/relockable**
+- 🔗 [Read on HackerNews](https://grapheneos.social/@GrapheneOS/116160393783585567)
+- 👤 By pabs3 | 📈 663 points | 💬 192 comments
 
-**#2. Arm's Cortex X925: Reaching Desktop Performance**
-- 🔗 [Read on HackerNews](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
-- 👤 By ingve | 📈 68 points | 💬 9 comments
+**#2. RFC 9849. TLS Encrypted Client Hello**
+- 🔗 [Read on HackerNews](https://www.rfc-editor.org/rfc/rfc9849.html)
+- 👤 By P_qRs | 📈 56 points | 💬 11 comments
 
-**#3. British Columbia is permanently adopting daylight time**
-- 🔗 [Read on HackerNews](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
-- 👤 By ireflect | 📈 809 points | 💬 402 comments
+**#3. Agentic Engineering Patterns**
+- 🔗 [Read on HackerNews](https://simonwillison.net/guides/agentic-engineering-patterns/)
+- 👤 By r4um | 📈 131 points | 💬 33 comments
 
-**#4. Ars Technica fires reporter after AI controversy involving fabricated quotes**
-- 🔗 [Read on HackerNews](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
-- 👤 By danso | 📈 282 points | 💬 163 comments
+**#4. Better JIT for Postgres**
+- 🔗 [Read on HackerNews](https://github.com/vladich/pg_jitter)
+- 👤 By vladich | 📈 52 points | 💬 10 comments
 
-**#5. We Built a Video Rendering Engine by Lying to the Browser About What Time It Is**
-- 🔗 [Read on HackerNews](https://blog.replit.com/browsers-dont-want-to-be-cameras)
-- 👤 By darshkpatel | 📈 22 points | 💬 5 comments
+**#5. A CPU that runs entirely on GPU**
+- 🔗 [Read on HackerNews](https://github.com/robertcprice/nCPU)
+- 👤 By cypres | 📈 90 points | 💬 29 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
