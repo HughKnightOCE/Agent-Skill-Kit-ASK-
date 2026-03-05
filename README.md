@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 04, 2026
+> **Last Updated:** March 05, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Motorola GrapheneOS devices will be bootloader unlockable/relockable**
-- 🔗 [Read on HackerNews](https://grapheneos.social/@GrapheneOS/116160393783585567)
-- 👤 By pabs3 | 📈 663 points | 💬 192 comments
+**#1. Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift**
+- 🔗 [Read on HackerNews](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
+- 👤 By ipotapov | 📈 72 points | 💬 27 comments
 
-**#2. RFC 9849. TLS Encrypted Client Hello**
-- 🔗 [Read on HackerNews](https://www.rfc-editor.org/rfc/rfc9849.html)
-- 👤 By P_qRs | 📈 56 points | 💬 11 comments
+**#2. Google Workspace CLI**
+- 🔗 [Read on HackerNews](https://github.com/googleworkspace/cli)
+- 👤 By gonzalovargas | 📈 571 points | 💬 197 comments
 
-**#3. Agentic Engineering Patterns**
-- 🔗 [Read on HackerNews](https://simonwillison.net/guides/agentic-engineering-patterns/)
-- 👤 By r4um | 📈 131 points | 💬 33 comments
+**#3. Relicensing with AI-Assisted Rewrite**
+- 🔗 [Read on HackerNews](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+- 👤 By tuananh | 📈 104 points | 💬 83 comments
 
-**#4. Better JIT for Postgres**
-- 🔗 [Read on HackerNews](https://github.com/vladich/pg_jitter)
-- 👤 By vladich | 📈 52 points | 💬 10 comments
+**#4. The L in "LLM" Stands for Lying**
+- 🔗 [Read on HackerNews](https://acko.net/blog/the-l-in-llm-stands-for-lying/)
+- 👤 By LorenDB | 📈 146 points | 💬 57 comments
 
-**#5. A CPU that runs entirely on GPU**
-- 🔗 [Read on HackerNews](https://github.com/robertcprice/nCPU)
-- 👤 By cypres | 📈 90 points | 💬 29 comments
+**#5. The Self-Help Trap: What 20 Years of "Optimizing" Has Taught Me**
+- 🔗 [Read on HackerNews](https://tim.blog/2026/03/04/the-self-help-trap/)
+- 👤 By bonefishgrill | 📈 52 points | 💬 38 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
