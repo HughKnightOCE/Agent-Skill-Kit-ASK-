@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 05, 2026
+> **Last Updated:** March 06, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift**
-- 🔗 [Read on HackerNews](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
-- 👤 By ipotapov | 📈 72 points | 💬 27 comments
+**#1. System76 on Age Verification Laws**
+- 🔗 [Read on HackerNews](https://blog.system76.com/post/system76-on-age-verification/)
+- 👤 By LorenDB | 📈 321 points | 💬 198 comments
 
-**#2. Google Workspace CLI**
-- 🔗 [Read on HackerNews](https://github.com/googleworkspace/cli)
-- 👤 By gonzalovargas | 📈 571 points | 💬 197 comments
+**#2. GPL upgrades via section 14 proxy delegation**
+- 🔗 [Read on HackerNews](https://runxiyu.org/comp/gplproxy/)
+- 👤 By weinzierl | 📈 29 points | 💬 10 comments
 
-**#3. Relicensing with AI-Assisted Rewrite**
-- 🔗 [Read on HackerNews](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
-- 👤 By tuananh | 📈 104 points | 💬 83 comments
+**#3. We Might All Be AI Engineers Now**
+- 🔗 [Read on HackerNews](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+- 👤 By sn0wflak3s | 📈 7 points | 💬 0 comments
 
-**#4. The L in "LLM" Stands for Lying**
-- 🔗 [Read on HackerNews](https://acko.net/blog/the-l-in-llm-stands-for-lying/)
-- 👤 By LorenDB | 📈 146 points | 💬 57 comments
+**#4. GPT-5.4**
+- 🔗 [Read on HackerNews](https://openai.com/index/introducing-gpt-5-4/)
+- 👤 By mudkipdev | 📈 833 points | 💬 666 comments
 
-**#5. The Self-Help Trap: What 20 Years of "Optimizing" Has Taught Me**
-- 🔗 [Read on HackerNews](https://tim.blog/2026/03/04/the-self-help-trap/)
-- 👤 By bonefishgrill | 📈 52 points | 💬 38 comments
+**#5. Show HN: Swarm – Program a colony of 200 ants using a custom assembly language**
+- 🔗 [Read on HackerNews](https://dev.moment.com/)
+- 👤 By armandhammer10 | 📈 71 points | 💬 18 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
