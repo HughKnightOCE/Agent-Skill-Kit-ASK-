@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 08, 2026
+> **Last Updated:** March 09, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2603.03823)
-- 👤 By mpweiher | 📈 25 points | 💬 3 comments
+**#1. US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]**
+- 🔗 [Read on HackerNews](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
+- 👤 By dryadin | 📈 158 points | 💬 70 comments
 
-**#2. Cloud VM benchmarks 2026**
-- 🔗 [Read on HackerNews](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
-- 👤 By dkechag | 📈 220 points | 💬 100 comments
+**#2. Grammarly is offering ‘expert’ AI reviews from famous dead and living writers**
+- 🔗 [Read on HackerNews](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/)
+- 👤 By jmsflknr | 📈 36 points | 💬 34 comments
 
-**#3. "Warn about PyPy being unmaintained"**
-- 🔗 [Read on HackerNews](https://github.com/astral-sh/uv/pull/17643)
-- 👤 By networked | 📈 170 points | 💬 55 comments
+**#3. Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP**
+- 🔗 [Read on HackerNews](https://github.com/knowsuchagency/mcp2cli)
+- 👤 By knowsuchagency | 📈 69 points | 💬 36 comments
 
-**#4. From RGB to L*a*b* color space (2024)**
-- 🔗 [Read on HackerNews](https://kaizoudou.com/from-rgb-to-lab-color-space/)
-- 👤 By kqr | 📈 29 points | 💬 5 comments
+**#4. Agent Safehouse – macOS-native sandboxing for local agents**
+- 🔗 [Read on HackerNews](https://agent-safehouse.dev/)
+- 👤 By atombender | 📈 570 points | 💬 141 comments
 
-**#5. Show HN: Curiosity – DIY 6" Newtonian Reflector Telescope**
-- 🔗 [Read on HackerNews](https://curiosity-telescope.vercel.app/)
-- 👤 By big_Brain69 | 📈 13 points | 💬 1 comments
+**#5. Microscopes can see video on a laserdisc**
+- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=qZuR-772cks)
+- 👤 By zdw | 📈 435 points | 💬 53 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
