@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 09, 2026
+> **Last Updated:** March 10, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]**
-- 🔗 [Read on HackerNews](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
-- 👤 By dryadin | 📈 158 points | 💬 70 comments
+**#1. Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy**
+- 🔗 [Read on HackerNews](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
+- 👤 By pjmlp | 📈 71 points | 💬 47 comments
 
-**#2. Grammarly is offering ‘expert’ AI reviews from famous dead and living writers**
-- 🔗 [Read on HackerNews](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/)
-- 👤 By jmsflknr | 📈 36 points | 💬 34 comments
+**#2. Lotus 1-2-3 on the PC with DOS**
+- 🔗 [Read on HackerNews](https://stonetools.ghost.io/lotus123-dos/)
+- 👤 By TMWNN | 📈 84 points | 💬 28 comments
 
-**#3. Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP**
-- 🔗 [Read on HackerNews](https://github.com/knowsuchagency/mcp2cli)
-- 👤 By knowsuchagency | 📈 69 points | 💬 36 comments
+**#3. Two Years of Emacs Solo**
+- 🔗 [Read on HackerNews](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+- 👤 By celadevra_ | 📈 249 points | 💬 72 comments
 
-**#4. Agent Safehouse – macOS-native sandboxing for local agents**
-- 🔗 [Read on HackerNews](https://agent-safehouse.dev/)
-- 👤 By atombender | 📈 570 points | 💬 141 comments
+**#4. macOS Tahoe windows have different corner radiuses**
+- 🔗 [Read on HackerNews](https://lapcatsoftware.com/articles/2026/3/1.html)
+- 👤 By robenkleene | 📈 127 points | 💬 82 comments
 
-**#5. Microscopes can see video on a laserdisc**
-- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=qZuR-772cks)
-- 👤 By zdw | 📈 435 points | 💬 53 comments
+**#5. Optimizing Top K in Postgres**
+- 🔗 [Read on HackerNews](https://www.paradedb.com/blog/optimizing-top-k)
+- 👤 By philippemnoel | 📈 72 points | 💬 10 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
