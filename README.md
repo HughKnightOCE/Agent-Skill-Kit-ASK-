@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 10, 2026
+> **Last Updated:** March 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy**
-- 🔗 [Read on HackerNews](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
-- 👤 By pjmlp | 📈 71 points | 💬 47 comments
+**#1. Zig – Type Resolution Redesign and Language Changes**
+- 🔗 [Read on HackerNews](https://ziglang.org/devlog/2026/#2026-03-10)
+- 👤 By Retro_Dev | 📈 217 points | 💬 72 comments
 
-**#2. Lotus 1-2-3 on the PC with DOS**
-- 🔗 [Read on HackerNews](https://stonetools.ghost.io/lotus123-dos/)
-- 👤 By TMWNN | 📈 84 points | 💬 28 comments
+**#2. Create value for others and don’t worry about the returns**
+- 🔗 [Read on HackerNews](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
+- 👤 By ppew | 📈 318 points | 💬 163 comments
 
-**#3. Two Years of Emacs Solo**
-- 🔗 [Read on HackerNews](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
-- 👤 By celadevra_ | 📈 249 points | 💬 72 comments
+**#3. U+237C ⍼ Is Azimuth**
+- 🔗 [Read on HackerNews](https://ionathan.ch/2026/02/16/angzarr.html)
+- 👤 By cokernel_hacker | 📈 301 points | 💬 29 comments
 
-**#4. macOS Tahoe windows have different corner radiuses**
-- 🔗 [Read on HackerNews](https://lapcatsoftware.com/articles/2026/3/1.html)
-- 👤 By robenkleene | 📈 127 points | 💬 82 comments
+**#4. Cloudflare crawl endpoint**
+- 🔗 [Read on HackerNews](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
+- 👤 By jeffpalmer | 📈 305 points | 💬 116 comments
 
-**#5. Optimizing Top K in Postgres**
-- 🔗 [Read on HackerNews](https://www.paradedb.com/blog/optimizing-top-k)
-- 👤 By philippemnoel | 📈 72 points | 💬 10 comments
+**#5. Building a TB-303 from Scratch**
+- 🔗 [Read on HackerNews](https://loopmaster.xyz/tutorials/tb303-from-scratch)
+- 👤 By stagas | 📈 21 points | 💬 2 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
