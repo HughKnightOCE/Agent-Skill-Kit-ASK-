@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 11, 2026
+> **Last Updated:** March 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Zig – Type Resolution Redesign and Language Changes**
-- 🔗 [Read on HackerNews](https://ziglang.org/devlog/2026/#2026-03-10)
-- 👤 By Retro_Dev | 📈 217 points | 💬 72 comments
+**#1. 3D-Knitting: The Ultimate Guide**
+- 🔗 [Read on HackerNews](https://www.oliver-charles.com/pages/3d-knitting)
+- 👤 By ChadNauseam | 📈 39 points | 💬 12 comments
 
-**#2. Create value for others and don’t worry about the returns**
-- 🔗 [Read on HackerNews](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
-- 👤 By ppew | 📈 318 points | 💬 163 comments
+**#2. SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]**
+- 🔗 [Read on HackerNews](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
+- 👤 By pabs3 | 📈 38 points | 💬 15 comments
 
-**#3. U+237C ⍼ Is Azimuth**
-- 🔗 [Read on HackerNews](https://ionathan.ch/2026/02/16/angzarr.html)
-- 👤 By cokernel_hacker | 📈 301 points | 💬 29 comments
+**#3. Show HN: s@: decentralized social networking over static sites**
+- 🔗 [Read on HackerNews](http://satproto.org/)
+- 👤 By remywang | 📈 271 points | 💬 119 comments
 
-**#4. Cloudflare crawl endpoint**
-- 🔗 [Read on HackerNews](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
-- 👤 By jeffpalmer | 📈 305 points | 💬 116 comments
+**#4. Temporal: The 9-year journey to fix time in JavaScript**
+- 🔗 [Read on HackerNews](https://bloomberg.github.io/js-blog/post/temporal/)
+- 👤 By robpalmer | 📈 675 points | 💬 211 comments
 
-**#5. Building a TB-303 from Scratch**
-- 🔗 [Read on HackerNews](https://loopmaster.xyz/tutorials/tb303-from-scratch)
-- 👤 By stagas | 📈 21 points | 💬 2 comments
+**#5. Printf-Tac-Toe**
+- 🔗 [Read on HackerNews](https://github.com/carlini/printf-tac-toe)
+- 👤 By carlos-menezes | 📈 16 points | 💬 1 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
