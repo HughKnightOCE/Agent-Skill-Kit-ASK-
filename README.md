@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 12, 2026
+> **Last Updated:** March 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. 3D-Knitting: The Ultimate Guide**
-- 🔗 [Read on HackerNews](https://www.oliver-charles.com/pages/3d-knitting)
-- 👤 By ChadNauseam | 📈 39 points | 💬 12 comments
+**#1. Bucketsquatting is (finally) dead**
+- 🔗 [Read on HackerNews](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
+- 👤 By boyter | 📈 41 points | 💬 18 comments
 
-**#2. SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]**
-- 🔗 [Read on HackerNews](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
-- 👤 By pabs3 | 📈 38 points | 💬 15 comments
+**#2. Willingness to look stupid**
+- 🔗 [Read on HackerNews](https://sharif.io/looking-stupid)
+- 👤 By Samin100 | 📈 325 points | 💬 110 comments
 
-**#3. Show HN: s@: decentralized social networking over static sites**
-- 🔗 [Read on HackerNews](http://satproto.org/)
-- 👤 By remywang | 📈 271 points | 💬 119 comments
+**#3. Executing programs inside transformers with exponentially faster inference**
+- 🔗 [Read on HackerNews](https://www.percepta.ai/blog/can-llms-be-computers)
+- 👤 By u1hcw9nx | 📈 94 points | 💬 14 comments
 
-**#4. Temporal: The 9-year journey to fix time in JavaScript**
-- 🔗 [Read on HackerNews](https://bloomberg.github.io/js-blog/post/temporal/)
-- 👤 By robpalmer | 📈 675 points | 💬 211 comments
+**#4. Malus – Clean Room as a Service**
+- 🔗 [Read on HackerNews](https://malus.sh)
+- 👤 By microflash | 📈 1266 points | 💬 458 comments
 
-**#5. Printf-Tac-Toe**
-- 🔗 [Read on HackerNews](https://github.com/carlini/printf-tac-toe)
-- 👤 By carlos-menezes | 📈 16 points | 💬 1 comments
+**#5. “This is not the computer for you”**
+- 🔗 [Read on HackerNews](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
+- 👤 By MBCook | 📈 447 points | 💬 179 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
