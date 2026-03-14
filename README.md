@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 13, 2026
+> **Last Updated:** March 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Bucketsquatting is (finally) dead**
-- 🔗 [Read on HackerNews](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
-- 👤 By boyter | 📈 41 points | 💬 18 comments
+**#1. Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture**
+- 🔗 [Read on HackerNews](https://tboteproject.com)
+- 👤 By mefengl | 📈 42 points | 💬 5 comments
 
-**#2. Willingness to look stupid**
-- 🔗 [Read on HackerNews](https://sharif.io/looking-stupid)
-- 👤 By Samin100 | 📈 325 points | 💬 110 comments
+**#2. 1M context is now generally available for Opus 4.6 and Sonnet 4.6**
+- 🔗 [Read on HackerNews](https://claude.com/blog/1m-context-ga)
+- 👤 By meetpateltech | 📈 679 points | 💬 269 comments
 
-**#3. Executing programs inside transformers with exponentially faster inference**
-- 🔗 [Read on HackerNews](https://www.percepta.ai/blog/can-llms-be-computers)
-- 👤 By u1hcw9nx | 📈 94 points | 💬 14 comments
+**#3. A Survival Guide to a PhD (2016)**
+- 🔗 [Read on HackerNews](http://karpathy.github.io/2016/09/07/phd/)
+- 👤 By vismit2000 | 📈 79 points | 💬 35 comments
 
-**#4. Malus – Clean Room as a Service**
-- 🔗 [Read on HackerNews](https://malus.sh)
-- 👤 By microflash | 📈 1266 points | 💬 458 comments
+**#4. You gotta think outside the hypercube**
+- 🔗 [Read on HackerNews](https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube)
+- 👤 By surprisetalk | 📈 49 points | 💬 7 comments
 
-**#5. “This is not the computer for you”**
-- 🔗 [Read on HackerNews](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
-- 👤 By MBCook | 📈 447 points | 💬 179 comments
+**#5. Emacs and Vim in the Age of AI**
+- 🔗 [Read on HackerNews](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
+- 👤 By psibi | 📈 127 points | 💬 64 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
