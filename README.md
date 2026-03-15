@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 14, 2026
+> **Last Updated:** March 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture**
-- 🔗 [Read on HackerNews](https://tboteproject.com)
-- 👤 By mefengl | 📈 42 points | 💬 5 comments
+**#1. Rack-mount hydroponics**
+- 🔗 [Read on HackerNews](https://sa.lj.am/rack-mount-hydroponics/)
+- 👤 By cdrnsf | 📈 148 points | 💬 35 comments
 
-**#2. 1M context is now generally available for Opus 4.6 and Sonnet 4.6**
-- 🔗 [Read on HackerNews](https://claude.com/blog/1m-context-ga)
-- 👤 By meetpateltech | 📈 679 points | 💬 269 comments
+**#2. The Appalling Stupidity of Spotify's AI DJ**
+- 🔗 [Read on HackerNews](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+- 👤 By ingve | 📈 27 points | 💬 17 comments
 
-**#3. A Survival Guide to a PhD (2016)**
-- 🔗 [Read on HackerNews](http://karpathy.github.io/2016/09/07/phd/)
-- 👤 By vismit2000 | 📈 79 points | 💬 35 comments
+**#3. Why Mathematica does not simplify sinh(arccosh(x))**
+- 🔗 [Read on HackerNews](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
+- 👤 By ibobev | 📈 50 points | 💬 9 comments
 
-**#4. You gotta think outside the hypercube**
-- 🔗 [Read on HackerNews](https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube)
-- 👤 By surprisetalk | 📈 49 points | 💬 7 comments
+**#4. Treasure hunter freed from jail after refusing to turn over shipwreck gold**
+- 🔗 [Read on HackerNews](https://www.bbc.com/news/articles/cg4g7kn99q3o)
+- 👤 By tartoran | 📈 81 points | 💬 93 comments
 
-**#5. Emacs and Vim in the Age of AI**
-- 🔗 [Read on HackerNews](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
-- 👤 By psibi | 📈 127 points | 💬 64 comments
+**#5. A most elegant TCP hole punching algorithm**
+- 🔗 [Read on HackerNews](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
+- 👤 By Uptrenda | 📈 73 points | 💬 22 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
