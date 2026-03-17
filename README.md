@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 16, 2026
+> **Last Updated:** March 17, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Canada's bill C-22 mandates mass metadata surveillance**
-- 🔗 [Read on HackerNews](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
-- 👤 By opengrass | 📈 709 points | 💬 202 comments
+**#1. Kagi Translate now supports LinkedIn Speak as an output language**
+- 🔗 [Read on HackerNews](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
+- 👤 By smitec | 📈 495 points | 💬 128 comments
 
-**#2. Starlink Mini as a Failover**
-- 🔗 [Read on HackerNews](https://www.jackpearce.co.uk/posts/starlink-failover/)
-- 👤 By jkpe | 📈 38 points | 💬 32 comments
+**#2. Leanstral: Open-source agent for trustworthy coding and formal proof engineering**
+- 🔗 [Read on HackerNews](https://mistral.ai/news/leanstral)
+- 👤 By Poudlardo | 📈 549 points | 💬 112 comments
 
-**#3. How I write software with LLMs**
-- 🔗 [Read on HackerNews](https://www.stavros.io/posts/how-i-write-software-with-llms/)
-- 👤 By indigodaddy | 📈 201 points | 💬 142 comments
+**#3. Kagi Small Web**
+- 🔗 [Read on HackerNews](https://kagi.com/smallweb/)
+- 👤 By trueduke | 📈 3 points | 💬 0 comments
 
-**#4. The 49MB web page**
-- 🔗 [Read on HackerNews](https://thatshubham.com/blog/news-audit)
-- 👤 By kermatt | 📈 563 points | 💬 249 comments
+**#4. The unlikely story of Teardown Multiplayer**
+- 🔗 [Read on HackerNews](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html)
+- 👤 By lairv | 📈 78 points | 💬 12 comments
 
-**#5. Chrome DevTools MCP (2025)**
-- 🔗 [Read on HackerNews](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
-- 👤 By xnx | 📈 477 points | 💬 199 comments
+**#5. Meta’s renewed commitment to jemalloc**
+- 🔗 [Read on HackerNews](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+- 👤 By hahahacorn | 📈 439 points | 💬 192 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
