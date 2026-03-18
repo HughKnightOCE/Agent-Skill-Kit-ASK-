@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 17, 2026
+> **Last Updated:** March 18, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Kagi Translate now supports LinkedIn Speak as an output language**
-- 🔗 [Read on HackerNews](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
-- 👤 By smitec | 📈 495 points | 💬 128 comments
+**#1. JPEG Compression**
+- 🔗 [Read on HackerNews](https://www.sophielwang.com/blog/jpeg)
+- 👤 By vinhnx | 📈 177 points | 💬 36 comments
 
-**#2. Leanstral: Open-source agent for trustworthy coding and formal proof engineering**
-- 🔗 [Read on HackerNews](https://mistral.ai/news/leanstral)
-- 👤 By Poudlardo | 📈 549 points | 💬 112 comments
+**#2. Write up of my homebrew CPU build**
+- 🔗 [Read on HackerNews](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
+- 👤 By wwarren | 📈 64 points | 💬 7 comments
 
-**#3. Kagi Small Web**
-- 🔗 [Read on HackerNews](https://kagi.com/smallweb/)
-- 👤 By trueduke | 📈 3 points | 💬 0 comments
+**#3. Mistral AI Releases Forge**
+- 🔗 [Read on HackerNews](https://mistral.ai/news/forge)
+- 👤 By pember | 📈 451 points | 💬 96 comments
 
-**#4. The unlikely story of Teardown Multiplayer**
-- 🔗 [Read on HackerNews](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html)
-- 👤 By lairv | 📈 78 points | 💬 12 comments
+**#4. Celebrating Tony Hoare's mark on computer science**
+- 🔗 [Read on HackerNews](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
+- 👤 By benhoyt | 📈 27 points | 💬 1 comments
 
-**#5. Meta’s renewed commitment to jemalloc**
-- 🔗 [Read on HackerNews](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
-- 👤 By hahahacorn | 📈 439 points | 💬 192 comments
+**#5. A Decade of Slug**
+- 🔗 [Read on HackerNews](https://terathon.com/blog/decade-slug.html)
+- 👤 By mwkaufma | 📈 609 points | 💬 58 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
