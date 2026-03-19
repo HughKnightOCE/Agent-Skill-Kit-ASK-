@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 18, 2026
+> **Last Updated:** March 19, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. JPEG Compression**
-- 🔗 [Read on HackerNews](https://www.sophielwang.com/blog/jpeg)
-- 👤 By vinhnx | 📈 177 points | 💬 36 comments
+**#1. Conway's Game of Life, in real life**
+- 🔗 [Read on HackerNews](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
+- 👤 By surprisetalk | 📈 115 points | 💬 27 comments
 
-**#2. Write up of my homebrew CPU build**
-- 🔗 [Read on HackerNews](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
-- 👤 By wwarren | 📈 64 points | 💬 7 comments
+**#2. Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe**
+- 🔗 [Read on HackerNews](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
+- 👤 By mmastrac | 📈 321 points | 💬 67 comments
 
-**#3. Mistral AI Releases Forge**
-- 🔗 [Read on HackerNews](https://mistral.ai/news/forge)
-- 👤 By pember | 📈 451 points | 💬 96 comments
+**#3. Warranty Void If Regenerated**
+- 🔗 [Read on HackerNews](https://nearzero.software/p/warranty-void-if-regenerated)
+- 👤 By Stwerner | 📈 337 points | 💬 189 comments
 
-**#4. Celebrating Tony Hoare's mark on computer science**
-- 🔗 [Read on HackerNews](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
-- 👤 By benhoyt | 📈 27 points | 💬 1 comments
+**#4. OpenRocket**
+- 🔗 [Read on HackerNews](https://openrocket.info/)
+- 👤 By zeristor | 📈 555 points | 💬 99 comments
 
-**#5. A Decade of Slug**
-- 🔗 [Read on HackerNews](https://terathon.com/blog/decade-slug.html)
-- 👤 By mwkaufma | 📈 609 points | 💬 58 comments
+**#5. Austin’s surge of new housing construction drove down rents**
+- 🔗 [Read on HackerNews](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
+- 👤 By matthest | 📈 531 points | 💬 624 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
