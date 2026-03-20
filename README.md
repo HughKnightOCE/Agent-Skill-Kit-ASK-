@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 19, 2026
+> **Last Updated:** March 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Conway's Game of Life, in real life**
-- 🔗 [Read on HackerNews](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
-- 👤 By surprisetalk | 📈 115 points | 💬 27 comments
+**#1. ArXiv Declares Independence from Cornell**
+- 🔗 [Read on HackerNews](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
+- 👤 By bookstore-romeo | 📈 266 points | 💬 66 comments
 
-**#2. Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe**
-- 🔗 [Read on HackerNews](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
-- 👤 By mmastrac | 📈 321 points | 💬 67 comments
+**#2. Google details new 24-hour process to sideload unverified Android apps**
+- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
+- 👤 By 0xedb | 📈 815 points | 💬 893 comments
 
-**#3. Warranty Void If Regenerated**
-- 🔗 [Read on HackerNews](https://nearzero.software/p/warranty-void-if-regenerated)
-- 👤 By Stwerner | 📈 337 points | 💬 189 comments
+**#3. Push events into a running session with channels**
+- 🔗 [Read on HackerNews](https://code.claude.com/docs/en/channels)
+- 👤 By jasonjmcghee | 📈 334 points | 💬 188 comments
 
-**#4. OpenRocket**
-- 🔗 [Read on HackerNews](https://openrocket.info/)
-- 👤 By zeristor | 📈 555 points | 💬 99 comments
+**#4. Drawvg Filter for FFmpeg**
+- 🔗 [Read on HackerNews](https://ayosec.github.io/ffmpeg-drawvg/)
+- 👤 By nolta | 📈 30 points | 💬 3 comments
 
-**#5. Austin’s surge of new housing construction drove down rents**
-- 🔗 [Read on HackerNews](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
-- 👤 By matthest | 📈 531 points | 💬 624 comments
+**#5. Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found**
+- 🔗 [Read on HackerNews](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
+- 👤 By nyxgeek | 📈 140 points | 💬 31 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
