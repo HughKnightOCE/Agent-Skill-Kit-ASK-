@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 20, 2026
+> **Last Updated:** March 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. ArXiv Declares Independence from Cornell**
-- 🔗 [Read on HackerNews](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
-- 👤 By bookstore-romeo | 📈 266 points | 💬 66 comments
+**#1. OpenCode – Open source AI coding agent**
+- 🔗 [Read on HackerNews](https://opencode.ai/)
+- 👤 By rbanffy | 📈 773 points | 💬 348 comments
 
-**#2. Google details new 24-hour process to sideload unverified Android apps**
-- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
-- 👤 By 0xedb | 📈 815 points | 💬 893 comments
+**#2. Mamba-3**
+- 🔗 [Read on HackerNews](https://www.together.ai/blog/mamba-3)
+- 👤 By matt_d | 📈 109 points | 💬 15 comments
 
-**#3. Push events into a running session with channels**
-- 🔗 [Read on HackerNews](https://code.claude.com/docs/en/channels)
-- 👤 By jasonjmcghee | 📈 334 points | 💬 188 comments
+**#3. FFmpeg 101 (2024)**
+- 🔗 [Read on HackerNews](https://blogs.igalia.com/llepage/ffmpeg-101/)
+- 👤 By vinhnx | 📈 75 points | 💬 1 comments
 
-**#4. Drawvg Filter for FFmpeg**
-- 🔗 [Read on HackerNews](https://ayosec.github.io/ffmpeg-drawvg/)
-- 👤 By nolta | 📈 30 points | 💬 3 comments
+**#4. Molly Guard**
+- 🔗 [Read on HackerNews](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html)
+- 👤 By surprisetalk | 📈 100 points | 💬 40 comments
 
-**#5. Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found**
-- 🔗 [Read on HackerNews](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
-- 👤 By nyxgeek | 📈 140 points | 💬 31 comments
+**#5. A Japanese glossary of chopsticks faux pas (2022)**
+- 🔗 [Read on HackerNews](https://www.nippon.com/en/japan-data/h01362/)
+- 👤 By cainxinth | 📈 255 points | 💬 187 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
