@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 21, 2026
+> **Last Updated:** March 22, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. OpenCode – Open source AI coding agent**
-- 🔗 [Read on HackerNews](https://opencode.ai/)
-- 👤 By rbanffy | 📈 773 points | 💬 348 comments
+**#1. The three pillars of JavaScript bloat**
+- 🔗 [Read on HackerNews](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+- 👤 By onlyspaceghost | 📈 258 points | 💬 126 comments
 
-**#2. Mamba-3**
-- 🔗 [Read on HackerNews](https://www.together.ai/blog/mamba-3)
-- 👤 By matt_d | 📈 109 points | 💬 15 comments
+**#2. My first patch to the Linux kernel**
+- 🔗 [Read on HackerNews](https://pooladkhay.com/posts/first-kernel-patch/)
+- 👤 By pooladkhay | 📈 75 points | 💬 8 comments
 
-**#3. FFmpeg 101 (2024)**
-- 🔗 [Read on HackerNews](https://blogs.igalia.com/llepage/ffmpeg-101/)
-- 👤 By vinhnx | 📈 75 points | 💬 1 comments
+**#3. Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence**
+- 🔗 [Read on HackerNews](https://zenodo.org/records/18976656)
+- 👤 By rayanpal_ | 📈 18 points | 💬 10 comments
 
-**#4. Molly Guard**
-- 🔗 [Read on HackerNews](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html)
-- 👤 By surprisetalk | 📈 100 points | 💬 40 comments
+**#4. Tinybox – A powerful computer for deep learning**
+- 🔗 [Read on HackerNews](https://tinygrad.org/#tinybox)
+- 👤 By albelfio | 📈 481 points | 💬 283 comments
 
-**#5. A Japanese glossary of chopsticks faux pas (2022)**
-- 🔗 [Read on HackerNews](https://www.nippon.com/en/japan-data/h01362/)
-- 👤 By cainxinth | 📈 255 points | 💬 187 comments
+**#5. Some things just take time**
+- 🔗 [Read on HackerNews](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
+- 👤 By vaylian | 📈 683 points | 💬 207 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
