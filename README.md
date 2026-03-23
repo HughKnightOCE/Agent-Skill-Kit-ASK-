@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 22, 2026
+> **Last Updated:** March 23, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The three pillars of JavaScript bloat**
-- 🔗 [Read on HackerNews](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
-- 👤 By onlyspaceghost | 📈 258 points | 💬 126 comments
+**#1. POSSE – Publish on your Own Site, Syndicate Elsewhere**
+- 🔗 [Read on HackerNews](https://indieweb.org/POSSE)
+- 👤 By tosh | 📈 112 points | 💬 26 comments
 
-**#2. My first patch to the Linux kernel**
-- 🔗 [Read on HackerNews](https://pooladkhay.com/posts/first-kernel-patch/)
-- 👤 By pooladkhay | 📈 75 points | 💬 8 comments
+**#2. Walmart: ChatGPT checkout converted 3x worse than website**
+- 🔗 [Read on HackerNews](https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071)
+- 👤 By speckx | 📈 59 points | 💬 34 comments
 
-**#3. Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence**
-- 🔗 [Read on HackerNews](https://zenodo.org/records/18976656)
-- 👤 By rayanpal_ | 📈 18 points | 💬 10 comments
+**#3. PC Gamer recommends RSS readers in a 37mb article that just keeps downloading**
+- 🔗 [Read on HackerNews](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+- 👤 By JumpCrisscross | 📈 620 points | 💬 288 comments
 
-**#4. Tinybox – A powerful computer for deep learning**
-- 🔗 [Read on HackerNews](https://tinygrad.org/#tinybox)
-- 👤 By albelfio | 📈 481 points | 💬 283 comments
+**#4. Tin Can, a 'landline' for kids**
+- 🔗 [Read on HackerNews](https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9)
+- 👤 By tejohnso | 📈 135 points | 💬 101 comments
 
-**#5. Some things just take time**
-- 🔗 [Read on HackerNews](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
-- 👤 By vaylian | 📈 683 points | 💬 207 comments
+**#5. Can you get root with only a cigarette lighter? (2024)**
+- 🔗 [Read on HackerNews](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
+- 👤 By HeliumHydride | 📈 77 points | 💬 13 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
