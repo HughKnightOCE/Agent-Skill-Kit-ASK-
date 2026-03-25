@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 24, 2026
+> **Last Updated:** March 25, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home**
-- 🔗 [Read on HackerNews](https://www.jackhogan.me/blog/box-of-secrets/)
-- 👤 By jackhogan11 | 📈 132 points | 💬 39 comments
+**#1. TurboQuant: Redefining AI efficiency with extreme compression**
+- 🔗 [Read on HackerNews](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+- 👤 By ray__ | 📈 154 points | 💬 31 comments
 
-**#2. Log File Viewer for the Terminal**
-- 🔗 [Read on HackerNews](https://lnav.org/)
-- 👤 By wiradikusuma | 📈 123 points | 💬 16 comments
+**#2. Why I forked httpx**
+- 🔗 [Read on HackerNews](https://tildeweb.nl/~michiel/httpxyz.html)
+- 👤 By roywashere | 📈 83 points | 💬 41 comments
 
-**#3. Opera: Rewind The Web to 1996 (Opera at 30)**
-- 🔗 [Read on HackerNews](https://www.web-rewind.com)
-- 👤 By thushanfernando | 📈 23 points | 💬 17 comments
+**#3. VitruvianOS – Desktop Linux Inspired by the BeOS**
+- 🔗 [Read on HackerNews](https://v-os.dev)
+- 👤 By felixding | 📈 138 points | 💬 68 comments
 
-**#4. Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build**
-- 🔗 [Read on HackerNews](https://proofshot.argil.io/)
-- 👤 By jberthom | 📈 27 points | 💬 25 comments
+**#4. Goodbye to Sora**
+- 🔗 [Read on HackerNews](https://twitter.com/soraofficialapp/status/2036532795984715896)
+- 👤 By mikeocool | 📈 711 points | 💬 514 comments
 
-**#5. BIO – The Bao I/O Co-Processor**
-- 🔗 [Read on HackerNews](https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor)
-- 👤 By hasheddan | 📈 39 points | 💬 8 comments
+**#5. Flighty Airports**
+- 🔗 [Read on HackerNews](https://flighty.com/airports)
+- 👤 By skogstokig | 📈 320 points | 💬 104 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
