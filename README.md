@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 25, 2026
+> **Last Updated:** March 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. TurboQuant: Redefining AI efficiency with extreme compression**
-- 🔗 [Read on HackerNews](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
-- 👤 By ray__ | 📈 154 points | 💬 31 comments
+**#1. Personal Encyclopedias**
+- 🔗 [Read on HackerNews](https://whoami.wiki/blog/personal-encyclopedias)
+- 👤 By jrmyphlmn | 📈 161 points | 💬 40 comments
 
-**#2. Why I forked httpx**
-- 🔗 [Read on HackerNews](https://tildeweb.nl/~michiel/httpxyz.html)
-- 👤 By roywashere | 📈 83 points | 💬 41 comments
+**#2. Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue**
+- 🔗 [Read on HackerNews](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)
+- 👤 By vinodpandey7 | 📈 14 points | 💬 7 comments
 
-**#3. VitruvianOS – Desktop Linux Inspired by the BeOS**
-- 🔗 [Read on HackerNews](https://v-os.dev)
-- 👤 By felixding | 📈 138 points | 💬 68 comments
+**#3. Running Tesla Model 3's computer on my desk using parts from crashed cars**
+- 🔗 [Read on HackerNews](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+- 👤 By driesdep | 📈 629 points | 💬 199 comments
 
-**#4. Goodbye to Sora**
-- 🔗 [Read on HackerNews](https://twitter.com/soraofficialapp/status/2036532795984715896)
-- 👤 By mikeocool | 📈 711 points | 💬 514 comments
+**#4. Swift 6.3**
+- 🔗 [Read on HackerNews](https://www.swift.org/blog/swift-6.3-released/)
+- 👤 By ingve | 📈 33 points | 💬 12 comments
 
-**#5. Flighty Airports**
-- 🔗 [Read on HackerNews](https://flighty.com/airports)
-- 👤 By skogstokig | 📈 320 points | 💬 104 comments
+**#5. What came after the 486?**
+- 🔗 [Read on HackerNews](https://dfarq.homeip.net/what-came-after-486/)
+- 👤 By jnord | 📈 26 points | 💬 17 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
