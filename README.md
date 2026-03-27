@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 26, 2026
+> **Last Updated:** March 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Personal Encyclopedias**
-- 🔗 [Read on HackerNews](https://whoami.wiki/blog/personal-encyclopedias)
-- 👤 By jrmyphlmn | 📈 161 points | 💬 40 comments
+**#1. A Faster Alternative to Jq**
+- 🔗 [Read on HackerNews](https://micahkepe.com/blog/jsongrep/)
+- 👤 By pistolario | 📈 106 points | 💬 51 comments
 
-**#2. Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue**
-- 🔗 [Read on HackerNews](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)
-- 👤 By vinodpandey7 | 📈 14 points | 💬 7 comments
+**#2. Schedule tasks on the web**
+- 🔗 [Read on HackerNews](https://code.claude.com/docs/en/web-scheduled-tasks)
+- 👤 By iBelieve | 📈 136 points | 💬 95 comments
 
-**#3. Running Tesla Model 3's computer on my desk using parts from crashed cars**
-- 🔗 [Read on HackerNews](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
-- 👤 By driesdep | 📈 629 points | 💬 199 comments
+**#3. The European AllSky7 fireball network**
+- 🔗 [Read on HackerNews](https://www.allsky7.net/#archive)
+- 👤 By marklit | 📈 46 points | 💬 4 comments
 
-**#4. Swift 6.3**
-- 🔗 [Read on HackerNews](https://www.swift.org/blog/swift-6.3-released/)
-- 👤 By ingve | 📈 33 points | 💬 12 comments
+**#4. Apple discontinues the Mac Pro**
+- 🔗 [Read on HackerNews](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
+- 👤 By bentocorp | 📈 354 points | 💬 288 comments
 
-**#5. What came after the 486?**
-- 🔗 [Read on HackerNews](https://dfarq.homeip.net/what-came-after-486/)
-- 👤 By jnord | 📈 26 points | 💬 17 comments
+**#5. Why so many control rooms were seafoam green (2025)**
+- 🔗 [Read on HackerNews](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
+- 👤 By Amorymeltzer | 📈 808 points | 💬 149 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
