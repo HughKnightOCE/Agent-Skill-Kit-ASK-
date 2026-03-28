@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 27, 2026
+> **Last Updated:** March 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. A Faster Alternative to Jq**
-- 🔗 [Read on HackerNews](https://micahkepe.com/blog/jsongrep/)
-- 👤 By pistolario | 📈 106 points | 💬 51 comments
+**#1. CERN uses tiny AI models burned into silicon for real-time LHC data filtering**
+- 🔗 [Read on HackerNews](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+- 👤 By TORcicada | 📈 39 points | 💬 31 comments
 
-**#2. Schedule tasks on the web**
-- 🔗 [Read on HackerNews](https://code.claude.com/docs/en/web-scheduled-tasks)
-- 👤 By iBelieve | 📈 136 points | 💬 95 comments
+**#2. Go hard on agents, not on your filesystem**
+- 🔗 [Read on HackerNews](https://jai.scs.stanford.edu/)
+- 👤 By mazieres | 📈 337 points | 💬 189 comments
 
-**#3. The European AllSky7 fireball network**
-- 🔗 [Read on HackerNews](https://www.allsky7.net/#archive)
-- 👤 By marklit | 📈 46 points | 💬 4 comments
+**#3. AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip**
+- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
+- 👤 By zdw | 📈 161 points | 💬 80 comments
 
-**#4. Apple discontinues the Mac Pro**
-- 🔗 [Read on HackerNews](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
-- 👤 By bentocorp | 📈 354 points | 💬 288 comments
+**#4. Make macOS consistently bad unironically**
+- 🔗 [Read on HackerNews](https://lr0.org/blog/p/macos/)
+- 👤 By speckx | 📈 406 points | 💬 287 comments
 
-**#5. Why so many control rooms were seafoam green (2025)**
-- 🔗 [Read on HackerNews](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
-- 👤 By Amorymeltzer | 📈 808 points | 💬 149 comments
+**#5. Matadisco – Decentralized Data Discovery**
+- 🔗 [Read on HackerNews](https://matadisco.org/)
+- 👤 By biggestfan | 📈 5 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
