@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 28, 2026
+> **Last Updated:** March 29, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. CERN uses tiny AI models burned into silicon for real-time LHC data filtering**
-- 🔗 [Read on HackerNews](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
-- 👤 By TORcicada | 📈 39 points | 💬 31 comments
+**#1. Founder of GitLab battles cancer by founding companies**
+- 🔗 [Read on HackerNews](https://sytse.com/cancer/)
+- 👤 By bob_theslob646 | 📈 1028 points | 💬 210 comments
 
-**#2. Go hard on agents, not on your filesystem**
-- 🔗 [Read on HackerNews](https://jai.scs.stanford.edu/)
-- 👤 By mazieres | 📈 337 points | 💬 189 comments
+**#2. When Do We Become Adults, Really?**
+- 🔗 [Read on HackerNews](https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really)
+- 👤 By benbreen | 📈 23 points | 💬 35 comments
 
-**#3. AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip**
-- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
-- 👤 By zdw | 📈 161 points | 💬 80 comments
+**#3. The road to electric – in charts and data [UK]**
+- 🔗 [Read on HackerNews](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
+- 👤 By zeristor | 📈 33 points | 💬 13 comments
 
-**#4. Make macOS consistently bad unironically**
-- 🔗 [Read on HackerNews](https://lr0.org/blog/p/macos/)
-- 👤 By speckx | 📈 406 points | 💬 287 comments
+**#4. Technology: The (nearly) perfect USB cable tester does exist**
+- 🔗 [Read on HackerNews](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
+- 👤 By birdculture | 📈 56 points | 💬 13 comments
 
-**#5. Matadisco – Decentralized Data Discovery**
-- 🔗 [Read on HackerNews](https://matadisco.org/)
-- 👤 By biggestfan | 📈 5 points | 💬 0 comments
+**#5. AI overly affirms users asking for personal advice**
+- 🔗 [Read on HackerNews](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+- 👤 By oldfrenchfries | 📈 641 points | 💬 479 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
