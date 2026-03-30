@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 29, 2026
+> **Last Updated:** March 30, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Founder of GitLab battles cancer by founding companies**
-- 🔗 [Read on HackerNews](https://sytse.com/cancer/)
-- 👤 By bob_theslob646 | 📈 1028 points | 💬 210 comments
+**#1. The curious case of retro demo scene graphics**
+- 🔗 [Read on HackerNews](https://www.datagubbe.se/aipixels/)
+- 👤 By zdw | 📈 176 points | 💬 40 comments
 
-**#2. When Do We Become Adults, Really?**
-- 🔗 [Read on HackerNews](https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really)
-- 👤 By benbreen | 📈 23 points | 💬 35 comments
+**#2. I use excalidraw to manage my diagrams for my blog**
+- 🔗 [Read on HackerNews](https://blog.lysk.tech/excalidraw-frame-export/)
+- 👤 By mlysk | 📈 53 points | 💬 22 comments
 
-**#3. The road to electric – in charts and data [UK]**
-- 🔗 [Read on HackerNews](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
-- 👤 By zeristor | 📈 33 points | 💬 13 comments
+**#3. ChatGPT won't let you type until Cloudflare reads your React state**
+- 🔗 [Read on HackerNews](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+- 👤 By alberto-m | 📈 659 points | 💬 423 comments
 
-**#4. Technology: The (nearly) perfect USB cable tester does exist**
-- 🔗 [Read on HackerNews](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
-- 👤 By birdculture | 📈 56 points | 💬 13 comments
+**#4. Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models**
+- 🔗 [Read on HackerNews](https://dani2442.github.io/posts/continuous-rl/)
+- 👤 By sebzuddas | 📈 37 points | 💬 9 comments
 
-**#5. AI overly affirms users asking for personal advice**
-- 🔗 [Read on HackerNews](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
-- 👤 By oldfrenchfries | 📈 641 points | 💬 479 comments
+**#5. VHDL's Crown Jewel**
+- 🔗 [Read on HackerNews](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
+- 👤 By cokernel_hacker | 📈 58 points | 💬 26 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
