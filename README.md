@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 30, 2026
+> **Last Updated:** March 31, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The curious case of retro demo scene graphics**
-- 🔗 [Read on HackerNews](https://www.datagubbe.se/aipixels/)
-- 👤 By zdw | 📈 176 points | 💬 40 comments
+**#1. Axios compromised on NPM – Malicious versions drop remote access trojan**
+- 🔗 [Read on HackerNews](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
+- 👤 By mtud | 📈 804 points | 💬 287 comments
 
-**#2. I use excalidraw to manage my diagrams for my blog**
-- 🔗 [Read on HackerNews](https://blog.lysk.tech/excalidraw-frame-export/)
-- 👤 By mlysk | 📈 53 points | 💬 22 comments
+**#2. Claude Code full source code leaked on NPM**
+- 🔗 [Read on HackerNews](https://github.com/chatgptprojects/claude-code)
+- 👤 By dheerajmp | 📈 22 points | 💬 1 comments
 
-**#3. ChatGPT won't let you type until Cloudflare reads your React state**
-- 🔗 [Read on HackerNews](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
-- 👤 By alberto-m | 📈 659 points | 💬 423 comments
+**#3. Ollama is now powered by MLX on Apple Silicon in preview**
+- 🔗 [Read on HackerNews](https://ollama.com/blog/mlx)
+- 👤 By redundantly | 📈 266 points | 💬 122 comments
 
-**#4. Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models**
-- 🔗 [Read on HackerNews](https://dani2442.github.io/posts/continuous-rl/)
-- 👤 By sebzuddas | 📈 37 points | 💬 9 comments
+**#4. Artemis II is not safe to fly**
+- 🔗 [Read on HackerNews](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
+- 👤 By idlewords | 📈 338 points | 💬 213 comments
 
-**#5. VHDL's Crown Jewel**
-- 🔗 [Read on HackerNews](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
-- 👤 By cokernel_hacker | 📈 58 points | 💬 26 comments
+**#5. Universal Claude.md – cut Claude output tokens**
+- 🔗 [Read on HackerNews](https://github.com/drona23/claude-token-efficient)
+- 👤 By killme2008 | 📈 308 points | 💬 121 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
