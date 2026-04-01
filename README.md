@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** March 31, 2026
+> **Last Updated:** April 01, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Axios compromised on NPM – Malicious versions drop remote access trojan**
-- 🔗 [Read on HackerNews](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
-- 👤 By mtud | 📈 804 points | 💬 287 comments
+**#1. CERN levels up with new superconducting karts**
+- 🔗 [Read on HackerNews](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
+- 👤 By fnands | 📈 116 points | 💬 21 comments
 
-**#2. Claude Code full source code leaked on NPM**
-- 🔗 [Read on HackerNews](https://github.com/chatgptprojects/claude-code)
-- 👤 By dheerajmp | 📈 22 points | 💬 1 comments
+**#2. Claude Code Unpacked : A visual guide**
+- 🔗 [Read on HackerNews](https://ccunpacked.dev/)
+- 👤 By autocracy101 | 📈 400 points | 💬 107 comments
 
-**#3. Ollama is now powered by MLX on Apple Silicon in preview**
-- 🔗 [Read on HackerNews](https://ollama.com/blog/mlx)
-- 👤 By redundantly | 📈 266 points | 💬 122 comments
+**#3. Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)**
+- 🔗 [Read on HackerNews](https://github.com/yannick-cw/korb)
+- 👤 By wazHFsRy | 📈 71 points | 💬 16 comments
 
-**#4. Artemis II is not safe to fly**
-- 🔗 [Read on HackerNews](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
-- 👤 By idlewords | 📈 338 points | 💬 213 comments
+**#4. Bring Back MiniDV with This Raspberry Pi FireWire Hat**
+- 🔗 [Read on HackerNews](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/)
+- 👤 By ingve | 📈 64 points | 💬 11 comments
 
-**#5. Universal Claude.md – cut Claude output tokens**
-- 🔗 [Read on HackerNews](https://github.com/drona23/claude-token-efficient)
-- 👤 By killme2008 | 📈 308 points | 💬 121 comments
+**#5. TinyLoRA – Learning to Reason in 13 Parameters**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2602.04118)
+- 👤 By sorenjan | 📈 178 points | 💬 19 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
