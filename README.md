@@ -13,29 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 04, 2026
+> **Last Updated:** April 05, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#2. Artemis II crew take “spectacular” image of Earth**
-- 🔗 [Read on HackerNews](https://www.bbc.com/news/articles/ce8jzr423p9o)
-- 👤 By andsoitis | 📈 756 points | 💬 265 comments
+**#1. Show HN: A game where you build a GPU**
+- 🔗 [Read on HackerNews](https://jaso1024.com/mvidia/)
+- 👤 By Jaso1024 | 📈 744 points | 💬 157 comments
 
-**#3. iNaturalist**
-- 🔗 [Read on HackerNews](https://www.inaturalist.org/)
-- 👤 By bookofjoe | 📈 421 points | 💬 108 comments
+**#2. Lisette a little language inspired by Rust that compiles to Go**
+- 🔗 [Read on HackerNews](https://lisette.run/)
+- 👤 By jspdown | 📈 45 points | 💬 21 comments
 
-**#4. Some Unusual Trees**
-- 🔗 [Read on HackerNews](https://thoughts.wyounas.com/p/some-unusual-trees)
-- 👤 By simplegeek | 📈 5 points | 💬 1 comments
+**#3. Introduction to Computer Music (2009) [pdf]**
+- 🔗 [Read on HackerNews](https://composerprogrammer.com/introductiontocomputermusic.pdf)
+- 👤 By luu | 📈 155 points | 💬 50 comments
 
-**#5. Delve removed from Y Combinator**
-- 🔗 [Read on HackerNews](https://www.ycombinator.com/companies/delve)
-- 👤 By carabiner | 📈 291 points | 💬 180 comments
+**#4. OpenScreen is an open-source alternative to Screen Studio**
+- 🔗 [Read on HackerNews](https://github.com/siddharthvaddem/openscreen)
+- 👤 By jskopek | 📈 284 points | 💬 50 comments
+
+**#5. German implementation of eIDAS will require an Apple/Google account to function**
+- 🔗 [Read on HackerNews](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
+- 👤 By DyslexicAtheist | 📈 252 points | 💬 185 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
