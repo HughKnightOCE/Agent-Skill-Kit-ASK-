@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 05, 2026
+> **Last Updated:** April 06, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Show HN: A game where you build a GPU**
-- 🔗 [Read on HackerNews](https://jaso1024.com/mvidia/)
-- 👤 By Jaso1024 | 📈 744 points | 💬 157 comments
+**#1. Show HN: I built a tiny LLM to demystify how language models work**
+- 🔗 [Read on HackerNews](https://github.com/arman-bd/guppylm)
+- 👤 By armanified | 📈 485 points | 💬 43 comments
 
-**#2. Lisette a little language inspired by Rust that compiles to Go**
-- 🔗 [Read on HackerNews](https://lisette.run/)
-- 👤 By jspdown | 📈 45 points | 💬 21 comments
+**#2. Gemma 4 on iPhone**
+- 🔗 [Read on HackerNews](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+- 👤 By janandonly | 📈 643 points | 💬 177 comments
 
-**#3. Introduction to Computer Music (2009) [pdf]**
-- 🔗 [Read on HackerNews](https://composerprogrammer.com/introductiontocomputermusic.pdf)
-- 👤 By luu | 📈 155 points | 💬 50 comments
+**#3. Microsoft hasn't had a coherent GUI strategy since Petzold**
+- 🔗 [Read on HackerNews](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
+- 👤 By naves | 📈 462 points | 💬 291 comments
 
-**#4. OpenScreen is an open-source alternative to Screen Studio**
-- 🔗 [Read on HackerNews](https://github.com/siddharthvaddem/openscreen)
-- 👤 By jskopek | 📈 284 points | 💬 50 comments
+**#4. An open-source 240-antenna array to bounce signals off the Moon**
+- 🔗 [Read on HackerNews](https://moonrf.com/)
+- 👤 By hillcrestenigma | 📈 111 points | 💬 12 comments
 
-**#5. German implementation of eIDAS will require an Apple/Google account to function**
-- 🔗 [Read on HackerNews](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
-- 👤 By DyslexicAtheist | 📈 252 points | 💬 185 comments
+**#5. France pulls last gold held in US for $15B gain**
+- 🔗 [Read on HackerNews](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
+- 👤 By teleforce | 📈 96 points | 💬 73 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
