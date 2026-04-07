@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 06, 2026
+> **Last Updated:** April 07, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Show HN: I built a tiny LLM to demystify how language models work**
-- 🔗 [Read on HackerNews](https://github.com/arman-bd/guppylm)
-- 👤 By armanified | 📈 485 points | 💬 43 comments
+**#1. Every GPU That Mattered**
+- 🔗 [Read on HackerNews](https://sheets.works/data-viz/every-gpu)
+- 👤 By jonbaer | 📈 81 points | 💬 29 comments
 
-**#2. Gemma 4 on iPhone**
-- 🔗 [Read on HackerNews](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
-- 👤 By janandonly | 📈 643 points | 💬 177 comments
+**#2. My Experience as a Rice Farmer**
+- 🔗 [Read on HackerNews](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html)
+- 👤 By surprisetalk | 📈 162 points | 💬 63 comments
 
-**#3. Microsoft hasn't had a coherent GUI strategy since Petzold**
-- 🔗 [Read on HackerNews](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
-- 👤 By naves | 📈 462 points | 💬 291 comments
+**#3. Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS**
+- 🔗 [Read on HackerNews](https://github.com/matthartman/ghost-pepper)
+- 👤 By MattHart88 | 📈 383 points | 💬 174 comments
 
-**#4. An open-source 240-antenna array to bounce signals off the Moon**
-- 🔗 [Read on HackerNews](https://moonrf.com/)
-- 👤 By hillcrestenigma | 📈 111 points | 💬 12 comments
+**#4. Three hundred synths, 3 hardware projects, and one app**
+- 🔗 [Read on HackerNews](https://midi.guide/blog/three-hunded-synths-one-app/)
+- 👤 By ductionist | 📈 39 points | 💬 2 comments
 
-**#5. France pulls last gold held in US for $15B gain**
-- 🔗 [Read on HackerNews](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
-- 👤 By teleforce | 📈 96 points | 💬 73 comments
+**#5. Solod – A subset of Go that translates to C**
+- 🔗 [Read on HackerNews](https://github.com/solod-dev/solod)
+- 👤 By TheWiggles | 📈 137 points | 💬 34 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
