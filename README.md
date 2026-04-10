@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 09, 2026
+> **Last Updated:** April 10, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. LittleSnitch for Linux**
-- 🔗 [Read on HackerNews](https://obdev.at/products/littlesnitch-linux/index.html)
-- 👤 By pluc | 📈 752 points | 💬 242 comments
+**#1. How NASA built Artemis II’s fault-tolerant computer**
+- 🔗 [Read on HackerNews](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+- 👤 By speckx | 📈 392 points | 💬 137 comments
 
-**#2. Claude mixes up who said what and that's not OK**
-- 🔗 [Read on HackerNews](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
-- 👤 By sixhobbits | 📈 33 points | 💬 15 comments
+**#2. I still prefer MCP over skills**
+- 🔗 [Read on HackerNews](https://david.coffee/i-still-prefer-mcp-over-skills/)
+- 👤 By gmays | 📈 192 points | 💬 160 comments
 
-**#3. Open Source Security at Astral**
-- 🔗 [Read on HackerNews](https://astral.sh/blog/open-source-security-at-astral)
-- 👤 By vinhnx | 📈 194 points | 💬 38 comments
+**#3. ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity**
+- 🔗 [Read on HackerNews](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html)
+- 👤 By joko42 | 📈 68 points | 💬 13 comments
 
-**#4. I ported Mac OS X to the Nintendo Wii**
-- 🔗 [Read on HackerNews](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
-- 👤 By blkhp19 | 📈 1590 points | 💬 281 comments
+**#4. Native Instant Space Switching on macOS**
+- 🔗 [Read on HackerNews](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+- 👤 By PaulHoule | 📈 515 points | 💬 239 comments
 
-**#5. Creating the Futurescape for the Fifth Element [2019]**
-- 🔗 [Read on HackerNews](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)
-- 👤 By nixass | 📈 20 points | 💬 5 comments
+**#5. Show HN: Keeper – embedded secret store for Go (help me break it)**
+- 🔗 [Read on HackerNews](https://github.com/agberohq/keeper)
+- 👤 By babawere | 📈 6 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
