@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 12, 2026
+> **Last Updated:** April 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. AI Will Be Met with Violence, and Nothing Good Will Come of It**
-- 🔗 [Read on HackerNews](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
-- 👤 By gHeadphone | 📈 30 points | 💬 16 comments
+**#1. All elementary functions from a single binary operator**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2603.21852)
+- 👤 By pizza | 📈 433 points | 💬 117 comments
 
-**#2. Small models also found the vulnerabilities that Mythos found**
-- 🔗 [Read on HackerNews](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
-- 👤 By dominicq | 📈 1103 points | 💬 296 comments
+**#2. The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind**
+- 🔗 [Read on HackerNews](https://www.viktorcessan.com/the-economics-of-software-teams/)
+- 👤 By kiyanwang | 📈 159 points | 💬 78 comments
 
-**#3. I run multiple $10K MRR companies on a $20/month tech stack**
-- 🔗 [Read on HackerNews](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
-- 👤 By tradertef | 📈 187 points | 💬 117 comments
+**#3. Taking on CUDA with ROCm: 'One Step After Another'**
+- 🔗 [Read on HackerNews](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+- 👤 By mindcrime | 📈 181 points | 💬 135 comments
 
-**#4. An Interview with Pat Gelsinger**
-- 🔗 [Read on HackerNews](https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026)
-- 👤 By zdw | 📈 23 points | 💬 4 comments
+**#4. DIY Soft Drinks**
+- 🔗 [Read on HackerNews](https://blinry.org/diy-soft-drinks/)
+- 👤 By _Microft | 📈 473 points | 💬 131 comments
 
-**#5. Tofolli gates are all you need**
-- 🔗 [Read on HackerNews](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/)
-- 👤 By ibobev | 📈 48 points | 💬 6 comments
+**#5. Bring Back Idiomatic Design (2023)**
+- 🔗 [Read on HackerNews](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
+- 👤 By phil294 | 📈 565 points | 💬 323 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
