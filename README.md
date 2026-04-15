@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 14, 2026
+> **Last Updated:** April 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. DaVinci Resolve – Photo**
-- 🔗 [Read on HackerNews](https://www.blackmagicdesign.com/products/davinciresolve/photo)
-- 👤 By thebiblelover7 | 📈 578 points | 💬 146 comments
+**#1. Want to Write a Compiler? Just Read These Two Papers (2008)**
+- 🔗 [Read on HackerNews](https://prog21.dadgum.com/30.html)
+- 👤 By downbad_ | 📈 36 points | 💬 9 comments
 
-**#2. A new spam policy for “back button hijacking”**
-- 🔗 [Read on HackerNews](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
-- 👤 By zdw | 📈 368 points | 💬 224 comments
+**#2. Fixing a 20-year-old bug in Enlightenment E16**
+- 🔗 [Read on HackerNews](https://iczelia.net/posts/e16-20-year-old-bug/)
+- 👤 By snoofydude | 📈 145 points | 💬 43 comments
 
-**#3. Backblaze has stopped backing up your data**
-- 🔗 [Read on HackerNews](https://rareese.com/posts/backblaze/)
-- 👤 By rrreese | 📈 104 points | 💬 49 comments
+**#3. Good Sleep, Good Learning (2012)**
+- 🔗 [Read on HackerNews](https://super-memory.com/articles/sleep.htm)
+- 👤 By downbad_ | 📈 20 points | 💬 2 comments
 
-**#4. Someone bought 30 WordPress plugins and planted a backdoor in all of them**
-- 🔗 [Read on HackerNews](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
-- 👤 By speckx | 📈 955 points | 💬 268 comments
+**#4. Wacli – WhatsApp CLI: sync, search, send**
+- 🔗 [Read on HackerNews](https://github.com/steipete/wacli)
+- 👤 By dinakars777 | 📈 101 points | 💬 76 comments
 
-**#5. GitHub Stacked PRs**
-- 🔗 [Read on HackerNews](https://github.github.com/gh-stack/)
-- 👤 By ezekg | 📈 717 points | 💬 379 comments
+**#5. Claude Code Routines**
+- 🔗 [Read on HackerNews](https://code.claude.com/docs/en/routines)
+- 👤 By matthieu_bl | 📈 613 points | 💬 357 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
