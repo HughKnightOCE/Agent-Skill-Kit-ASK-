@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 15, 2026
+> **Last Updated:** April 16, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Want to Write a Compiler? Just Read These Two Papers (2008)**
-- 🔗 [Read on HackerNews](https://prog21.dadgum.com/30.html)
-- 👤 By downbad_ | 📈 36 points | 💬 9 comments
+**#1. IPv6 traffic crosses the 50% mark**
+- 🔗 [Read on HackerNews](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
+- 👤 By Aaronmacaron | 📈 258 points | 💬 156 comments
 
-**#2. Fixing a 20-year-old bug in Enlightenment E16**
-- 🔗 [Read on HackerNews](https://iczelia.net/posts/e16-20-year-old-bug/)
-- 👤 By snoofydude | 📈 145 points | 💬 43 comments
+**#2. Darkbloom – Private inference on idle Macs**
+- 🔗 [Read on HackerNews](https://darkbloom.dev)
+- 👤 By twapi | 📈 247 points | 💬 127 comments
 
-**#3. Good Sleep, Good Learning (2012)**
-- 🔗 [Read on HackerNews](https://super-memory.com/articles/sleep.htm)
-- 👤 By downbad_ | 📈 20 points | 💬 2 comments
+**#3. FSF trying to contact Google about spammer sending 10k+ mails from Gmail account**
+- 🔗 [Read on HackerNews](https://daedal.io/@thomzane/116410863009847575)
+- 👤 By pabs3 | 📈 164 points | 💬 94 comments
 
-**#4. Wacli – WhatsApp CLI: sync, search, send**
-- 🔗 [Read on HackerNews](https://github.com/steipete/wacli)
-- 👤 By dinakars777 | 📈 101 points | 💬 76 comments
+**#4. Cybersecurity looks like proof of work now**
+- 🔗 [Read on HackerNews](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
+- 👤 By dbreunig | 📈 427 points | 💬 153 comments
 
-**#5. Claude Code Routines**
-- 🔗 [Read on HackerNews](https://code.claude.com/docs/en/routines)
-- 👤 By matthieu_bl | 📈 613 points | 💬 357 comments
+**#5. The paper computer**
+- 🔗 [Read on HackerNews](https://jsomers.net/blog/the-paper-computer)
+- 👤 By jsomers | 📈 148 points | 💬 35 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
