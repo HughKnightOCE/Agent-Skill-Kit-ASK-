@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 17, 2026
+> **Last Updated:** April 18, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Ada, Its Design, and the Language That Built the Languages**
-- 🔗 [Read on HackerNews](https://www.iqiipi.com/the-quiet-colossus.html)
-- 👤 By mpweiher | 📈 52 points | 💬 11 comments
+**#1. Category Theory Illustrated – Orders**
+- 🔗 [Read on HackerNews](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
+- 👤 By boris_m | 📈 67 points | 💬 13 comments
 
-**#2. Claude Opus 4.7**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-opus-4-7)
-- 👤 By meetpateltech | 📈 1756 points | 💬 1265 comments
+**#2. Amiga Graphics**
+- 🔗 [Read on HackerNews](https://amiga.lychesis.net/)
+- 👤 By sph | 📈 67 points | 💬 4 comments
 
-**#3. Codex for almost everything**
-- 🔗 [Read on HackerNews](https://openai.com/index/codex-for-almost-everything/)
-- 👤 By mikeevans | 📈 884 points | 💬 455 comments
+**#3. Claude Design**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-design-anthropic-labs)
+- 👤 By meetpateltech | 📈 1047 points | 💬 683 comments
 
-**#4. FIM – Linux framebuffer image viewer**
-- 🔗 [Read on HackerNews](https://www.nongnu.org/fbi-improved/)
-- 👤 By Mr_Minderbinder | 📈 47 points | 💬 23 comments
+**#4. Michael Rabin Has Died**
+- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Michael_O._Rabin)
+- 👤 By tkhattra | 📈 40 points | 💬 1 comments
 
-**#5. A Python Interpreter Written in Python**
-- 🔗 [Read on HackerNews](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
-- 👤 By xk3 | 📈 66 points | 💬 18 comments
+**#5. Show HN: I made a calculator that works over disjoint sets of intervals**
+- 🔗 [Read on HackerNews](https://victorpoughon.github.io/interval-calculator/)
+- 👤 By fouronnes3 | 📈 156 points | 💬 28 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
