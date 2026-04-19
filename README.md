@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 18, 2026
+> **Last Updated:** April 19, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Category Theory Illustrated – Orders**
-- 🔗 [Read on HackerNews](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
-- 👤 By boris_m | 📈 67 points | 💬 13 comments
+**#1. SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)**
+- 🔗 [Read on HackerNews](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
+- 👤 By Eridanus2 | 📈 31 points | 💬 12 comments
 
-**#2. Amiga Graphics**
-- 🔗 [Read on HackerNews](https://amiga.lychesis.net/)
-- 👤 By sph | 📈 67 points | 💬 4 comments
+**#2. NIST scientists create 'any wavelength' lasers**
+- 🔗 [Read on HackerNews](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+- 👤 By rbanffy | 📈 310 points | 💬 134 comments
 
-**#3. Claude Design**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-design-anthropic-labs)
-- 👤 By meetpateltech | 📈 1047 points | 💬 683 comments
+**#3. Game Devs Explain the Tricks Involved with Letting You Pause a Game**
+- 🔗 [Read on HackerNews](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
+- 👤 By speckx | 📈 102 points | 💬 78 comments
 
-**#4. Michael Rabin Has Died**
-- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Michael_O._Rabin)
-- 👤 By tkhattra | 📈 40 points | 💬 1 comments
+**#4. What are skiplists good for?**
+- 🔗 [Read on HackerNews](https://antithesis.com/blog/2026/skiptrees/)
+- 👤 By mfiguiere | 📈 75 points | 💬 18 comments
 
-**#5. Show HN: I made a calculator that works over disjoint sets of intervals**
-- 🔗 [Read on HackerNews](https://victorpoughon.github.io/interval-calculator/)
-- 👤 By fouronnes3 | 📈 156 points | 💬 28 comments
+**#5. Anonymous request-token comparisons from Opus 4.6 and Opus 4.7**
+- 🔗 [Read on HackerNews](https://tokens.billchambers.me/leaderboard)
+- 👤 By anabranch | 📈 518 points | 💬 509 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
