@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 19, 2026
+> **Last Updated:** April 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)**
-- 🔗 [Read on HackerNews](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
-- 👤 By Eridanus2 | 📈 31 points | 💬 12 comments
+**#1. GitHub's Fake Star Economy**
+- 🔗 [Read on HackerNews](https://awesomeagents.ai/news/github-fake-stars-investigation/)
+- 👤 By Liriel | 📈 123 points | 💬 81 comments
 
-**#2. NIST scientists create 'any wavelength' lasers**
-- 🔗 [Read on HackerNews](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
-- 👤 By rbanffy | 📈 310 points | 💬 134 comments
+**#2. OpenClaw isn't fooling me. I remember MS-DOS**
+- 🔗 [Read on HackerNews](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
+- 👤 By feigewalnuss | 📈 106 points | 💬 83 comments
 
-**#3. Game Devs Explain the Tricks Involved with Letting You Pause a Game**
-- 🔗 [Read on HackerNews](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
-- 👤 By speckx | 📈 102 points | 💬 78 comments
+**#3. Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery**
+- 🔗 [Read on HackerNews](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977)
+- 👤 By janandonly | 📈 62 points | 💬 8 comments
 
-**#4. What are skiplists good for?**
-- 🔗 [Read on HackerNews](https://antithesis.com/blog/2026/skiptrees/)
-- 👤 By mfiguiere | 📈 75 points | 💬 18 comments
+**#4. SDF Public Access Unix System**
+- 🔗 [Read on HackerNews](https://sdf.org/?ssh)
+- 👤 By neehao | 📈 77 points | 💬 30 comments
 
-**#5. Anonymous request-token comparisons from Opus 4.6 and Opus 4.7**
-- 🔗 [Read on HackerNews](https://tokens.billchambers.me/leaderboard)
-- 👤 By anabranch | 📈 518 points | 💬 509 comments
+**#5. Vercel April 2026 security incident**
+- 🔗 [Read on HackerNews](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+- 👤 By colesantiago | 📈 759 points | 💬 432 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
