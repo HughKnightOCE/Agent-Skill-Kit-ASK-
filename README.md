@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 20, 2026
+> **Last Updated:** April 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GitHub's Fake Star Economy**
-- 🔗 [Read on HackerNews](https://awesomeagents.ai/news/github-fake-stars-investigation/)
-- 👤 By Liriel | 📈 123 points | 💬 81 comments
+**#1. John Ternus to become Apple CEO**
+- 🔗 [Read on HackerNews](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+- 👤 By schappim | 📈 1814 points | 💬 968 comments
 
-**#2. OpenClaw isn't fooling me. I remember MS-DOS**
-- 🔗 [Read on HackerNews](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
-- 👤 By feigewalnuss | 📈 106 points | 💬 83 comments
+**#2. Anthropic says OpenClaw-style Claude CLI usage is allowed again**
+- 🔗 [Read on HackerNews](https://docs.openclaw.ai/providers/anthropic)
+- 👤 By jmsflknr | 📈 200 points | 💬 123 comments
 
-**#3. Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery**
-- 🔗 [Read on HackerNews](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977)
-- 👤 By janandonly | 📈 62 points | 💬 8 comments
+**#3. Louis Zocchi, inventor of the d100, has died**
+- 🔗 [Read on HackerNews](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
+- 👤 By sgbeal | 📈 56 points | 💬 17 comments
 
-**#4. SDF Public Access Unix System**
-- 🔗 [Read on HackerNews](https://sdf.org/?ssh)
-- 👤 By neehao | 📈 77 points | 💬 30 comments
+**#4. MNT Reform is an open hardware laptop, designed and assembled in Germany**
+- 🔗 [Read on HackerNews](http://mnt.stanleylieber.com/reform/)
+- 👤 By speckx | 📈 44 points | 💬 11 comments
 
-**#5. Vercel April 2026 security incident**
-- 🔗 [Read on HackerNews](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-- 👤 By colesantiago | 📈 759 points | 💬 432 comments
+**#5. The Beauty of Bonsai Styles**
+- 🔗 [Read on HackerNews](https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles)
+- 👤 By lagniappe | 📈 82 points | 💬 18 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
