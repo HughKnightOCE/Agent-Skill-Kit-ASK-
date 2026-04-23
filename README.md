@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 22, 2026
+> **Last Updated:** April 23, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Windows 9x Subsystem for Linux**
-- 🔗 [Read on HackerNews](https://social.hails.org/@hailey/116446826733136456)
-- 👤 By sohkamyung | 📈 53 points | 💬 12 comments
+**#1. I am building a cloud**
+- 🔗 [Read on HackerNews](https://crawshaw.io/blog/building-a-cloud)
+- 👤 By bumbledraven | 📈 374 points | 💬 186 comments
 
-**#2. Making RAM at Home [video]**
-- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=h6GWikWlAQA)
-- 👤 By kaipereira | 📈 354 points | 💬 106 comments
+**#2. Alberta startup sells no-tech tractors for half price**
+- 🔗 [Read on HackerNews](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+- 👤 By Kaibeezy | 📈 1784 points | 💬 569 comments
 
-**#3. ChatGPT Images 2.0**
-- 🔗 [Read on HackerNews](https://openai.com/index/introducing-chatgpt-images-2-0/)
-- 👤 By wahnfrieden | 📈 829 points | 💬 649 comments
+**#3. Your hex editor should color-code bytes**
+- 🔗 [Read on HackerNews](https://simonomi.dev/blog/color-code-your-bytes/)
+- 👤 By tobr | 📈 94 points | 💬 17 comments
 
-**#4. All your agents are going async**
-- 🔗 [Read on HackerNews](https://zknill.io/posts/all-your-agents-are-going-async/)
-- 👤 By zknill | 📈 21 points | 💬 17 comments
+**#4. Apple fixes bug that cops used to extract deleted chat messages from iPhones**
+- 🔗 [Read on HackerNews](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+- 👤 By cdrnsf | 📈 611 points | 💬 149 comments
 
-**#5. Garbage Collection Without Unsafe Code**
-- 🔗 [Read on HackerNews](https://fitzgen.com/2024/02/06/safe-gc.html)
-- 👤 By foota | 📈 54 points | 💬 6 comments
+**#5. Fundamental Theorem of Calculus**
+- 🔗 [Read on HackerNews](https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/)
+- 👤 By dalvrosa | 📈 9 points | 💬 3 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
