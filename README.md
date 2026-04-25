@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 24, 2026
+> **Last Updated:** April 25, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. S. Korea police arrest man over AI image of runaway wolf that misled authorities**
-- 🔗 [Read on HackerNews](https://www.bbc.com/news/articles/c4gx1n0dl9no)
-- 👤 By giuliomagnifico | 📈 39 points | 💬 16 comments
+**#1. Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)**
+- 🔗 [Read on HackerNews](https://github.com/nex-crm/wuphf)
+- 👤 By najmuzzaman | 📈 44 points | 💬 13 comments
 
-**#2. DeepSeek v4**
-- 🔗 [Read on HackerNews](https://api-docs.deepseek.com/)
-- 👤 By impact_sy | 📈 996 points | 💬 643 comments
+**#2. New 10 GbE USB adapters are cooler, smaller, cheaper**
+- 🔗 [Read on HackerNews](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
+- 👤 By calcifer | 📈 159 points | 💬 47 comments
 
-**#3. Spinel: Ruby AOT Native Compiler**
-- 🔗 [Read on HackerNews](https://github.com/matz/spinel)
-- 👤 By dluan | 📈 46 points | 💬 10 comments
+**#3. Google plans to invest up to $40B in Anthropic**
+- 🔗 [Read on HackerNews](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
+- 👤 By elffjs | 📈 585 points | 💬 560 comments
 
-**#4. Why I Write (1946)**
-- 🔗 [Read on HackerNews](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
-- 👤 By RyanShook | 📈 172 points | 💬 44 comments
+**#4. A 3D Body from Eight Questions – No Photo, No GPU**
+- 🔗 [Read on HackerNews](https://clad.you/blog/posts/questionnaire-mlp/)
+- 👤 By arkadiuss | 📈 63 points | 💬 9 comments
 
-**#5. Composition Shouldn't be this Hard**
-- 🔗 [Read on HackerNews](https://www.cambra.dev/blog/announcement/)
-- 👤 By larelli | 📈 56 points | 💬 35 comments
+**#5. Paraloid B-72**
+- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Paraloid_B-72)
+- 👤 By Ariarule | 📈 191 points | 💬 37 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
