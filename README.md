@@ -13,33 +13,30 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 25, 2026
+> **Last Updated:** April 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)**
-- 🔗 [Read on HackerNews](https://github.com/nex-crm/wuphf)
-- 👤 By najmuzzaman | 📈 44 points | 💬 13 comments
+**#1. The West Forgot How to Make Things. Now It's Forgetting How to Code**
+- 🔗 [Read on HackerNews](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
+- 👤 By milkglass | 📈 357 points | 💬 169 comments
 
-**#2. New 10 GbE USB adapters are cooler, smaller, cheaper**
-- 🔗 [Read on HackerNews](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
-- 👤 By calcifer | 📈 159 points | 💬 47 comments
+**#2. Why has there been so little progress on Alzheimer's disease?**
+- 🔗 [Read on HackerNews](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
+- 👤 By chiefalchemist | 📈 230 points | 💬 129 comments
 
-**#3. Google plans to invest up to $40B in Anthropic**
-- 🔗 [Read on HackerNews](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
-- 👤 By elffjs | 📈 585 points | 💬 560 comments
+**#3. Amateur armed with ChatGPT solves an Erdős problem**
+- 🔗 [Read on HackerNews](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)
+- 👤 By pr337h4m | 📈 378 points | 💬 239 comments
 
-**#4. A 3D Body from Eight Questions – No Photo, No GPU**
-- 🔗 [Read on HackerNews](https://clad.you/blog/posts/questionnaire-mlp/)
-- 👤 By arkadiuss | 📈 63 points | 💬 9 comments
-
-**#5. Paraloid B-72**
-- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Paraloid_B-72)
-- 👤 By Ariarule | 📈 191 points | 💬 37 comments
+**#4. USB Cheat Sheet (2022)**
+- 🔗 [Read on HackerNews](https://fabiensanglard.net/usbcheat/index.html)
+- 👤 By gwerbret | 📈 321 points | 💬 58 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
