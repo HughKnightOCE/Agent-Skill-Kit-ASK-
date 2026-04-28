@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 27, 2026
+> **Last Updated:** April 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Flipdiscs**
-- 🔗 [Read on HackerNews](https://flipdisc.io)
-- 👤 By skogstokig | 📈 312 points | 💬 56 comments
+**#1. An Update on GitHub Availability**
+- 🔗 [Read on HackerNews](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
+- 👤 By salkahfi | 📈 68 points | 💬 30 comments
 
-**#2. I bought Friendster for $30k – Here's what I'm doing with it**
-- 🔗 [Read on HackerNews](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
-- 👤 By ca98am79 | 📈 850 points | 💬 433 comments
+**#2. GTFOBins**
+- 🔗 [Read on HackerNews](https://gtfobins.org/)
+- 👤 By StefanBatory | 📈 220 points | 💬 62 comments
 
-**#3. Fully Featured Audio DSP Firmware for the Raspberry Pi Pico**
-- 🔗 [Read on HackerNews](https://github.com/WeebLabs/DSPi)
-- 👤 By BoingBoomTschak | 📈 17 points | 💬 2 comments
+**#3. The Social Edge of Intellgience: Individual Gain, Collective Loss**
+- 🔗 [Read on HackerNews](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/)
+- 👤 By ForHackernews | 📈 14 points | 💬 6 comments
 
-**#4. Bob Odenkirk would like to remind you that life is a meaningless farce**
-- 🔗 [Read on HackerNews](https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html)
-- 👤 By wslh | 📈 68 points | 💬 45 comments
+**#4. Talkie: a 13B vintage language model from 1930**
+- 🔗 [Read on HackerNews](https://talkie-lm.com/introducing-talkie)
+- 👤 By jekude | 📈 389 points | 💬 141 comments
 
-**#5. AI should elevate your thinking, not replace it**
-- 🔗 [Read on HackerNews](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
-- 👤 By koshyjohn | 📈 529 points | 💬 389 comments
+**#5. The World's Most Complex Machine**
+- 🔗 [Read on HackerNews](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)
+- 👤 By mellosouls | 📈 59 points | 💬 18 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
