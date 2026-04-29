@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 28, 2026
+> **Last Updated:** April 29, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. An Update on GitHub Availability**
-- 🔗 [Read on HackerNews](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
-- 👤 By salkahfi | 📈 68 points | 💬 30 comments
+**#1. Soft launch of open-source code platform for government**
+- 🔗 [Read on HackerNews](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
+- 👤 By e12e | 📈 78 points | 💬 40 comments
 
-**#2. GTFOBins**
-- 🔗 [Read on HackerNews](https://gtfobins.org/)
-- 👤 By StefanBatory | 📈 220 points | 💬 62 comments
+**#2. Ghostty is leaving GitHub**
+- 🔗 [Read on HackerNews](https://mitchellh.com/writing/ghostty-leaving-github)
+- 👤 By WadeGrimridge | 📈 2680 points | 💬 786 comments
 
-**#3. The Social Edge of Intellgience: Individual Gain, Collective Loss**
-- 🔗 [Read on HackerNews](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/)
-- 👤 By ForHackernews | 📈 14 points | 💬 6 comments
+**#3. Show HN: Rip.so – a graveyard for dead internet things**
+- 🔗 [Read on HackerNews](https://rip.so)
+- 👤 By bozdemir | 📈 48 points | 💬 27 comments
 
-**#4. Talkie: a 13B vintage language model from 1930**
-- 🔗 [Read on HackerNews](https://talkie-lm.com/introducing-talkie)
-- 👤 By jekude | 📈 389 points | 💬 141 comments
+**#4. Bugs Rust won't catch**
+- 🔗 [Read on HackerNews](https://corrode.dev/blog/bugs-rust-wont-catch/)
+- 👤 By lwhsiao | 📈 329 points | 💬 146 comments
 
-**#5. The World's Most Complex Machine**
-- 🔗 [Read on HackerNews](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)
-- 👤 By mellosouls | 📈 59 points | 💬 18 comments
+**#5. HardenedBSD Is Now Officially on Radicle**
+- 🔗 [Read on HackerNews](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
+- 👤 By lftherios | 📈 79 points | 💬 11 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
