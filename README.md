@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 29, 2026
+> **Last Updated:** April 30, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Soft launch of open-source code platform for government**
-- 🔗 [Read on HackerNews](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
-- 👤 By e12e | 📈 78 points | 💬 40 comments
+**#1. Granite 4.1: IBM's 8B Model Matching 32B MoE**
+- 🔗 [Read on HackerNews](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
+- 👤 By steveharing1 | 📈 21 points | 💬 5 comments
 
-**#2. Ghostty is leaving GitHub**
-- 🔗 [Read on HackerNews](https://mitchellh.com/writing/ghostty-leaving-github)
-- 👤 By WadeGrimridge | 📈 2680 points | 💬 786 comments
+**#2. Where the goblins came from**
+- 🔗 [Read on HackerNews](https://openai.com/index/where-the-goblins-came-from/)
+- 👤 By ilreb | 📈 680 points | 💬 370 comments
 
-**#3. Show HN: Rip.so – a graveyard for dead internet things**
-- 🔗 [Read on HackerNews](https://rip.so)
-- 👤 By bozdemir | 📈 48 points | 💬 27 comments
+**#3. Noctua releases official 3D CAD models for its cooling fans**
+- 🔗 [Read on HackerNews](https://www.noctua.at/en/3d-cad-models)
+- 👤 By embedding-shape | 📈 277 points | 💬 59 comments
 
-**#4. Bugs Rust won't catch**
-- 🔗 [Read on HackerNews](https://corrode.dev/blog/bugs-rust-wont-catch/)
-- 👤 By lwhsiao | 📈 329 points | 💬 146 comments
+**#4. Zed 1.0**
+- 🔗 [Read on HackerNews](https://zed.dev/blog/zed-1-0)
+- 👤 By salkahfi | 📈 1879 points | 💬 597 comments
 
-**#5. HardenedBSD Is Now Officially on Radicle**
-- 🔗 [Read on HackerNews](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
-- 👤 By lftherios | 📈 79 points | 💬 11 comments
+**#5. The Zig project's rationale for their anti-AI contribution policy**
+- 🔗 [Read on HackerNews](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+- 👤 By lumpa | 📈 316 points | 💬 147 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
