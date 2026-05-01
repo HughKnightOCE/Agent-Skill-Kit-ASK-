@@ -13,33 +13,30 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** April 30, 2026
+> **Last Updated:** May 01, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Granite 4.1: IBM's 8B Model Matching 32B MoE**
-- 🔗 [Read on HackerNews](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
-- 👤 By steveharing1 | 📈 21 points | 💬 5 comments
+**#1. Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables**
+- 🔗 [Read on HackerNews](https://github.com/darrylmorley/whatcable)
+- 👤 By sleepingNomad | 📈 52 points | 💬 8 comments
 
-**#2. Where the goblins came from**
-- 🔗 [Read on HackerNews](https://openai.com/index/where-the-goblins-came-from/)
-- 👤 By ilreb | 📈 680 points | 💬 370 comments
+**#2. Auto Polo**
+- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Auto_polo)
+- 👤 By canjobear | 📈 47 points | 💬 13 comments
 
-**#3. Noctua releases official 3D CAD models for its cooling fans**
-- 🔗 [Read on HackerNews](https://www.noctua.at/en/3d-cad-models)
-- 👤 By embedding-shape | 📈 277 points | 💬 59 comments
+**#4. If I could make my own GitHub**
+- 🔗 [Read on HackerNews](https://matduggan.com/if-i-could-make-my-own-github/)
+- 👤 By vinhnx | 📈 48 points | 💬 32 comments
 
-**#4. Zed 1.0**
-- 🔗 [Read on HackerNews](https://zed.dev/blog/zed-1-0)
-- 👤 By salkahfi | 📈 1879 points | 💬 597 comments
-
-**#5. The Zig project's rationale for their anti-AI contribution policy**
-- 🔗 [Read on HackerNews](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
-- 👤 By lumpa | 📈 316 points | 💬 147 comments
+**#5. How Mark Klein told the EFF about Room 641A [book excerpt]**
+- 🔗 [Read on HackerNews](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
+- 👤 By the-mitr | 📈 604 points | 💬 198 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
