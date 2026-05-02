@@ -13,29 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 01, 2026
+> **Last Updated:** May 02, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables**
-- 🔗 [Read on HackerNews](https://github.com/darrylmorley/whatcable)
-- 👤 By sleepingNomad | 📈 52 points | 💬 8 comments
+**#1. Why does it take so long to release black fan versions?**
+- 🔗 [Read on HackerNews](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
+- 👤 By buildbot | 📈 240 points | 💬 108 comments
 
-**#2. Auto Polo**
-- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Auto_polo)
-- 👤 By canjobear | 📈 47 points | 💬 13 comments
+**#2. Ti-84 Evo**
+- 🔗 [Read on HackerNews](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
+- 👤 By thatxliner | 📈 455 points | 💬 387 comments
 
-**#4. If I could make my own GitHub**
-- 🔗 [Read on HackerNews](https://matduggan.com/if-i-could-make-my-own-github/)
-- 👤 By vinhnx | 📈 48 points | 💬 32 comments
+**#3. Show HN: Filling PDF forms with AI using client-side tool calling**
+- 🔗 [Read on HackerNews](https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en)
+- 👤 By nip | 📈 6 points | 💬 1 comments
 
-**#5. How Mark Klein told the EFF about Room 641A [book excerpt]**
-- 🔗 [Read on HackerNews](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
-- 👤 By the-mitr | 📈 604 points | 💬 198 comments
+**#4. Show HN: Browser-based light pollution simulator using real photometric data**
+- 🔗 [Read on HackerNews](https://iesna.eu/?wasm=skyglow_demo)
+- 👤 By holg | 📈 7 points | 💬 0 comments
+
+**#5. SKILL.make: Makefile Styled Skill File**
+- 🔗 [Read on HackerNews](https://github.com/Teaonly/SKILL.make)
+- 👤 By teaonly | 📈 15 points | 💬 3 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
