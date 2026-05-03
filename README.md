@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 02, 2026
+> **Last Updated:** May 03, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Why does it take so long to release black fan versions?**
-- 🔗 [Read on HackerNews](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
-- 👤 By buildbot | 📈 240 points | 💬 108 comments
+**#1. A couple million lines of Haskell: Production engineering at Mercury**
+- 🔗 [Read on HackerNews](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+- 👤 By unignorant | 📈 219 points | 💬 89 comments
 
-**#2. Ti-84 Evo**
-- 🔗 [Read on HackerNews](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
-- 👤 By thatxliner | 📈 455 points | 💬 387 comments
+**#2. This Month in Ladybird – April 2026**
+- 🔗 [Read on HackerNews](https://ladybird.org/newsletter/2026-04-30/)
+- 👤 By richardboegli | 📈 330 points | 💬 74 comments
 
-**#3. Show HN: Filling PDF forms with AI using client-side tool calling**
-- 🔗 [Read on HackerNews](https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en)
-- 👤 By nip | 📈 6 points | 💬 1 comments
+**#3. Unverified Evaluations in Dusk's PLONK**
+- 🔗 [Read on HackerNews](https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/)
+- 👤 By deut-erium | 📈 22 points | 💬 2 comments
 
-**#4. Show HN: Browser-based light pollution simulator using real photometric data**
-- 🔗 [Read on HackerNews](https://iesna.eu/?wasm=skyglow_demo)
-- 👤 By holg | 📈 7 points | 💬 0 comments
+**#4. Dav2d**
+- 🔗 [Read on HackerNews](https://code.videolan.org/videolan/dav2d)
+- 👤 By dabinat | 📈 477 points | 💬 131 comments
 
-**#5. SKILL.make: Makefile Styled Skill File**
-- 🔗 [Read on HackerNews](https://github.com/Teaonly/SKILL.make)
-- 👤 By teaonly | 📈 15 points | 💬 3 comments
+**#5. Six Years Perfecting Maps on WatchOS**
+- 🔗 [Read on HackerNews](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
+- 👤 By valzevul | 📈 293 points | 💬 67 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
