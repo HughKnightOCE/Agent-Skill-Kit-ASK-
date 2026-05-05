@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 04, 2026
+> **Last Updated:** May 05, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GameStop makes $55.5B takeover offer for eBay**
-- 🔗 [Read on HackerNews](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
-- 👤 By n1b0m | 📈 111 points | 💬 68 comments
+**#1. Async Rust never left the MVP state**
+- 🔗 [Read on HackerNews](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
+- 👤 By pjmlp | 📈 163 points | 💬 80 comments
 
-**#2. Trademark violation: Fake Notepad++ for Mac**
-- 🔗 [Read on HackerNews](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
-- 👤 By maxloh | 📈 150 points | 💬 48 comments
+**#2. Should I Run Plain Docker Compose in Production in 2026?**
+- 🔗 [Read on HackerNews](https://distr.sh/blog/running-docker-in-production/)
+- 👤 By pmig | 📈 40 points | 💬 24 comments
 
-**#3. Using “underdrawings” for accurate text and numbers**
-- 🔗 [Read on HackerNews](https://samcollins.blog/underdrawings/)
-- 👤 By samcollins | 📈 260 points | 💬 83 comments
+**#3. Bun is being ported from Zig to Rust**
+- 🔗 [Read on HackerNews](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
+- 👤 By SergeAx | 📈 530 points | 💬 376 comments
 
-**#4. Debunking the CIA's “magic” heartbeat sensor [video]**
-- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=SVTPv4sI_Jc)
-- 👤 By areoform | 📈 33 points | 💬 27 comments
+**#4. Empty Screenings – Finds AMC movie screenings with few or no tickets sold**
+- 🔗 [Read on HackerNews](https://walzr.com/empty-screenings)
+- 👤 By MrBuddyCasino | 📈 158 points | 💬 128 comments
 
-**#5. Texico: Learn the principles of programming without even touching a computer**
-- 🔗 [Read on HackerNews](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
-- 👤 By o4c | 📈 57 points | 💬 2 comments
+**#5. Lessons for Agentic Coding: What should we do when code is cheap?**
+- 🔗 [Read on HackerNews](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
+- 👤 By ingve | 📈 70 points | 💬 56 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
