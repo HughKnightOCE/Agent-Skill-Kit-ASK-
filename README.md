@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 05, 2026
+> **Last Updated:** May 06, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Async Rust never left the MVP state**
-- 🔗 [Read on HackerNews](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
-- 👤 By pjmlp | 📈 163 points | 💬 80 comments
+**#1. Show HN: Red Squares – GitHub outages as contributions**
+- 🔗 [Read on HackerNews](https://red-squares.cian.lol/)
+- 👤 By cianmm | 📈 26 points | 💬 6 comments
 
-**#2. Should I Run Plain Docker Compose in Production in 2026?**
-- 🔗 [Read on HackerNews](https://distr.sh/blog/running-docker-in-production/)
-- 👤 By pmig | 📈 40 points | 💬 24 comments
+**#2. Agents can now create Cloudflare accounts, buy domains, and deploy**
+- 🔗 [Read on HackerNews](https://blog.cloudflare.com/agents-stripe-projects/)
+- 👤 By rolph | 📈 364 points | 💬 203 comments
 
-**#3. Bun is being ported from Zig to Rust**
-- 🔗 [Read on HackerNews](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
-- 👤 By SergeAx | 📈 530 points | 💬 376 comments
+**#3. StarFighter 16-Inch**
+- 🔗 [Read on HackerNews](https://us.starlabs.systems/pages/starfighter)
+- 👤 By signa11 | 📈 377 points | 💬 198 comments
 
-**#4. Empty Screenings – Finds AMC movie screenings with few or no tickets sold**
-- 🔗 [Read on HackerNews](https://walzr.com/empty-screenings)
-- 👤 By MrBuddyCasino | 📈 158 points | 💬 128 comments
+**#4. CARA 2.0 – “I Built a Better Robot Dog”**
+- 🔗 [Read on HackerNews](https://www.aaedmusa.com/projects/cara2)
+- 👤 By hakonjdjohnsen | 📈 180 points | 💬 24 comments
 
-**#5. Lessons for Agentic Coding: What should we do when code is cheap?**
-- 🔗 [Read on HackerNews](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
-- 👤 By ingve | 📈 70 points | 💬 56 comments
+**#5. Batteries Not Included, or Required, for These Smart Home Sensors**
+- 🔗 [Read on HackerNews](https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors)
+- 👤 By gnabgib | 📈 46 points | 💬 18 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
