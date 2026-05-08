@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 07, 2026
+> **Last Updated:** May 08, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Valve releases Steam Controller CAD files under Creative Commons license**
-- 🔗 [Read on HackerNews](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
-- 👤 By haunter | 📈 1469 points | 💬 476 comments
+**#1. Canvas is down as ShinyHunters threatens to leak schools’ data**
+- 🔗 [Read on HackerNews](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+- 👤 By stefanpie | 📈 635 points | 💬 381 comments
 
-**#2. Appearing productive in the workplace**
-- 🔗 [Read on HackerNews](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
-- 👤 By diebillionaires | 📈 1222 points | 💬 477 comments
+**#2. Cloudflare to cut about 20% workforce**
+- 🔗 [Read on HackerNews](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
+- 👤 By PriorityLeft | 📈 726 points | 💬 474 comments
 
-**#3. SQLite Is a Library of Congress Recommended Storage Format**
-- 🔗 [Read on HackerNews](https://sqlite.org/locrsf.html)
-- 👤 By whatisabcdefgh | 📈 286 points | 💬 76 comments
+**#3. Maybe you shouldn't install new software for a bit**
+- 🔗 [Read on HackerNews](https://xeiaso.net/blog/2026/abstain-from-install/)
+- 👤 By psxuaw | 📈 518 points | 💬 272 comments
 
-**#4. Diskless Linux boot using ZFS, iSCSI and PXE**
-- 🔗 [Read on HackerNews](https://aniket.foo/posts/20260505-netboot/)
-- 👤 By stereo-highway | 📈 106 points | 💬 54 comments
+**#4. Dirtyfrag: Universal Linux LPE**
+- 🔗 [Read on HackerNews](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+- 👤 By flipped | 📈 637 points | 💬 258 comments
 
-**#5. Permacomputing Principles**
-- 🔗 [Read on HackerNews](https://permacomputing.net/principles/)
-- 👤 By andsoitis | 📈 157 points | 💬 75 comments
+**#5. ClojureScript Gets Async/Await**
+- 🔗 [Read on HackerNews](https://clojurescript.org/news/2026-05-07-release)
+- 👤 By Borkdude | 📈 51 points | 💬 12 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
