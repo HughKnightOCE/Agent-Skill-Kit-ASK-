@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 09, 2026
+> **Last Updated:** May 10, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. A recent experience with ChatGPT 5.5 Pro**
-- 🔗 [Read on HackerNews](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
-- 👤 By _alternator_ | 📈 289 points | 💬 146 comments
+**#1. Rotten Dot Com**
+- 🔗 [Read on HackerNews](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
+- 👤 By lordgrenville | 📈 42 points | 💬 25 comments
 
-**#2. Google broke reCAPTCHA for de-googled Android users**
-- 🔗 [Read on HackerNews](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
-- 👤 By anonymousiam | 📈 1009 points | 💬 336 comments
+**#2. Show HN: Building a web server in assembly to give my life (a lack of) meaning**
+- 🔗 [Read on HackerNews](https://github.com/imtomt/ymawky)
+- 👤 By imtomt | 📈 277 points | 💬 122 comments
 
-**#3. Using Claude Code: The unreasonable effectiveness of HTML**
-- 🔗 [Read on HackerNews](https://twitter.com/trq212/status/2052809885763747935)
-- 👤 By pretext | 📈 130 points | 💬 75 comments
+**#3. Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc**
+- 🔗 [Read on HackerNews](https://twitter.com/jarredsumner/status/2053047748191232310)
+- 👤 By heldrida | 📈 549 points | 💬 514 comments
 
-**#4. OpenAI’s WebRTC problem**
-- 🔗 [Read on HackerNews](https://moq.dev/blog/webrtc-is-the-problem/)
-- 👤 By atgctg | 📈 307 points | 💬 78 comments
+**#4. The One Dollar Counterfeiter**
+- 🔗 [Read on HackerNews](https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html)
+- 👤 By cainxinth | 📈 116 points | 💬 32 comments
 
-**#5. Mythical Man Month**
-- 🔗 [Read on HackerNews](https://martinfowler.com/bliki/MythicalManMonth.html)
-- 👤 By ingve | 📈 151 points | 💬 106 comments
+**#5. Gemini API File Search is now multimodal**
+- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
+- 👤 By gmays | 📈 89 points | 💬 11 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
