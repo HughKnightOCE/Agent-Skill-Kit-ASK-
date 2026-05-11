@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 10, 2026
+> **Last Updated:** May 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Rotten Dot Com**
-- 🔗 [Read on HackerNews](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
-- 👤 By lordgrenville | 📈 42 points | 💬 25 comments
+**#1. Hardware Attestation as Monopoly Enabler**
+- 🔗 [Read on HackerNews](https://grapheneos.social/@GrapheneOS/116550899908879585)
+- 👤 By ChuckMcM | 📈 1583 points | 💬 508 comments
 
-**#2. Show HN: Building a web server in assembly to give my life (a lack of) meaning**
-- 🔗 [Read on HackerNews](https://github.com/imtomt/ymawky)
-- 👤 By imtomt | 📈 277 points | 💬 122 comments
+**#2. Local AI needs to be the norm**
+- 🔗 [Read on HackerNews](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+- 👤 By cylo | 📈 1172 points | 💬 493 comments
 
-**#3. Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc**
-- 🔗 [Read on HackerNews](https://twitter.com/jarredsumner/status/2053047748191232310)
-- 👤 By heldrida | 📈 549 points | 💬 514 comments
+**#3. The greatest shot in television: James Burke had one chance to nail this scene (2024)**
+- 🔗 [Read on HackerNews](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+- 👤 By susam | 📈 184 points | 💬 69 comments
 
-**#4. The One Dollar Counterfeiter**
-- 🔗 [Read on HackerNews](https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html)
-- 👤 By cainxinth | 📈 116 points | 💬 32 comments
+**#4. I'm going back to writing code by hand**
+- 🔗 [Read on HackerNews](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+- 👤 By dropbox_miner | 📈 382 points | 💬 176 comments
 
-**#5. Gemini API File Search is now multimodal**
-- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
-- 👤 By gmays | 📈 89 points | 💬 11 comments
+**#5. Running local models on an M4 with 24GB memory**
+- 🔗 [Read on HackerNews](https://jola.dev/posts/running-local-models-on-m4)
+- 👤 By shintoist | 📈 320 points | 💬 102 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
