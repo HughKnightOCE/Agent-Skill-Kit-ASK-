@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 11, 2026
+> **Last Updated:** May 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Hardware Attestation as Monopoly Enabler**
-- 🔗 [Read on HackerNews](https://grapheneos.social/@GrapheneOS/116550899908879585)
-- 👤 By ChuckMcM | 📈 1583 points | 💬 508 comments
+**#1. Learning Software Architecture**
+- 🔗 [Read on HackerNews](https://matklad.github.io/2026/05/12/software-architecture.html)
+- 👤 By surprisetalk | 📈 18 points | 💬 0 comments
 
-**#2. Local AI needs to be the norm**
-- 🔗 [Read on HackerNews](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-- 👤 By cylo | 📈 1172 points | 💬 493 comments
+**#2. Postmortem: TanStack NPM supply-chain compromise**
+- 🔗 [Read on HackerNews](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+- 👤 By varunsharma07 | 📈 852 points | 💬 333 comments
 
-**#3. The greatest shot in television: James Burke had one chance to nail this scene (2024)**
-- 🔗 [Read on HackerNews](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
-- 👤 By susam | 📈 184 points | 💬 69 comments
+**#3. Screenshots of Old Desktop OSes**
+- 🔗 [Read on HackerNews](http://www.typewritten.org/Media/)
+- 👤 By adunk | 📈 177 points | 💬 48 comments
 
-**#4. I'm going back to writing code by hand**
-- 🔗 [Read on HackerNews](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
-- 👤 By dropbox_miner | 📈 382 points | 💬 176 comments
+**#4. They Live (1988) inspired Adblocker**
+- 🔗 [Read on HackerNews](https://github.com/davmlaw/they_live_adblocker)
+- 👤 By tokenburner | 📈 240 points | 💬 76 comments
 
-**#5. Running local models on an M4 with 24GB memory**
-- 🔗 [Read on HackerNews](https://jola.dev/posts/running-local-models-on-m4)
-- 👤 By shintoist | 📈 320 points | 💬 102 comments
+**#5. If AI writes your code, why use Python?**
+- 🔗 [Read on HackerNews](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+- 👤 By indigodaddy | 📈 500 points | 💬 544 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
