@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 12, 2026
+> **Last Updated:** May 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Learning Software Architecture**
-- 🔗 [Read on HackerNews](https://matklad.github.io/2026/05/12/software-architecture.html)
-- 👤 By surprisetalk | 📈 18 points | 💬 0 comments
+**#1. Deterministic Fully-Static Whole-Binary Translation Without Heuristics**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2605.08419)
+- 👤 By matt_d | 📈 176 points | 💬 41 comments
 
-**#2. Postmortem: TanStack NPM supply-chain compromise**
-- 🔗 [Read on HackerNews](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
-- 👤 By varunsharma07 | 📈 852 points | 💬 333 comments
+**#2. Restore full BambuNetwork support for Bambu Lab printers**
+- 🔗 [Read on HackerNews](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+- 👤 By Murfalo | 📈 430 points | 💬 184 comments
 
-**#3. Screenshots of Old Desktop OSes**
-- 🔗 [Read on HackerNews](http://www.typewritten.org/Media/)
-- 👤 By adunk | 📈 177 points | 💬 48 comments
+**#3. The vi family**
+- 🔗 [Read on HackerNews](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
+- 👤 By hggh | 📈 169 points | 💬 93 comments
 
-**#4. They Live (1988) inspired Adblocker**
-- 🔗 [Read on HackerNews](https://github.com/davmlaw/they_live_adblocker)
-- 👤 By tokenburner | 📈 240 points | 💬 76 comments
+**#4. Googlebook**
+- 🔗 [Read on HackerNews](https://googlebook.google/)
+- 👤 By tambourine_man | 📈 782 points | 💬 1299 comments
 
-**#5. If AI writes your code, why use Python?**
-- 🔗 [Read on HackerNews](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
-- 👤 By indigodaddy | 📈 500 points | 💬 544 comments
+**#5. New stainless steel can survive conditions for hydrogen production in seawater**
+- 🔗 [Read on HackerNews](https://www.sciencedaily.com/releases/2026/05/260510030950.htm)
+- 👤 By HardwareLust | 📈 40 points | 💬 13 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
