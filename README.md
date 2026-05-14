@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 13, 2026
+> **Last Updated:** May 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Deterministic Fully-Static Whole-Binary Translation Without Heuristics**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2605.08419)
-- 👤 By matt_d | 📈 176 points | 💬 41 comments
+**#1. Claude for Small Business**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-for-small-business)
+- 👤 By neilfrndes | 📈 246 points | 💬 179 comments
 
-**#2. Restore full BambuNetwork support for Bambu Lab printers**
-- 🔗 [Read on HackerNews](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
-- 👤 By Murfalo | 📈 430 points | 💬 184 comments
+**#2. Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7**
+- 🔗 [Read on HackerNews](https://classic7.lol/)
+- 👤 By jandeboevrie | 📈 45 points | 💬 33 comments
 
-**#3. The vi family**
-- 🔗 [Read on HackerNews](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
-- 👤 By hggh | 📈 169 points | 💬 93 comments
+**#3. Scorched Earth 2000 – Web**
+- 🔗 [Read on HackerNews](http://www.scorch2000.com/web/)
+- 👤 By meshko | 📈 257 points | 💬 99 comments
 
-**#4. Googlebook**
-- 🔗 [Read on HackerNews](https://googlebook.google/)
-- 👤 By tambourine_man | 📈 782 points | 💬 1299 comments
+**#4. Linux gaming is faster because Windows APIs are becoming Linux kernel features**
+- 🔗 [Read on HackerNews](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
+- 👤 By haunter | 📈 729 points | 💬 469 comments
 
-**#5. New stainless steel can survive conditions for hydrogen production in seawater**
-- 🔗 [Read on HackerNews](https://www.sciencedaily.com/releases/2026/05/260510030950.htm)
-- 👤 By HardwareLust | 📈 40 points | 💬 13 comments
+**#5. Rewrite Bun in Rust has been merged**
+- 🔗 [Read on HackerNews](https://github.com/oven-sh/bun/pull/30412)
+- 👤 By Chaoses | 📈 23 points | 💬 12 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
