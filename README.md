@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 14, 2026
+> **Last Updated:** May 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Claude for Small Business**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-for-small-business)
-- 👤 By neilfrndes | 📈 246 points | 💬 179 comments
+**#1. Removing the modem and GPS from my 2024 RAV4 hybrid**
+- 🔗 [Read on HackerNews](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+- 👤 By arkadiyt | 📈 870 points | 💬 444 comments
 
-**#2. Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7**
-- 🔗 [Read on HackerNews](https://classic7.lol/)
-- 👤 By jandeboevrie | 📈 45 points | 💬 33 comments
+**#2. Explore Wikipedia Like a Windows XP Desktop**
+- 🔗 [Read on HackerNews](https://explorer.samismith.com/)
+- 👤 By smusamashah | 📈 20 points | 💬 3 comments
 
-**#3. Scorched Earth 2000 – Web**
-- 🔗 [Read on HackerNews](http://www.scorch2000.com/web/)
-- 👤 By meshko | 📈 257 points | 💬 99 comments
+**#3. Show HN: GlycemicGPT – Open-source AI-powered diabetes management**
+- 🔗 [Read on HackerNews](https://github.com/GlycemicGPT/GlycemicGPT)
+- 👤 By jlengelbrecht | 📈 25 points | 💬 8 comments
 
-**#4. Linux gaming is faster because Windows APIs are becoming Linux kernel features**
-- 🔗 [Read on HackerNews](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
-- 👤 By haunter | 📈 729 points | 💬 469 comments
+**#4. Building ML framework with Rust and Category Theory**
+- 🔗 [Read on HackerNews](https://hghalebi.github.io/category_theory_transformer_rs/)
+- 👤 By adamnemecek | 📈 25 points | 💬 8 comments
 
-**#5. Rewrite Bun in Rust has been merged**
-- 🔗 [Read on HackerNews](https://github.com/oven-sh/bun/pull/30412)
-- 👤 By Chaoses | 📈 23 points | 💬 12 comments
+**#5. A few words on DS4**
+- 🔗 [Read on HackerNews](https://antirez.com/news/165)
+- 👤 By caust1c | 📈 311 points | 💬 120 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
