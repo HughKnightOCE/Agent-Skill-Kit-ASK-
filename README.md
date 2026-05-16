@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 15, 2026
+> **Last Updated:** May 16, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Removing the modem and GPS from my 2024 RAV4 hybrid**
-- 🔗 [Read on HackerNews](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
-- 👤 By arkadiyt | 📈 870 points | 💬 444 comments
+**#1. Frontier AI has broken the open CTF format**
+- 🔗 [Read on HackerNews](https://kabir.au/blog/the-ctf-scene-is-dead)
+- 👤 By frays | 📈 109 points | 💬 87 comments
 
-**#2. Explore Wikipedia Like a Windows XP Desktop**
-- 🔗 [Read on HackerNews](https://explorer.samismith.com/)
-- 👤 By smusamashah | 📈 20 points | 💬 3 comments
+**#2. Project Gutenberg – keeps getting better**
+- 🔗 [Read on HackerNews](https://www.gutenberg.org/)
+- 👤 By JSeiko | 📈 929 points | 💬 196 comments
 
-**#3. Show HN: GlycemicGPT – Open-source AI-powered diabetes management**
-- 🔗 [Read on HackerNews](https://github.com/GlycemicGPT/GlycemicGPT)
-- 👤 By jlengelbrecht | 📈 25 points | 💬 8 comments
+**#3. SQL patterns I use to catch transaction fraud**
+- 🔗 [Read on HackerNews](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
+- 👤 By redbell | 📈 210 points | 💬 66 comments
 
-**#4. Building ML framework with Rust and Category Theory**
-- 🔗 [Read on HackerNews](https://hghalebi.github.io/category_theory_transformer_rs/)
-- 👤 By adamnemecek | 📈 25 points | 💬 8 comments
+**#4. Ploopy Bean: a trackpoint for every computer**
+- 🔗 [Read on HackerNews](https://ploopy.co/shop/bean-pointing-stick/)
+- 👤 By jibcage | 📈 94 points | 💬 44 comments
 
-**#5. A few words on DS4**
-- 🔗 [Read on HackerNews](https://antirez.com/news/165)
-- 👤 By caust1c | 📈 311 points | 💬 120 comments
+**#5. I believe there are entire companies right now under AI psychosis**
+- 🔗 [Read on HackerNews](https://twitter.com/mitchellh/status/2055380239711457578)
+- 👤 By reasonableklout | 📈 1333 points | 💬 656 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
