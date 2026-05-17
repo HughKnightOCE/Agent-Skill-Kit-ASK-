@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 16, 2026
+> **Last Updated:** May 17, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Frontier AI has broken the open CTF format**
-- 🔗 [Read on HackerNews](https://kabir.au/blog/the-ctf-scene-is-dead)
-- 👤 By frays | 📈 109 points | 💬 87 comments
+**#1. Zerostack – A Unix-inspired coding agent written in pure Rust**
+- 🔗 [Read on HackerNews](https://crates.io/crates/zerostack/1.0.0)
+- 👤 By gidellav | 📈 387 points | 💬 158 comments
 
-**#2. Project Gutenberg – keeps getting better**
-- 🔗 [Read on HackerNews](https://www.gutenberg.org/)
-- 👤 By JSeiko | 📈 929 points | 💬 196 comments
+**#2. Mozilla to UK regulators: VPNs are essential privacy and security tools**
+- 🔗 [Read on HackerNews](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
+- 👤 By WithinReason | 📈 167 points | 💬 44 comments
 
-**#3. SQL patterns I use to catch transaction fraud**
-- 🔗 [Read on HackerNews](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
-- 👤 By redbell | 📈 210 points | 💬 66 comments
+**#3. Colossus: The Forbin Project**
+- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project)
+- 👤 By doener | 📈 99 points | 💬 23 comments
 
-**#4. Ploopy Bean: a trackpoint for every computer**
-- 🔗 [Read on HackerNews](https://ploopy.co/shop/bean-pointing-stick/)
-- 👤 By jibcage | 📈 94 points | 💬 44 comments
+**#4. A nicer voltmeter clock**
+- 🔗 [Read on HackerNews](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
+- 👤 By surprisetalk | 📈 175 points | 💬 24 comments
 
-**#5. I believe there are entire companies right now under AI psychosis**
-- 🔗 [Read on HackerNews](https://twitter.com/mitchellh/status/2055380239711457578)
-- 👤 By reasonableklout | 📈 1333 points | 💬 656 comments
+**#5. Hosting a website on an 8-bit microcontroller**
+- 🔗 [Read on HackerNews](https://maurycyz.com/projects/mcusite/)
+- 👤 By zdw | 📈 125 points | 💬 11 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
