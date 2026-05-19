@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 18, 2026
+> **Last Updated:** May 19, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The foundations of a provably secure operating system (PSOS) (1979) [pdf]**
-- 🔗 [Read on HackerNews](http://www.csl.sri.com/users/neumann/psos.pdf)
-- 👤 By rurban | 📈 22 points | 💬 3 comments
+**#1. I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert**
+- 🔗 [Read on HackerNews](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
+- 👤 By vi_sextus_vi | 📈 40 points | 💬 4 comments
 
-**#2. Where Are the Vibecoded Photoshops?**
-- 🔗 [Read on HackerNews](https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/)
-- 👤 By gizmo64k | 📈 30 points | 💬 5 comments
+**#2. The last six months in LLMs in five minutes**
+- 🔗 [Read on HackerNews](https://simonwillison.net/2026/May/19/5-minute-llms/)
+- 👤 By yakkomajuri | 📈 459 points | 💬 321 comments
 
-**#3. GenCAD**
-- 🔗 [Read on HackerNews](https://gencad.github.io/)
-- 👤 By dagenix | 📈 333 points | 💬 85 comments
+**#3. Peter Neumann has died**
+- 🔗 [Read on HackerNews](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
+- 👤 By pabs3 | 📈 120 points | 💬 8 comments
 
-**#4. Multiple commencement speakers booed for AI comments during graduation speeches**
-- 🔗 [Read on HackerNews](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
-- 👤 By wrxd | 📈 41 points | 💬 10 comments
+**#4. Polypad**
+- 🔗 [Read on HackerNews](https://polypad.amplify.com/)
+- 👤 By ivank | 📈 65 points | 💬 6 comments
 
-**#5. Crystals found inside wreckage from the first nuclear bomb test**
-- 🔗 [Read on HackerNews](https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/)
-- 👤 By jumploops | 📈 87 points | 💬 28 comments
+**#5. Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone**
+- 🔗 [Read on HackerNews](https://www.kv4p.com/)
+- 👤 By krupan | 📈 95 points | 💬 31 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
