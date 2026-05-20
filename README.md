@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 19, 2026
+> **Last Updated:** May 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert**
-- 🔗 [Read on HackerNews](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
-- 👤 By vi_sextus_vi | 📈 40 points | 💬 4 comments
+**#1. Everything in C is undefined behavior**
+- 🔗 [Read on HackerNews](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
+- 👤 By lycopodiopsida | 📈 179 points | 💬 210 comments
 
-**#2. The last six months in LLMs in five minutes**
-- 🔗 [Read on HackerNews](https://simonwillison.net/2026/May/19/5-minute-llms/)
-- 👤 By yakkomajuri | 📈 459 points | 💬 321 comments
+**#2. FiveThirtyEight articles on the Internet Archive**
+- 🔗 [Read on HackerNews](https://fivethirtyeightindex.com/)
+- 👤 By ChocMontePy | 📈 204 points | 💬 46 comments
 
-**#3. Peter Neumann has died**
-- 🔗 [Read on HackerNews](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
-- 👤 By pabs3 | 📈 120 points | 💬 8 comments
+**#3. Gemini 3.5 Flash**
+- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+- 👤 By spectraldrift | 📈 794 points | 💬 556 comments
 
-**#4. Polypad**
-- 🔗 [Read on HackerNews](https://polypad.amplify.com/)
-- 👤 By ivank | 📈 65 points | 💬 6 comments
+**#4. I’ve built a virtual museum with nearly every operating system you can think of**
+- 🔗 [Read on HackerNews](https://virtualosmuseum.org/)
+- 👤 By andreww591 | 📈 778 points | 💬 171 comments
 
-**#5. Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone**
-- 🔗 [Read on HackerNews](https://www.kv4p.com/)
-- 👤 By krupan | 📈 95 points | 💬 31 comments
+**#5. Infomaniak transitions to a foundation model to protect user data privacy**
+- 🔗 [Read on HackerNews](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
+- 👤 By darktoto | 📈 73 points | 💬 16 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
