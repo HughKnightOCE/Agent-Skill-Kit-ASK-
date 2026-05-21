@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 20, 2026
+> **Last Updated:** May 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Everything in C is undefined behavior**
-- 🔗 [Read on HackerNews](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
-- 👤 By lycopodiopsida | 📈 179 points | 💬 210 comments
+**#1. An OpenAI model has disproved a central conjecture in discrete geometry**
+- 🔗 [Read on HackerNews](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+- 👤 By tedsanders | 📈 1182 points | 💬 859 comments
 
-**#2. FiveThirtyEight articles on the Internet Archive**
-- 🔗 [Read on HackerNews](https://fivethirtyeightindex.com/)
-- 👤 By ChocMontePy | 📈 204 points | 💬 46 comments
+**#2. Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK**
+- 🔗 [Read on HackerNews](https://github.com/helvesec/rmux)
+- 👤 By shideneyu | 📈 21 points | 💬 13 comments
 
-**#3. Gemini 3.5 Flash**
-- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
-- 👤 By spectraldrift | 📈 794 points | 💬 556 comments
+**#3. GitHub confirms breach of 3,800 repos via malicious VSCode extension**
+- 🔗 [Read on HackerNews](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
+- 👤 By Timofeibu | 📈 851 points | 💬 353 comments
 
-**#4. I’ve built a virtual museum with nearly every operating system you can think of**
-- 🔗 [Read on HackerNews](https://virtualosmuseum.org/)
-- 👤 By andreww591 | 📈 778 points | 💬 171 comments
+**#4. Show HN: I reverse engineered Apple's video wallpapers**
+- 🔗 [Read on HackerNews](https://github.com/kageroumado/phosphene)
+- 👤 By kageroumado | 📈 287 points | 💬 66 comments
 
-**#5. Infomaniak transitions to a foundation model to protect user data privacy**
-- 🔗 [Read on HackerNews](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
-- 👤 By darktoto | 📈 73 points | 💬 16 comments
+**#5. Haskell Foundation 2026 Update**
+- 🔗 [Read on HackerNews](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
+- 👤 By azhenley | 📈 120 points | 💬 33 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
