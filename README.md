@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 21, 2026
+> **Last Updated:** May 22, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. An OpenAI model has disproved a central conjecture in discrete geometry**
-- 🔗 [Read on HackerNews](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
-- 👤 By tedsanders | 📈 1182 points | 💬 859 comments
+**#1. Project Hail Mary – Stellar Navigation Chart**
+- 🔗 [Read on HackerNews](https://valhovey.github.io/gaia-mary/)
+- 👤 By speleo | 📈 922 points | 💬 200 comments
 
-**#2. Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK**
-- 🔗 [Read on HackerNews](https://github.com/helvesec/rmux)
-- 👤 By shideneyu | 📈 21 points | 💬 13 comments
+**#2. Slumber a TUI HTTP Client**
+- 🔗 [Read on HackerNews](https://slumber.lucaspickering.me)
+- 👤 By jicea | 📈 76 points | 💬 28 comments
 
-**#3. GitHub confirms breach of 3,800 repos via malicious VSCode extension**
-- 🔗 [Read on HackerNews](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
-- 👤 By Timofeibu | 📈 851 points | 💬 353 comments
+**#3. CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2605.19269)
+- 👤 By matt_d | 📈 64 points | 💬 7 comments
 
-**#4. Show HN: I reverse engineered Apple's video wallpapers**
-- 🔗 [Read on HackerNews](https://github.com/kageroumado/phosphene)
-- 👤 By kageroumado | 📈 287 points | 💬 66 comments
+**#4. The surprising story behind the first British person in space**
+- 🔗 [Read on HackerNews](https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space)
+- 👤 By xoxxala | 📈 59 points | 💬 14 comments
 
-**#5. Haskell Foundation 2026 Update**
-- 🔗 [Read on HackerNews](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
-- 👤 By azhenley | 📈 120 points | 💬 33 comments
+**#5. Cleve Moler has died**
+- 🔗 [Read on HackerNews](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
+- 👤 By mychele | 📈 105 points | 💬 11 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
