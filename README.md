@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 22, 2026
+> **Last Updated:** May 23, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Project Hail Mary – Stellar Navigation Chart**
-- 🔗 [Read on HackerNews](https://valhovey.github.io/gaia-mary/)
-- 👤 By speleo | 📈 922 points | 💬 200 comments
+**#1. Shipping a laptop to a refugee camp in Uganda**
+- 🔗 [Read on HackerNews](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
+- 👤 By lexandstuff | 📈 448 points | 💬 164 comments
 
-**#2. Slumber a TUI HTTP Client**
-- 🔗 [Read on HackerNews](https://slumber.lucaspickering.me)
-- 👤 By jicea | 📈 76 points | 💬 28 comments
+**#2. Why Japanese companies do so many different things**
+- 🔗 [Read on HackerNews](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+- 👤 By d0ks | 📈 677 points | 💬 322 comments
 
-**#3. CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2605.19269)
-- 👤 By matt_d | 📈 64 points | 💬 7 comments
+**#3. Kindle loyalists scramble as Amazon turns page on old e-readers**
+- 🔗 [Read on HackerNews](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/)
+- 👤 By cf100clunk | 📈 38 points | 💬 37 comments
 
-**#4. The surprising story behind the first British person in space**
-- 🔗 [Read on HackerNews](https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space)
-- 👤 By xoxxala | 📈 59 points | 💬 14 comments
+**#4. The quadratic sandwich**
+- 🔗 [Read on HackerNews](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html)
+- 👤 By cpp_frog | 📈 39 points | 💬 3 comments
 
-**#5. Cleve Moler has died**
-- 🔗 [Read on HackerNews](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
-- 👤 By mychele | 📈 105 points | 💬 11 comments
+**#5. Rubish: A Unix shell written in pure Ruby**
+- 🔗 [Read on HackerNews](https://github.com/amatsuda/rubish)
+- 👤 By winebarrel | 📈 15 points | 💬 3 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
