@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 23, 2026
+> **Last Updated:** May 24, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Shipping a laptop to a refugee camp in Uganda**
-- 🔗 [Read on HackerNews](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
-- 👤 By lexandstuff | 📈 448 points | 💬 164 comments
+**#1. Microsoft open-sources "the earliest DOS source code discovered to date"**
+- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
+- 👤 By DamnInteresting | 📈 242 points | 💬 63 comments
 
-**#2. Why Japanese companies do so many different things**
-- 🔗 [Read on HackerNews](https://davidoks.blog/p/why-japanese-companies-do-so-many)
-- 👤 By d0ks | 📈 677 points | 💬 322 comments
+**#2. Why is Vivado 2026.1 dropping Linux support for free tier?**
+- 🔗 [Read on HackerNews](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
+- 👤 By zdw | 📈 146 points | 💬 52 comments
 
-**#3. Kindle loyalists scramble as Amazon turns page on old e-readers**
-- 🔗 [Read on HackerNews](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/)
-- 👤 By cf100clunk | 📈 38 points | 💬 37 comments
+**#3. Scammers are abusing an internal Microsoft account to send spam links**
+- 🔗 [Read on HackerNews](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
+- 👤 By spike021 | 📈 143 points | 💬 63 comments
 
-**#4. The quadratic sandwich**
-- 🔗 [Read on HackerNews](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html)
-- 👤 By cpp_frog | 📈 39 points | 💬 3 comments
+**#4. Wake up! 16b**
+- 🔗 [Read on HackerNews](https://hellmood.111mb.de/wake_up_16b_writeup.html)
+- 👤 By MaximilianEmel | 📈 222 points | 💬 13 comments
 
-**#5. Rubish: A Unix shell written in pure Ruby**
-- 🔗 [Read on HackerNews](https://github.com/amatsuda/rubish)
-- 👤 By winebarrel | 📈 15 points | 💬 3 comments
+**#5. Silk: Open-source cooperative fiber scheduler**
+- 🔗 [Read on HackerNews](https://github.com/ClickHouse/silk)
+- 👤 By animetyan | 📈 16 points | 💬 1 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
