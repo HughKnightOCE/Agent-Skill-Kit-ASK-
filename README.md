@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 24, 2026
+> **Last Updated:** May 25, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Microsoft open-sources "the earliest DOS source code discovered to date"**
-- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
-- 👤 By DamnInteresting | 📈 242 points | 💬 63 comments
+**#1. Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)**
+- 🔗 [Read on HackerNews](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/)
+- 👤 By kelseyfrog | 📈 146 points | 💬 53 comments
 
-**#2. Why is Vivado 2026.1 dropping Linux support for free tier?**
-- 🔗 [Read on HackerNews](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
-- 👤 By zdw | 📈 146 points | 💬 52 comments
+**#2. Show HN: Geomatic – a command-driven geometry studio enabled with autodiff**
+- 🔗 [Read on HackerNews](https://www.tinyvolt.com/geomatic)
+- 👤 By nivter | 📈 15 points | 💬 6 comments
 
-**#3. Scammers are abusing an internal Microsoft account to send spam links**
-- 🔗 [Read on HackerNews](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
-- 👤 By spike021 | 📈 143 points | 💬 63 comments
+**#3. Show HN: Audiomass – a free, open-source multitrack audio editor for the web**
+- 🔗 [Read on HackerNews](https://audiomass.co/?multitrack=1)
+- 👤 By pantelisk | 📈 376 points | 💬 81 comments
 
-**#4. Wake up! 16b**
-- 🔗 [Read on HackerNews](https://hellmood.111mb.de/wake_up_16b_writeup.html)
-- 👤 By MaximilianEmel | 📈 222 points | 💬 13 comments
+**#4. DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost**
+- 🔗 [Read on HackerNews](https://esengine.github.io/DeepSeek-Reasonix/)
+- 👤 By Alifatisk | 📈 573 points | 💬 238 comments
 
-**#5. Silk: Open-source cooperative fiber scheduler**
-- 🔗 [Read on HackerNews](https://github.com/ClickHouse/silk)
-- 👤 By animetyan | 📈 16 points | 💬 1 comments
+**#5. Migrating from Go to Rust**
+- 🔗 [Read on HackerNews](https://corrode.dev/learn/migration-guides/go-to-rust/)
+- 👤 By jabits | 📈 291 points | 💬 289 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
