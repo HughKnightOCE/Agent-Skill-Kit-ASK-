@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 25, 2026
+> **Last Updated:** May 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)**
-- 🔗 [Read on HackerNews](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/)
-- 👤 By kelseyfrog | 📈 146 points | 💬 53 comments
+**#1. DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD**
+- 🔗 [Read on HackerNews](https://dynip.dev/)
+- 👤 By dynip | 📈 111 points | 💬 43 comments
 
-**#2. Show HN: Geomatic – a command-driven geometry studio enabled with autodiff**
-- 🔗 [Read on HackerNews](https://www.tinyvolt.com/geomatic)
-- 👤 By nivter | 📈 15 points | 💬 6 comments
+**#2. Using AI to write better code more slowly**
+- 🔗 [Read on HackerNews](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+- 👤 By signa11 | 📈 669 points | 💬 250 comments
 
-**#3. Show HN: Audiomass – a free, open-source multitrack audio editor for the web**
-- 🔗 [Read on HackerNews](https://audiomass.co/?multitrack=1)
-- 👤 By pantelisk | 📈 376 points | 💬 81 comments
+**#3. I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty**
+- 🔗 [Read on HackerNews](https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html)
+- 👤 By tjek | 📈 4 points | 💬 2 comments
 
-**#4. DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost**
-- 🔗 [Read on HackerNews](https://esengine.github.io/DeepSeek-Reasonix/)
-- 👤 By Alifatisk | 📈 573 points | 💬 238 comments
+**#4. Taking a walk may lead to more creativity than sitting, study finds (2014)**
+- 🔗 [Read on HackerNews](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
+- 👤 By bilsbie | 📈 309 points | 💬 115 comments
 
-**#5. Migrating from Go to Rust**
-- 🔗 [Read on HackerNews](https://corrode.dev/learn/migration-guides/go-to-rust/)
-- 👤 By jabits | 📈 291 points | 💬 289 comments
+**#5. Earthion: A New Mega Drive-Style Shoot-Em-Up**
+- 🔗 [Read on HackerNews](https://earthiongame.com/)
+- 👤 By MrBuddyCasino | 📈 72 points | 💬 29 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
