@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 26, 2026
+> **Last Updated:** May 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD**
-- 🔗 [Read on HackerNews](https://dynip.dev/)
-- 👤 By dynip | 📈 111 points | 💬 43 comments
+**#1. Mini Micro Fantasy Computer**
+- 🔗 [Read on HackerNews](https://miniscript.org/MiniMicro/index.html#about)
+- 👤 By nicoloren | 📈 17 points | 💬 0 comments
 
-**#2. Using AI to write better code more slowly**
-- 🔗 [Read on HackerNews](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
-- 👤 By signa11 | 📈 669 points | 💬 250 comments
+**#2. The Melancholy of Slaying Monsters**
+- 🔗 [Read on HackerNews](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/)
+- 👤 By prismatic | 📈 99 points | 💬 35 comments
 
-**#3. I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty**
-- 🔗 [Read on HackerNews](https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html)
-- 👤 By tjek | 📈 4 points | 💬 2 comments
+**#3. BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass**
+- 🔗 [Read on HackerNews](https://badhost.org/)
+- 👤 By ylk | 📈 54 points | 💬 19 comments
 
-**#4. Taking a walk may lead to more creativity than sitting, study finds (2014)**
-- 🔗 [Read on HackerNews](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
-- 👤 By bilsbie | 📈 309 points | 💬 115 comments
+**#4. Raft Consensus with a Minority of Nodes**
+- 🔗 [Read on HackerNews](https://padhye.org/raft-minority/)
+- 👤 By moarbugs | 📈 15 points | 💬 0 comments
 
-**#5. Earthion: A New Mega Drive-Style Shoot-Em-Up**
-- 🔗 [Read on HackerNews](https://earthiongame.com/)
-- 👤 By MrBuddyCasino | 📈 72 points | 💬 29 comments
+**#5. Cloudflare Flagship**
+- 🔗 [Read on HackerNews](https://developers.cloudflare.com/flagship/)
+- 👤 By tjek | 📈 224 points | 💬 119 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
