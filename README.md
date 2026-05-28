@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 27, 2026
+> **Last Updated:** May 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Mini Micro Fantasy Computer**
-- 🔗 [Read on HackerNews](https://miniscript.org/MiniMicro/index.html#about)
-- 👤 By nicoloren | 📈 17 points | 💬 0 comments
+**#1. YouTube to automatically label AI-generated videos**
+- 🔗 [Read on HackerNews](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- 👤 By nopg | 📈 898 points | 💬 554 comments
 
-**#2. The Melancholy of Slaying Monsters**
-- 🔗 [Read on HackerNews](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/)
-- 👤 By prismatic | 📈 99 points | 💬 35 comments
+**#2. A Eureka machine that thinks like nature and explores what AI cannot**
+- 🔗 [Read on HackerNews](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
+- 👤 By kunalsin9h | 📈 72 points | 💬 25 comments
 
-**#3. BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass**
-- 🔗 [Read on HackerNews](https://badhost.org/)
-- 👤 By ylk | 📈 54 points | 💬 19 comments
+**#3. I analysed 20 years of my chats**
+- 🔗 [Read on HackerNews](https://drobinin.com/posts/am-i-a-bad-friend/)
+- 👤 By valzevul | 📈 137 points | 💬 46 comments
 
-**#4. Raft Consensus with a Minority of Nodes**
-- 🔗 [Read on HackerNews](https://padhye.org/raft-minority/)
-- 👤 By moarbugs | 📈 15 points | 💬 0 comments
+**#4. I think Anthropic and OpenAI have found product-market fit**
+- 🔗 [Read on HackerNews](https://simonwillison.net/2026/May/27/product-market-fit/)
+- 👤 By simonw | 📈 876 points | 💬 1002 comments
 
-**#5. Cloudflare Flagship**
-- 🔗 [Read on HackerNews](https://developers.cloudflare.com/flagship/)
-- 👤 By tjek | 📈 224 points | 💬 119 comments
+**#5. Hallucinate – Massively Multiplayer Online Rave**
+- 🔗 [Read on HackerNews](https://hallucinate.site)
+- 👤 By stagas | 📈 217 points | 💬 87 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
