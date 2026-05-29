@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 28, 2026
+> **Last Updated:** May 29, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. YouTube to automatically label AI-generated videos**
-- 🔗 [Read on HackerNews](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
-- 👤 By nopg | 📈 898 points | 💬 554 comments
+**#1. Claude Opus 4.8**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-opus-4-8)
+- 👤 By craigmart | 📈 1543 points | 💬 1209 comments
 
-**#2. A Eureka machine that thinks like nature and explores what AI cannot**
-- 🔗 [Read on HackerNews](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
-- 👤 By kunalsin9h | 📈 72 points | 💬 25 comments
+**#2. Bricks and Minifigs Stole a Man's $200k Lego Collection**
+- 🔗 [Read on HackerNews](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
+- 👤 By philips | 📈 970 points | 💬 446 comments
 
-**#3. I analysed 20 years of my chats**
-- 🔗 [Read on HackerNews](https://drobinin.com/posts/am-i-a-bad-friend/)
-- 👤 By valzevul | 📈 137 points | 💬 46 comments
+**#3. I made a million dollar product from my dorm room (2025)**
+- 🔗 [Read on HackerNews](https://nick.winans.io/blog/nice-nano/)
+- 👤 By mattrighetti | 📈 412 points | 💬 63 comments
 
-**#4. I think Anthropic and OpenAI have found product-market fit**
-- 🔗 [Read on HackerNews](https://simonwillison.net/2026/May/27/product-market-fit/)
-- 👤 By simonw | 📈 876 points | 💬 1002 comments
+**#4. Volkswagen blocks Home Assistant by requiring client assertion**
+- 🔗 [Read on HackerNews](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
+- 👤 By Kwastie | 📈 174 points | 💬 88 comments
 
-**#5. Hallucinate – Massively Multiplayer Online Rave**
-- 🔗 [Read on HackerNews](https://hallucinate.site)
-- 👤 By stagas | 📈 217 points | 💬 87 comments
+**#5. Claude Code – Everything You Can Configure That the Docs Don't Tell You**
+- 🔗 [Read on HackerNews](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
+- 👤 By ankitg12 | 📈 101 points | 💬 25 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
