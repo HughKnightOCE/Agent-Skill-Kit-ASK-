@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 29, 2026
+> **Last Updated:** May 30, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Claude Opus 4.8**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-opus-4-8)
-- 👤 By craigmart | 📈 1543 points | 💬 1209 comments
+**#1. SQLite is all you need for durable workflows**
+- 🔗 [Read on HackerNews](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
+- 👤 By tomasol | 📈 533 points | 💬 262 comments
 
-**#2. Bricks and Minifigs Stole a Man's $200k Lego Collection**
-- 🔗 [Read on HackerNews](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
-- 👤 By philips | 📈 970 points | 💬 446 comments
+**#2. Algebraic Effects for the Rest of Us**
+- 🔗 [Read on HackerNews](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
+- 👤 By satvikpendem | 📈 52 points | 💬 24 comments
 
-**#3. I made a million dollar product from my dorm room (2025)**
-- 🔗 [Read on HackerNews](https://nick.winans.io/blog/nice-nano/)
-- 👤 By mattrighetti | 📈 412 points | 💬 63 comments
+**#3. Danish pension fund excludes SpaceX citing governance and valuation**
+- 🔗 [Read on HackerNews](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
+- 👤 By vrganj | 📈 72 points | 💬 33 comments
 
-**#4. Volkswagen blocks Home Assistant by requiring client assertion**
-- 🔗 [Read on HackerNews](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
-- 👤 By Kwastie | 📈 174 points | 💬 88 comments
+**#4. Snowboard Kids 2 is 100% Decompiled**
+- 🔗 [Read on HackerNews](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/)
+- 👤 By GaggiX | 📈 196 points | 💬 74 comments
 
-**#5. Claude Code – Everything You Can Configure That the Docs Don't Tell You**
-- 🔗 [Read on HackerNews](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
-- 👤 By ankitg12 | 📈 101 points | 💬 25 comments
+**#5. Notes from the Mistral AI Now Summit**
+- 🔗 [Read on HackerNews](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+- 👤 By vnglst | 📈 373 points | 💬 151 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
