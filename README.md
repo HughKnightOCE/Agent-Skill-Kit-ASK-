@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** May 30, 2026
+> **Last Updated:** May 31, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. SQLite is all you need for durable workflows**
-- 🔗 [Read on HackerNews](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
-- 👤 By tomasol | 📈 533 points | 💬 262 comments
+**#1. The Website Specification**
+- 🔗 [Read on HackerNews](https://specification.website/)
+- 👤 By k1m | 📈 146 points | 💬 44 comments
 
-**#2. Algebraic Effects for the Rest of Us**
-- 🔗 [Read on HackerNews](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
-- 👤 By satvikpendem | 📈 52 points | 💬 24 comments
+**#2. London's Free Roof Terraces**
+- 🔗 [Read on HackerNews](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
+- 👤 By zeristor | 📈 38 points | 💬 4 comments
 
-**#3. Danish pension fund excludes SpaceX citing governance and valuation**
-- 🔗 [Read on HackerNews](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
-- 👤 By vrganj | 📈 72 points | 💬 33 comments
+**#3. Domain expertise has always been the real moat**
+- 🔗 [Read on HackerNews](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- 👤 By aaronbrethorst | 📈 584 points | 💬 344 comments
 
-**#4. Snowboard Kids 2 is 100% Decompiled**
-- 🔗 [Read on HackerNews](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/)
-- 👤 By GaggiX | 📈 196 points | 💬 74 comments
+**#4. Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal**
+- 🔗 [Read on HackerNews](https://github.com/marekkowalczyk/breathe-cli)
+- 👤 By marekkowalczyk | 📈 26 points | 💬 5 comments
 
-**#5. Notes from the Mistral AI Now Summit**
-- 🔗 [Read on HackerNews](https://koenvangilst.nl/lab/mistral-ai-now-summit)
-- 👤 By vnglst | 📈 373 points | 💬 151 comments
+**#5. Avian Visitors**
+- 🔗 [Read on HackerNews](https://theodore.net/projects/AvianVisitors/)
+- 👤 By fdb | 📈 38 points | 💬 5 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
