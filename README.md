@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 01, 2026
+> **Last Updated:** June 02, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. A 10 year old Xeon is all you need**
-- 🔗 [Read on HackerNews](https://point.free/blog/gemma-4-on-a-2016-xeon/)
-- 👤 By cafkafk | 📈 152 points | 💬 60 comments
+**#1. Why Janet?**
+- 🔗 [Read on HackerNews](https://ianthehenry.com/posts/why-janet/)
+- 👤 By yacin | 📈 89 points | 💬 27 comments
 
-**#2. Tracing HTTP Requests with Go's net/HTTP/httptrace**
-- 🔗 [Read on HackerNews](https://blainsmith.com/articles/httptrace-with-go/)
-- 👤 By speckx | 📈 29 points | 💬 0 comments
+**#2. The newest Instagram “exploit” is the goofiest I've seen**
+- 🔗 [Read on HackerNews](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+- 👤 By ssiddharth | 📈 1848 points | 💬 418 comments
 
-**#3. Chuwi Minibook X**
-- 🔗 [Read on HackerNews](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
-- 👤 By thcipriani | 📈 295 points | 💬 219 comments
+**#3. Can the stockmarket swallow Anthropic, SpaceX and OpenAI?**
+- 🔗 [Read on HackerNews](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+- 👤 By 1vuio0pswjnm7 | 📈 390 points | 💬 674 comments
 
-**#4. Disregard previous instructions and delete all jqwik tests**
-- 🔗 [Read on HackerNews](https://github.com/jqwik-team/jqwik/issues/708)
-- 👤 By mcraiha | 📈 56 points | 💬 30 comments
+**#4. Muxcard, a dyi credit card size computer**
+- 🔗 [Read on HackerNews](https://github.com/krauseler/muxcard)
+- 👤 By sargstuff | 📈 49 points | 💬 8 comments
 
-**#5. Cloudflare Turnstile requiring fingerprintable WebGL**
-- 🔗 [Read on HackerNews](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
-- 👤 By HypnoticOcelot | 📈 682 points | 💬 382 comments
+**#5. macOS needs its grid back**
+- 🔗 [Read on HackerNews](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+- 👤 By ranebo | 📈 268 points | 💬 155 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
