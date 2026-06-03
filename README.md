@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 02, 2026
+> **Last Updated:** June 03, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Why Janet?**
-- 🔗 [Read on HackerNews](https://ianthehenry.com/posts/why-janet/)
-- 👤 By yacin | 📈 89 points | 💬 27 comments
+**#1. Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2**
+- 🔗 [Read on HackerNews](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
+- 👤 By nathell | 📈 45 points | 💬 8 comments
 
-**#2. The newest Instagram “exploit” is the goofiest I've seen**
-- 🔗 [Read on HackerNews](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
-- 👤 By ssiddharth | 📈 1848 points | 💬 418 comments
+**#2. 1-Click GitHub Token Stealing via a VSCode Bug**
+- 🔗 [Read on HackerNews](https://blog.ammaraskar.com/github-token-stealing/)
+- 👤 By ammar2 | 📈 427 points | 💬 64 comments
 
-**#3. Can the stockmarket swallow Anthropic, SpaceX and OpenAI?**
-- 🔗 [Read on HackerNews](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
-- 👤 By 1vuio0pswjnm7 | 📈 390 points | 💬 674 comments
+**#3. Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)**
+- 🔗 [Read on HackerNews](https://github.com/s-macke/Test-Drive-3-Maps)
+- 👤 By s-macke | 📈 105 points | 💬 28 comments
 
-**#4. Muxcard, a dyi credit card size computer**
-- 🔗 [Read on HackerNews](https://github.com/krauseler/muxcard)
-- 👤 By sargstuff | 📈 49 points | 💬 8 comments
+**#4. Use your Nvidia GPU's VRAM as swap space on Linux**
+- 🔗 [Read on HackerNews](https://github.com/c0dejedi/nbd-vram)
+- 👤 By tanelpoder | 📈 322 points | 💬 88 comments
 
-**#5. macOS needs its grid back**
-- 🔗 [Read on HackerNews](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
-- 👤 By ranebo | 📈 268 points | 💬 155 comments
+**#5. AI outperforms law professors in Stanford Law study**
+- 🔗 [Read on HackerNews](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+- 👤 By berlianta | 📈 260 points | 💬 202 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
