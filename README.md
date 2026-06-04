@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 03, 2026
+> **Last Updated:** June 04, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2**
-- 🔗 [Read on HackerNews](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
-- 👤 By nathell | 📈 45 points | 💬 8 comments
+**#1. UK media fails to disclose defence sector links in nearly 60% of cases**
+- 🔗 [Read on HackerNews](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)
+- 👤 By XzetaU8 | 📈 75 points | 💬 39 comments
 
-**#2. 1-Click GitHub Token Stealing via a VSCode Bug**
-- 🔗 [Read on HackerNews](https://blog.ammaraskar.com/github-token-stealing/)
-- 👤 By ammar2 | 📈 427 points | 💬 64 comments
+**#2. They’re made out of weights**
+- 🔗 [Read on HackerNews](https://maxleiter.com/blog/weights)
+- 👤 By MaxLeiter | 📈 713 points | 💬 270 comments
 
-**#3. Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)**
-- 🔗 [Read on HackerNews](https://github.com/s-macke/Test-Drive-3-Maps)
-- 👤 By s-macke | 📈 105 points | 💬 28 comments
+**#3. Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites**
+- 🔗 [Read on HackerNews](https://uruky.com/?il=en)
+- 👤 By BrunoBernardino | 📈 29 points | 💬 13 comments
 
-**#4. Use your Nvidia GPU's VRAM as swap space on Linux**
-- 🔗 [Read on HackerNews](https://github.com/c0dejedi/nbd-vram)
-- 👤 By tanelpoder | 📈 322 points | 💬 88 comments
+**#4. Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes**
+- 🔗 [Read on HackerNews](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+- 👤 By littlexsparkee | 📈 318 points | 💬 230 comments
 
-**#5. AI outperforms law professors in Stanford Law study**
-- 🔗 [Read on HackerNews](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
-- 👤 By berlianta | 📈 260 points | 💬 202 comments
+**#5. Elixir v1.20: Now a gradually typed language**
+- 🔗 [Read on HackerNews](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
+- 👤 By cloud8421 | 📈 775 points | 💬 281 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
