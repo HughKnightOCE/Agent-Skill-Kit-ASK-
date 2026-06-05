@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 04, 2026
+> **Last Updated:** June 05, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. UK media fails to disclose defence sector links in nearly 60% of cases**
-- 🔗 [Read on HackerNews](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)
-- 👤 By XzetaU8 | 📈 75 points | 💬 39 comments
+**#1. Changing How We Develop Ladybird**
+- 🔗 [Read on HackerNews](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+- 👤 By EdwinHoksberg | 📈 256 points | 💬 150 comments
 
-**#2. They’re made out of weights**
-- 🔗 [Read on HackerNews](https://maxleiter.com/blog/weights)
-- 👤 By MaxLeiter | 📈 713 points | 💬 270 comments
+**#2. Entanglement Builds Space-Time. Now "Magic" Gives It Gravity**
+- 🔗 [Read on HackerNews](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
+- 👤 By rbanffy | 📈 22 points | 💬 8 comments
 
-**#3. Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites**
-- 🔗 [Read on HackerNews](https://uruky.com/?il=en)
-- 👤 By BrunoBernardino | 📈 29 points | 💬 13 comments
+**#3. Tracing a powerful GNSS interference source over Europe**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2606.03673)
+- 👤 By mimorigasaka | 📈 35 points | 💬 4 comments
 
-**#4. Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes**
-- 🔗 [Read on HackerNews](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
-- 👤 By littlexsparkee | 📈 318 points | 💬 230 comments
+**#4. C++: The Documentary**
+- 🔗 [Read on HackerNews](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
+- 👤 By ingve | 📈 160 points | 💬 95 comments
 
-**#5. Elixir v1.20: Now a gradually typed language**
-- 🔗 [Read on HackerNews](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
-- 👤 By cloud8421 | 📈 775 points | 💬 281 comments
+**#5. Meta enables ADB on deprecated Portal devices [video]**
+- 🔗 [Read on HackerNews](https://fb.watch/HxPu0fSyeH/)
+- 👤 By jenders | 📈 228 points | 💬 84 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
