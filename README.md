@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 05, 2026
+> **Last Updated:** June 06, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Changing How We Develop Ladybird**
-- 🔗 [Read on HackerNews](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
-- 👤 By EdwinHoksberg | 📈 256 points | 💬 150 comments
+**#1. GrapheneOS user reported to authorities for using GrapheneOS**
+- 🔗 [Read on HackerNews](https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos)
+- 👤 By Cider9986 | 📈 85 points | 💬 29 comments
 
-**#2. Entanglement Builds Space-Time. Now "Magic" Gives It Gravity**
-- 🔗 [Read on HackerNews](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
-- 👤 By rbanffy | 📈 22 points | 💬 8 comments
+**#2. Zig Zen Update**
+- 🔗 [Read on HackerNews](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)
+- 👤 By tosh | 📈 21 points | 💬 6 comments
 
-**#3. Tracing a powerful GNSS interference source over Europe**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2606.03673)
-- 👤 By mimorigasaka | 📈 35 points | 💬 4 comments
+**#3. How LLMs work**
+- 🔗 [Read on HackerNews](https://www.0xkato.xyz/how-llms-actually-work/)
+- 👤 By 0xkato | 📈 353 points | 💬 100 comments
 
-**#4. C++: The Documentary**
-- 🔗 [Read on HackerNews](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
-- 👤 By ingve | 📈 160 points | 💬 95 comments
+**#4. The intracies of modern camera lens repair (2024)**
+- 🔗 [Read on HackerNews](https://salvagedcircuitry.com/sigma-45mm.html)
+- 👤 By transistor-man | 📈 168 points | 💬 59 comments
 
-**#5. Meta enables ADB on deprecated Portal devices [video]**
-- 🔗 [Read on HackerNews](https://fb.watch/HxPu0fSyeH/)
-- 👤 By jenders | 📈 228 points | 💬 84 comments
+**#5. S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic**
+- 🔗 [Read on HackerNews](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+- 👤 By maltalex | 📈 429 points | 💬 142 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
