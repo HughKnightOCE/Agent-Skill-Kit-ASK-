@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 06, 2026
+> **Last Updated:** June 07, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GrapheneOS user reported to authorities for using GrapheneOS**
-- 🔗 [Read on HackerNews](https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos)
-- 👤 By Cider9986 | 📈 85 points | 💬 29 comments
+**#1. The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners**
+- 🔗 [Read on HackerNews](https://www.ioccc.org/2025/)
+- 👤 By matt_d | 📈 159 points | 💬 37 comments
 
-**#2. Zig Zen Update**
-- 🔗 [Read on HackerNews](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)
-- 👤 By tosh | 📈 21 points | 💬 6 comments
+**#2. I design with Claude more than Figma now**
+- 🔗 [Read on HackerNews](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
+- 👤 By MrBuddyCasino | 📈 160 points | 💬 120 comments
 
-**#3. How LLMs work**
-- 🔗 [Read on HackerNews](https://www.0xkato.xyz/how-llms-actually-work/)
-- 👤 By 0xkato | 📈 353 points | 💬 100 comments
+**#3. Speculative KV coding: losslessly compressing KV cache by up to ~4×**
+- 🔗 [Read on HackerNews](https://fergusfinn.com/blog/kv-entropy-coder/)
+- 👤 By kkm | 📈 36 points | 💬 5 comments
 
-**#4. The intracies of modern camera lens repair (2024)**
-- 🔗 [Read on HackerNews](https://salvagedcircuitry.com/sigma-45mm.html)
-- 👤 By transistor-man | 📈 168 points | 💬 59 comments
+**#4. Win16 Memory Management**
+- 🔗 [Read on HackerNews](http://www.os2museum.com/wp/win16-memory-management/)
+- 👤 By supermatou | 📈 23 points | 💬 1 comments
 
-**#5. S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic**
-- 🔗 [Read on HackerNews](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
-- 👤 By maltalex | 📈 429 points | 💬 142 comments
+**#5. Valve P2P networking broken for more than 2 months**
+- 🔗 [Read on HackerNews](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
+- 👤 By babuskov | 📈 164 points | 💬 75 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
