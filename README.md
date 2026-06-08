@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 07, 2026
+> **Last Updated:** June 08, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners**
-- 🔗 [Read on HackerNews](https://www.ioccc.org/2025/)
-- 👤 By matt_d | 📈 159 points | 💬 37 comments
+**#1. The Cypherpunk Library**
+- 🔗 [Read on HackerNews](https://www.cypherpunkbooks.com)
+- 👤 By yu3zhou4 | 📈 77 points | 💬 8 comments
 
-**#2. I design with Claude more than Figma now**
-- 🔗 [Read on HackerNews](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
-- 👤 By MrBuddyCasino | 📈 160 points | 💬 120 comments
+**#2. OneDrive data now has an expiry date**
+- 🔗 [Read on HackerNews](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)
+- 👤 By taubek | 📈 58 points | 💬 44 comments
 
-**#3. Speculative KV coding: losslessly compressing KV cache by up to ~4×**
-- 🔗 [Read on HackerNews](https://fergusfinn.com/blog/kv-entropy-coder/)
-- 👤 By kkm | 📈 36 points | 💬 5 comments
+**#3. Dopamine Fracking**
+- 🔗 [Read on HackerNews](https://igerman.cc/blog/dopamine-fracking/)
+- 👤 By igmn | 📈 335 points | 💬 157 comments
 
-**#4. Win16 Memory Management**
-- 🔗 [Read on HackerNews](http://www.os2museum.com/wp/win16-memory-management/)
-- 👤 By supermatou | 📈 23 points | 💬 1 comments
+**#4. 1k Data Breaches Later, the Disclosure Lag Is Worse**
+- 🔗 [Read on HackerNews](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+- 👤 By 882542F3884314B | 📈 156 points | 💬 59 comments
 
-**#5. Valve P2P networking broken for more than 2 months**
-- 🔗 [Read on HackerNews](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
-- 👤 By babuskov | 📈 164 points | 💬 75 comments
+**#5. APC–2 – A professional record cutter for producing original playback discs**
+- 🔗 [Read on HackerNews](https://teenage.engineering/products/apc-2)
+- 👤 By vthommeret | 📈 212 points | 💬 110 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
