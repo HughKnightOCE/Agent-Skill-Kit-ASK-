@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 08, 2026
+> **Last Updated:** June 09, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The Cypherpunk Library**
-- 🔗 [Read on HackerNews](https://www.cypherpunkbooks.com)
-- 👤 By yu3zhou4 | 📈 77 points | 💬 8 comments
+**#1. Microsoft's open source tools were hacked to steal passwords of AI developers**
+- 🔗 [Read on HackerNews](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+- 👤 By raffael_de | 📈 155 points | 💬 58 comments
 
-**#2. OneDrive data now has an expiry date**
-- 🔗 [Read on HackerNews](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)
-- 👤 By taubek | 📈 58 points | 💬 44 comments
+**#2. GentleOS – Classic operating system with a lovely retro GUI**
+- 🔗 [Read on HackerNews](https://github.com/luke8086/gentleos32)
+- 👤 By tekkertje | 📈 13 points | 💬 1 comments
 
-**#3. Dopamine Fracking**
-- 🔗 [Read on HackerNews](https://igerman.cc/blog/dopamine-fracking/)
-- 👤 By igmn | 📈 335 points | 💬 157 comments
+**#3. Forever Young: how one molecule can lock plants in a youthful state.(2025)**
+- 🔗 [Read on HackerNews](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
+- 👤 By bryanrasmussen | 📈 29 points | 💬 7 comments
 
-**#4. 1k Data Breaches Later, the Disclosure Lag Is Worse**
-- 🔗 [Read on HackerNews](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
-- 👤 By 882542F3884314B | 📈 156 points | 💬 59 comments
+**#4. OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision**
+- 🔗 [Read on HackerNews](https://opencv.org/opencv-5/)
+- 👤 By ternaus | 📈 193 points | 💬 33 comments
 
-**#5. APC–2 – A professional record cutter for producing original playback discs**
-- 🔗 [Read on HackerNews](https://teenage.engineering/products/apc-2)
-- 👤 By vthommeret | 📈 212 points | 💬 110 comments
+**#5. Apple reveals new AI architecture built around Google Gemini models**
+- 🔗 [Read on HackerNews](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
+- 👤 By unclefuzzy | 📈 602 points | 💬 456 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
