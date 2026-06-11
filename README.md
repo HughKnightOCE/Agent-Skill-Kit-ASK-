@@ -13,29 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 10, 2026
+> **Last Updated:** June 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Mercedes‑Benz starts large‑scale production of electric axial flux motor**
-- 🔗 [Read on HackerNews](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
-- 👤 By raffael_de | 📈 96 points | 💬 40 comments
+**#1. Pokémon Go Scans Trained the Navigation Tech for Military Drones**
+- 🔗 [Read on HackerNews](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
+- 👤 By vrganj | 📈 283 points | 💬 103 comments
 
-**#2. macOS Container Machines**
-- 🔗 [Read on HackerNews](https://github.com/apple/container/blob/main/docs/container-machine.md)
-- 👤 By timsneath | 📈 783 points | 💬 286 comments
+**#2. AI agent runs amok in Fedora and elsewhere**
+- 🔗 [Read on HackerNews](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+- 👤 By tanelpoder | 📈 419 points | 💬 170 comments
 
-**#3. Claude Fable 5**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-fable-5-mythos-5)
-- 👤 By Philpax | 📈 2255 points | 💬 1744 comments
+**#3. Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable**
+- 🔗 [Read on HackerNews](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
+- 👤 By speckx | 📈 453 points | 💬 390 comments
 
-**#4. Port React Compiler to Rust**
-- 🔗 [Read on HackerNews](https://github.com/react/react/pull/36173)
-- 👤 By boudra | 📈 31 points | 💬 14 comments
+**#4. Why AI hasn't replaced software engineers, and won't**
+- 🔗 [Read on HackerNews](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
+- 👤 By trueduke | 📈 30 points | 💬 17 comments
+
+**#5. πFS**
+- 🔗 [Read on HackerNews](https://github.com/philipl/pifs)
+- 👤 By helterskelter | 📈 760 points | 💬 181 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
