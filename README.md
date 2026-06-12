@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 11, 2026
+> **Last Updated:** June 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Pokémon Go Scans Trained the Navigation Tech for Military Drones**
-- 🔗 [Read on HackerNews](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
-- 👤 By vrganj | 📈 283 points | 💬 103 comments
+**#1. AI agent bankrupted their operator while trying to scan DN42**
+- 🔗 [Read on HackerNews](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+- 👤 By xiaoyu2006 | 📈 626 points | 💬 235 comments
 
-**#2. AI agent runs amok in Fedora and elsewhere**
-- 🔗 [Read on HackerNews](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
-- 👤 By tanelpoder | 📈 419 points | 💬 170 comments
+**#2. If you are asking for human attention, demonstrate human effort**
+- 🔗 [Read on HackerNews](https://tombedor.dev/human-attention-and-human-effort/)
+- 👤 By jjfoooo4 | 📈 780 points | 💬 258 comments
 
-**#3. Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable**
-- 🔗 [Read on HackerNews](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
-- 👤 By speckx | 📈 453 points | 💬 390 comments
+**#3. Nobody ever gets credit for fixing problems that never happened (2001) [pdf]**
+- 🔗 [Read on HackerNews](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+- 👤 By sam_bristow | 📈 479 points | 💬 163 comments
 
-**#4. Why AI hasn't replaced software engineers, and won't**
-- 🔗 [Read on HackerNews](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
-- 👤 By trueduke | 📈 30 points | 💬 17 comments
+**#4. Show HN: Homebrew 6.0.0**
+- 🔗 [Read on HackerNews](https://brew.sh/2026/06/11/homebrew-6.0.0/)
+- 👤 By mikemcquaid | 📈 1245 points | 💬 296 comments
 
-**#5. πFS**
-- 🔗 [Read on HackerNews](https://github.com/philipl/pifs)
-- 👤 By helterskelter | 📈 760 points | 💬 181 comments
+**#5. Report on an Unidentified Space Station**
+- 🔗 [Read on HackerNews](https://sseh.uchicago.edu/doc/roauss.htm)
+- 👤 By paulmooreparks | 📈 29 points | 💬 6 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
