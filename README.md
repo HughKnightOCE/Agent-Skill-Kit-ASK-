@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 12, 2026
+> **Last Updated:** June 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. AI agent bankrupted their operator while trying to scan DN42**
-- 🔗 [Read on HackerNews](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
-- 👤 By xiaoyu2006 | 📈 626 points | 💬 235 comments
+**#1. Leaving Mozilla**
+- 🔗 [Read on HackerNews](https://blog.unitedheroes.net/5751)
+- 👤 By martey | 📈 164 points | 💬 61 comments
 
-**#2. If you are asking for human attention, demonstrate human effort**
-- 🔗 [Read on HackerNews](https://tombedor.dev/human-attention-and-human-effort/)
-- 👤 By jjfoooo4 | 📈 780 points | 💬 258 comments
+**#2. Electric motors with no rare earths**
+- 🔗 [Read on HackerNews](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+- 👤 By bestouff | 📈 458 points | 💬 127 comments
 
-**#3. Nobody ever gets credit for fixing problems that never happened (2001) [pdf]**
-- 🔗 [Read on HackerNews](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-- 👤 By sam_bristow | 📈 479 points | 💬 163 comments
+**#3. Statement on US government directive to suspend access to Fable 5 and Mythos 5**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/news/fable-mythos-access)
+- 👤 By Dylan1312 | 📈 2296 points | 💬 1646 comments
 
-**#4. Show HN: Homebrew 6.0.0**
-- 🔗 [Read on HackerNews](https://brew.sh/2026/06/11/homebrew-6.0.0/)
-- 👤 By mikemcquaid | 📈 1245 points | 💬 296 comments
+**#4. CRISPR tech selectively shreds cancer cells, including "undruggable" cancers**
+- 🔗 [Read on HackerNews](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+- 👤 By gmays | 📈 821 points | 💬 190 comments
 
-**#5. Report on an Unidentified Space Station**
-- 🔗 [Read on HackerNews](https://sseh.uchicago.edu/doc/roauss.htm)
-- 👤 By paulmooreparks | 📈 29 points | 💬 6 comments
+**#5. Shepherd's Dog: A Game by the Most Dangerous AI Model**
+- 🔗 [Read on HackerNews](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
+- 👤 By vnglst | 📈 89 points | 💬 70 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
