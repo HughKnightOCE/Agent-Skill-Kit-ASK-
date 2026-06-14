@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 13, 2026
+> **Last Updated:** June 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Leaving Mozilla**
-- 🔗 [Read on HackerNews](https://blog.unitedheroes.net/5751)
-- 👤 By martey | 📈 164 points | 💬 61 comments
+**#1. Honda Civics and the Evil Valet**
+- 🔗 [Read on HackerNews](https://juniperspring.org/posts/honda-evil-valet/)
+- 👤 By librick | 📈 269 points | 💬 44 comments
 
-**#2. Electric motors with no rare earths**
-- 🔗 [Read on HackerNews](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
-- 👤 By bestouff | 📈 458 points | 💬 127 comments
+**#2. Free SQL→ER diagram tool, runs in the browser, nothing uploaded**
+- 🔗 [Read on HackerNews](https://sqltoerdiagram.com/)
+- 👤 By robhati | 📈 128 points | 💬 27 comments
 
-**#3. Statement on US government directive to suspend access to Fable 5 and Mythos 5**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/fable-mythos-access)
-- 👤 By Dylan1312 | 📈 2296 points | 💬 1646 comments
+**#3. GLM 5.2 Is Out**
+- 🔗 [Read on HackerNews](https://twitter.com/jietang/status/2065784751345287314)
+- 👤 By aloknnikhil | 📈 583 points | 💬 321 comments
 
-**#4. CRISPR tech selectively shreds cancer cells, including "undruggable" cancers**
-- 🔗 [Read on HackerNews](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
-- 👤 By gmays | 📈 821 points | 💬 190 comments
+**#4. Noise infusion banned from statistical products published by Census Bureau**
+- 🔗 [Read on HackerNews](https://desfontain.es/blog/banning-noise.html)
+- 👤 By nl | 📈 825 points | 💬 512 comments
 
-**#5. Shepherd's Dog: A Game by the Most Dangerous AI Model**
-- 🔗 [Read on HackerNews](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
-- 👤 By vnglst | 📈 89 points | 💬 70 comments
+**#5. Every Frame Perfect**
+- 🔗 [Read on HackerNews](https://tonsky.me/blog/every-frame-perfect/)
+- 👤 By ravenical | 📈 717 points | 💬 230 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
