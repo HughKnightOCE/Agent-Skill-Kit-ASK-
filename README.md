@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 14, 2026
+> **Last Updated:** June 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Honda Civics and the Evil Valet**
-- 🔗 [Read on HackerNews](https://juniperspring.org/posts/honda-evil-valet/)
-- 👤 By librick | 📈 269 points | 💬 44 comments
+**#1. Anthropic's Safety Superpower**
+- 🔗 [Read on HackerNews](https://stratechery.com/2026/anthropics-safety-superpower/)
+- 👤 By swolpers | 📈 21 points | 💬 6 comments
 
-**#2. Free SQL→ER diagram tool, runs in the browser, nothing uploaded**
-- 🔗 [Read on HackerNews](https://sqltoerdiagram.com/)
-- 👤 By robhati | 📈 128 points | 💬 27 comments
+**#2. Your ePub Is fine**
+- 🔗 [Read on HackerNews](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+- 👤 By sohkamyung | 📈 654 points | 💬 216 comments
 
-**#3. GLM 5.2 Is Out**
-- 🔗 [Read on HackerNews](https://twitter.com/jietang/status/2065784751345287314)
-- 👤 By aloknnikhil | 📈 583 points | 💬 321 comments
+**#3. Apple Foundation Models**
+- 🔗 [Read on HackerNews](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
+- 👤 By MehrdadKhnzd | 📈 183 points | 💬 70 comments
 
-**#4. Noise infusion banned from statistical products published by Census Bureau**
-- 🔗 [Read on HackerNews](https://desfontain.es/blog/banning-noise.html)
-- 👤 By nl | 📈 825 points | 💬 512 comments
+**#4. What the Fuck Happened to Nerds**
+- 🔗 [Read on HackerNews](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
+- 👤 By vrnvu | 📈 229 points | 💬 153 comments
 
-**#5. Every Frame Perfect**
-- 🔗 [Read on HackerNews](https://tonsky.me/blog/every-frame-perfect/)
-- 👤 By ravenical | 📈 717 points | 💬 230 comments
+**#5. Even more batteries included with Emacs**
+- 🔗 [Read on HackerNews](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
+- 👤 By signa11 | 📈 223 points | 💬 49 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
