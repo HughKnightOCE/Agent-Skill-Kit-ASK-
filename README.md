@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 15, 2026
+> **Last Updated:** June 16, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Anthropic's Safety Superpower**
-- 🔗 [Read on HackerNews](https://stratechery.com/2026/anthropics-safety-superpower/)
-- 👤 By swolpers | 📈 21 points | 💬 6 comments
+**#1. The time the x86 emulator team found code so bad they fixed it during emulation**
+- 🔗 [Read on HackerNews](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+- 👤 By paulmooreparks | 📈 273 points | 💬 86 comments
 
-**#2. Your ePub Is fine**
-- 🔗 [Read on HackerNews](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-- 👤 By sohkamyung | 📈 654 points | 💬 216 comments
+**#2. A backdoor in a LinkedIn job offer**
+- 🔗 [Read on HackerNews](https://roman.pt/posts/linkedin-backdoor/)
+- 👤 By lwhsiao | 📈 1207 points | 💬 220 comments
 
-**#3. Apple Foundation Models**
-- 🔗 [Read on HackerNews](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
-- 👤 By MehrdadKhnzd | 📈 183 points | 💬 70 comments
+**#3. John Carmack on Fabrice Bellard**
+- 🔗 [Read on HackerNews](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
+- 👤 By apitman | 📈 299 points | 💬 173 comments
 
-**#4. What the Fuck Happened to Nerds**
-- 🔗 [Read on HackerNews](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
-- 👤 By vrnvu | 📈 229 points | 💬 153 comments
+**#4. Iroh 1.0**
+- 🔗 [Read on HackerNews](https://www.iroh.computer/blog/v1)
+- 👤 By chadfowler | 📈 1203 points | 💬 366 comments
 
-**#5. Even more batteries included with Emacs**
-- 🔗 [Read on HackerNews](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
-- 👤 By signa11 | 📈 223 points | 💬 49 comments
+**#5. Banned Book Library in a Wi-Fi Smart Light Bulb**
+- 🔗 [Read on HackerNews](https://www.richardosgood.com/posts/banned-book-library/)
+- 👤 By sohkamyung | 📈 393 points | 💬 210 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
