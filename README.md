@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 16, 2026
+> **Last Updated:** June 17, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The time the x86 emulator team found code so bad they fixed it during emulation**
-- 🔗 [Read on HackerNews](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
-- 👤 By paulmooreparks | 📈 273 points | 💬 86 comments
+**#1. GLM-5.2 is the new leading open weights model on Artificial Analysis**
+- 🔗 [Read on HackerNews](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
+- 👤 By himata4113 | 📈 48 points | 💬 7 comments
 
-**#2. A backdoor in a LinkedIn job offer**
-- 🔗 [Read on HackerNews](https://roman.pt/posts/linkedin-backdoor/)
-- 👤 By lwhsiao | 📈 1207 points | 💬 220 comments
+**#2. GrapheneOS has been ported to Android 17**
+- 🔗 [Read on HackerNews](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
+- 👤 By Cider9986 | 📈 796 points | 💬 397 comments
 
-**#3. John Carmack on Fabrice Bellard**
-- 🔗 [Read on HackerNews](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
-- 👤 By apitman | 📈 299 points | 💬 173 comments
+**#3. Running local models is good now**
+- 🔗 [Read on HackerNews](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+- 👤 By jfb | 📈 1352 points | 💬 516 comments
 
-**#4. Iroh 1.0**
-- 🔗 [Read on HackerNews](https://www.iroh.computer/blog/v1)
-- 👤 By chadfowler | 📈 1203 points | 💬 366 comments
+**#4. Show HN: High-Res Neural Cellular Automata**
+- 🔗 [Read on HackerNews](https://cells2pixels.github.io/)
+- 👤 By esychology | 📈 21 points | 💬 0 comments
 
-**#5. Banned Book Library in a Wi-Fi Smart Light Bulb**
-- 🔗 [Read on HackerNews](https://www.richardosgood.com/posts/banned-book-library/)
-- 👤 By sohkamyung | 📈 393 points | 💬 210 comments
+**#5. Hacker News but for Independent Blogs**
+- 🔗 [Read on HackerNews](https://bubbles.town/)
+- 👤 By headalgorithm | 📈 96 points | 💬 30 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
