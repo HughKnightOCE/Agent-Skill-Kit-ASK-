@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 17, 2026
+> **Last Updated:** June 18, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GLM-5.2 is the new leading open weights model on Artificial Analysis**
-- 🔗 [Read on HackerNews](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
-- 👤 By himata4113 | 📈 48 points | 💬 7 comments
+**#1. Midjourney Medical**
+- 🔗 [Read on HackerNews](https://www.midjourney.com/medical/blogpost)
+- 👤 By ricochet11 | 📈 775 points | 💬 525 comments
 
-**#2. GrapheneOS has been ported to Android 17**
-- 🔗 [Read on HackerNews](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
-- 👤 By Cider9986 | 📈 796 points | 💬 397 comments
+**#2. I need your clothes, your boots, and your motorcycle**
+- 🔗 [Read on HackerNews](https://rbelmont.mameworld.info/?p=1725)
+- 👤 By ingve | 📈 33 points | 💬 16 comments
 
-**#3. Running local models is good now**
-- 🔗 [Read on HackerNews](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
-- 👤 By jfb | 📈 1352 points | 💬 516 comments
+**#3. DeepSeek Introduces Vision**
+- 🔗 [Read on HackerNews](https://chat.deepseek.com/)
+- 👤 By RIshabh235 | 📈 162 points | 💬 70 comments
 
-**#4. Show HN: High-Res Neural Cellular Automata**
-- 🔗 [Read on HackerNews](https://cells2pixels.github.io/)
-- 👤 By esychology | 📈 21 points | 💬 0 comments
+**#4. Local Qwen isn't a worse Opus, it's a different tool**
+- 🔗 [Read on HackerNews](https://blog.alexellis.io/local-ai-is-not-opus/)
+- 👤 By alphabettsy | 📈 231 points | 💬 112 comments
 
-**#5. Hacker News but for Independent Blogs**
-- 🔗 [Read on HackerNews](https://bubbles.town/)
-- 👤 By headalgorithm | 📈 96 points | 💬 30 comments
+**#5. Lore – Open source version control system designed for scalability**
+- 🔗 [Read on HackerNews](https://lore.org/)
+- 👤 By regnerba | 📈 1151 points | 💬 611 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
