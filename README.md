@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 18, 2026
+> **Last Updated:** June 19, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Midjourney Medical**
-- 🔗 [Read on HackerNews](https://www.midjourney.com/medical/blogpost)
-- 👤 By ricochet11 | 📈 775 points | 💬 525 comments
+**#1. Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28**
+- 🔗 [Read on HackerNews](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+- 👤 By philonoist | 📈 142 points | 💬 65 comments
 
-**#2. I need your clothes, your boots, and your motorcycle**
-- 🔗 [Read on HackerNews](https://rbelmont.mameworld.info/?p=1725)
-- 👤 By ingve | 📈 33 points | 💬 16 comments
+**#2. DuckDB Internals: Why Is DuckDB Fast? (Part 1)**
+- 🔗 [Read on HackerNews](https://www.greybeam.ai/blog/duckdb-internals-part-1)
+- 👤 By marklit | 📈 189 points | 💬 59 comments
 
-**#3. DeepSeek Introduces Vision**
-- 🔗 [Read on HackerNews](https://chat.deepseek.com/)
-- 👤 By RIshabh235 | 📈 162 points | 💬 70 comments
+**#3. To study how chips work, MIT researchers built their own operating system**
+- 🔗 [Read on HackerNews](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+- 👤 By speckx | 📈 192 points | 💬 27 comments
 
-**#4. Local Qwen isn't a worse Opus, it's a different tool**
-- 🔗 [Read on HackerNews](https://blog.alexellis.io/local-ai-is-not-opus/)
-- 👤 By alphabettsy | 📈 231 points | 💬 112 comments
+**#4. So You Want to Define a Well-Known URI**
+- 🔗 [Read on HackerNews](https://mnot.net/blog/2026/well_known_uris)
+- 👤 By ingve | 📈 70 points | 💬 34 comments
 
-**#5. Lore – Open source version control system designed for scalability**
-- 🔗 [Read on HackerNews](https://lore.org/)
-- 👤 By regnerba | 📈 1151 points | 💬 611 comments
+**#5. Ten years of ClickHouse in open source**
+- 🔗 [Read on HackerNews](https://clickhouse.com/blog/open-source-10)
+- 👤 By saisrirampur | 📈 34 points | 💬 6 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
