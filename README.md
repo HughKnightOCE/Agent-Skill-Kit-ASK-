@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 19, 2026
+> **Last Updated:** June 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28**
-- 🔗 [Read on HackerNews](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
-- 👤 By philonoist | 📈 142 points | 💬 65 comments
+**#1. I Stored a Website in a Favicon**
+- 🔗 [Read on HackerNews](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
+- 👤 By theanonymousone | 📈 131 points | 💬 44 comments
 
-**#2. DuckDB Internals: Why Is DuckDB Fast? (Part 1)**
-- 🔗 [Read on HackerNews](https://www.greybeam.ai/blog/duckdb-internals-part-1)
-- 👤 By marklit | 📈 189 points | 💬 59 comments
+**#2. Where to Find the Colors Your Screen Can't Show You**
+- 🔗 [Read on HackerNews](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
+- 👤 By moultano | 📈 122 points | 💬 34 comments
 
-**#3. To study how chips work, MIT researchers built their own operating system**
-- 🔗 [Read on HackerNews](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
-- 👤 By speckx | 📈 192 points | 💬 27 comments
+**#3. Data Compression Explained (2012)**
+- 🔗 [Read on HackerNews](https://mattmahoney.net/dc/dce.html)
+- 👤 By mtdewcmu | 📈 126 points | 💬 17 comments
 
-**#4. So You Want to Define a Well-Known URI**
-- 🔗 [Read on HackerNews](https://mnot.net/blog/2026/well_known_uris)
-- 👤 By ingve | 📈 70 points | 💬 34 comments
+**#4. There are no instances in ATProto**
+- 🔗 [Read on HackerNews](https://overreacted.io/there-are-no-instances-in-atproto/)
+- 👤 By danabramov | 📈 447 points | 💬 227 comments
 
-**#5. Ten years of ClickHouse in open source**
-- 🔗 [Read on HackerNews](https://clickhouse.com/blog/open-source-10)
-- 👤 By saisrirampur | 📈 34 points | 💬 6 comments
+**#5. Can you see three trees?**
+- 🔗 [Read on HackerNews](https://www.not-ship.com/can-you-see-three-trees/)
+- 👤 By Pamar | 📈 115 points | 💬 60 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
