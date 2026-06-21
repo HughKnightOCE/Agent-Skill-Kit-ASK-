@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 20, 2026
+> **Last Updated:** June 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. I Stored a Website in a Favicon**
-- 🔗 [Read on HackerNews](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
-- 👤 By theanonymousone | 📈 131 points | 💬 44 comments
+**#1. Google Hits 50% IPv6**
+- 🔗 [Read on HackerNews](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
+- 👤 By barqawiz | 📈 96 points | 💬 64 comments
 
-**#2. Where to Find the Colors Your Screen Can't Show You**
-- 🔗 [Read on HackerNews](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
-- 👤 By moultano | 📈 122 points | 💬 34 comments
+**#2. A 3D voxel game engine written in APL**
+- 🔗 [Read on HackerNews](https://github.com/namgyaaal/avoxelgame)
+- 👤 By sph | 📈 45 points | 💬 6 comments
 
-**#3. Data Compression Explained (2012)**
-- 🔗 [Read on HackerNews](https://mattmahoney.net/dc/dce.html)
-- 👤 By mtdewcmu | 📈 126 points | 💬 17 comments
+**#3. Developers don't understand CORS (2019)**
+- 🔗 [Read on HackerNews](https://fosterelli.co/developers-dont-understand-cors)
+- 👤 By toilet | 📈 201 points | 💬 109 comments
 
-**#4. There are no instances in ATProto**
-- 🔗 [Read on HackerNews](https://overreacted.io/there-are-no-instances-in-atproto/)
-- 👤 By danabramov | 📈 447 points | 💬 227 comments
+**#4. Zigzag Decoding with AVX-512**
+- 🔗 [Read on HackerNews](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
+- 👤 By luu | 📈 75 points | 💬 9 comments
 
-**#5. Can you see three trees?**
-- 🔗 [Read on HackerNews](https://www.not-ship.com/can-you-see-three-trees/)
-- 👤 By Pamar | 📈 115 points | 💬 60 comments
+**#5. Loupe – A iOS app that raises awareness about what native apps can see**
+- 🔗 [Read on HackerNews](https://github.com/mysk-research/loupe)
+- 👤 By Cider9986 | 📈 289 points | 💬 110 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
