@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 21, 2026
+> **Last Updated:** June 22, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Google Hits 50% IPv6**
-- 🔗 [Read on HackerNews](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
-- 👤 By barqawiz | 📈 96 points | 💬 64 comments
+**#1. Deno Desktop**
+- 🔗 [Read on HackerNews](https://docs.deno.com/runtime/desktop/)
+- 👤 By GeneralMaximus | 📈 435 points | 💬 181 comments
 
-**#2. A 3D voxel game engine written in APL**
-- 🔗 [Read on HackerNews](https://github.com/namgyaaal/avoxelgame)
-- 👤 By sph | 📈 45 points | 💬 6 comments
+**#2. Help I accidentally a wigglegram**
+- 🔗 [Read on HackerNews](https://lmao.center/blog/wiggle-accidents/)
+- 👤 By gregsadetsky | 📈 276 points | 💬 57 comments
 
-**#3. Developers don't understand CORS (2019)**
-- 🔗 [Read on HackerNews](https://fosterelli.co/developers-dont-understand-cors)
-- 👤 By toilet | 📈 201 points | 💬 109 comments
+**#3. Did my old job only exist because of fraud?**
+- 🔗 [Read on HackerNews](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+- 👤 By advisedwang | 📈 595 points | 💬 257 comments
 
-**#4. Zigzag Decoding with AVX-512**
-- 🔗 [Read on HackerNews](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
-- 👤 By luu | 📈 75 points | 💬 9 comments
+**#4. Apertus – Open Foundation Model for Sovereign AI**
+- 🔗 [Read on HackerNews](https://apertvs.ai/)
+- 👤 By T-A | 📈 402 points | 💬 136 comments
 
-**#5. Loupe – A iOS app that raises awareness about what native apps can see**
-- 🔗 [Read on HackerNews](https://github.com/mysk-research/loupe)
-- 👤 By Cider9986 | 📈 289 points | 💬 110 comments
+**#5. Munich 1991: The Roots of the Current AI Boom**
+- 🔗 [Read on HackerNews](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
+- 👤 By tosh | 📈 82 points | 💬 29 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
