@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 22, 2026
+> **Last Updated:** June 23, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Deno Desktop**
-- 🔗 [Read on HackerNews](https://docs.deno.com/runtime/desktop/)
-- 👤 By GeneralMaximus | 📈 435 points | 💬 181 comments
+**#1. The new HTTP QUERY method explained**
+- 🔗 [Read on HackerNews](https://kreya.app/blog/new-http-query-method-explained/)
+- 👤 By CommonGuy | 📈 118 points | 💬 67 comments
 
-**#2. Help I accidentally a wigglegram**
-- 🔗 [Read on HackerNews](https://lmao.center/blog/wiggle-accidents/)
-- 👤 By gregsadetsky | 📈 276 points | 💬 57 comments
+**#2. Steam Machine launches today**
+- 🔗 [Read on HackerNews](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+- 👤 By theschwa | 📈 1596 points | 💬 1380 comments
 
-**#3. Did my old job only exist because of fraud?**
-- 🔗 [Read on HackerNews](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
-- 👤 By advisedwang | 📈 595 points | 💬 257 comments
+**#3. Polymarket has flooded social media with deceptive videos by paid creators**
+- 🔗 [Read on HackerNews](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2)
+- 👤 By Vaslo | 📈 302 points | 💬 233 comments
 
-**#4. Apertus – Open Foundation Model for Sovereign AI**
-- 🔗 [Read on HackerNews](https://apertvs.ai/)
-- 👤 By T-A | 📈 402 points | 💬 136 comments
+**#4. GLM-5.2 – How to Run Locally**
+- 🔗 [Read on HackerNews](https://unsloth.ai/docs/models/glm-5.2)
+- 👤 By TechTechTech | 📈 403 points | 💬 172 comments
 
-**#5. Munich 1991: The Roots of the Current AI Boom**
-- 🔗 [Read on HackerNews](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
-- 👤 By tosh | 📈 82 points | 💬 29 comments
+**#5. Will It Mythos?**
+- 🔗 [Read on HackerNews](https://swelljoe.com/post/will-it-mythos/)
+- 👤 By mindingnever | 📈 168 points | 💬 100 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
