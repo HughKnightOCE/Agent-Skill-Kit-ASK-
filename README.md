@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 23, 2026
+> **Last Updated:** June 24, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The new HTTP QUERY method explained**
-- 🔗 [Read on HackerNews](https://kreya.app/blog/new-http-query-method-explained/)
-- 👤 By CommonGuy | 📈 118 points | 💬 67 comments
+**#1. We're making Bunny DNS free: because a faster internet won't build itself**
+- 🔗 [Read on HackerNews](https://bunny.net/blog/were-making-bunny-dns-free/)
+- 👤 By dabinat | 📈 63 points | 💬 19 comments
 
-**#2. Steam Machine launches today**
-- 🔗 [Read on HackerNews](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
-- 👤 By theschwa | 📈 1596 points | 💬 1380 comments
+**#2. Vulnerability reports are not special anymore**
+- 🔗 [Read on HackerNews](https://words.filippo.io/vuln-reports/)
+- 👤 By goranmoomin | 📈 281 points | 💬 152 comments
 
-**#3. Polymarket has flooded social media with deceptive videos by paid creators**
-- 🔗 [Read on HackerNews](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2)
-- 👤 By Vaslo | 📈 302 points | 💬 233 comments
+**#3. Raspberry Pi Pico W as USB Wi-Fi Adapter**
+- 🔗 [Read on HackerNews](https://gitlab.com/baiyibai/pico-usb-wifi)
+- 👤 By byb | 📈 140 points | 💬 46 comments
 
-**#4. GLM-5.2 – How to Run Locally**
-- 🔗 [Read on HackerNews](https://unsloth.ai/docs/models/glm-5.2)
-- 👤 By TechTechTech | 📈 403 points | 💬 172 comments
+**#4. Jerry's Map**
+- 🔗 [Read on HackerNews](http://www.jerrysmap.com/the-map)
+- 👤 By turtleyacht | 📈 473 points | 💬 54 comments
 
-**#5. Will It Mythos?**
-- 🔗 [Read on HackerNews](https://swelljoe.com/post/will-it-mythos/)
-- 👤 By mindingnever | 📈 168 points | 💬 100 comments
+**#5. Why eval startups fail (2025)**
+- 🔗 [Read on HackerNews](https://thomasliao.com/eval-startups)
+- 👤 By jxmorris12 | 📈 21 points | 💬 17 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
