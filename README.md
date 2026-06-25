@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 24, 2026
+> **Last Updated:** June 25, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. We're making Bunny DNS free: because a faster internet won't build itself**
-- 🔗 [Read on HackerNews](https://bunny.net/blog/were-making-bunny-dns-free/)
-- 👤 By dabinat | 📈 63 points | 💬 19 comments
+**#1. Half-Life 2 in a Browser**
+- 🔗 [Read on HackerNews](https://hl2.slqnt.dev/)
+- 👤 By panza | 📈 236 points | 💬 87 comments
 
-**#2. Vulnerability reports are not special anymore**
-- 🔗 [Read on HackerNews](https://words.filippo.io/vuln-reports/)
-- 👤 By goranmoomin | 📈 281 points | 💬 152 comments
+**#2. Anthropic says Alibaba illicitly extracted Claude AI model capabilities**
+- 🔗 [Read on HackerNews](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+- 👤 By htrp | 📈 425 points | 💬 742 comments
 
-**#3. Raspberry Pi Pico W as USB Wi-Fi Adapter**
-- 🔗 [Read on HackerNews](https://gitlab.com/baiyibai/pico-usb-wifi)
-- 👤 By byb | 📈 140 points | 💬 46 comments
+**#3. OpenAI unveils its first custom chip, built by Broadcom**
+- 🔗 [Read on HackerNews](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- 👤 By jamdesk | 📈 702 points | 💬 394 comments
 
-**#4. Jerry's Map**
-- 🔗 [Read on HackerNews](http://www.jerrysmap.com/the-map)
-- 👤 By turtleyacht | 📈 473 points | 💬 54 comments
+**#4. Wikipedia Workers in Britain set global first by seeking union recognition**
+- 🔗 [Read on HackerNews](https://utaw.tech/news/wikipedia-recognition)
+- 👤 By chobeat | 📈 74 points | 💬 67 comments
 
-**#5. Why eval startups fail (2025)**
-- 🔗 [Read on HackerNews](https://thomasliao.com/eval-startups)
-- 👤 By jxmorris12 | 📈 21 points | 💬 17 comments
+**#5. Cloudflare launched self-managed OAuth for all**
+- 🔗 [Read on HackerNews](https://blog.cloudflare.com/oauth-for-all/)
+- 👤 By terryds | 📈 165 points | 💬 75 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
