@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 25, 2026
+> **Last Updated:** June 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Half-Life 2 in a Browser**
-- 🔗 [Read on HackerNews](https://hl2.slqnt.dev/)
-- 👤 By panza | 📈 236 points | 💬 87 comments
+**#1. We All Depend on Open Source. We Will Defend It Together**
+- 🔗 [Read on HackerNews](https://akrites.org/letter/)
+- 👤 By dhruv3006 | 📈 118 points | 💬 49 comments
 
-**#2. Anthropic says Alibaba illicitly extracted Claude AI model capabilities**
-- 🔗 [Read on HackerNews](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
-- 👤 By htrp | 📈 425 points | 💬 742 comments
+**#2. Om Malik has died**
+- 🔗 [Read on HackerNews](https://om.co/2026/06/24/1966-2026/)
+- 👤 By minimaxir | 📈 906 points | 💬 105 comments
 
-**#3. OpenAI unveils its first custom chip, built by Broadcom**
-- 🔗 [Read on HackerNews](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
-- 👤 By jamdesk | 📈 702 points | 💬 394 comments
+**#3. An entire Herculaneum scroll has been read for the first time**
+- 🔗 [Read on HackerNews](https://scrollprize.org/firstscroll)
+- 👤 By verditelabs | 📈 1307 points | 💬 276 comments
 
-**#4. Wikipedia Workers in Britain set global first by seeking union recognition**
-- 🔗 [Read on HackerNews](https://utaw.tech/news/wikipedia-recognition)
-- 👤 By chobeat | 📈 74 points | 💬 67 comments
+**#4. Libre Barcode Project**
+- 🔗 [Read on HackerNews](https://graphicore.github.io/librebarcode/)
+- 👤 By luu | 📈 153 points | 💬 17 comments
 
-**#5. Cloudflare launched self-managed OAuth for all**
-- 🔗 [Read on HackerNews](https://blog.cloudflare.com/oauth-for-all/)
-- 👤 By terryds | 📈 165 points | 💬 75 comments
+**#5. Framework's 10G Ethernet module exposes USB-C's complexity**
+- 🔗 [Read on HackerNews](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+- 👤 By Alupis | 📈 170 points | 💬 91 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
