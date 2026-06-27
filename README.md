@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 26, 2026
+> **Last Updated:** June 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. We All Depend on Open Source. We Will Defend It Together**
-- 🔗 [Read on HackerNews](https://akrites.org/letter/)
-- 👤 By dhruv3006 | 📈 118 points | 💬 49 comments
+**#1. Previewing GPT‑5.6 Sol: a next-generation model**
+- 🔗 [Read on HackerNews](https://openai.com/index/previewing-gpt-5-6-sol/)
+- 👤 By minimaxir | 📈 1002 points | 💬 624 comments
 
-**#2. Om Malik has died**
-- 🔗 [Read on HackerNews](https://om.co/2026/06/24/1966-2026/)
-- 👤 By minimaxir | 📈 906 points | 💬 105 comments
+**#2. Linux on Older Hardware: The Complete Revival Guide**
+- 🔗 [Read on HackerNews](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
+- 👤 By tapanjk | 📈 40 points | 💬 10 comments
 
-**#3. An entire Herculaneum scroll has been read for the first time**
-- 🔗 [Read on HackerNews](https://scrollprize.org/firstscroll)
-- 👤 By verditelabs | 📈 1307 points | 💬 276 comments
+**#3. Long Wave radio era set to end with switch-off**
+- 🔗 [Read on HackerNews](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
+- 👤 By edward | 📈 26 points | 💬 46 comments
 
-**#4. Libre Barcode Project**
-- 🔗 [Read on HackerNews](https://graphicore.github.io/librebarcode/)
-- 👤 By luu | 📈 153 points | 💬 17 comments
+**#4. WordStar: A Writer's Word Processor (1996)**
+- 🔗 [Read on HackerNews](https://www.sfwriter.com/wordstar.htm)
+- 👤 By droidjj | 📈 92 points | 💬 38 comments
 
-**#5. Framework's 10G Ethernet module exposes USB-C's complexity**
-- 🔗 [Read on HackerNews](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
-- 👤 By Alupis | 📈 170 points | 💬 91 comments
+**#5. Why does kinetic energy increase quadratically, not linearly, with speed? (2011)**
+- 🔗 [Read on HackerNews](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+- 👤 By ProxyTracer | 📈 235 points | 💬 111 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
