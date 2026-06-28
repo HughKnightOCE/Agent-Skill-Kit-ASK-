@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 27, 2026
+> **Last Updated:** June 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Previewing GPT‑5.6 Sol: a next-generation model**
-- 🔗 [Read on HackerNews](https://openai.com/index/previewing-gpt-5-6-sol/)
-- 👤 By minimaxir | 📈 1002 points | 💬 624 comments
+**#1. Marfa Public Radio Puts You to Sleep**
+- 🔗 [Read on HackerNews](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+- 👤 By reaperducer | 📈 230 points | 💬 57 comments
 
-**#2. Linux on Older Hardware: The Complete Revival Guide**
-- 🔗 [Read on HackerNews](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
-- 👤 By tapanjk | 📈 40 points | 💬 10 comments
+**#2. Bashblog – a single bash script to create blogs**
+- 🔗 [Read on HackerNews](https://github.com/cfenollosa/bashblog)
+- 👤 By ludicrousdispla | 📈 50 points | 💬 16 comments
 
-**#3. Long Wave radio era set to end with switch-off**
-- 🔗 [Read on HackerNews](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
-- 👤 By edward | 📈 26 points | 💬 46 comments
+**#3. Wayfinder Router: deterministic routing of queries between local and hosted LLM**
+- 🔗 [Read on HackerNews](https://github.com/itsthelore/wayfinder-router)
+- 👤 By handfuloflight | 📈 67 points | 💬 16 comments
 
-**#4. WordStar: A Writer's Word Processor (1996)**
-- 🔗 [Read on HackerNews](https://www.sfwriter.com/wordstar.htm)
-- 👤 By droidjj | 📈 92 points | 💬 38 comments
+**#4. AMD Strix Halo RDMA Cluster Setup Guide**
+- 🔗 [Read on HackerNews](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
+- 👤 By jakogut | 📈 139 points | 💬 41 comments
 
-**#5. Why does kinetic energy increase quadratically, not linearly, with speed? (2011)**
-- 🔗 [Read on HackerNews](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
-- 👤 By ProxyTracer | 📈 235 points | 💬 111 comments
+**#5. OpenRA**
+- 🔗 [Read on HackerNews](https://www.openra.net/)
+- 👤 By tosh | 📈 713 points | 💬 134 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
