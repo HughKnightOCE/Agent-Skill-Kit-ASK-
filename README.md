@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 28, 2026
+> **Last Updated:** June 29, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Marfa Public Radio Puts You to Sleep**
-- 🔗 [Read on HackerNews](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-- 👤 By reaperducer | 📈 230 points | 💬 57 comments
+**#1. HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88**
+- 🔗 [Read on HackerNews](https://danunparsed.com/p/hackerrank-open-source-ats)
+- 👤 By sambellll | 📈 480 points | 💬 182 comments
 
-**#2. Bashblog – a single bash script to create blogs**
-- 🔗 [Read on HackerNews](https://github.com/cfenollosa/bashblog)
-- 👤 By ludicrousdispla | 📈 50 points | 💬 16 comments
+**#2. GLM 5.2 beats Claude in our benchmarks**
+- 🔗 [Read on HackerNews](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+- 👤 By jms703 | 📈 867 points | 💬 402 comments
 
-**#3. Wayfinder Router: deterministic routing of queries between local and hosted LLM**
-- 🔗 [Read on HackerNews](https://github.com/itsthelore/wayfinder-router)
-- 👤 By handfuloflight | 📈 67 points | 💬 16 comments
+**#3. Dissecting Apple's Sparse Image Format (ASIF)**
+- 🔗 [Read on HackerNews](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
+- 👤 By supermatou | 📈 85 points | 💬 6 comments
 
-**#4. AMD Strix Halo RDMA Cluster Setup Guide**
-- 🔗 [Read on HackerNews](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
-- 👤 By jakogut | 📈 139 points | 💬 41 comments
+**#4. Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped**
+- 🔗 [Read on HackerNews](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
+- 👤 By taubek | 📈 105 points | 💬 14 comments
 
-**#5. OpenRA**
-- 🔗 [Read on HackerNews](https://www.openra.net/)
-- 👤 By tosh | 📈 713 points | 💬 134 comments
+**#5. NUMA: Cores, memory, and the distance between them**
+- 🔗 [Read on HackerNews](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them)
+- 👤 By sys_call | 📈 30 points | 💬 2 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
