@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** June 29, 2026
+> **Last Updated:** June 30, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88**
-- 🔗 [Read on HackerNews](https://danunparsed.com/p/hackerrank-open-source-ats)
-- 👤 By sambellll | 📈 480 points | 💬 182 comments
+**#1. Open Source Low Tech**
+- 🔗 [Read on HackerNews](https://opensourcelowtech.org/)
+- 👤 By grep_it | 📈 238 points | 💬 46 comments
 
-**#2. GLM 5.2 beats Claude in our benchmarks**
-- 🔗 [Read on HackerNews](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
-- 👤 By jms703 | 📈 867 points | 💬 402 comments
+**#2. Qwen 3.6 27B is the sweet spot for local development**
+- 🔗 [Read on HackerNews](https://quesma.com/blog/qwen-36-is-awesome/)
+- 👤 By stared | 📈 930 points | 💬 619 comments
 
-**#3. Dissecting Apple's Sparse Image Format (ASIF)**
-- 🔗 [Read on HackerNews](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
-- 👤 By supermatou | 📈 85 points | 💬 6 comments
+**#3. .self: A new top-level domain designed to support self-hosting**
+- 🔗 [Read on HackerNews](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+- 👤 By HumanCCF | 📈 520 points | 💬 298 comments
 
-**#4. Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped**
-- 🔗 [Read on HackerNews](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
-- 👤 By taubek | 📈 105 points | 💬 14 comments
+**#4. Free the Icons**
+- 🔗 [Read on HackerNews](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
+- 👤 By zdw | 📈 477 points | 💬 136 comments
 
-**#5. NUMA: Cores, memory, and the distance between them**
-- 🔗 [Read on HackerNews](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them)
-- 👤 By sys_call | 📈 30 points | 💬 2 comments
+**#5. The operating cost starts after the demo**
+- 🔗 [Read on HackerNews](https://twoheads.net/the-promise-is-unattended-work/)
+- 👤 By hellokfk | 📈 16 points | 💬 4 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
