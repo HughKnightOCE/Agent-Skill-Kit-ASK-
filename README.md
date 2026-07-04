@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 03, 2026
+> **Last Updated:** July 04, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Virginia bans sale of geolocation data**
-- 🔗 [Read on HackerNews](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-- 👤 By toomuchtodo | 📈 781 points | 💬 125 comments
+**#1. The bottleneck might be the air in the room**
+- 🔗 [Read on HackerNews](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+- 👤 By gslin | 📈 213 points | 💬 128 comments
 
-**#2. Half-Baked Product**
-- 🔗 [Read on HackerNews](https://weli.dev/blog/half-baked-product/)
-- 👤 By weli | 📈 31 points | 💬 8 comments
+**#2. Agentic coding notes from Galapagos Island**
+- 🔗 [Read on HackerNews](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
+- 👤 By gm678 | 📈 88 points | 💬 33 comments
 
-**#3. CarPlay Is Additive**
-- 🔗 [Read on HackerNews](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
-- 👤 By sprawl_ | 📈 306 points | 💬 379 comments
+**#3. Performance per dollar is getting faster and cheaper**
+- 🔗 [Read on HackerNews](https://www.wafer.ai/blog/glm52-amd)
+- 👤 By latchkey | 📈 245 points | 💬 83 comments
 
-**#4. Right to Local Intelligence**
-- 🔗 [Read on HackerNews](https://righttointelligence.org/)
-- 👤 By thoughtpeddler | 📈 259 points | 💬 87 comments
+**#4. Mir Books – Books from the Soviet Era**
+- 🔗 [Read on HackerNews](https://mirtitles.org)
+- 👤 By clmul | 📈 67 points | 💬 25 comments
 
-**#5. Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says**
-- 🔗 [Read on HackerNews](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
-- 👤 By nsoonhui | 📈 57 points | 💬 23 comments
+**#5. Leanstral 1.5: Proof abundance for all**
+- 🔗 [Read on HackerNews](https://mistral.ai/news/leanstral-1-5/)
+- 👤 By programLyrique | 📈 230 points | 💬 66 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
