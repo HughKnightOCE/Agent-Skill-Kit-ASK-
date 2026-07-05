@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 04, 2026
+> **Last Updated:** July 05, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The bottleneck might be the air in the room**
-- 🔗 [Read on HackerNews](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
-- 👤 By gslin | 📈 213 points | 💬 128 comments
+**#1. Shadcn/UI now defaults to Base UI instead of Radix**
+- 🔗 [Read on HackerNews](https://ui.shadcn.com/docs/changelog)
+- 👤 By dabinat | 📈 123 points | 💬 38 comments
 
-**#2. Agentic coding notes from Galapagos Island**
-- 🔗 [Read on HackerNews](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
-- 👤 By gm678 | 📈 88 points | 💬 33 comments
+**#2. If you're a button, you have one job**
+- 🔗 [Read on HackerNews](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
+- 👤 By nozzlegear | 📈 217 points | 💬 103 comments
 
-**#3. Performance per dollar is getting faster and cheaper**
-- 🔗 [Read on HackerNews](https://www.wafer.ai/blog/glm52-amd)
-- 👤 By latchkey | 📈 245 points | 💬 83 comments
+**#3. Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable**
+- 🔗 [Read on HackerNews](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+- 👤 By asronline | 📈 568 points | 💬 231 comments
 
-**#4. Mir Books – Books from the Soviet Era**
-- 🔗 [Read on HackerNews](https://mirtitles.org)
-- 👤 By clmul | 📈 67 points | 💬 25 comments
+**#4. Web-based cryptography is always snake oil**
+- 🔗 [Read on HackerNews](https://www.devever.net/~hl/webcrypto)
+- 👤 By enz | 📈 17 points | 💬 13 comments
 
-**#5. Leanstral 1.5: Proof abundance for all**
-- 🔗 [Read on HackerNews](https://mistral.ai/news/leanstral-1-5/)
-- 👤 By programLyrique | 📈 230 points | 💬 66 comments
+**#5. Apocketlypse**
+- 🔗 [Read on HackerNews](https://0dd.company/galleries/triumph/1.html)
+- 👤 By scaglio | 📈 13 points | 💬 1 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
