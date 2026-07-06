@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 05, 2026
+> **Last Updated:** July 06, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Shadcn/UI now defaults to Base UI instead of Radix**
-- 🔗 [Read on HackerNews](https://ui.shadcn.com/docs/changelog)
-- 👤 By dabinat | 📈 123 points | 💬 38 comments
+**#1. Real-time map of Great Britain's rail network**
+- 🔗 [Read on HackerNews](https://www.map.signalbox.io)
+- 👤 By scrlk | 📈 50 points | 💬 17 comments
 
-**#2. If you're a button, you have one job**
-- 🔗 [Read on HackerNews](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
-- 👤 By nozzlegear | 📈 217 points | 💬 103 comments
+**#2. GPT-5.6 Sol Ultra will be in Codex**
+- 🔗 [Read on HackerNews](https://twitter.com/thsottiaux/status/2073933490513752151)
+- 👤 By mfiguiere | 📈 298 points | 💬 238 comments
 
-**#3. Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable**
-- 🔗 [Read on HackerNews](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
-- 👤 By asronline | 📈 568 points | 💬 231 comments
+**#3. Has_not_been_viewed_much**
+- 🔗 [Read on HackerNews](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+- 👤 By wxw | 📈 313 points | 💬 81 comments
 
-**#4. Web-based cryptography is always snake oil**
-- 🔗 [Read on HackerNews](https://www.devever.net/~hl/webcrypto)
-- 👤 By enz | 📈 17 points | 💬 13 comments
+**#4. Organic Maps**
+- 🔗 [Read on HackerNews](https://organicmaps.app/)
+- 👤 By tosh | 📈 1009 points | 💬 311 comments
 
-**#5. Apocketlypse**
-- 🔗 [Read on HackerNews](https://0dd.company/galleries/triumph/1.html)
-- 👤 By scaglio | 📈 13 points | 💬 1 comments
+**#5. Generate parametric, manufacturable 3D models in seconds**
+- 🔗 [Read on HackerNews](https://kyrall.com/)
+- 👤 By OsamaAtwi | 📈 33 points | 💬 26 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
