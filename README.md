@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 07, 2026
+> **Last Updated:** July 08, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. OpenWrt One – Open Hardware Router**
-- 🔗 [Read on HackerNews](https://openwrt.org/toh/openwrt/one)
-- 👤 By peter_d_sherman | 📈 629 points | 💬 246 comments
+**#1. Decoding the obfuscated bash script on a Uniqlo t-shirt**
+- 🔗 [Read on HackerNews](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+- 👤 By speerer | 📈 50 points | 💬 9 comments
 
-**#2. CoMaps – FOSS Offline Maps**
-- 🔗 [Read on HackerNews](https://www.comaps.app/)
-- 👤 By basilikum | 📈 572 points | 💬 124 comments
+**#2. GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos**
+- 🔗 [Read on HackerNews](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+- 👤 By ColinEberhardt | 📈 174 points | 💬 68 comments
 
-**#3. GLM 5.2 and the coming AI margin collapse**
-- 🔗 [Read on HackerNews](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
-- 👤 By martinald | 📈 426 points | 💬 259 comments
+**#3. How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)**
+- 🔗 [Read on HackerNews](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+- 👤 By 4diii | 📈 194 points | 💬 114 comments
 
-**#4. How to sequence your own DNA at home**
-- 🔗 [Read on HackerNews](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
-- 👤 By bilsbie | 📈 221 points | 💬 79 comments
+**#4. Tenda firmware (multiple versions) contains hidden authentication backdoor**
+- 🔗 [Read on HackerNews](https://kb.cert.org/vuls/id/213560)
+- 👤 By miniBill | 📈 210 points | 💬 66 comments
 
-**#5. Small AI Models Gain Traction In places with unreliable networks**
-- 🔗 [Read on HackerNews](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-- 👤 By sscaryterry | 📈 146 points | 💬 51 comments
+**#5. Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks**
+- 🔗 [Read on HackerNews](https://www.digipres.org/the-floppy-guide/)
+- 👤 By whiteblossom | 📈 75 points | 💬 19 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
