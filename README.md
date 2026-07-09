@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 08, 2026
+> **Last Updated:** July 09, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Decoding the obfuscated bash script on a Uniqlo t-shirt**
-- 🔗 [Read on HackerNews](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
-- 👤 By speerer | 📈 50 points | 💬 9 comments
+**#1. John Deere owners will get the right to repair equipment under FTC settlement**
+- 🔗 [Read on HackerNews](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+- 👤 By djoldman | 📈 845 points | 💬 157 comments
 
-**#2. GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos**
-- 🔗 [Read on HackerNews](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
-- 👤 By ColinEberhardt | 📈 174 points | 💬 68 comments
+**#2. Spider venom kills varroa mites without harming honeybees**
+- 🔗 [Read on HackerNews](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
+- 👤 By Jedd | 📈 123 points | 💬 52 comments
 
-**#3. How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)**
-- 🔗 [Read on HackerNews](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
-- 👤 By 4diii | 📈 194 points | 💬 114 comments
+**#3. Why developers are ditching GitHub for Codeberg and self-hosting alternatives**
+- 🔗 [Read on HackerNews](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+- 👤 By Gedxx | 📈 93 points | 💬 56 comments
 
-**#4. Tenda firmware (multiple versions) contains hidden authentication backdoor**
-- 🔗 [Read on HackerNews](https://kb.cert.org/vuls/id/213560)
-- 👤 By miniBill | 📈 210 points | 💬 66 comments
+**#4. Meta reuses old RAM in new servers with custom bridge chip**
+- 🔗 [Read on HackerNews](https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html)
+- 👤 By ihsw | 📈 28 points | 💬 4 comments
 
-**#5. Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks**
-- 🔗 [Read on HackerNews](https://www.digipres.org/the-floppy-guide/)
-- 👤 By whiteblossom | 📈 75 points | 💬 19 comments
+**#5. Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI**
+- 🔗 [Read on HackerNews](https://nexte.st/)
+- 👤 By nateb2022 | 📈 100 points | 💬 29 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
