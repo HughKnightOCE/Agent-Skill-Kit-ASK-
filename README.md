@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 09, 2026
+> **Last Updated:** July 10, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. John Deere owners will get the right to repair equipment under FTC settlement**
-- 🔗 [Read on HackerNews](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
-- 👤 By djoldman | 📈 845 points | 💬 157 comments
+**#1. GPT-5.6**
+- 🔗 [Read on HackerNews](https://openai.com/index/gpt-5-6/)
+- 👤 By logickkk1 | 📈 1281 points | 💬 911 comments
 
-**#2. Spider venom kills varroa mites without harming honeybees**
-- 🔗 [Read on HackerNews](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
-- 👤 By Jedd | 📈 123 points | 💬 52 comments
+**#2. Show HN: Getting GLM 5.2 running on my slow computer**
+- 🔗 [Read on HackerNews](https://github.com/JustVugg/colibri)
+- 👤 By vforno | 📈 685 points | 💬 163 comments
 
-**#3. Why developers are ditching GitHub for Codeberg and self-hosting alternatives**
-- 🔗 [Read on HackerNews](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
-- 👤 By Gedxx | 📈 93 points | 💬 56 comments
+**#3. In Emacs, Everything Looks Like a Service**
+- 🔗 [Read on HackerNews](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html)
+- 👤 By kickingvegas | 📈 15 points | 💬 0 comments
 
-**#4. Meta reuses old RAM in new servers with custom bridge chip**
-- 🔗 [Read on HackerNews](https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html)
-- 👤 By ihsw | 📈 28 points | 💬 4 comments
+**#4. EU Parliament greenlights Chat Control 1.0**
+- 🔗 [Read on HackerNews](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
+- 👤 By rapnie | 📈 1400 points | 💬 657 comments
 
-**#5. Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI**
-- 🔗 [Read on HackerNews](https://nexte.st/)
-- 👤 By nateb2022 | 📈 100 points | 💬 29 comments
+**#5. Train sim created by just one person is being called the best ever made**
+- 🔗 [Read on HackerNews](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
+- 👤 By oumua_don17 | 📈 608 points | 💬 218 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
