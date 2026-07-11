@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 10, 2026
+> **Last Updated:** July 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GPT-5.6**
-- 🔗 [Read on HackerNews](https://openai.com/index/gpt-5-6/)
-- 👤 By logickkk1 | 📈 1281 points | 💬 911 comments
+**#1. Einstein's relativity rules chemical bonds in heavy elements, new research shows**
+- 🔗 [Read on HackerNews](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+- 👤 By hhs | 📈 237 points | 💬 82 comments
 
-**#2. Show HN: Getting GLM 5.2 running on my slow computer**
-- 🔗 [Read on HackerNews](https://github.com/JustVugg/colibri)
-- 👤 By vforno | 📈 685 points | 💬 163 comments
+**#2. QuadRF can spot drones and see WiFi through my wall**
+- 🔗 [Read on HackerNews](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+- 👤 By speckx | 📈 577 points | 💬 192 comments
 
-**#3. In Emacs, Everything Looks Like a Service**
-- 🔗 [Read on HackerNews](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html)
-- 👤 By kickingvegas | 📈 15 points | 💬 0 comments
+**#3. Apple sues OpenAI, accuses ex-employees of stealing trade secrets**
+- 🔗 [Read on HackerNews](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+- 👤 By stock_toaster | 📈 1054 points | 💬 541 comments
 
-**#4. EU Parliament greenlights Chat Control 1.0**
-- 🔗 [Read on HackerNews](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
-- 👤 By rapnie | 📈 1400 points | 💬 657 comments
+**#4. The vintage beauty of Soviet control rooms (2018)**
+- 🔗 [Read on HackerNews](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
+- 👤 By mvdtnz | 📈 94 points | 💬 29 comments
 
-**#5. Train sim created by just one person is being called the best ever made**
-- 🔗 [Read on HackerNews](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
-- 👤 By oumua_don17 | 📈 608 points | 💬 218 comments
+**#5. An iroh powered smart fan**
+- 🔗 [Read on HackerNews](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
+- 👤 By surprisetalk | 📈 103 points | 💬 26 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
