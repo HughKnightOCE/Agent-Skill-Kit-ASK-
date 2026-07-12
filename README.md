@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 11, 2026
+> **Last Updated:** July 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Einstein's relativity rules chemical bonds in heavy elements, new research shows**
-- 🔗 [Read on HackerNews](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-- 👤 By hhs | 📈 237 points | 💬 82 comments
+**#1. Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase**
+- 🔗 [Read on HackerNews](https://github.com/cosmtrek/mindwalk)
+- 👤 By cosmtrek | 📈 42 points | 💬 13 comments
 
-**#2. QuadRF can spot drones and see WiFi through my wall**
-- 🔗 [Read on HackerNews](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
-- 👤 By speckx | 📈 577 points | 💬 192 comments
+**#2. Mesh LLM: distributed AI computing on iroh**
+- 🔗 [Read on HackerNews](https://www.iroh.computer/blog/mesh-llm)
+- 👤 By tionis | 📈 254 points | 💬 58 comments
 
-**#3. Apple sues OpenAI, accuses ex-employees of stealing trade secrets**
-- 🔗 [Read on HackerNews](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
-- 👤 By stock_toaster | 📈 1054 points | 💬 541 comments
+**#3. Vint Cerf, a “father of the Internet”, is retiring**
+- 🔗 [Read on HackerNews](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
+- 👤 By compiler-guy | 📈 60 points | 💬 31 comments
 
-**#4. The vintage beauty of Soviet control rooms (2018)**
-- 🔗 [Read on HackerNews](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-- 👤 By mvdtnz | 📈 94 points | 💬 29 comments
+**#4. Protobuf-py: Protobuf for Python, without compromises**
+- 🔗 [Read on HackerNews](https://buf.build/blog/protobuf-py)
+- 👤 By ming13 | 📈 43 points | 💬 5 comments
 
-**#5. An iroh powered smart fan**
-- 🔗 [Read on HackerNews](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
-- 👤 By surprisetalk | 📈 103 points | 💬 26 comments
+**#5. Text art tools**
+- 🔗 [Read on HackerNews](https://hlnet.notion.site/text-art-tools)
+- 👤 By surprisetalk | 📈 36 points | 💬 14 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
