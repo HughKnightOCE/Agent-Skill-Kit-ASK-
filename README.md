@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 12, 2026
+> **Last Updated:** July 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase**
-- 🔗 [Read on HackerNews](https://github.com/cosmtrek/mindwalk)
-- 👤 By cosmtrek | 📈 42 points | 💬 13 comments
+**#1. Zig Creator Calls Spade a Spade, Anthropic Blows Smoke**
+- 🔗 [Read on HackerNews](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
+- 👤 By crowdhailer | 📈 177 points | 💬 98 comments
 
-**#2. Mesh LLM: distributed AI computing on iroh**
-- 🔗 [Read on HackerNews](https://www.iroh.computer/blog/mesh-llm)
-- 👤 By tionis | 📈 254 points | 💬 58 comments
+**#2. Interrail: 6,379Km and 13 Countries over 7 weeks**
+- 🔗 [Read on HackerNews](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
+- 👤 By coinfused | 📈 50 points | 💬 38 comments
 
-**#3. Vint Cerf, a “father of the Internet”, is retiring**
-- 🔗 [Read on HackerNews](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
-- 👤 By compiler-guy | 📈 60 points | 💬 31 comments
+**#3. The social physics of conversation: Communication patterns matter**
+- 🔗 [Read on HackerNews](https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership)
+- 👤 By kiyanwang | 📈 40 points | 💬 5 comments
 
-**#4. Protobuf-py: Protobuf for Python, without compromises**
-- 🔗 [Read on HackerNews](https://buf.build/blog/protobuf-py)
-- 👤 By ming13 | 📈 43 points | 💬 5 comments
+**#4. GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years**
+- 🔗 [Read on HackerNews](https://nebusec.ai/research/ionstack-part-2/)
+- 👤 By ranger_danger | 📈 272 points | 💬 114 comments
 
-**#5. Text art tools**
-- 🔗 [Read on HackerNews](https://hlnet.notion.site/text-art-tools)
-- 👤 By surprisetalk | 📈 36 points | 💬 14 comments
+**#5. Beavis Ultrasound PnP ISA Sound Card Replica**
+- 🔗 [Read on HackerNews](https://github.com/schlae/BeavisUltrasound)
+- 👤 By mariuz | 📈 61 points | 💬 21 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
