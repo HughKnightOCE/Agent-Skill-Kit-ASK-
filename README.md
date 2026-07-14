@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 13, 2026
+> **Last Updated:** July 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Zig Creator Calls Spade a Spade, Anthropic Blows Smoke**
-- 🔗 [Read on HackerNews](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
-- 👤 By crowdhailer | 📈 177 points | 💬 98 comments
+**#1. Japan develops a method to recover up to 90% of lithium from used EV batteries**
+- 🔗 [Read on HackerNews](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- 👤 By donohoe | 📈 458 points | 💬 114 comments
 
-**#2. Interrail: 6,379Km and 13 Countries over 7 weeks**
-- 🔗 [Read on HackerNews](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
-- 👤 By coinfused | 📈 50 points | 💬 38 comments
+**#2. Alternative(s) to run CUDA on non-Nvidia hardware**
+- 🔗 [Read on HackerNews](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
+- 👤 By alok-g | 📈 30 points | 💬 8 comments
 
-**#3. The social physics of conversation: Communication patterns matter**
-- 🔗 [Read on HackerNews](https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership)
-- 👤 By kiyanwang | 📈 40 points | 💬 5 comments
+**#3. The git history command**
+- 🔗 [Read on HackerNews](https://lalitm.com/post/git-history/)
+- 👤 By turbocon | 📈 290 points | 💬 167 comments
 
-**#4. GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years**
-- 🔗 [Read on HackerNews](https://nebusec.ai/research/ionstack-part-2/)
-- 👤 By ranger_danger | 📈 272 points | 💬 114 comments
+**#4. YouTrackDB is a general-use object-oriented graph database**
+- 🔗 [Read on HackerNews](https://github.com/JetBrains/youtrackdb)
+- 👤 By gjvc | 📈 119 points | 💬 37 comments
 
-**#5. Beavis Ultrasound PnP ISA Sound Card Replica**
-- 🔗 [Read on HackerNews](https://github.com/schlae/BeavisUltrasound)
-- 👤 By mariuz | 📈 61 points | 💬 21 comments
+**#5. Australian energy retailers must provide three hours of free daytime electricity**
+- 🔗 [Read on HackerNews](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
+- 👤 By i2oc | 📈 81 points | 💬 105 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
