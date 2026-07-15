@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 14, 2026
+> **Last Updated:** July 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Japan develops a method to recover up to 90% of lithium from used EV batteries**
-- 🔗 [Read on HackerNews](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
-- 👤 By donohoe | 📈 458 points | 💬 114 comments
+**#1. Jurassic Park computers in excruciating detail**
+- 🔗 [Read on HackerNews](https://fabiensanglard.net/jurrasic_park_computers/index.html)
+- 👤 By vinhnx | 📈 430 points | 💬 102 comments
 
-**#2. Alternative(s) to run CUDA on non-Nvidia hardware**
-- 🔗 [Read on HackerNews](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
-- 👤 By alok-g | 📈 30 points | 💬 8 comments
+**#2. RISC-V Is Inevitable: State of the Union Keynote Argues**
+- 🔗 [Read on HackerNews](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
+- 👤 By signa11 | 📈 59 points | 💬 42 comments
 
-**#3. The git history command**
-- 🔗 [Read on HackerNews](https://lalitm.com/post/git-history/)
-- 👤 By turbocon | 📈 290 points | 💬 167 comments
+**#3. Vancouver PD website features Quick Escape button that wipes itself from history**
+- 🔗 [Read on HackerNews](https://vpd.ca/)
+- 👤 By LookAtThatBacon | 📈 265 points | 💬 107 comments
 
-**#4. YouTrackDB is a general-use object-oriented graph database**
-- 🔗 [Read on HackerNews](https://github.com/JetBrains/youtrackdb)
-- 👤 By gjvc | 📈 119 points | 💬 37 comments
+**#4. Never argue with your boss (2009)**
+- 🔗 [Read on HackerNews](https://righteousit.com/2009/03/12/never-argue-with-your-boss/)
+- 👤 By indigodaddy | 📈 37 points | 💬 34 comments
 
-**#5. Australian energy retailers must provide three hours of free daytime electricity**
-- 🔗 [Read on HackerNews](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
-- 👤 By i2oc | 📈 81 points | 💬 105 comments
+**#5. I tricked Claude into leaking your deepest, darkest secrets**
+- 🔗 [Read on HackerNews](https://www.ayush.digital/blog/the-memory-heist)
+- 👤 By macleginn | 📈 281 points | 💬 123 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
