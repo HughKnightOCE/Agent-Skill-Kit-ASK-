@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 15, 2026
+> **Last Updated:** July 16, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Jurassic Park computers in excruciating detail**
-- 🔗 [Read on HackerNews](https://fabiensanglard.net/jurrasic_park_computers/index.html)
-- 👤 By vinhnx | 📈 430 points | 💬 102 comments
+**#1. The lost joy of music piracy**
+- 🔗 [Read on HackerNews](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+- 👤 By mcgin | 📈 314 points | 💬 164 comments
 
-**#2. RISC-V Is Inevitable: State of the Union Keynote Argues**
-- 🔗 [Read on HackerNews](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
-- 👤 By signa11 | 📈 59 points | 💬 42 comments
+**#2. Inkling: Our Open-Weights Model**
+- 🔗 [Read on HackerNews](https://thinkingmachines.ai/news/introducing-inkling/)
+- 👤 By vimarsh6739 | 📈 968 points | 💬 243 comments
 
-**#3. Vancouver PD website features Quick Escape button that wipes itself from history**
-- 🔗 [Read on HackerNews](https://vpd.ca/)
-- 👤 By LookAtThatBacon | 📈 265 points | 💬 107 comments
+**#3. If you want to create a button from scratch, you must first create the universe**
+- 🔗 [Read on HackerNews](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
+- 👤 By treve | 📈 127 points | 💬 60 comments
 
-**#4. Never argue with your boss (2009)**
-- 🔗 [Read on HackerNews](https://righteousit.com/2009/03/12/never-argue-with-your-boss/)
-- 👤 By indigodaddy | 📈 37 points | 💬 34 comments
+**#4. What's the story behind the names of Cloudflare's name servers? (2013)**
+- 🔗 [Read on HackerNews](https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/)
+- 👤 By aragonite | 📈 38 points | 💬 36 comments
 
-**#5. I tricked Claude into leaking your deepest, darkest secrets**
-- 🔗 [Read on HackerNews](https://www.ayush.digital/blog/the-memory-heist)
-- 👤 By macleginn | 📈 281 points | 💬 123 comments
+**#5. Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't**
+- 🔗 [Read on HackerNews](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/)
+- 👤 By speckx | 📈 56 points | 💬 21 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
