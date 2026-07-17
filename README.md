@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 16, 2026
+> **Last Updated:** July 17, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The lost joy of music piracy**
-- 🔗 [Read on HackerNews](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
-- 👤 By mcgin | 📈 314 points | 💬 164 comments
+**#1. EEG shows brain can simultaneous encode two speech streams**
+- 🔗 [Read on HackerNews](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
+- 👤 By giuliomagnifico | 📈 82 points | 💬 46 comments
 
-**#2. Inkling: Our Open-Weights Model**
-- 🔗 [Read on HackerNews](https://thinkingmachines.ai/news/introducing-inkling/)
-- 👤 By vimarsh6739 | 📈 968 points | 💬 243 comments
+**#2. Kimi K3: Open Frontier Intelligence**
+- 🔗 [Read on HackerNews](https://www.kimi.com/blog/kimi-k3)
+- 👤 By vincent_s | 📈 1613 points | 💬 957 comments
 
-**#3. If you want to create a button from scratch, you must first create the universe**
-- 🔗 [Read on HackerNews](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
-- 👤 By treve | 📈 127 points | 💬 60 comments
+**#3. How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues**
+- 🔗 [Read on HackerNews](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
+- 👤 By divbzero | 📈 128 points | 💬 83 comments
 
-**#4. What's the story behind the names of Cloudflare's name servers? (2013)**
-- 🔗 [Read on HackerNews](https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/)
-- 👤 By aragonite | 📈 38 points | 💬 36 comments
+**#4. Pebble Mega Update – July 2026**
+- 🔗 [Read on HackerNews](https://repebble.com/blog/pebble-mega-update-july-2026)
+- 👤 By crazysaem | 📈 112 points | 💬 34 comments
 
-**#5. Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't**
-- 🔗 [Read on HackerNews](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/)
-- 👤 By speckx | 📈 56 points | 💬 21 comments
+**#5. Microsoft Comic Chat is now open source**
+- 🔗 [Read on HackerNews](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
+- 👤 By jervant | 📈 673 points | 💬 146 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
