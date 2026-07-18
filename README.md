@@ -13,33 +13,26 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 17, 2026
+> **Last Updated:** July 18, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. EEG shows brain can simultaneous encode two speech streams**
-- 🔗 [Read on HackerNews](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
-- 👤 By giuliomagnifico | 📈 82 points | 💬 46 comments
+**#1. Regressive JPEGs**
+- 🔗 [Read on HackerNews](https://maurycyz.com/projects/bad_jpeg/)
+- 👤 By vitaut | 📈 317 points | 💬 27 comments
 
-**#2. Kimi K3: Open Frontier Intelligence**
-- 🔗 [Read on HackerNews](https://www.kimi.com/blog/kimi-k3)
-- 👤 By vincent_s | 📈 1613 points | 💬 957 comments
+**#4. Reviving a 15-year-old netbook with Arch Linux**
+- 🔗 [Read on HackerNews](https://parksb.github.io/en/article/41.html)
+- 👤 By parksb | 📈 104 points | 💬 67 comments
 
-**#3. How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues**
-- 🔗 [Read on HackerNews](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-- 👤 By divbzero | 📈 128 points | 💬 83 comments
-
-**#4. Pebble Mega Update – July 2026**
-- 🔗 [Read on HackerNews](https://repebble.com/blog/pebble-mega-update-july-2026)
-- 👤 By crazysaem | 📈 112 points | 💬 34 comments
-
-**#5. Microsoft Comic Chat is now open source**
-- 🔗 [Read on HackerNews](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
-- 👤 By jervant | 📈 673 points | 💬 146 comments
+**#5. Porting nanochat to a TPU: what carries over from PyTorch, and what breaks**
+- 🔗 [Read on HackerNews](https://github.com/tucan9389/nanochat-jax/discussions/1)
+- 👤 By tucan9389 | 📈 26 points | 💬 1 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
