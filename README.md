@@ -13,25 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 18, 2026
+> **Last Updated:** July 19, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Regressive JPEGs**
-- 🔗 [Read on HackerNews](https://maurycyz.com/projects/bad_jpeg/)
-- 👤 By vitaut | 📈 317 points | 💬 27 comments
+**#1. Transcribe.cpp**
+- 🔗 [Read on HackerNews](https://workshop.cjpais.com/projects/transcribe-cpp)
+- 👤 By sebjones | 📈 512 points | 💬 102 comments
 
-**#4. Reviving a 15-year-old netbook with Arch Linux**
-- 🔗 [Read on HackerNews](https://parksb.github.io/en/article/41.html)
-- 👤 By parksb | 📈 104 points | 💬 67 comments
+**#2. Qwen3.8 is launching and going open-weight soon**
+- 🔗 [Read on HackerNews](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+- 👤 By nh43215rgb | 📈 81 points | 💬 42 comments
 
-**#5. Porting nanochat to a TPU: what carries over from PyTorch, and what breaks**
-- 🔗 [Read on HackerNews](https://github.com/tucan9389/nanochat-jax/discussions/1)
-- 👤 By tucan9389 | 📈 26 points | 💬 1 comments
+**#3. Speech Recognition and TTS in less than 500kb**
+- 🔗 [Read on HackerNews](https://github.com/moonshine-ai/moonshine/tree/main/micro)
+- 👤 By petewarden | 📈 450 points | 💬 59 comments
+
+**#4. Perforce charges $500 for training training videos.. and it's AI narrated**
+- 🔗 [Read on HackerNews](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic)
+- 👤 By TZubiri | 📈 10 points | 💬 22 comments
+
+**#5. Codex Resets**
+- 🔗 [Read on HackerNews](https://codex-resets.com/)
+- 👤 By denysvitali | 📈 180 points | 💬 131 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
