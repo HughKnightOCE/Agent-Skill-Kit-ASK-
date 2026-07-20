@@ -13,33 +13,30 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 19, 2026
+> **Last Updated:** July 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Transcribe.cpp**
-- 🔗 [Read on HackerNews](https://workshop.cjpais.com/projects/transcribe-cpp)
-- 👤 By sebjones | 📈 512 points | 💬 102 comments
+**#1. Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25**
+- 🔗 [Read on HackerNews](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
+- 👤 By infosecau | 📈 71 points | 💬 39 comments
 
-**#2. Qwen3.8 is launching and going open-weight soon**
-- 🔗 [Read on HackerNews](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
-- 👤 By nh43215rgb | 📈 81 points | 💬 42 comments
+**#3. Moonshine: Lets you stream games from your PC to any device running Moonlight**
+- 🔗 [Read on HackerNews](https://github.com/hgaiser/moonshine)
+- 👤 By wertyk | 📈 186 points | 💬 81 comments
 
-**#3. Speech Recognition and TTS in less than 500kb**
-- 🔗 [Read on HackerNews](https://github.com/moonshine-ai/moonshine/tree/main/micro)
-- 👤 By petewarden | 📈 450 points | 💬 59 comments
+**#4. LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques**
+- 🔗 [Read on HackerNews](https://github.com/Saivineeth147/lora-speedrun)
+- 👤 By Vineeth147 | 📈 80 points | 💬 10 comments
 
-**#4. Perforce charges $500 for training training videos.. and it's AI narrated**
-- 🔗 [Read on HackerNews](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic)
-- 👤 By TZubiri | 📈 10 points | 💬 22 comments
-
-**#5. Codex Resets**
-- 🔗 [Read on HackerNews](https://codex-resets.com/)
-- 👤 By denysvitali | 📈 180 points | 💬 131 comments
+**#5. Sealed tomb filled with paintings and inscriptions discovered in Egypt**
+- 🔗 [Read on HackerNews](https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/)
+- 👤 By isaacfrond | 📈 41 points | 💬 33 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
