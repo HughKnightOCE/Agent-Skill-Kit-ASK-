@@ -13,29 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 20, 2026
+> **Last Updated:** July 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25**
-- 🔗 [Read on HackerNews](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
-- 👤 By infosecau | 📈 71 points | 💬 39 comments
+**#1. Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge**
+- 🔗 [Read on HackerNews](https://qwen.ai/blog?id=qwen-image-3.0)
+- 👤 By ilreb | 📈 58 points | 💬 30 comments
 
-**#3. Moonshine: Lets you stream games from your PC to any device running Moonlight**
-- 🔗 [Read on HackerNews](https://github.com/hgaiser/moonshine)
-- 👤 By wertyk | 📈 186 points | 💬 81 comments
+**#2. Incremental – A library for incremental computations**
+- 🔗 [Read on HackerNews](https://github.com/janestreet/incremental)
+- 👤 By handfuloflight | 📈 198 points | 💬 33 comments
 
-**#4. LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques**
-- 🔗 [Read on HackerNews](https://github.com/Saivineeth147/lora-speedrun)
-- 👤 By Vineeth147 | 📈 80 points | 💬 10 comments
+**#3. Who's afraid of Chinese models?**
+- 🔗 [Read on HackerNews](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+- 👤 By mfiguiere | 📈 642 points | 💬 439 comments
 
-**#5. Sealed tomb filled with paintings and inscriptions discovered in Egypt**
-- 🔗 [Read on HackerNews](https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/)
-- 👤 By isaacfrond | 📈 41 points | 💬 33 comments
+**#4. Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects**
+- 🔗 [Read on HackerNews](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/)
+- 👤 By WaitWaitWha | 📈 14 points | 💬 0 comments
+
+**#5. Linux kernel will support $ORIGIN, sort of**
+- 🔗 [Read on HackerNews](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
+- 👤 By ingve | 📈 44 points | 💬 22 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
