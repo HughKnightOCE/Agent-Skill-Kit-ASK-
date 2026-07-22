@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 21, 2026
+> **Last Updated:** July 22, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge**
-- 🔗 [Read on HackerNews](https://qwen.ai/blog?id=qwen-image-3.0)
-- 👤 By ilreb | 📈 58 points | 💬 30 comments
+**#1. OpenAI and Hugging Face address security incident during model evaluation**
+- 🔗 [Read on HackerNews](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- 👤 By mfiguiere | 📈 1156 points | 💬 801 comments
 
-**#2. Incremental – A library for incremental computations**
-- 🔗 [Read on HackerNews](https://github.com/janestreet/incremental)
-- 👤 By handfuloflight | 📈 198 points | 💬 33 comments
+**#2. Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA**
+- 🔗 [Read on HackerNews](https://fireworks.ai/blog/kimik3-fable)
+- 👤 By piotrgrabowski | 📈 626 points | 💬 344 comments
 
-**#3. Who's afraid of Chinese models?**
-- 🔗 [Read on HackerNews](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-- 👤 By mfiguiere | 📈 642 points | 💬 439 comments
+**#3. Original Apollo 11 Guidance Computer source code for command and lunar modules**
+- 🔗 [Read on HackerNews](https://github.com/chrislgarry/Apollo-11)
+- 👤 By noteness | 📈 78 points | 💬 18 comments
 
-**#4. Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects**
-- 🔗 [Read on HackerNews](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/)
-- 👤 By WaitWaitWha | 📈 14 points | 💬 0 comments
+**#4. Intel Starts Shipping High-NA EUV Silicon**
+- 🔗 [Read on HackerNews](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
+- 👤 By zdw | 📈 67 points | 💬 16 comments
 
-**#5. Linux kernel will support $ORIGIN, sort of**
-- 🔗 [Read on HackerNews](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
-- 👤 By ingve | 📈 44 points | 💬 22 comments
+**#5. Introduction to Formal Verification with Lean Part 1**
+- 🔗 [Read on HackerNews](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
+- 👤 By badcryptobitch | 📈 8 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
