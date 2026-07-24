@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 23, 2026
+> **Last Updated:** July 24, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot**
-- 🔗 [Read on HackerNews](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
-- 👤 By jjba23 | 📈 60 points | 💬 20 comments
+**#1. Flux 3**
+- 🔗 [Read on HackerNews](https://bfl.ai/blog/flux-3)
+- 👤 By ThouYS | 📈 247 points | 💬 60 comments
 
-**#2. Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample**
-- 🔗 [Read on HackerNews](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-- 👤 By gmays | 📈 876 points | 💬 509 comments
+**#2. The PImpl idiom and the C++26 std:indirect type**
+- 🔗 [Read on HackerNews](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
+- 👤 By signa11 | 📈 45 points | 💬 38 comments
 
-**#3. Cruller: Bun's Zig Runtime, Continued on Zig 0.16**
-- 🔗 [Read on HackerNews](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
-- 👤 By Erenay09 | 📈 52 points | 💬 20 comments
+**#3. Flux 3 X Mimic: The Next Generation of Video-Action Models**
+- 🔗 [Read on HackerNews](https://bfl.ai/blog/flux-3-mimic)
+- 👤 By kensai | 📈 5 points | 💬 0 comments
 
-**#4. git's –end-of-options Flag**
-- 🔗 [Read on HackerNews](https://nesbitt.io/2026/07/21/end-of-options.html)
-- 👤 By Erenay09 | 📈 146 points | 💬 72 comments
+**#4. Writing by hand is good for your brain**
+- 🔗 [Read on HackerNews](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+- 👤 By dwwoelfel | 📈 1308 points | 💬 589 comments
 
-**#5. Quality non-fiction books are the antithesis of AI slop**
-- 🔗 [Read on HackerNews](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
-- 👤 By benbreen | 📈 364 points | 💬 120 comments
+**#5. Startup founders urge U.S. government not to shut off Chinese open weight AI**
+- 🔗 [Read on HackerNews](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+- 👤 By theanonymousone | 📈 934 points | 💬 772 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
