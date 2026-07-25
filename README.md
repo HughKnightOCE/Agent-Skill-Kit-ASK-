@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 24, 2026
+> **Last Updated:** July 25, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Flux 3**
-- 🔗 [Read on HackerNews](https://bfl.ai/blog/flux-3)
-- 👤 By ThouYS | 📈 247 points | 💬 60 comments
+**#1. Android May Soon Restrict On-Device ADB**
+- 🔗 [Read on HackerNews](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+- 👤 By shscs911 | 📈 174 points | 💬 88 comments
 
-**#2. The PImpl idiom and the C++26 std:indirect type**
-- 🔗 [Read on HackerNews](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
-- 👤 By signa11 | 📈 45 points | 💬 38 comments
+**#2. Claude Opus 5**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-opus-5)
+- 👤 By alvis | 📈 1543 points | 💬 886 comments
 
-**#3. Flux 3 X Mimic: The Next Generation of Video-Action Models**
-- 🔗 [Read on HackerNews](https://bfl.ai/blog/flux-3-mimic)
-- 👤 By kensai | 📈 5 points | 💬 0 comments
+**#3. Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach**
+- 🔗 [Read on HackerNews](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
+- 👤 By agnishom | 📈 198 points | 💬 36 comments
 
-**#4. Writing by hand is good for your brain**
-- 🔗 [Read on HackerNews](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
-- 👤 By dwwoelfel | 📈 1308 points | 💬 589 comments
+**#4. GC and Exceptions in Wasmtime**
+- 🔗 [Read on HackerNews](https://bytecodealliance.org/articles/wasmtime-gc)
+- 👤 By phickey | 📈 93 points | 💬 3 comments
 
-**#5. Startup founders urge U.S. government not to shut off Chinese open weight AI**
-- 🔗 [Read on HackerNews](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
-- 👤 By theanonymousone | 📈 934 points | 💬 772 comments
+**#5. NYC Apartment Aquaponics**
+- 🔗 [Read on HackerNews](https://erinmurphy.dev/projects/project-2/)
+- 👤 By mm1119 | 📈 38 points | 💬 13 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
