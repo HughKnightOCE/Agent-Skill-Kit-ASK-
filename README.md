@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 25, 2026
+> **Last Updated:** July 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Android May Soon Restrict On-Device ADB**
-- 🔗 [Read on HackerNews](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
-- 👤 By shscs911 | 📈 174 points | 💬 88 comments
+**#1. A shell colon does nothing. Use it anyway**
+- 🔗 [Read on HackerNews](https://refp.se/articles/your-shell-and-the-magic-colon)
+- 👤 By olexsmir | 📈 182 points | 💬 63 comments
 
-**#2. Claude Opus 5**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/claude-opus-5)
-- 👤 By alvis | 📈 1543 points | 💬 886 comments
+**#2. GrapheneOS protections against data extraction from locked devices**
+- 🔗 [Read on HackerNews](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
+- 👤 By Cider9986 | 📈 61 points | 💬 27 comments
 
-**#3. Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach**
-- 🔗 [Read on HackerNews](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
-- 👤 By agnishom | 📈 198 points | 💬 36 comments
+**#3. An ESP32 based plane radar for my desk**
+- 🔗 [Read on HackerNews](https://blog.ktz.me/esp32-plane-radar/)
+- 👤 By alexktz | 📈 145 points | 💬 27 comments
 
-**#4. GC and Exceptions in Wasmtime**
-- 🔗 [Read on HackerNews](https://bytecodealliance.org/articles/wasmtime-gc)
-- 👤 By phickey | 📈 93 points | 💬 3 comments
+**#4. The new rules of context engineering for Claude 5 generation models**
+- 🔗 [Read on HackerNews](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
+- 👤 By mellosouls | 📈 326 points | 💬 215 comments
 
-**#5. NYC Apartment Aquaponics**
-- 🔗 [Read on HackerNews](https://erinmurphy.dev/projects/project-2/)
-- 👤 By mm1119 | 📈 38 points | 💬 13 comments
+**#5. Inflect-Micro-v2: complete voice in 9.36M parameters**
+- 🔗 [Read on HackerNews](https://huggingface.co/owensong/Inflect-Micro-v2)
+- 👤 By nateb2022 | 📈 129 points | 💬 11 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
