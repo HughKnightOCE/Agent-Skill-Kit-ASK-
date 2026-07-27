@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 26, 2026
+> **Last Updated:** July 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. A shell colon does nothing. Use it anyway**
-- 🔗 [Read on HackerNews](https://refp.se/articles/your-shell-and-the-magic-colon)
-- 👤 By olexsmir | 📈 182 points | 💬 63 comments
+**#1. Kimi-K3 Releases on HuggingFace 7/27**
+- 🔗 [Read on HackerNews](https://huggingface.co/moonshotai/Kimi-K3)
+- 👤 By nateb2022 | 📈 335 points | 💬 137 comments
 
-**#2. GrapheneOS protections against data extraction from locked devices**
-- 🔗 [Read on HackerNews](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
-- 👤 By Cider9986 | 📈 61 points | 💬 27 comments
+**#2. PGSimCity - How PostgreSQL Works**
+- 🔗 [Read on HackerNews](https://nikolays.github.io/PGSimCity/)
+- 👤 By jonbaer | 📈 618 points | 💬 61 comments
 
-**#3. An ESP32 based plane radar for my desk**
-- 🔗 [Read on HackerNews](https://blog.ktz.me/esp32-plane-radar/)
-- 👤 By alexktz | 📈 145 points | 💬 27 comments
+**#3. Show HN: Physically accurate black hole you can put in your room**
+- 🔗 [Read on HackerNews](https://blackhole.plav.in)
+- 👤 By aplavin | 📈 324 points | 💬 98 comments
 
-**#4. The new rules of context engineering for Claude 5 generation models**
-- 🔗 [Read on HackerNews](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
-- 👤 By mellosouls | 📈 326 points | 💬 215 comments
+**#4. Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary**
+- 🔗 [Read on HackerNews](https://github.com/vercel-labs/scriptc)
+- 👤 By maxloh | 📈 184 points | 💬 97 comments
 
-**#5. Inflect-Micro-v2: complete voice in 9.36M parameters**
-- 🔗 [Read on HackerNews](https://huggingface.co/owensong/Inflect-Micro-v2)
-- 👤 By nateb2022 | 📈 129 points | 💬 11 comments
+**#5. French firefighters face 'pyrocumulonimbus' for first time**
+- 🔗 [Read on HackerNews](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
+- 👤 By saaaaaam | 📈 384 points | 💬 260 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
