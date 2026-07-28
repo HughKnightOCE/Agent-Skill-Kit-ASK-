@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 27, 2026
+> **Last Updated:** July 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Kimi-K3 Releases on HuggingFace 7/27**
-- 🔗 [Read on HackerNews](https://huggingface.co/moonshotai/Kimi-K3)
-- 👤 By nateb2022 | 📈 335 points | 💬 137 comments
+**#1. 7.1 Earthquake in Japan**
+- 🔗 [Read on HackerNews](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
+- 👤 By krembo | 📈 194 points | 💬 45 comments
 
-**#2. PGSimCity - How PostgreSQL Works**
-- 🔗 [Read on HackerNews](https://nikolays.github.io/PGSimCity/)
-- 👤 By jonbaer | 📈 618 points | 💬 61 comments
+**#2. Our position on open-weights models**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/news/position-open-weights-models)
+- 👤 By surprisetalk | 📈 909 points | 💬 1323 comments
 
-**#3. Show HN: Physically accurate black hole you can put in your room**
-- 🔗 [Read on HackerNews](https://blackhole.plav.in)
-- 👤 By aplavin | 📈 324 points | 💬 98 comments
+**#3. About the security content of macOS Tahoe 26.6**
+- 🔗 [Read on HackerNews](https://support.apple.com/en-us/128067)
+- 👤 By andor | 📈 6 points | 💬 0 comments
 
-**#4. Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary**
-- 🔗 [Read on HackerNews](https://github.com/vercel-labs/scriptc)
-- 👤 By maxloh | 📈 184 points | 💬 97 comments
+**#4. A $500 RL fine-tune of a 9B open model beat frontier models on catalog review**
+- 🔗 [Read on HackerNews](https://fermisense.com/when-machines-take-the-wheel/)
+- 👤 By ilreb | 📈 181 points | 💬 48 comments
 
-**#5. French firefighters face 'pyrocumulonimbus' for first time**
-- 🔗 [Read on HackerNews](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
-- 👤 By saaaaaam | 📈 384 points | 💬 260 comments
+**#5. What Even Are Microservices?**
+- 🔗 [Read on HackerNews](https://var0.xyz/posts/what-even-are-microservices.html)
+- 👤 By tuxie_ | 📈 3 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
