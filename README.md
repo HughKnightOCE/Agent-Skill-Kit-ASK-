@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 28, 2026
+> **Last Updated:** July 29, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. 7.1 Earthquake in Japan**
-- 🔗 [Read on HackerNews](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
-- 👤 By krembo | 📈 194 points | 💬 45 comments
+**#1. More Tailscale tricks for your jailbroken Kindle**
+- 🔗 [Read on HackerNews](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+- 👤 By Error6571 | 📈 180 points | 💬 62 comments
 
-**#2. Our position on open-weights models**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/news/position-open-weights-models)
-- 👤 By surprisetalk | 📈 909 points | 💬 1323 comments
+**#2. User Interfaces of the Demo Scene**
+- 🔗 [Read on HackerNews](https://www.datagubbe.se/scenegui/)
+- 👤 By zdw | 📈 186 points | 💬 31 comments
 
-**#3. About the security content of macOS Tahoe 26.6**
-- 🔗 [Read on HackerNews](https://support.apple.com/en-us/128067)
-- 👤 By andor | 📈 6 points | 💬 0 comments
+**#3. SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers**
+- 🔗 [Read on HackerNews](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
+- 👤 By ankitg12 | 📈 47 points | 💬 10 comments
 
-**#4. A $500 RL fine-tune of a 9B open model beat frontier models on catalog review**
-- 🔗 [Read on HackerNews](https://fermisense.com/when-machines-take-the-wheel/)
-- 👤 By ilreb | 📈 181 points | 💬 48 comments
+**#4. Lisp moving Forth moving Lisp**
+- 🔗 [Read on HackerNews](https://letoverlambda.com/textmode.cl/guest/chap8.html)
+- 👤 By fallat | 📈 24 points | 💬 2 comments
 
-**#5. What Even Are Microservices?**
-- 🔗 [Read on HackerNews](https://var0.xyz/posts/what-even-are-microservices.html)
-- 👤 By tuxie_ | 📈 3 points | 💬 0 comments
+**#5. Codex Security**
+- 🔗 [Read on HackerNews](https://github.com/openai/codex-security)
+- 👤 By bakigul | 📈 500 points | 💬 167 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
