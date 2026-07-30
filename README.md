@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 29, 2026
+> **Last Updated:** July 30, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. More Tailscale tricks for your jailbroken Kindle**
-- 🔗 [Read on HackerNews](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
-- 👤 By Error6571 | 📈 180 points | 💬 62 comments
+**#1. AI's top startups are barely publishing their research**
+- 🔗 [Read on HackerNews](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+- 👤 By YeGoblynQueenne | 📈 464 points | 💬 243 comments
 
-**#2. User Interfaces of the Demo Scene**
-- 🔗 [Read on HackerNews](https://www.datagubbe.se/scenegui/)
-- 👤 By zdw | 📈 186 points | 💬 31 comments
+**#2. The coolest use for the Vision Pro**
+- 🔗 [Read on HackerNews](https://christianselig.com/2026/07/vision-pro-house/)
+- 👤 By robbiet480 | 📈 664 points | 💬 260 comments
 
-**#3. SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers**
-- 🔗 [Read on HackerNews](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
-- 👤 By ankitg12 | 📈 47 points | 💬 10 comments
+**#3. Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac**
+- 🔗 [Read on HackerNews](https://github.com/drumih/turbo-fieldfare)
+- 👤 By gitpusher42 | 📈 799 points | 💬 282 comments
 
-**#4. Lisp moving Forth moving Lisp**
-- 🔗 [Read on HackerNews](https://letoverlambda.com/textmode.cl/guest/chap8.html)
-- 👤 By fallat | 📈 24 points | 💬 2 comments
+**#4. Superlogical**
+- 🔗 [Read on HackerNews](https://www.superlogical.com/)
+- 👤 By yan | 📈 701 points | 💬 410 comments
 
-**#5. Codex Security**
-- 🔗 [Read on HackerNews](https://github.com/openai/codex-security)
-- 👤 By bakigul | 📈 500 points | 💬 167 comments
+**#5. LLM Honeypot**
+- 🔗 [Read on HackerNews](https://llm2human.pages.dev/)
+- 👤 By 8thom | 📈 252 points | 💬 65 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
