@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** July 31, 2026
+> **Last Updated:** August 01, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The session you cannot take with you**
-- 🔗 [Read on HackerNews](https://earendil.com/posts/session-portability/)
-- 👤 By apitman | 📈 333 points | 💬 77 comments
+**#1. RamenHaus**
+- 🔗 [Read on HackerNews](https://ramen.haus/)
+- 👤 By oler | 📈 48 points | 💬 13 comments
 
-**#2. Danube's record low levels force shutdown of Hungary's only nuclear plant**
-- 🔗 [Read on HackerNews](https://www.bbc.com/news/articles/cn0nqv05g0do)
-- 👤 By vrganj | 📈 34 points | 💬 33 comments
+**#2. AI doesn't generate working products, that's still your job**
+- 🔗 [Read on HackerNews](https://weeraman.com/the-prototype-isnt-the-product/)
+- 👤 By smckk | 📈 25 points | 💬 6 comments
 
-**#3. JEP 401: Value Objects (Preview) merged to OpenJDK master**
-- 🔗 [Read on HackerNews](https://github.com/openjdk/jdk/pull/31120)
-- 👤 By mfiguiere | 📈 112 points | 💬 43 comments
+**#3. Elevators**
+- 🔗 [Read on HackerNews](https://john.fun/elevators)
+- 👤 By Jrh0203 | 📈 1293 points | 💬 315 comments
 
-**#4. Google fixed more Chrome bugs in June than over the past two years, thanks to AI**
-- 🔗 [Read on HackerNews](https://blog.google/security/chrome-stronger-with-every-update/)
-- 👤 By Garbage | 📈 62 points | 💬 67 comments
+**#4. Flint: A Visualization Language for the AI Era**
+- 🔗 [Read on HackerNews](https://microsoft.github.io/flint-chart/)
+- 👤 By vinhnx | 📈 115 points | 💬 36 comments
 
-**#5. DeepSeek-V4-Flash Update**
-- 🔗 [Read on HackerNews](https://api-docs.deepseek.com/updates/)
-- 👤 By dnhkng | 📈 264 points | 💬 110 comments
+**#5. How to Exist**
+- 🔗 [Read on HackerNews](https://www.raptitude.com/2026/07/how-to-exist/)
+- 👤 By walterbell | 📈 195 points | 💬 109 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
