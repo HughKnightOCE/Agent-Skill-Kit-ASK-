@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 01, 2026
+> **Last Updated:** August 02, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. RamenHaus**
-- 🔗 [Read on HackerNews](https://ramen.haus/)
-- 👤 By oler | 📈 48 points | 💬 13 comments
+**#1. Go 1.27 Interactive Tour**
+- 🔗 [Read on HackerNews](https://victoriametrics.com/blog/go-1-27/index.html)
+- 👤 By Hixon10 | 📈 211 points | 💬 75 comments
 
-**#2. AI doesn't generate working products, that's still your job**
-- 🔗 [Read on HackerNews](https://weeraman.com/the-prototype-isnt-the-product/)
-- 👤 By smckk | 📈 25 points | 💬 6 comments
+**#2. Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built**
+- 🔗 [Read on HackerNews](https://github.com/tom-ilan/cycloidal_gearbox)
+- 👤 By tomilan | 📈 160 points | 💬 36 comments
 
-**#3. Elevators**
-- 🔗 [Read on HackerNews](https://john.fun/elevators)
-- 👤 By Jrh0203 | 📈 1293 points | 💬 315 comments
+**#3. MkLinux and the pimped-out Apple Workgroup Server 9150**
+- 🔗 [Read on HackerNews](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+- 👤 By goldenskye | 📈 55 points | 💬 2 comments
 
-**#4. Flint: A Visualization Language for the AI Era**
-- 🔗 [Read on HackerNews](https://microsoft.github.io/flint-chart/)
-- 👤 By vinhnx | 📈 115 points | 💬 36 comments
+**#4. Seedance 2.5**
+- 🔗 [Read on HackerNews](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+- 👤 By njaremko | 📈 335 points | 💬 182 comments
 
-**#5. How to Exist**
-- 🔗 [Read on HackerNews](https://www.raptitude.com/2026/07/how-to-exist/)
-- 👤 By walterbell | 📈 195 points | 💬 109 comments
+**#5. Diátaxis**
+- 🔗 [Read on HackerNews](https://diataxis.fr/)
+- 👤 By ryanseys | 📈 347 points | 💬 42 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
