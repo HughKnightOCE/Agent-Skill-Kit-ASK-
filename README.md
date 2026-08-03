@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 02, 2026
+> **Last Updated:** August 03, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Go 1.27 Interactive Tour**
-- 🔗 [Read on HackerNews](https://victoriametrics.com/blog/go-1-27/index.html)
-- 👤 By Hixon10 | 📈 211 points | 💬 75 comments
+**#1. Don't be a meat proxy**
+- 🔗 [Read on HackerNews](https://gruhn.me/blog/2026-08-03/)
+- 👤 By ngruhn | 📈 601 points | 💬 259 comments
 
-**#2. Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built**
-- 🔗 [Read on HackerNews](https://github.com/tom-ilan/cycloidal_gearbox)
-- 👤 By tomilan | 📈 160 points | 💬 36 comments
+**#2. Qwen3.8-Max: A New Bar for Coding and Cowork**
+- 🔗 [Read on HackerNews](https://qwen.ai/blog?id=qwen3.8)
+- 👤 By ai2027 | 📈 584 points | 💬 293 comments
 
-**#3. MkLinux and the pimped-out Apple Workgroup Server 9150**
-- 🔗 [Read on HackerNews](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
-- 👤 By goldenskye | 📈 55 points | 💬 2 comments
+**#3. Bonsai: Janestreet's UI Library**
+- 🔗 [Read on HackerNews](https://github.com/janestreet/bonsai)
+- 👤 By KolmogorovComp | 📈 45 points | 💬 11 comments
 
-**#4. Seedance 2.5**
-- 🔗 [Read on HackerNews](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
-- 👤 By njaremko | 📈 335 points | 💬 182 comments
+**#4. Prevent cognitive debt by manually retyping LLM-generated code**
+- 🔗 [Read on HackerNews](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
+- 👤 By mpweiher | 📈 20 points | 💬 6 comments
 
-**#5. Diátaxis**
-- 🔗 [Read on HackerNews](https://diataxis.fr/)
-- 👤 By ryanseys | 📈 347 points | 💬 42 comments
+**#5. Less Coffee, Better Sleep**
+- 🔗 [Read on HackerNews](https://www.marginalia.nu/log/a_109_sleep2/)
+- 👤 By edward | 📈 21 points | 💬 19 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
