@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 03, 2026
+> **Last Updated:** August 04, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Don't be a meat proxy**
-- 🔗 [Read on HackerNews](https://gruhn.me/blog/2026-08-03/)
-- 👤 By ngruhn | 📈 601 points | 💬 259 comments
+**#1. FFmpeg 9.0**
+- 🔗 [Read on HackerNews](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
+- 👤 By gyan | 📈 36 points | 💬 1 comments
 
-**#2. Qwen3.8-Max: A New Bar for Coding and Cowork**
-- 🔗 [Read on HackerNews](https://qwen.ai/blog?id=qwen3.8)
-- 👤 By ai2027 | 📈 584 points | 💬 293 comments
+**#2. LLMs reward expertise**
+- 🔗 [Read on HackerNews](https://www.seangoedecke.com/llms-reward-expertise/)
+- 👤 By MaxMussio | 📈 944 points | 💬 400 comments
 
-**#3. Bonsai: Janestreet's UI Library**
-- 🔗 [Read on HackerNews](https://github.com/janestreet/bonsai)
-- 👤 By KolmogorovComp | 📈 45 points | 💬 11 comments
+**#3. Harness Engineering for Self-Improvement**
+- 🔗 [Read on HackerNews](https://lilianweng.github.io/posts/2026-07-04-harness/)
+- 👤 By tosh | 📈 44 points | 💬 4 comments
 
-**#4. Prevent cognitive debt by manually retyping LLM-generated code**
-- 🔗 [Read on HackerNews](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
-- 👤 By mpweiher | 📈 20 points | 💬 6 comments
+**#4. You don't need React: creating a minimal UI library in Vanilla JavaScript**
+- 🔗 [Read on HackerNews](https://pedroth.github.io/?p=post/NoNeedReact)
+- 👤 By pedro_movai | 📈 19 points | 💬 6 comments
 
-**#5. Less Coffee, Better Sleep**
-- 🔗 [Read on HackerNews](https://www.marginalia.nu/log/a_109_sleep2/)
-- 👤 By edward | 📈 21 points | 💬 19 comments
+**#5. Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone**
+- 🔗 [Read on HackerNews](https://github.com/leonickson1/Swiftlet)
+- 👤 By leonickson | 📈 181 points | 💬 79 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
