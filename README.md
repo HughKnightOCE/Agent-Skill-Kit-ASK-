@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 04, 2026
+> **Last Updated:** August 05, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. FFmpeg 9.0**
-- 🔗 [Read on HackerNews](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
-- 👤 By gyan | 📈 36 points | 💬 1 comments
+**#1. Stateless MCP has recaptured my interest**
+- 🔗 [Read on HackerNews](https://simonwillison.net/2026/Jul/31/stateless-mcp/)
+- 👤 By tosh | 📈 204 points | 💬 105 comments
 
-**#2. LLMs reward expertise**
-- 🔗 [Read on HackerNews](https://www.seangoedecke.com/llms-reward-expertise/)
-- 👤 By MaxMussio | 📈 944 points | 💬 400 comments
+**#2. “Gravity is worth asking about”**
+- 🔗 [Read on HackerNews](https://unsung.aresluna.org/gravity-is-worth-asking-about/)
+- 👤 By nozzlegear | 📈 76 points | 💬 44 comments
 
-**#3. Harness Engineering for Self-Improvement**
-- 🔗 [Read on HackerNews](https://lilianweng.github.io/posts/2026-07-04-harness/)
-- 👤 By tosh | 📈 44 points | 💬 4 comments
+**#3. Pi's Minimalism Is Its Advantage**
+- 🔗 [Read on HackerNews](https://earendil.com/posts/pi-autoresearch-and-databricks/)
+- 👤 By luispa | 📈 367 points | 💬 145 comments
 
-**#4. You don't need React: creating a minimal UI library in Vanilla JavaScript**
-- 🔗 [Read on HackerNews](https://pedroth.github.io/?p=post/NoNeedReact)
-- 👤 By pedro_movai | 📈 19 points | 💬 6 comments
+**#4. Mistral's Shieldstral: 3B open-weights model for multimodal moderation**
+- 🔗 [Read on HackerNews](https://mistral.ai/news/shieldstral/)
+- 👤 By riadsila | 📈 419 points | 💬 109 comments
 
-**#5. Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone**
-- 🔗 [Read on HackerNews](https://github.com/leonickson1/Swiftlet)
-- 👤 By leonickson | 📈 181 points | 💬 79 comments
+**#5. Zero-Mem: Zero-Token Memory Operations for LLM Agents**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2607.29377)
+- 👤 By theanonymousone | 📈 40 points | 💬 9 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
