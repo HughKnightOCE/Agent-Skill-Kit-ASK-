@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 07, 2026
+> **Last Updated:** August 08, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. AMD acquires Taalas to boost inference performance by etching models in silicon**
-- 🔗 [Read on HackerNews](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-- 👤 By itvision | 📈 665 points | 💬 506 comments
+**#1. A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava**
+- 🔗 [Read on HackerNews](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
+- 👤 By aanet | 📈 194 points | 💬 37 comments
 
-**#2. New Mexico court orders Meta to pay $567m over harms to children’s mental health**
-- 🔗 [Read on HackerNews](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-- 👤 By boplicity | 📈 280 points | 💬 181 comments
+**#2. DeepSeek V4 Flash 0731**
+- 🔗 [Read on HackerNews](https://arcprize.org/results/deepseek-v4-flash-0731)
+- 👤 By tosh | 📈 621 points | 💬 374 comments
 
-**#3. What is a product?**
-- 🔗 [Read on HackerNews](https://roge.onwrite.app/what-is-a-product)
-- 👤 By rogix | 📈 58 points | 💬 35 comments
+**#3. U.S. Department of Energy Launches the Genesis Open Models Initiative**
+- 🔗 [Read on HackerNews](https://genesisopenmodels.anl.gov/)
+- 👤 By moelf | 📈 232 points | 💬 80 comments
 
-**#4. Parsers don't have to be complicated**
-- 🔗 [Read on HackerNews](https://bkaradzic.github.io/posts/scanner/)
-- 👤 By signa11 | 📈 34 points | 💬 15 comments
+**#4. Hardware backdoors in some x86 CPUs**
+- 🔗 [Read on HackerNews](https://github.com/xoreaxeaxeax/rosenbridge)
+- 👤 By epestr | 📈 86 points | 💬 23 comments
 
-**#5. Taste Is All That's Left**
-- 🔗 [Read on HackerNews](https://notashelf.dev/posts/taste-is-all-thats-left)
-- 👤 By tsak | 📈 426 points | 💬 316 comments
+**#5. What happens if an entire class of workers loses faith in their careers**
+- 🔗 [Read on HackerNews](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
+- 👤 By RickJWagner | 📈 654 points | 💬 723 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
