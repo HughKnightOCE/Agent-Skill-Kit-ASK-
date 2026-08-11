@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 10, 2026
+> **Last Updated:** August 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Docker Sandboxes – Disposable, isolated sandboxes for AI agents**
-- 🔗 [Read on HackerNews](https://www.docker.com/products/docker-sandboxes/)
-- 👤 By etoxin | 📈 222 points | 💬 143 comments
+**#1. H3-metal – Native MiniMax-H3 inference for Apple Silicon**
+- 🔗 [Read on HackerNews](https://github.com/antirez/h3.c)
+- 👤 By swyx | 📈 274 points | 💬 53 comments
 
-**#2. What Happened to HackerOne?**
-- 🔗 [Read on HackerNews](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
-- 👤 By hipparchus | 📈 238 points | 💬 106 comments
+**#2. France to ban unsolicited telemarketing calls**
+- 🔗 [Read on HackerNews](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+- 👤 By aziaziazi | 📈 119 points | 💬 73 comments
 
-**#3. Run Android ARM64 VR APKs on Apple Vision Pro**
-- 🔗 [Read on HackerNews](https://github.com/shinyquagsire23/Klepton)
-- 👤 By LorenDB | 📈 82 points | 💬 8 comments
+**#3. As AI eats the web, the internet’s collective memory is disappearing**
+- 🔗 [Read on HackerNews](https://thewalrus.ca/google-search-is-dying/)
+- 👤 By awnird | 📈 300 points | 💬 295 comments
 
-**#4. Show HN: Voice driven murder mystery, Interview AI suspects with your voice**
-- 🔗 [Read on HackerNews](https://www.whodunnitai.com/)
-- 👤 By MrRowTheBoat | 📈 92 points | 💬 32 comments
+**#4. To Save C, We Must Save ABI**
+- 🔗 [Read on HackerNews](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
+- 👤 By gurjeet | 📈 43 points | 💬 18 comments
 
-**#5. Tail-Call Interpreters in Rust – Jimmy Ostler**
-- 🔗 [Read on HackerNews](https://lordgoati.us/blog/tail-call/)
-- 👤 By amatheus | 📈 17 points | 💬 1 comments
+**#5. Chicken Scheme 6.0**
+- 🔗 [Read on HackerNews](https://code.call-cc.org/releases/6.0.0/NEWS)
+- 👤 By eatonphil | 📈 193 points | 💬 21 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
