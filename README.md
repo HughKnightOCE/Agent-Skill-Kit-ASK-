@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 11, 2026
+> **Last Updated:** August 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. H3-metal – Native MiniMax-H3 inference for Apple Silicon**
-- 🔗 [Read on HackerNews](https://github.com/antirez/h3.c)
-- 👤 By swyx | 📈 274 points | 💬 53 comments
+**#1. Beef and dairy drive 41% of biodiversity damage linked to global farmland**
+- 🔗 [Read on HackerNews](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
+- 👤 By robtherobber | 📈 31 points | 💬 8 comments
 
-**#2. France to ban unsolicited telemarketing calls**
-- 🔗 [Read on HackerNews](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
-- 👤 By aziaziazi | 📈 119 points | 💬 73 comments
+**#2. LinkedIn CringeBot 3000**
+- 🔗 [Read on HackerNews](https://www.cringebot3000.com/)
+- 👤 By theanonymousone | 📈 183 points | 💬 68 comments
 
-**#3. As AI eats the web, the internet’s collective memory is disappearing**
-- 🔗 [Read on HackerNews](https://thewalrus.ca/google-search-is-dying/)
-- 👤 By awnird | 📈 300 points | 💬 295 comments
+**#3. Dutch Train Map Simulator**
+- 🔗 [Read on HackerNews](https://spoorkaart.zaza.dev)
+- 👤 By zazaalaza | 📈 21 points | 💬 3 comments
 
-**#4. To Save C, We Must Save ABI**
-- 🔗 [Read on HackerNews](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
-- 👤 By gurjeet | 📈 43 points | 💬 18 comments
+**#4. The hardest working font in Manhattan (2025)**
+- 🔗 [Read on HackerNews](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+- 👤 By dcminter | 📈 204 points | 💬 36 comments
 
-**#5. Chicken Scheme 6.0**
-- 🔗 [Read on HackerNews](https://code.call-cc.org/releases/6.0.0/NEWS)
-- 👤 By eatonphil | 📈 193 points | 💬 21 comments
+**#5. Tim Gowers: What sort of maths are LLMs good at?**
+- 🔗 [Read on HackerNews](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+- 👤 By ColinWright | 📈 3 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
