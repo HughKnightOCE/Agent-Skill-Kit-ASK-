@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 12, 2026
+> **Last Updated:** August 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Beef and dairy drive 41% of biodiversity damage linked to global farmland**
-- 🔗 [Read on HackerNews](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
-- 👤 By robtherobber | 📈 31 points | 💬 8 comments
+**#1. ChatGPT Desktop (Codex Desktop) for Linux**
+- 🔗 [Read on HackerNews](https://openai.com/codex/)
+- 👤 By allanrbo | 📈 142 points | 💬 73 comments
 
-**#2. LinkedIn CringeBot 3000**
-- 🔗 [Read on HackerNews](https://www.cringebot3000.com/)
-- 👤 By theanonymousone | 📈 183 points | 💬 68 comments
+**#2. If I own Claude's outputs why can't I train my own model on them?**
+- 🔗 [Read on HackerNews](https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model)
+- 👤 By DarenWatson | 📈 18 points | 💬 5 comments
 
-**#3. Dutch Train Map Simulator**
-- 🔗 [Read on HackerNews](https://spoorkaart.zaza.dev)
-- 👤 By zazaalaza | 📈 21 points | 💬 3 comments
+**#3. DeepSeek V4 Pro 0813**
+- 🔗 [Read on HackerNews](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+- 👤 By explosion-s | 📈 931 points | 💬 377 comments
 
-**#4. The hardest working font in Manhattan (2025)**
-- 🔗 [Read on HackerNews](https://aresluna.org/the-hardest-working-font-in-manhattan/)
-- 👤 By dcminter | 📈 204 points | 💬 36 comments
+**#4. Tracking down the 16-year-old WAL-reset SQLite bug**
+- 🔗 [Read on HackerNews](https://tailscale.com/blog/sqlite-wal-reset-bug)
+- 👤 By ropbear | 📈 1049 points | 💬 196 comments
 
-**#5. Tim Gowers: What sort of maths are LLMs good at?**
-- 🔗 [Read on HackerNews](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
-- 👤 By ColinWright | 📈 3 points | 💬 0 comments
+**#5. Qwen3.8-2.4T**
+- 🔗 [Read on HackerNews](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
+- 👤 By Philpax | 📈 628 points | 💬 147 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
