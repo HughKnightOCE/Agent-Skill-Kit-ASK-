@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 13, 2026
+> **Last Updated:** August 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. ChatGPT Desktop (Codex Desktop) for Linux**
-- 🔗 [Read on HackerNews](https://openai.com/codex/)
-- 👤 By allanrbo | 📈 142 points | 💬 73 comments
+**#1. GLM-5.3: Frontier coding with emergent cyber capabilities**
+- 🔗 [Read on HackerNews](https://z.ai/blog/glm-5.3)
+- 👤 By pella | 📈 481 points | 💬 202 comments
 
-**#2. If I own Claude's outputs why can't I train my own model on them?**
-- 🔗 [Read on HackerNews](https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model)
-- 👤 By DarenWatson | 📈 18 points | 💬 5 comments
+**#2. Gemini 3.7 Flash**
+- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+- 👤 By thisisauserid | 📈 846 points | 💬 434 comments
 
-**#3. DeepSeek V4 Pro 0813**
-- 🔗 [Read on HackerNews](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
-- 👤 By explosion-s | 📈 931 points | 💬 377 comments
+**#3. Accelerating GPT-5.6 Sol Ultrafast**
+- 🔗 [Read on HackerNews](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+- 👤 By pr337h4m | 📈 606 points | 💬 242 comments
 
-**#4. Tracking down the 16-year-old WAL-reset SQLite bug**
-- 🔗 [Read on HackerNews](https://tailscale.com/blog/sqlite-wal-reset-bug)
-- 👤 By ropbear | 📈 1049 points | 💬 196 comments
+**#4. Hello, me. It's been a while**
+- 🔗 [Read on HackerNews](https://themech.net/2026/08/hello-me-its-been-a-while/)
+- 👤 By somesoftdev | 📈 216 points | 💬 112 comments
 
-**#5. Qwen3.8-2.4T**
-- 🔗 [Read on HackerNews](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
-- 👤 By Philpax | 📈 628 points | 💬 147 comments
+**#5. Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri**
+- 🔗 [Read on HackerNews](https://github.com/JustVugg/lumabri)
+- 👤 By vforno | 📈 21 points | 💬 3 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
