@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 14, 2026
+> **Last Updated:** August 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GLM-5.3: Frontier coding with emergent cyber capabilities**
-- 🔗 [Read on HackerNews](https://z.ai/blog/glm-5.3)
-- 👤 By pella | 📈 481 points | 💬 202 comments
+**#1. The other Sean Byrne doesn't exist**
+- 🔗 [Read on HackerNews](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
+- 👤 By rdl | 📈 139 points | 💬 64 comments
 
-**#2. Gemini 3.7 Flash**
-- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
-- 👤 By thisisauserid | 📈 846 points | 💬 434 comments
+**#2. Qwen 3.8 27B**
+- 🔗 [Read on HackerNews](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
+- 👤 By erdaltoprak | 📈 1136 points | 💬 692 comments
 
-**#3. Accelerating GPT-5.6 Sol Ultrafast**
-- 🔗 [Read on HackerNews](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
-- 👤 By pr337h4m | 📈 606 points | 💬 242 comments
+**#3. Going Dark, and the era of law enforcement hacking**
+- 🔗 [Read on HackerNews](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+- 👤 By vslira | 📈 339 points | 💬 149 comments
 
-**#4. Hello, me. It's been a while**
-- 🔗 [Read on HackerNews](https://themech.net/2026/08/hello-me-its-been-a-while/)
-- 👤 By somesoftdev | 📈 216 points | 💬 112 comments
+**#4. In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace**
+- 🔗 [Read on HackerNews](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/)
+- 👤 By bookofjoe | 📈 35 points | 💬 5 comments
 
-**#5. Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri**
-- 🔗 [Read on HackerNews](https://github.com/JustVugg/lumabri)
-- 👤 By vforno | 📈 21 points | 💬 3 comments
+**#5. Coin-sized device can hack a Boeing 737**
+- 🔗 [Read on HackerNews](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
+- 👤 By _tk_ | 📈 73 points | 💬 38 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
