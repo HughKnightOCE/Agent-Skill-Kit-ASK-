@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 16, 2026
+> **Last Updated:** August 17, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Asus Bike Booster**
-- 🔗 [Read on HackerNews](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
-- 👤 By wiradikusuma | 📈 376 points | 💬 236 comments
+**#1. Qwen 3.8 27B is excellent, but it defaults to overthinking things**
+- 🔗 [Read on HackerNews](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+- 👤 By bilsbie | 📈 464 points | 💬 219 comments
 
-**#2. What happens when an LLM never sees material beyond fifth grade?**
-- 🔗 [Read on HackerNews](https://littlelearner-ll.github.io/)
-- 👤 By porridgeraisin | 📈 98 points | 💬 62 comments
+**#2. Beware the Permanent Periphery**
+- 🔗 [Read on HackerNews](https://asteriskmag.com/issues/15/beware-the-permanent-periphery)
+- 👤 By m-hodges | 📈 21 points | 💬 18 comments
 
-**#3. Asynchronous I/O in DuckDB: Work, Thread, Work**
-- 🔗 [Read on HackerNews](https://duckdb.org/2026/07/31/asynchronous-io)
-- 👤 By pdet | 📈 152 points | 💬 14 comments
+**#3. On A.I. regulation and messaging**
+- 🔗 [Read on HackerNews](https://twitter.com/DarioAmodei/status/2088758816376807762)
+- 👤 By jacquesm | 📈 50 points | 💬 69 comments
 
-**#4. Patterns and problems in emerging multi-agent systems**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/research/multiagent-systems)
-- 👤 By maxutility | 📈 83 points | 💬 31 comments
+**#4. A third world engineer responds to “RISC-V: They should have known better”**
+- 🔗 [Read on HackerNews](https://rvembedded.com/blog_post/12/)
+- 👤 By Narishma | 📈 504 points | 💬 267 comments
 
-**#5. Semaglutide linked to lower predicted dementia risk**
-- 🔗 [Read on HackerNews](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
-- 👤 By randycupertino | 📈 425 points | 💬 296 comments
+**#5. Anthropic's 'watermark' text adulteration in Claude is a perversion of writing**
+- 🔗 [Read on HackerNews](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+- 👤 By ropbear | 📈 264 points | 💬 254 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
