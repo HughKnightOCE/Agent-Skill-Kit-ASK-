@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 17, 2026
+> **Last Updated:** August 18, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Qwen 3.8 27B is excellent, but it defaults to overthinking things**
-- 🔗 [Read on HackerNews](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
-- 👤 By bilsbie | 📈 464 points | 💬 219 comments
+**#1. Linux 7.3 improves performance when running out of vRAM**
+- 🔗 [Read on HackerNews](https://pixelcluster.dev/VRAM-Overcommit/)
+- 👤 By flaburgan | 📈 70 points | 💬 7 comments
 
-**#2. Beware the Permanent Periphery**
-- 🔗 [Read on HackerNews](https://asteriskmag.com/issues/15/beware-the-permanent-periphery)
-- 👤 By m-hodges | 📈 21 points | 💬 18 comments
+**#2. How Bluesky draws its logo on screenshots**
+- 🔗 [Read on HackerNews](https://timmarinin.net/2026/bluesky-screenshots/)
+- 👤 By gavide | 📈 495 points | 💬 346 comments
 
-**#3. On A.I. regulation and messaging**
-- 🔗 [Read on HackerNews](https://twitter.com/DarioAmodei/status/2088758816376807762)
-- 👤 By jacquesm | 📈 50 points | 💬 69 comments
+**#3. GPT-5.6 Sol Pricing Cut by 50%**
+- 🔗 [Read on HackerNews](https://openrouter.ai/openai/gpt-5.6-sol)
+- 👤 By Topfi | 📈 430 points | 💬 260 comments
 
-**#4. A third world engineer responds to “RISC-V: They should have known better”**
-- 🔗 [Read on HackerNews](https://rvembedded.com/blog_post/12/)
-- 👤 By Narishma | 📈 504 points | 💬 267 comments
+**#4. Quake Shareware, a CD-ROM just a little too full**
+- 🔗 [Read on HackerNews](https://fabiensanglard.net/quake_shareware_cd/index.html)
+- 👤 By shdon | 📈 342 points | 💬 142 comments
 
-**#5. Anthropic's 'watermark' text adulteration in Claude is a perversion of writing**
-- 🔗 [Read on HackerNews](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
-- 👤 By ropbear | 📈 264 points | 💬 254 comments
+**#5. Rethinking Database Programming**
+- 🔗 [Read on HackerNews](https://acadia.engineering/blog/rethinking-database-programming)
+- 👤 By honungsburk | 📈 25 points | 💬 5 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
