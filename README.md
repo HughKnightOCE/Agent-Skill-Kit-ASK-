@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 20, 2026
+> **Last Updated:** August 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Don't Paste the AI, please**
-- 🔗 [Read on HackerNews](https://dontpastetheai.com/)
-- 👤 By pjerem | 📈 146 points | 💬 83 comments
+**#1. The Lost Treasure of Sid Meier's Pirates**
+- 🔗 [Read on HackerNews](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+- 👤 By spankibalt | 📈 67 points | 💬 18 comments
 
-**#2. Windows brings out the Rorschach test in everyone**
-- 🔗 [Read on HackerNews](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
-- 👤 By luu | 📈 156 points | 💬 68 comments
+**#2. We Rebuilt the Linux MicroVM Stack on Apple Silicon**
+- 🔗 [Read on HackerNews](https://encore.dev/blog/firecracker-apple-silicon)
+- 👤 By signa11 | 📈 58 points | 💬 27 comments
 
-**#3. OpenRouter is joining Stripe**
-- 🔗 [Read on HackerNews](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-- 👤 By rvz | 📈 837 points | 💬 440 comments
+**#3. The August 17 outage**
+- 🔗 [Read on HackerNews](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+- 👤 By 0xedb | 📈 520 points | 💬 586 comments
 
-**#4. Turns are Better than Radians (2022)**
-- 🔗 [Read on HackerNews](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- 👤 By mayoff | 📈 202 points | 💬 92 comments
+**#4. I like 'em thick: an apology to my English teachers**
+- 🔗 [Read on HackerNews](https://www.experimental-history.com/p/i-like-em-thick)
+- 👤 By Ariarule | 📈 729 points | 💬 301 comments
 
-**#5. Go 1.27**
-- 🔗 [Read on HackerNews](https://go.dev/blog/go1.27)
-- 👤 By database64128 | 📈 634 points | 💬 181 comments
+**#5. HTML Can Do That**
+- 🔗 [Read on HackerNews](https://chrisburnell.com/html-can-do-that/)
+- 👤 By encyclopedism | 📈 801 points | 💬 190 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
