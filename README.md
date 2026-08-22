@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 21, 2026
+> **Last Updated:** August 22, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The Lost Treasure of Sid Meier's Pirates**
-- 🔗 [Read on HackerNews](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
-- 👤 By spankibalt | 📈 67 points | 💬 18 comments
+**#1. Rust Glancer: Rust LSP using 100x less RAM**
+- 🔗 [Read on HackerNews](https://rust-glancer.github.io/blog/hello-world/)
+- 👤 By matklad | 📈 202 points | 💬 41 comments
 
-**#2. We Rebuilt the Linux MicroVM Stack on Apple Silicon**
-- 🔗 [Read on HackerNews](https://encore.dev/blog/firecracker-apple-silicon)
-- 👤 By signa11 | 📈 58 points | 💬 27 comments
+**#2. Felony Bench**
+- 🔗 [Read on HackerNews](https://www.felonybench.com/)
+- 👤 By colinprince | 📈 698 points | 💬 278 comments
 
-**#3. The August 17 outage**
-- 🔗 [Read on HackerNews](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-- 👤 By 0xedb | 📈 520 points | 💬 586 comments
+**#3. Kobo can run apps now**
+- 🔗 [Read on HackerNews](https://bandarlabs.github.io/Cobalt/)
+- 👤 By thepoet | 📈 541 points | 💬 188 comments
 
-**#4. I like 'em thick: an apology to my English teachers**
-- 🔗 [Read on HackerNews](https://www.experimental-history.com/p/i-like-em-thick)
-- 👤 By Ariarule | 📈 729 points | 💬 301 comments
+**#4. There's no reason for software to be slow anymore**
+- 🔗 [Read on HackerNews](https://danluu.com/perf-opt/)
+- 👤 By Jach | 📈 394 points | 💬 282 comments
 
-**#5. HTML Can Do That**
-- 🔗 [Read on HackerNews](https://chrisburnell.com/html-can-do-that/)
-- 👤 By encyclopedism | 📈 801 points | 💬 190 comments
+**#5. Felony charges for citizen deleting phone data at US Border**
+- 🔗 [Read on HackerNews](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+- 👤 By floathub | 📈 778 points | 💬 908 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
