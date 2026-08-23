@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 22, 2026
+> **Last Updated:** August 23, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Rust Glancer: Rust LSP using 100x less RAM**
-- 🔗 [Read on HackerNews](https://rust-glancer.github.io/blog/hello-world/)
-- 👤 By matklad | 📈 202 points | 💬 41 comments
+**#1. The End of an Athlon**
+- 🔗 [Read on HackerNews](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+- 👤 By userbinator | 📈 75 points | 💬 19 comments
 
-**#2. Felony Bench**
-- 🔗 [Read on HackerNews](https://www.felonybench.com/)
-- 👤 By colinprince | 📈 698 points | 💬 278 comments
+**#2. To become a better writer, read as much as you can**
+- 🔗 [Read on HackerNews](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+- 👤 By andsoitis | 📈 133 points | 💬 81 comments
 
-**#3. Kobo can run apps now**
-- 🔗 [Read on HackerNews](https://bandarlabs.github.io/Cobalt/)
-- 👤 By thepoet | 📈 541 points | 💬 188 comments
+**#3. JIT Compiling Code in 5μs**
+- 🔗 [Read on HackerNews](https://malisper.me/jit-compiling-code-in-5-us/)
+- 👤 By zX41ZdbW | 📈 53 points | 💬 16 comments
 
-**#4. There's no reason for software to be slow anymore**
-- 🔗 [Read on HackerNews](https://danluu.com/perf-opt/)
-- 👤 By Jach | 📈 394 points | 💬 282 comments
+**#4. MartyPC is a cross-platform emulator of early PCs written in Rust**
+- 🔗 [Read on HackerNews](https://martypc.net/)
+- 👤 By boilerupnc | 📈 112 points | 💬 33 comments
 
-**#5. Felony charges for citizen deleting phone data at US Border**
-- 🔗 [Read on HackerNews](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
-- 👤 By floathub | 📈 778 points | 💬 908 comments
+**#5. Tragically, as many as 9625 out of every 10k individuals may be neurotypical**
+- 🔗 [Read on HackerNews](https://erikengdahl.se/autism/isnt/)
+- 👤 By verisimi | 📈 26 points | 💬 15 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
