@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 23, 2026
+> **Last Updated:** August 24, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The End of an Athlon**
-- 🔗 [Read on HackerNews](http://www.os2museum.com/wp/the-end-of-an-athlon/)
-- 👤 By userbinator | 📈 75 points | 💬 19 comments
+**#1. Everything I own, owned**
+- 🔗 [Read on HackerNews](https://schlarp.com/posts/everything-i-own-owned/)
+- 👤 By schlarpc | 📈 904 points | 💬 256 comments
 
-**#2. To become a better writer, read as much as you can**
-- 🔗 [Read on HackerNews](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
-- 👤 By andsoitis | 📈 133 points | 💬 81 comments
+**#2. I were 17, I'd learn how to build LLMs from scratch**
+- 🔗 [Read on HackerNews](https://twitter.com/paulg/status/2091544343589060625)
+- 👤 By bilsbie | 📈 112 points | 💬 196 comments
 
-**#3. JIT Compiling Code in 5μs**
-- 🔗 [Read on HackerNews](https://malisper.me/jit-compiling-code-in-5-us/)
-- 👤 By zX41ZdbW | 📈 53 points | 💬 16 comments
+**#3. FDA clears blood test to aid evaluation for Alzheimer's disease**
+- 🔗 [Read on HackerNews](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+- 👤 By dabinat | 📈 43 points | 💬 12 comments
 
-**#4. MartyPC is a cross-platform emulator of early PCs written in Rust**
-- 🔗 [Read on HackerNews](https://martypc.net/)
-- 👤 By boilerupnc | 📈 112 points | 💬 33 comments
+**#4. Anthropic's best AI model struggles to attract users as cheaper tools thrive**
+- 🔗 [Read on HackerNews](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+- 👤 By naves | 📈 514 points | 💬 455 comments
 
-**#5. Tragically, as many as 9625 out of every 10k individuals may be neurotypical**
-- 🔗 [Read on HackerNews](https://erikengdahl.se/autism/isnt/)
-- 👤 By verisimi | 📈 26 points | 💬 15 comments
+**#5. OCR It – pull text out of un-copyable documents for your LLM**
+- 🔗 [Read on HackerNews](https://github.com/thiagotigaz/ocr-it)
+- 👤 By thiagolima | 📈 30 points | 💬 7 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
