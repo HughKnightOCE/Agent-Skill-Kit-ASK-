@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 24, 2026
+> **Last Updated:** August 25, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Everything I own, owned**
-- 🔗 [Read on HackerNews](https://schlarp.com/posts/everything-i-own-owned/)
-- 👤 By schlarpc | 📈 904 points | 💬 256 comments
+**#1. iCloud+ Hide My Email addresses will remain on icloud.com**
+- 🔗 [Read on HackerNews](https://developer.apple.com/news/?id=1ptvdtcm)
+- 👤 By K7PJP | 📈 460 points | 💬 129 comments
 
-**#2. I were 17, I'd learn how to build LLMs from scratch**
-- 🔗 [Read on HackerNews](https://twitter.com/paulg/status/2091544343589060625)
-- 👤 By bilsbie | 📈 112 points | 💬 196 comments
+**#2. Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded**
+- 🔗 [Read on HackerNews](https://twitter.com/lemire/status/2091894299289874926)
+- 👤 By tosh | 📈 863 points | 💬 616 comments
 
-**#3. FDA clears blood test to aid evaluation for Alzheimer's disease**
-- 🔗 [Read on HackerNews](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
-- 👤 By dabinat | 📈 43 points | 💬 12 comments
+**#3. MS Paint and Photos inivisibly watermark even locally generated output with GUID**
+- 🔗 [Read on HackerNews](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+- 👤 By ComputerGuru | 📈 710 points | 💬 311 comments
 
-**#4. Anthropic's best AI model struggles to attract users as cheaper tools thrive**
-- 🔗 [Read on HackerNews](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
-- 👤 By naves | 📈 514 points | 💬 455 comments
+**#4. How Universities Should Prepare Founders**
+- 🔗 [Read on HackerNews](https://paulgraham.com/prepare.html)
+- 👤 By gmays | 📈 122 points | 💬 152 comments
 
-**#5. OCR It – pull text out of un-copyable documents for your LLM**
-- 🔗 [Read on HackerNews](https://github.com/thiagotigaz/ocr-it)
-- 👤 By thiagolima | 📈 30 points | 💬 7 comments
+**#5. SiFive's First Server Platform**
+- 🔗 [Read on HackerNews](https://chipsandcheese.com/p/sifives-first-server-platform)
+- 👤 By geerlingguy | 📈 51 points | 💬 9 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
