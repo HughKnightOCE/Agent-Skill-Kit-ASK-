@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 25, 2026
+> **Last Updated:** August 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. iCloud+ Hide My Email addresses will remain on icloud.com**
-- 🔗 [Read on HackerNews](https://developer.apple.com/news/?id=1ptvdtcm)
-- 👤 By K7PJP | 📈 460 points | 💬 129 comments
+**#1. Oldinsurancemaps.net is now a Charter Project**
+- 🔗 [Read on HackerNews](https://openstreetmap.us/news/2026/08/oim-charter-project/)
+- 👤 By altilunium | 📈 8 points | 💬 0 comments
 
-**#2. Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded**
-- 🔗 [Read on HackerNews](https://twitter.com/lemire/status/2091894299289874926)
-- 👤 By tosh | 📈 863 points | 💬 616 comments
+**#2. Apple introduces M6 and M5 Ultra**
+- 🔗 [Read on HackerNews](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+- 👤 By interpol_p | 📈 1143 points | 💬 1104 comments
 
-**#3. MS Paint and Photos inivisibly watermark even locally generated output with GUID**
-- 🔗 [Read on HackerNews](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
-- 👤 By ComputerGuru | 📈 710 points | 💬 311 comments
+**#3. RAG Is Simpler Than You Think**
+- 🔗 [Read on HackerNews](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
+- 👤 By j0selit0 | 📈 9 points | 💬 0 comments
 
-**#4. How Universities Should Prepare Founders**
-- 🔗 [Read on HackerNews](https://paulgraham.com/prepare.html)
-- 👤 By gmays | 📈 122 points | 💬 152 comments
+**#4. Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]**
+- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=656058JxTM0)
+- 👤 By zoenolan | 📈 99 points | 💬 28 comments
 
-**#5. SiFive's First Server Platform**
-- 🔗 [Read on HackerNews](https://chipsandcheese.com/p/sifives-first-server-platform)
-- 👤 By geerlingguy | 📈 51 points | 💬 9 comments
+**#5. Show HN: Buslens – where can I get to by bus? (UK)**
+- 🔗 [Read on HackerNews](https://rupertlinacre.com/buslens/)
+- 👤 By RobinL | 📈 18 points | 💬 6 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
