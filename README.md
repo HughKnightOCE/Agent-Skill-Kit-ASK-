@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 26, 2026
+> **Last Updated:** August 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Oldinsurancemaps.net is now a Charter Project**
-- 🔗 [Read on HackerNews](https://openstreetmap.us/news/2026/08/oim-charter-project/)
-- 👤 By altilunium | 📈 8 points | 💬 0 comments
+**#1. Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache**
+- 🔗 [Read on HackerNews](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+- 👤 By TangerineDream | 📈 213 points | 💬 51 comments
 
-**#2. Apple introduces M6 and M5 Ultra**
-- 🔗 [Read on HackerNews](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
-- 👤 By interpol_p | 📈 1143 points | 💬 1104 comments
+**#2. Small Models Have Arrived**
+- 🔗 [Read on HackerNews](https://calv.info/small-models-have-arrived)
+- 👤 By tosh | 📈 226 points | 💬 101 comments
 
-**#3. RAG Is Simpler Than You Think**
-- 🔗 [Read on HackerNews](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
-- 👤 By j0selit0 | 📈 9 points | 💬 0 comments
+**#3. 507 Mechanical Movements**
+- 🔗 [Read on HackerNews](https://507movements.com/)
+- 👤 By helloplanets | 📈 358 points | 💬 53 comments
 
-**#4. Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]**
-- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=656058JxTM0)
-- 👤 By zoenolan | 📈 99 points | 💬 28 comments
+**#4. We found a division by zero bug in FFmpeg with a vibecoded fuzzer**
+- 🔗 [Read on HackerNews](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
+- 👤 By dclavijo | 📈 50 points | 💬 30 comments
 
-**#5. Show HN: Buslens – where can I get to by bus? (UK)**
-- 🔗 [Read on HackerNews](https://rupertlinacre.com/buslens/)
-- 👤 By RobinL | 📈 18 points | 💬 6 comments
+**#5. Gemini Omni 1.1 Flash**
+- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
+- 👤 By saretup | 📈 88 points | 💬 28 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
