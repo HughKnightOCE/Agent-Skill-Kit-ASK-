@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 27, 2026
+> **Last Updated:** August 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache**
-- 🔗 [Read on HackerNews](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
-- 👤 By TangerineDream | 📈 213 points | 💬 51 comments
+**#1. GUIs should be fully keyboard-driven**
+- 🔗 [Read on HackerNews](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+- 👤 By ckardaris | 📈 375 points | 💬 207 comments
 
-**#2. Small Models Have Arrived**
-- 🔗 [Read on HackerNews](https://calv.info/small-models-have-arrived)
-- 👤 By tosh | 📈 226 points | 💬 101 comments
+**#2. 25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA**
+- 🔗 [Read on HackerNews](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
+- 👤 By randycupertino | 📈 62 points | 💬 34 comments
 
-**#3. 507 Mechanical Movements**
-- 🔗 [Read on HackerNews](https://507movements.com/)
-- 👤 By helloplanets | 📈 358 points | 💬 53 comments
+**#3. Htmx 4.0**
+- 🔗 [Read on HackerNews](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+- 👤 By rmsaksida | 📈 362 points | 💬 87 comments
 
-**#4. We found a division by zero bug in FFmpeg with a vibecoded fuzzer**
-- 🔗 [Read on HackerNews](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
-- 👤 By dclavijo | 📈 50 points | 💬 30 comments
+**#4. Just the rumour of a bug is enough to find an exploit these days**
+- 🔗 [Read on HackerNews](https://anil.recoil.org/notes/rumour-is-the-exploit)
+- 👤 By avsm | 📈 160 points | 💬 54 comments
 
-**#5. Gemini Omni 1.1 Flash**
-- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
-- 👤 By saretup | 📈 88 points | 💬 28 comments
+**#5. U.S. sanctions against the A/I Collective**
+- 🔗 [Read on HackerNews](https://www.inventati.org/)
+- 👤 By exiguus | 📈 373 points | 💬 340 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
