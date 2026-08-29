@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 28, 2026
+> **Last Updated:** August 29, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GUIs should be fully keyboard-driven**
+**#1. Iceland votes on whether to restart talks on joining EU**
+- 🔗 [Read on HackerNews](https://www.bbc.com/news/articles/cn45vdxyvvlo)
+- 👤 By tosh | 📈 206 points | 💬 233 comments
+
+**#2. Samsung's Processing-in-Memory (PIM)**
+- 🔗 [Read on HackerNews](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+- 👤 By ingve | 📈 165 points | 💬 51 comments
+
+**#3. GUIs should be fully keyboard-driven**
 - 🔗 [Read on HackerNews](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
-- 👤 By ckardaris | 📈 375 points | 💬 207 comments
+- 👤 By ckardaris | 📈 905 points | 💬 448 comments
 
-**#2. 25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA**
-- 🔗 [Read on HackerNews](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
-- 👤 By randycupertino | 📈 62 points | 💬 34 comments
+**#4. Boot a Virtual iPhone via Apple's Virtualization.framework**
+- 🔗 [Read on HackerNews](https://github.com/Lakr233/vphone-cli)
+- 👤 By hentrep | 📈 325 points | 💬 83 comments
 
-**#3. Htmx 4.0**
-- 🔗 [Read on HackerNews](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
-- 👤 By rmsaksida | 📈 362 points | 💬 87 comments
-
-**#4. Just the rumour of a bug is enough to find an exploit these days**
-- 🔗 [Read on HackerNews](https://anil.recoil.org/notes/rumour-is-the-exploit)
-- 👤 By avsm | 📈 160 points | 💬 54 comments
-
-**#5. U.S. sanctions against the A/I Collective**
-- 🔗 [Read on HackerNews](https://www.inventati.org/)
-- 👤 By exiguus | 📈 373 points | 💬 340 comments
+**#5. Glacier Mice**
+- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Glacier_mice)
+- 👤 By ostacke | 📈 76 points | 💬 11 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
