@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 29, 2026
+> **Last Updated:** August 30, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Iceland votes on whether to restart talks on joining EU**
-- 🔗 [Read on HackerNews](https://www.bbc.com/news/articles/cn45vdxyvvlo)
-- 👤 By tosh | 📈 206 points | 💬 233 comments
+**#1. Hacking IKEA Furniture**
+- 🔗 [Read on HackerNews](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+- 👤 By greenlightning | 📈 75 points | 💬 24 comments
 
-**#2. Samsung's Processing-in-Memory (PIM)**
-- 🔗 [Read on HackerNews](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
-- 👤 By ingve | 📈 165 points | 💬 51 comments
+**#2. What my dad taught me about AI coding in the 90s**
+- 🔗 [Read on HackerNews](https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/)
+- 👤 By askmike | 📈 42 points | 💬 5 comments
 
-**#3. GUIs should be fully keyboard-driven**
-- 🔗 [Read on HackerNews](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
-- 👤 By ckardaris | 📈 905 points | 💬 448 comments
+**#3. Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]**
+- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=hpj6r6CjJf8)
+- 👤 By surprisetalk | 📈 116 points | 💬 22 comments
 
-**#4. Boot a Virtual iPhone via Apple's Virtualization.framework**
-- 🔗 [Read on HackerNews](https://github.com/Lakr233/vphone-cli)
-- 👤 By hentrep | 📈 325 points | 💬 83 comments
+**#4. Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel**
+- 🔗 [Read on HackerNews](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
+- 👤 By vntok | 📈 113 points | 💬 46 comments
 
-**#5. Glacier Mice**
-- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/Glacier_mice)
-- 👤 By ostacke | 📈 76 points | 💬 11 comments
+**#5. Longest Straight Line Paths on Water or Land on the Earth (2018)**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/1804.07389)
+- 👤 By joebig | 📈 139 points | 💬 37 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
