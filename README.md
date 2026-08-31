@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** August 30, 2026
+> **Last Updated:** August 31, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Hacking IKEA Furniture**
-- 🔗 [Read on HackerNews](https://greenlightning.eu/diy/hacking-ikea-furniture/)
-- 👤 By greenlightning | 📈 75 points | 💬 24 comments
+**#1. Playa Phone**
+- 🔗 [Read on HackerNews](https://playaphone.com/)
+- 👤 By cutoff | 📈 172 points | 💬 73 comments
 
-**#2. What my dad taught me about AI coding in the 90s**
-- 🔗 [Read on HackerNews](https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/)
-- 👤 By askmike | 📈 42 points | 💬 5 comments
+**#2. OpenShot 4.0: Record, Edit, and Color Like Never Before**
+- 🔗 [Read on HackerNews](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
+- 👤 By metrofun | 📈 410 points | 💬 96 comments
 
-**#3. Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]**
-- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=hpj6r6CjJf8)
-- 👤 By surprisetalk | 📈 116 points | 💬 22 comments
+**#3. ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source**
+- 🔗 [Read on HackerNews](https://ravynos.com/)
+- 👤 By Bluestein | 📈 17 points | 💬 4 comments
 
-**#4. Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel**
-- 🔗 [Read on HackerNews](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
-- 👤 By vntok | 📈 113 points | 💬 46 comments
+**#4. Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP**
+- 🔗 [Read on HackerNews](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)
+- 👤 By spetz | 📈 62 points | 💬 15 comments
 
-**#5. Longest Straight Line Paths on Water or Land on the Earth (2018)**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/1804.07389)
-- 👤 By joebig | 📈 139 points | 💬 37 comments
+**#5. ChatGPT Work Tool and Skill Reference**
+- 🔗 [Read on HackerNews](https://codex-tool-reference.simonw.chatgpt.site/)
+- 👤 By ijidak | 📈 93 points | 💬 43 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
