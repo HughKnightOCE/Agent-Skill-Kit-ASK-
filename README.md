@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 04, 2026
+> **Last Updated:** September 05, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Discovery of a new OpenAI agent message board**
+**#1. Actively exploited sandbox RCE in all Chromium versions**
+- 🔗 [Read on HackerNews](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- 👤 By negura | 📈 567 points | 💬 298 comments
+
+**#2. Discovery of a new OpenAI agent message board**
 - 🔗 [Read on HackerNews](https://collusion.wiki/)
-- 👤 By moultano | 📈 197 points | 💬 108 comments
+- 👤 By moultano | 📈 1786 points | 💬 1365 comments
 
-**#2. Solving the Jane Street Reverse Engineering Challenge**
-- 🔗 [Read on HackerNews](https://jestoph.com/2026/09/04/jane-street-challenge.html)
-- 👤 By anitil | 📈 147 points | 💬 45 comments
+**#3. Nitter has more working instances than before the takedowns**
+- 🔗 [Read on HackerNews](https://codeberg.org/mv12star/shitter/wiki/Instances)
+- 👤 By Cider9986 | 📈 314 points | 💬 115 comments
 
-**#3. GPT-6 Astra**
-- 🔗 [Read on HackerNews](https://openai.com/index/gpt-6-astra/)
-- 👤 By kibae | 📈 1927 points | 💬 1736 comments
+**#4. Formalizing Fermat's Last Theorem**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+- 👤 By jlebar | 📈 639 points | 💬 404 comments
 
-**#4. O&O ShutUp10 – The antispy tool for Windows 10 and 11**
-- 🔗 [Read on HackerNews](https://www.oo-software.com/en/shutup10)
-- 👤 By embedding-shape | 📈 38 points | 💬 16 comments
-
-**#5. .name Termination**
-- 🔗 [Read on HackerNews](https://neil.fraser.name/news/2026/09/03/)
-- 👤 By pavel_lishin | 📈 1978 points | 💬 486 comments
+**#5. AI handles incidents, engineers lose touch with their systems**
+- 🔗 [Read on HackerNews](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+- 👤 By sylvainkalache | 📈 198 points | 💬 176 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
