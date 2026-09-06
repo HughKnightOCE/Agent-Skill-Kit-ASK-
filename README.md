@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 05, 2026
+> **Last Updated:** September 06, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Actively exploited sandbox RCE in all Chromium versions**
-- 🔗 [Read on HackerNews](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-- 👤 By negura | 📈 567 points | 💬 298 comments
+**#1. Intellectual Fly Is Open**
+- 🔗 [Read on HackerNews](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+- 👤 By cyb0rg0 | 📈 46 points | 💬 14 comments
 
-**#2. Discovery of a new OpenAI agent message board**
-- 🔗 [Read on HackerNews](https://collusion.wiki/)
-- 👤 By moultano | 📈 1786 points | 💬 1365 comments
+**#2. Isar Aerospace reaches orbit and deploys payloads on second flight**
+- 🔗 [Read on HackerNews](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
+- 👤 By mpweiher | 📈 295 points | 💬 78 comments
 
-**#3. Nitter has more working instances than before the takedowns**
-- 🔗 [Read on HackerNews](https://codeberg.org/mv12star/shitter/wiki/Instances)
-- 👤 By Cider9986 | 📈 314 points | 💬 115 comments
+**#3. Doomscrolling Ourselves to Death**
+- 🔗 [Read on HackerNews](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)
+- 👤 By shubhamjain | 📈 25 points | 💬 9 comments
 
-**#4. Formalizing Fermat's Last Theorem**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
-- 👤 By jlebar | 📈 639 points | 💬 404 comments
+**#4. M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years**
+- 🔗 [Read on HackerNews](https://en.wikipedia.org/wiki/M-DISC)
+- 👤 By gurjeet | 📈 53 points | 💬 14 comments
 
-**#5. AI handles incidents, engineers lose touch with their systems**
-- 🔗 [Read on HackerNews](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
-- 👤 By sylvainkalache | 📈 198 points | 💬 176 comments
+**#5. Cloud in a Bottle: making self-hosting accessible to everyone**
+- 🔗 [Read on HackerNews](https://cloudinabottle.org/blog/launch-post)
+- 👤 By zplizzi | 📈 475 points | 💬 234 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
