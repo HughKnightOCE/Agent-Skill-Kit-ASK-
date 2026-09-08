@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 07, 2026
+> **Last Updated:** September 08, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. De-Brainrot Vacations**
-- 🔗 [Read on HackerNews](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
-- 👤 By DanielVZ | 📈 199 points | 💬 77 comments
+**#1. Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare**
+- 🔗 [Read on HackerNews](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+- 👤 By adulion | 📈 241 points | 💬 203 comments
 
-**#2. bzip3**
-- 🔗 [Read on HackerNews](https://github.com/iczelia/bzip3)
-- 👤 By tosh | 📈 63 points | 💬 15 comments
+**#2. Antiquated HTML Snippets and Artefacts**
+- 🔗 [Read on HackerNews](https://vale.rocks/posts/html-relics)
+- 👤 By patadune | 📈 106 points | 💬 30 comments
 
-**#3. Keep Our Servers Running**
-- 🔗 [Read on HackerNews](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-- 👤 By sonicrocketman | 📈 710 points | 💬 173 comments
+**#3. I've factored the RSA keys of a Certificate Authority from the 90s**
+- 🔗 [Read on HackerNews](https://mcpherrin.ca/2026/09/07/rsa.html)
+- 👤 By ahlCVA | 📈 402 points | 💬 77 comments
 
-**#4. Splash-free urinals (2025)**
-- 🔗 [Read on HackerNews](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
-- 👤 By u1hcw9nx | 📈 111 points | 💬 50 comments
+**#4. There's a new "Google Jail" for independent wikis**
+- 🔗 [Read on HackerNews](https://weirdgloop.org/blog/google-jail)
+- 👤 By pizzaiolo | 📈 287 points | 💬 107 comments
 
-**#5. Caltech Mathathon – first hackathon ever devoted to research level mathematics**
-- 🔗 [Read on HackerNews](https://mathathonchallenge.com/index.html)
-- 👤 By astroanax | 📈 101 points | 💬 22 comments
+**#5. Why getting your hands dirty is good for you**
+- 🔗 [Read on HackerNews](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
+- 👤 By HatchedLake721 | 📈 96 points | 💬 71 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
