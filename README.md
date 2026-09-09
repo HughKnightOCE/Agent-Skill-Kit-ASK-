@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 08, 2026
+> **Last Updated:** September 09, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare**
-- 🔗 [Read on HackerNews](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
-- 👤 By adulion | 📈 241 points | 💬 203 comments
+**#1. Flock Wants a Closely Surveilled World with No Exit**
+- 🔗 [Read on HackerNews](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+- 👤 By pseudolus | 📈 324 points | 💬 259 comments
 
-**#2. Antiquated HTML Snippets and Artefacts**
-- 🔗 [Read on HackerNews](https://vale.rocks/posts/html-relics)
-- 👤 By patadune | 📈 106 points | 💬 30 comments
+**#2. Desert Ant Labs: local, fast models that run on device**
+- 🔗 [Read on HackerNews](https://desertant.com/blog/introducing-desert-ant-labs/)
+- 👤 By willwhitedc | 📈 105 points | 💬 19 comments
 
-**#3. I've factored the RSA keys of a Certificate Authority from the 90s**
-- 🔗 [Read on HackerNews](https://mcpherrin.ca/2026/09/07/rsa.html)
-- 👤 By ahlCVA | 📈 402 points | 💬 77 comments
+**#3. Tailwind Labs is joining Shopify**
+- 🔗 [Read on HackerNews](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+- 👤 By EdwinHoksberg | 📈 27 points | 💬 3 comments
 
-**#4. There's a new "Google Jail" for independent wikis**
-- 🔗 [Read on HackerNews](https://weirdgloop.org/blog/google-jail)
-- 👤 By pizzaiolo | 📈 287 points | 💬 107 comments
+**#4. I advertise malicious software on Google Ads**
+- 🔗 [Read on HackerNews](https://xlii.space/eng/malicious-software-on-google-ads/)
+- 👤 By xlii | 📈 123 points | 💬 54 comments
 
-**#5. Why getting your hands dirty is good for you**
-- 🔗 [Read on HackerNews](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
-- 👤 By HatchedLake721 | 📈 96 points | 💬 71 comments
+**#5. Lotus Notes and the dangers of starting from scratch**
+- 🔗 [Read on HackerNews](https://buttondown.com/blog/lotus-notes-email)
+- 👤 By maguay | 📈 84 points | 💬 43 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
