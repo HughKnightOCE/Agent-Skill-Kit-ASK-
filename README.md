@@ -13,33 +13,30 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 10, 2026
+> **Last Updated:** September 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls**
-- 🔗 [Read on HackerNews](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
-- 👤 By thelastgallon | 📈 72 points | 💬 45 comments
+**#1. The Waymo effect: how AI is quietly making research less collaborative**
+- 🔗 [Read on HackerNews](https://www.researchagenda.news/articles/the-waymo-effect.html)
+- 👤 By JohnHammersley | 📈 158 points | 💬 99 comments
 
-**#2. Show HN: The same nine streaming subscriptions cost $702/year more than in 2021**
-- 🔗 [Read on HackerNews](https://honestlyranked.com/guides/streaming-price-increases/)
-- 👤 By honestlyranked | 📈 222 points | 💬 200 comments
+**#2. RTK reports token savings, but our cost benchmarks disagree**
+- 🔗 [Read on HackerNews](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+- 👤 By michalwarda | 📈 58 points | 💬 28 comments
 
-**#3. What algorithm did Windows XP use to choose your initial user picture?**
-- 🔗 [Read on HackerNews](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
-- 👤 By soheilpro | 📈 173 points | 💬 83 comments
+**#3. Cherenkov Radiation - traveling faster than light**
+- 🔗 [Read on HackerNews](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+- 👤 By andsoitis | 📈 126 points | 💬 71 comments
 
-**#4. Stockfish 19**
-- 🔗 [Read on HackerNews](https://stockfishchess.org/blog/2026/stockfish-19/)
-- 👤 By atiedebee | 📈 121 points | 💬 79 comments
-
-**#5. DeepSeek v4.1 Flash**
-- 🔗 [Read on HackerNews](https://twitter.com/deepseek_ai/status/2097930608790167907)
-- 👤 By Liwink | 📈 589 points | 💬 318 comments
+**#4. So you want to use OpenRouter?**
+- 🔗 [Read on HackerNews](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
+- 👤 By player85 | 📈 289 points | 💬 69 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
