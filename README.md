@@ -13,29 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 11, 2026
+> **Last Updated:** September 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The Waymo effect: how AI is quietly making research less collaborative**
-- 🔗 [Read on HackerNews](https://www.researchagenda.news/articles/the-waymo-effect.html)
-- 👤 By JohnHammersley | 📈 158 points | 💬 99 comments
+**#1. Fuck it, make it anyway**
+- 🔗 [Read on HackerNews](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+- 👤 By JayOtter | 📈 82 points | 💬 44 comments
 
-**#2. RTK reports token savings, but our cost benchmarks disagree**
-- 🔗 [Read on HackerNews](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
-- 👤 By michalwarda | 📈 58 points | 💬 28 comments
+**#2. IKEA made a mod for Skyrim [video]**
+- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=iZODN0QUgjI)
+- 👤 By kegenaar | 📈 276 points | 💬 45 comments
 
-**#3. Cherenkov Radiation - traveling faster than light**
-- 🔗 [Read on HackerNews](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
-- 👤 By andsoitis | 📈 126 points | 💬 71 comments
+**#3. Retrospectively Reverse-Engineering Apple's Neural Engine**
+- 🔗 [Read on HackerNews](https://eiln.github.io/posts/ane.html)
+- 👤 By zdw | 📈 125 points | 💬 15 comments
 
-**#4. So you want to use OpenRouter?**
-- 🔗 [Read on HackerNews](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
-- 👤 By player85 | 📈 289 points | 💬 69 comments
+**#4. The Worst Spam Emails: Inside iLands' AI Agent Hustle**
+- 🔗 [Read on HackerNews](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+- 👤 By ColinWright | 📈 25 points | 💬 6 comments
+
+**#5. A misalignment of AI in mathematics**
+- 🔗 [Read on HackerNews](https://mathandai.org/)
+- 👤 By meredydd | 📈 1016 points | 💬 974 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
