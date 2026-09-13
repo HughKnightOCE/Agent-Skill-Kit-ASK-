@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 12, 2026
+> **Last Updated:** September 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Fuck it, make it anyway**
-- 🔗 [Read on HackerNews](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
-- 👤 By JayOtter | 📈 82 points | 💬 44 comments
+**#1. JetKVM Mini**
+- 🔗 [Read on HackerNews](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- 👤 By taubek | 📈 265 points | 💬 106 comments
 
-**#2. IKEA made a mod for Skyrim [video]**
-- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=iZODN0QUgjI)
-- 👤 By kegenaar | 📈 276 points | 💬 45 comments
+**#2. 'Fingerprints' inside the Sun could reveal if it once swallowed a planet**
+- 🔗 [Read on HackerNews](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+- 👤 By blincoln | 📈 22 points | 💬 9 comments
 
-**#3. Retrospectively Reverse-Engineering Apple's Neural Engine**
-- 🔗 [Read on HackerNews](https://eiln.github.io/posts/ane.html)
-- 👤 By zdw | 📈 125 points | 💬 15 comments
+**#3. Why are AI agents lying, cheating and coordinating?**
+- 🔗 [Read on HackerNews](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- 👤 By jonifico | 📈 361 points | 💬 427 comments
 
-**#4. The Worst Spam Emails: Inside iLands' AI Agent Hustle**
-- 🔗 [Read on HackerNews](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
-- 👤 By ColinWright | 📈 25 points | 💬 6 comments
+**#4. TailTalk: A modern async user space AppleTalk stack with Rust and Tokio**
+- 🔗 [Read on HackerNews](https://github.com/FeralFirmware/TailTalk/)
+- 👤 By zdw | 📈 12 points | 💬 0 comments
 
-**#5. A misalignment of AI in mathematics**
-- 🔗 [Read on HackerNews](https://mathandai.org/)
-- 👤 By meredydd | 📈 1016 points | 💬 974 comments
+**#5. Reverse engineering my e-scooter and rewriting the firmware in Rust**
+- 🔗 [Read on HackerNews](https://bensimms.moe/reverse-engineering-scooter/)
+- 👤 By vinhnx | 📈 39 points | 💬 8 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
