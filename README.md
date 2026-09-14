@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 13, 2026
+> **Last Updated:** September 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. JetKVM Mini**
-- 🔗 [Read on HackerNews](https://jetkvm.com/blog/introducing-jetkvm-mini)
-- 👤 By taubek | 📈 265 points | 💬 106 comments
+**#1. How to Write an Effective Software Design Document**
+- 🔗 [Read on HackerNews](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
+- 👤 By fagnerbrack | 📈 180 points | 💬 54 comments
 
-**#2. 'Fingerprints' inside the Sun could reveal if it once swallowed a planet**
-- 🔗 [Read on HackerNews](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
-- 👤 By blincoln | 📈 22 points | 💬 9 comments
+**#2. Jabber/XMPP: How Do We Gain Traction?**
+- 🔗 [Read on HackerNews](https://gultsch.de/posts/how-do-we-gain-traction/)
+- 👤 By inputmice | 📈 46 points | 💬 24 comments
 
-**#3. Why are AI agents lying, cheating and coordinating?**
-- 🔗 [Read on HackerNews](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
-- 👤 By jonifico | 📈 361 points | 💬 427 comments
+**#3. Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama**
+- 🔗 [Read on HackerNews](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)
+- 👤 By 0o_MrPatrick_o0 | 📈 40 points | 💬 12 comments
 
-**#4. TailTalk: A modern async user space AppleTalk stack with Rust and Tokio**
-- 🔗 [Read on HackerNews](https://github.com/FeralFirmware/TailTalk/)
-- 👤 By zdw | 📈 12 points | 💬 0 comments
+**#4. RubyGems Open Source Supply Chain Security and OpenAI**
+- 🔗 [Read on HackerNews](https://rietta.com/blog/rubygems-supply-chain-openai/)
+- 👤 By rietta | 📈 28 points | 💬 4 comments
 
-**#5. Reverse engineering my e-scooter and rewriting the firmware in Rust**
-- 🔗 [Read on HackerNews](https://bensimms.moe/reverse-engineering-scooter/)
-- 👤 By vinhnx | 📈 39 points | 💬 8 comments
+**#5. The AI job market in 2026**
+- 🔗 [Read on HackerNews](https://www.ilinmaks.com/blog/en/ai-jobs-market-2026)
+- 👤 By dxs | 📈 53 points | 💬 39 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
