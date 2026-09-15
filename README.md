@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 14, 2026
+> **Last Updated:** September 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. How to Write an Effective Software Design Document**
-- 🔗 [Read on HackerNews](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
-- 👤 By fagnerbrack | 📈 180 points | 💬 54 comments
+**#1. Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations**
+- 🔗 [Read on HackerNews](https://github.com/arnegiacomo/fugleramme)
+- 👤 By arnemunthekaas | 📈 198 points | 💬 45 comments
 
-**#2. Jabber/XMPP: How Do We Gain Traction?**
-- 🔗 [Read on HackerNews](https://gultsch.de/posts/how-do-we-gain-traction/)
-- 👤 By inputmice | 📈 46 points | 💬 24 comments
+**#2. Java 27 Released**
+- 🔗 [Read on HackerNews](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
+- 👤 By mkurz | 📈 84 points | 💬 48 comments
 
-**#3. Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama**
-- 🔗 [Read on HackerNews](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)
-- 👤 By 0o_MrPatrick_o0 | 📈 40 points | 💬 12 comments
+**#3. Show HN: Hacking a $20 4G wireless hotspot into a texting device**
+- 🔗 [Read on HackerNews](https://bkovac.github.io/modem-thing/)
+- 👤 By bobili1234 | 📈 22 points | 💬 2 comments
 
-**#4. RubyGems Open Source Supply Chain Security and OpenAI**
-- 🔗 [Read on HackerNews](https://rietta.com/blog/rubygems-supply-chain-openai/)
-- 👤 By rietta | 📈 28 points | 💬 4 comments
+**#4. I can't stop thinking about Papua New Guinea**
+- 🔗 [Read on HackerNews](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
+- 👤 By networked | 📈 546 points | 💬 233 comments
 
-**#5. The AI job market in 2026**
-- 🔗 [Read on HackerNews](https://www.ilinmaks.com/blog/en/ai-jobs-market-2026)
-- 👤 By dxs | 📈 53 points | 💬 39 comments
+**#5. AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC**
+- 🔗 [Read on HackerNews](https://www.bbc.com/news/articles/cqgk5e2j0gg8o)
+- 👤 By Betelbuddy | 📈 10 points | 💬 9 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
