@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 15, 2026
+> **Last Updated:** September 16, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations**
-- 🔗 [Read on HackerNews](https://github.com/arnegiacomo/fugleramme)
-- 👤 By arnemunthekaas | 📈 198 points | 💬 45 comments
+**#1. The Google Play app review process now regularly takes longer than a week**
+- 🔗 [Read on HackerNews](https://gultsch.social/@daniel/117280438824908947)
+- 👤 By inputmice | 📈 157 points | 💬 114 comments
 
-**#2. Java 27 Released**
-- 🔗 [Read on HackerNews](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
-- 👤 By mkurz | 📈 84 points | 💬 48 comments
+**#2. Salesforce Global Outage**
+- 🔗 [Read on HackerNews](https://status.salesforce.com/products/all)
+- 👤 By mabil | 📈 135 points | 💬 62 comments
 
-**#3. Show HN: Hacking a $20 4G wireless hotspot into a texting device**
-- 🔗 [Read on HackerNews](https://bkovac.github.io/modem-thing/)
-- 👤 By bobili1234 | 📈 22 points | 💬 2 comments
+**#3. Mistral X Mozilla: Private, Multilingual AI Browsing**
+- 🔗 [Read on HackerNews](https://mistral.ai/news/mistral-x-mozilla/)
+- 👤 By vertigoruntime | 📈 233 points | 💬 67 comments
 
-**#4. I can't stop thinking about Papua New Guinea**
-- 🔗 [Read on HackerNews](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
-- 👤 By networked | 📈 546 points | 💬 233 comments
+**#4. ImpactGate: A merge gate that scores the structural decay AI adds**
+- 🔗 [Read on HackerNews](https://github.com/officefloor/ImpactGate)
+- 👤 By sagenschneider | 📈 17 points | 💬 16 comments
 
-**#5. AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC**
-- 🔗 [Read on HackerNews](https://www.bbc.com/news/articles/cqgk5e2j0gg8o)
-- 👤 By Betelbuddy | 📈 10 points | 💬 9 comments
+**#5. Introducing System One Models and Jev**
+- 🔗 [Read on HackerNews](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- 👤 By albelfio | 📈 1583 points | 💬 439 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
