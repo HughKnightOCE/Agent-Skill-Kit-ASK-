@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 16, 2026
+> **Last Updated:** September 17, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The Google Play app review process now regularly takes longer than a week**
-- 🔗 [Read on HackerNews](https://gultsch.social/@daniel/117280438824908947)
-- 👤 By inputmice | 📈 157 points | 💬 114 comments
+**#1. Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA**
+- 🔗 [Read on HackerNews](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+- 👤 By my123 | 📈 68 points | 💬 20 comments
 
-**#2. Salesforce Global Outage**
-- 🔗 [Read on HackerNews](https://status.salesforce.com/products/all)
-- 👤 By mabil | 📈 135 points | 💬 62 comments
+**#2. The American Religion of Self-Storage Facilities**
+- 🔗 [Read on HackerNews](https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities)
+- 👤 By pseudolus | 📈 27 points | 💬 15 comments
 
-**#3. Mistral X Mozilla: Private, Multilingual AI Browsing**
-- 🔗 [Read on HackerNews](https://mistral.ai/news/mistral-x-mozilla/)
-- 👤 By vertigoruntime | 📈 233 points | 💬 67 comments
+**#3. Show HN: I built a new version of my fun spatial 3D online meeting app**
+- 🔗 [Read on HackerNews](https://flat.social)
+- 👤 By pawelwentpawel | 📈 38 points | 💬 24 comments
 
-**#4. ImpactGate: A merge gate that scores the structural decay AI adds**
-- 🔗 [Read on HackerNews](https://github.com/officefloor/ImpactGate)
-- 👤 By sagenschneider | 📈 17 points | 💬 16 comments
+**#4. One Year of Sponsored Servo Development**
+- 🔗 [Read on HackerNews](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+- 👤 By AshleysBrain | 📈 224 points | 💬 98 comments
 
-**#5. Introducing System One Models and Jev**
-- 🔗 [Read on HackerNews](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
-- 👤 By albelfio | 📈 1583 points | 💬 439 comments
+**#5. I had Gemini train its own replacement for $9**
+- 🔗 [Read on HackerNews](https://www.petervijeh.com/projects/reddit-ner)
+- 👤 By p-s-v | 📈 22 points | 💬 7 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
