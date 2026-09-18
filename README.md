@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 17, 2026
+> **Last Updated:** September 18, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA**
-- 🔗 [Read on HackerNews](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
-- 👤 By my123 | 📈 68 points | 💬 20 comments
+**#1. Bend 2 and the Vibe-Coding Trap**
+- 🔗 [Read on HackerNews](https://blog.liampwll.com/posts/bend_vibe_coding/)
+- 👤 By LiamPowell | 📈 146 points | 💬 73 comments
 
-**#2. The American Religion of Self-Storage Facilities**
-- 🔗 [Read on HackerNews](https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities)
-- 👤 By pseudolus | 📈 27 points | 💬 15 comments
+**#2. OpenJev**
+- 🔗 [Read on HackerNews](https://openjev.com/)
+- 👤 By ilreb | 📈 247 points | 💬 139 comments
 
-**#3. Show HN: I built a new version of my fun spatial 3D online meeting app**
-- 🔗 [Read on HackerNews](https://flat.social)
-- 👤 By pawelwentpawel | 📈 38 points | 💬 24 comments
+**#3. I don't like passkeys**
+- 🔗 [Read on HackerNews](https://hawksley.dev/blog/i-dont-like-passkeys)
+- 👤 By ethanhawksley | 📈 140 points | 💬 106 comments
 
-**#4. One Year of Sponsored Servo Development**
-- 🔗 [Read on HackerNews](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
-- 👤 By AshleysBrain | 📈 224 points | 💬 98 comments
+**#4. ZCode, the GLM coding agent, silently uploads your Git history**
+- 🔗 [Read on HackerNews](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
+- 👤 By cdnsteve | 📈 148 points | 💬 35 comments
 
-**#5. I had Gemini train its own replacement for $9**
-- 🔗 [Read on HackerNews](https://www.petervijeh.com/projects/reddit-ner)
-- 👤 By p-s-v | 📈 22 points | 💬 7 comments
+**#5. An Empirical Study of Harness Design for Coding Agents**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2609.20804)
+- 👤 By wek | 📈 7 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
