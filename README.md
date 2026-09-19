@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 18, 2026
+> **Last Updated:** September 19, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Bend 2 and the Vibe-Coding Trap**
-- 🔗 [Read on HackerNews](https://blog.liampwll.com/posts/bend_vibe_coding/)
-- 👤 By LiamPowell | 📈 146 points | 💬 73 comments
+**#1. AI-generated posters don’t have to be horrible**
+- 🔗 [Read on HackerNews](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+- 👤 By ereiamjh | 📈 365 points | 💬 233 comments
 
-**#2. OpenJev**
-- 🔗 [Read on HackerNews](https://openjev.com/)
-- 👤 By ilreb | 📈 247 points | 💬 139 comments
+**#2. Laya the open source version of Jev**
+- 🔗 [Read on HackerNews](https://laya.convaiinnovations.com/)
+- 👤 By nandakishor_ml | 📈 93 points | 💬 13 comments
 
-**#3. I don't like passkeys**
-- 🔗 [Read on HackerNews](https://hawksley.dev/blog/i-dont-like-passkeys)
-- 👤 By ethanhawksley | 📈 140 points | 💬 106 comments
+**#3. Human brain is two separate organs, Stanford Medicine-led research finds**
+- 🔗 [Read on HackerNews](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- 👤 By emigre | 📈 342 points | 💬 125 comments
 
-**#4. ZCode, the GLM coding agent, silently uploads your Git history**
-- 🔗 [Read on HackerNews](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
-- 👤 By cdnsteve | 📈 148 points | 💬 35 comments
+**#4. “The Secret Life of Circuits” is here**
+- 🔗 [Read on HackerNews](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)
+- 👤 By surprisetalk | 📈 104 points | 💬 30 comments
 
-**#5. An Empirical Study of Harness Design for Coding Agents**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2609.20804)
-- 👤 By wek | 📈 7 points | 💬 0 comments
+**#5. If math is more than proof, we need to better celebrate the rest of it**
+- 🔗 [Read on HackerNews](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- 👤 By num42 | 📈 165 points | 💬 115 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
