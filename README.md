@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 22, 2026
+> **Last Updated:** September 23, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Can gzip be a language model?**
-- 🔗 [Read on HackerNews](https://nathan.rs/posts/gzip-lm/)
-- 👤 By networked | 📈 260 points | 💬 92 comments
+**#1. Claude Code reads AGENTS.md only when telemetry is on**
+- 🔗 [Read on HackerNews](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
+- 👤 By pszypowicz | 📈 214 points | 💬 83 comments
 
-**#2. AI Has No Wisdom and Neither Will You**
-- 🔗 [Read on HackerNews](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
-- 👤 By dimonomid | 📈 211 points | 💬 264 comments
+**#2. The GitHub wiki is an anti-pattern**
+- 🔗 [Read on HackerNews](https://michaelheap.com/github-wiki-is-an-antipattern/)
+- 👤 By ibobev | 📈 36 points | 💬 23 comments
 
-**#3. MiMo v2.6**
-- 🔗 [Read on HackerNews](https://mimo.xiaomi.com/mimo-v2-6)
-- 👤 By volf_ | 📈 978 points | 💬 443 comments
+**#3. Jev in 25 Lines of Python**
+- 🔗 [Read on HackerNews](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+- 👤 By bashbjorn | 📈 375 points | 💬 127 comments
 
-**#4. Spymarks, Not Watermarks**
-- 🔗 [Read on HackerNews](https://brand.io/article/spymarks/)
-- 👤 By possibilistic | 📈 553 points | 💬 132 comments
+**#4. Samsung accidentally freezes its smart fridges with a software update**
+- 🔗 [Read on HackerNews](https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/)
+- 👤 By Markoff | 📈 81 points | 💬 52 comments
 
-**#5. AMD's random number generator can't generate a 0?**
-- 🔗 [Read on HackerNews](https://board.flatassembler.net/topic.php?t=24261)
-- 👤 By BruceEel | 📈 152 points | 💬 101 comments
+**#5. Z80 REPL**
+- 🔗 [Read on HackerNews](https://abagames.github.io/z80-repl/index.html)
+- 👤 By adunk | 📈 67 points | 💬 8 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
