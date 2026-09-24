@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 23, 2026
+> **Last Updated:** September 24, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Claude Code reads AGENTS.md only when telemetry is on**
-- 🔗 [Read on HackerNews](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
-- 👤 By pszypowicz | 📈 214 points | 💬 83 comments
+**#1. Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection**
+- 🔗 [Read on HackerNews](https://macanorak.com/two-tier-encryption-in-the-uk/)
+- 👤 By ReturnoftheHack | 📈 125 points | 💬 47 comments
 
-**#2. The GitHub wiki is an anti-pattern**
-- 🔗 [Read on HackerNews](https://michaelheap.com/github-wiki-is-an-antipattern/)
-- 👤 By ibobev | 📈 36 points | 💬 23 comments
+**#2. Nokia Design Archive (2025)**
+- 🔗 [Read on HackerNews](https://nokiadesignarchive.aalto.fi/index.html)
+- 👤 By pillars | 📈 137 points | 💬 66 comments
 
-**#3. Jev in 25 Lines of Python**
-- 🔗 [Read on HackerNews](https://www.nobodywho.ai/posts/jev-in-25-lines/)
-- 👤 By bashbjorn | 📈 375 points | 💬 127 comments
+**#3. Linux support is coming to Snapdragon X2 Series**
+- 🔗 [Read on HackerNews](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- 👤 By aaronday | 📈 511 points | 💬 207 comments
 
-**#4. Samsung accidentally freezes its smart fridges with a software update**
-- 🔗 [Read on HackerNews](https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/)
-- 👤 By Markoff | 📈 81 points | 💬 52 comments
+**#4. Owners mourn spoiled food after firmware update bricks Samsung smart fridges**
+- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
+- 👤 By nonfamous | 📈 67 points | 💬 53 comments
 
-**#5. Z80 REPL**
-- 🔗 [Read on HackerNews](https://abagames.github.io/z80-repl/index.html)
-- 👤 By adunk | 📈 67 points | 💬 8 comments
+**#5. Ideas on modernizing the open-source desktop**
+- 🔗 [Read on HackerNews](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+- 👤 By signa11 | 📈 242 points | 💬 285 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
