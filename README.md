@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 26, 2026
+> **Last Updated:** September 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Breaking Up with Google Play: Why Conversations Is Now Free**
-- 🔗 [Read on HackerNews](https://gultsch.de/posts/breaking-up-with-google-play/)
-- 👤 By ezst | 📈 217 points | 💬 79 comments
+**#1. Flip Fluid on Flip Dots**
+- 🔗 [Read on HackerNews](https://mitxela.com/projects/flipflip)
+- 👤 By blutack | 📈 225 points | 💬 14 comments
 
-**#2. Understanding the Impact of LLM Watermarking on AI Agent Behavior**
-- 🔗 [Read on HackerNews](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
-- 👤 By nisosguy | 📈 18 points | 💬 0 comments
+**#2. Replacing the old battery on rechargeable bike lights**
+- 🔗 [Read on HackerNews](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
+- 👤 By surprisetalk | 📈 10 points | 💬 2 comments
 
-**#3. Fifteen years later, the Apple Cards origin story**
-- 🔗 [Read on HackerNews](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
-- 👤 By ksec | 📈 117 points | 💬 12 comments
+**#3. OpenAI Feared "Optics" of what might appear on Hacker News**
+- 🔗 [Read on HackerNews](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+- 👤 By papergirl | 📈 487 points | 💬 394 comments
 
-**#4. ASML currently sells no chipmaking machines in Europe, executive says**
-- 🔗 [Read on HackerNews](https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says)
-- 👤 By doener | 📈 50 points | 💬 37 comments
+**#4. "As a Language Model": Chat Template Switches LLM Self-Referential Voice**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2609.25021)
+- 👤 By yu3zhou4 | 📈 78 points | 💬 73 comments
 
-**#5. Revealing the details of how OpenAI agents hacked Hugging Face**
-- 🔗 [Read on HackerNews](https://swarmtraces.org/)
-- 👤 By specked-citrus | 📈 549 points | 💬 348 comments
+**#5. Does Georgism work? Five years later**
+- 🔗 [Read on HackerNews](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+- 👤 By silveraxe93 | 📈 428 points | 💬 315 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
