@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 27, 2026
+> **Last Updated:** September 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Flip Fluid on Flip Dots**
-- 🔗 [Read on HackerNews](https://mitxela.com/projects/flipflip)
-- 👤 By blutack | 📈 225 points | 💬 14 comments
+**#1. Pirating the Pirates**
+- 🔗 [Read on HackerNews](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- 👤 By piotrgrabowski | 📈 88 points | 💬 17 comments
 
-**#2. Replacing the old battery on rechargeable bike lights**
-- 🔗 [Read on HackerNews](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
-- 👤 By surprisetalk | 📈 10 points | 💬 2 comments
+**#2. 13 Months Sober (2025)**
+- 🔗 [Read on HackerNews](https://www.bobbytables.io/p/13-months-sober)
+- 👤 By btables | 📈 41 points | 💬 28 comments
 
-**#3. OpenAI Feared "Optics" of what might appear on Hacker News**
-- 🔗 [Read on HackerNews](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
-- 👤 By papergirl | 📈 487 points | 💬 394 comments
+**#3. Hijacking the PS5's RTMP Stream**
+- 🔗 [Read on HackerNews](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
+- 👤 By ibobev | 📈 44 points | 💬 3 comments
 
-**#4. "As a Language Model": Chat Template Switches LLM Self-Referential Voice**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2609.25021)
-- 👤 By yu3zhou4 | 📈 78 points | 💬 73 comments
+**#4. Parley: Federated, decentralised chat that speaks plain IRC**
+- 🔗 [Read on HackerNews](https://git.mills.io/prologic/parley)
+- 👤 By davidcollantes | 📈 236 points | 💬 112 comments
 
-**#5. Does Georgism work? Five years later**
-- 🔗 [Read on HackerNews](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
-- 👤 By silveraxe93 | 📈 428 points | 💬 315 comments
+**#5. What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators**
+- 🔗 [Read on HackerNews](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
+- 👤 By bovermyer | 📈 35 points | 💬 10 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
