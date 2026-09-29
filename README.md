@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 28, 2026
+> **Last Updated:** September 29, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Pirating the Pirates**
-- 🔗 [Read on HackerNews](https://mubi.com/en/notebook/posts/pirating-the-pirates)
-- 👤 By piotrgrabowski | 📈 88 points | 💬 17 comments
+**#1. Claude partial outage**
+- 🔗 [Read on HackerNews](https://status.claude.com/incidents/4xvtc2gnq73l)
+- 👤 By sidcool | 📈 129 points | 💬 93 comments
 
-**#2. 13 Months Sober (2025)**
-- 🔗 [Read on HackerNews](https://www.bobbytables.io/p/13-months-sober)
-- 👤 By btables | 📈 41 points | 💬 28 comments
+**#2. macOS Golden Gate Is a Buggy Mess**
+- 🔗 [Read on HackerNews](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
+- 👤 By SquareOrbits | 📈 123 points | 💬 70 comments
 
-**#3. Hijacking the PS5's RTMP Stream**
-- 🔗 [Read on HackerNews](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
-- 👤 By ibobev | 📈 44 points | 💬 3 comments
+**#3. How Delhi Cut Electricity Loss from 50 to 5 Percent**
+- 🔗 [Read on HackerNews](https://spectrum.ieee.org/delhi-electricity-loss)
+- 👤 By rbanffy | 📈 204 points | 💬 125 comments
 
-**#4. Parley: Federated, decentralised chat that speaks plain IRC**
-- 🔗 [Read on HackerNews](https://git.mills.io/prologic/parley)
-- 👤 By davidcollantes | 📈 236 points | 💬 112 comments
+**#4. AI companies leak data to advertisers [pdf]**
+- 🔗 [Read on HackerNews](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
+- 👤 By damaru2 | 📈 326 points | 💬 105 comments
 
-**#5. What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators**
-- 🔗 [Read on HackerNews](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
-- 👤 By bovermyer | 📈 35 points | 💬 10 comments
+**#5. America.gov – Whatever you need from government, start here**
+- 🔗 [Read on HackerNews](https://america.gov/)
+- 👤 By plesiv | 📈 30 points | 💬 11 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
