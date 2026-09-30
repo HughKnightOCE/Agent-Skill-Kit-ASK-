@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 29, 2026
+> **Last Updated:** September 30, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Claude partial outage**
-- 🔗 [Read on HackerNews](https://status.claude.com/incidents/4xvtc2gnq73l)
-- 👤 By sidcool | 📈 129 points | 💬 93 comments
+**#1. Pi.dev: You Said No MCP**
+- 🔗 [Read on HackerNews](https://earendil.com/posts/you-said-no-mcp/)
+- 👤 By yarapavan | 📈 384 points | 💬 208 comments
 
-**#2. macOS Golden Gate Is a Buggy Mess**
-- 🔗 [Read on HackerNews](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
-- 👤 By SquareOrbits | 📈 123 points | 💬 70 comments
+**#2. SDF vs. MSDF vs. Slug: GPU Text Rendering**
+- 🔗 [Read on HackerNews](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+- 👤 By ibobev | 📈 45 points | 💬 24 comments
 
-**#3. How Delhi Cut Electricity Loss from 50 to 5 Percent**
-- 🔗 [Read on HackerNews](https://spectrum.ieee.org/delhi-electricity-loss)
-- 👤 By rbanffy | 📈 204 points | 💬 125 comments
+**#3. Show HN: JBR-001 – An open-source 3D printable desktop robot**
+- 🔗 [Read on HackerNews](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
+- 👤 By gvuksic | 📈 88 points | 💬 15 comments
 
-**#4. AI companies leak data to advertisers [pdf]**
-- 🔗 [Read on HackerNews](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
-- 👤 By damaru2 | 📈 326 points | 💬 105 comments
+**#4. Livenerf: Has Opus 5.5 been nerfed yet?**
+- 🔗 [Read on HackerNews](https://github.com/ninjahawk/livenerf)
+- 👤 By bryan0 | 📈 786 points | 💬 332 comments
 
-**#5. America.gov – Whatever you need from government, start here**
-- 🔗 [Read on HackerNews](https://america.gov/)
-- 👤 By plesiv | 📈 30 points | 💬 11 comments
+**#5. I Could've Accessed 17T Microsoft Records**
+- 🔗 [Read on HackerNews](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)
+- 👤 By luispa | 📈 31 points | 💬 6 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
