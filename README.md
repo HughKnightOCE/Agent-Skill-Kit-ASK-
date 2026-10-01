@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** September 30, 2026
+> **Last Updated:** October 01, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Pi.dev: You Said No MCP**
-- 🔗 [Read on HackerNews](https://earendil.com/posts/you-said-no-mcp/)
-- 👤 By yarapavan | 📈 384 points | 💬 208 comments
+**#1. StreetComplete on iOS is now in public beta**
+- 🔗 [Read on HackerNews](https://github.com/streetcomplete/StreetComplete/issues/5421)
+- 👤 By Snowly | 📈 349 points | 💬 71 comments
 
-**#2. SDF vs. MSDF vs. Slug: GPU Text Rendering**
-- 🔗 [Read on HackerNews](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
-- 👤 By ibobev | 📈 45 points | 💬 24 comments
+**#2. How to speed up the Rust compiler in September 2026**
+- 🔗 [Read on HackerNews](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
+- 👤 By trickypr | 📈 133 points | 💬 68 comments
 
-**#3. Show HN: JBR-001 – An open-source 3D printable desktop robot**
-- 🔗 [Read on HackerNews](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
-- 👤 By gvuksic | 📈 88 points | 💬 15 comments
+**#3. OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)**
+- 🔗 [Read on HackerNews](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
+- 👤 By cgeier | 📈 25 points | 💬 6 comments
 
-**#4. Livenerf: Has Opus 5.5 been nerfed yet?**
-- 🔗 [Read on HackerNews](https://github.com/ninjahawk/livenerf)
-- 👤 By bryan0 | 📈 786 points | 💬 332 comments
+**#4. Polyedergarten: Garden of Paper Polyhedron Models**
+- 🔗 [Read on HackerNews](https://www.polyedergarten.de/e_index.htm)
+- 👤 By isaacimagine | 📈 15 points | 💬 1 comments
 
-**#5. I Could've Accessed 17T Microsoft Records**
-- 🔗 [Read on HackerNews](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)
-- 👤 By luispa | 📈 31 points | 💬 6 comments
+**#5. RacketCon Is Saturday**
+- 🔗 [Read on HackerNews](https://con.racket-lang.org/)
+- 👤 By spdegabrielle | 📈 25 points | 💬 8 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
