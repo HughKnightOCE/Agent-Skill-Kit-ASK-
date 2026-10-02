@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 01, 2026
+> **Last Updated:** October 02, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. StreetComplete on iOS is now in public beta**
-- 🔗 [Read on HackerNews](https://github.com/streetcomplete/StreetComplete/issues/5421)
-- 👤 By Snowly | 📈 349 points | 💬 71 comments
+**#1. Big Tech ruined the cloud, so we're renaming ours**
+- 🔗 [Read on HackerNews](https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/)
+- 👤 By 2sf5 | 📈 62 points | 💬 3 comments
 
-**#2. How to speed up the Rust compiler in September 2026**
-- 🔗 [Read on HackerNews](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
-- 👤 By trickypr | 📈 133 points | 💬 68 comments
+**#2. The Legend of von Neumann [pdf]**
+- 🔗 [Read on HackerNews](https://gwern.net/doc/math/1973-halmos.pdf)
+- 👤 By suopspaces | 📈 89 points | 💬 48 comments
 
-**#3. OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)**
-- 🔗 [Read on HackerNews](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
-- 👤 By cgeier | 📈 25 points | 💬 6 comments
+**#3. AI Makes Me Sad**
+- 🔗 [Read on HackerNews](https://mondobe.com/ai-makes-me-sad)
+- 👤 By mondobe | 📈 22 points | 💬 0 comments
 
-**#4. Polyedergarten: Garden of Paper Polyhedron Models**
-- 🔗 [Read on HackerNews](https://www.polyedergarten.de/e_index.htm)
-- 👤 By isaacimagine | 📈 15 points | 💬 1 comments
+**#4. Pi 1.0**
+- 🔗 [Read on HackerNews](https://earendil.com/posts/pi-1-0/)
+- 👤 By sergiotapia | 📈 1564 points | 💬 524 comments
 
-**#5. RacketCon Is Saturday**
-- 🔗 [Read on HackerNews](https://con.racket-lang.org/)
-- 👤 By spdegabrielle | 📈 25 points | 💬 8 comments
+**#5. Giving friends custom text buzzes based on Morse code**
+- 🔗 [Read on HackerNews](https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/)
+- 👤 By evakhoury | 📈 14 points | 💬 0 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
