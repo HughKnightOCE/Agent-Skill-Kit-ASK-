@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 02, 2026
+> **Last Updated:** October 03, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Big Tech ruined the cloud, so we're renaming ours**
-- 🔗 [Read on HackerNews](https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/)
-- 👤 By 2sf5 | 📈 62 points | 💬 3 comments
+**#1. The Escalation of War in Ethiopia**
+- 🔗 [Read on HackerNews](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
+- 👤 By mooreds | 📈 55 points | 💬 26 comments
 
-**#2. The Legend of von Neumann [pdf]**
-- 🔗 [Read on HackerNews](https://gwern.net/doc/math/1973-halmos.pdf)
-- 👤 By suopspaces | 📈 89 points | 💬 48 comments
+**#2. C++ Insights – See your source code with the eyes of a Compiler**
+- 🔗 [Read on HackerNews](https://github.com/andreasfertig/cppinsights)
+- 👤 By rramadass | 📈 32 points | 💬 2 comments
 
-**#3. AI Makes Me Sad**
-- 🔗 [Read on HackerNews](https://mondobe.com/ai-makes-me-sad)
-- 👤 By mondobe | 📈 22 points | 💬 0 comments
+**#3. Show HN: Germany's new sovereign AI model Kolibri**
+- 🔗 [Read on HackerNews](https://tej.as/blog/aleph-alpha-kolibri)
+- 👤 By tejaskumar__ | 📈 89 points | 💬 63 comments
 
-**#4. Pi 1.0**
-- 🔗 [Read on HackerNews](https://earendil.com/posts/pi-1-0/)
-- 👤 By sergiotapia | 📈 1564 points | 💬 524 comments
+**#4. Newgrounds.com – A community of games, music, and art**
+- 🔗 [Read on HackerNews](https://www.newgrounds.com/)
+- 👤 By azhenley | 📈 318 points | 💬 90 comments
 
-**#5. Giving friends custom text buzzes based on Morse code**
-- 🔗 [Read on HackerNews](https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/)
-- 👤 By evakhoury | 📈 14 points | 💬 0 comments
+**#5. Court agrees with EFF: Utah's VPN law demands a technical impossibility**
+- 🔗 [Read on HackerNews](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- 👤 By hn_acker | 📈 692 points | 💬 329 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
