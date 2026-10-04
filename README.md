@@ -13,33 +13,30 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 03, 2026
+> **Last Updated:** October 04, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The Escalation of War in Ethiopia**
-- 🔗 [Read on HackerNews](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
-- 👤 By mooreds | 📈 55 points | 💬 26 comments
+**#1. Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s**
+- 🔗 [Read on HackerNews](https://github.com/Niko1221/Strata)
+- 👤 By snehesht | 📈 137 points | 💬 51 comments
 
-**#2. C++ Insights – See your source code with the eyes of a Compiler**
-- 🔗 [Read on HackerNews](https://github.com/andreasfertig/cppinsights)
-- 👤 By rramadass | 📈 32 points | 💬 2 comments
+**#2. Glashütte Trash Clock – A 30-minute pendulum clock made from trash**
+- 🔗 [Read on HackerNews](https://niklasroy.com/gtc/)
+- 👤 By r0r0 | 📈 48 points | 💬 7 comments
 
-**#3. Show HN: Germany's new sovereign AI model Kolibri**
-- 🔗 [Read on HackerNews](https://tej.as/blog/aleph-alpha-kolibri)
-- 👤 By tejaskumar__ | 📈 89 points | 💬 63 comments
+**#3. VGHF Digital Archive passes 5000 magazines. Here's what's next**
+- 🔗 [Read on HackerNews](https://gamehistory.org/5k-magazines/)
+- 👤 By rdmuser | 📈 60 points | 💬 8 comments
 
-**#4. Newgrounds.com – A community of games, music, and art**
-- 🔗 [Read on HackerNews](https://www.newgrounds.com/)
-- 👤 By azhenley | 📈 318 points | 💬 90 comments
-
-**#5. Court agrees with EFF: Utah's VPN law demands a technical impossibility**
-- 🔗 [Read on HackerNews](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-- 👤 By hn_acker | 📈 692 points | 💬 329 comments
+**#5. Show HN: AI search for every photo and every frame of video on macOS**
+- 🔗 [Read on HackerNews](https://github.com/allenv0/SCM)
+- 👤 By allenleee | 📈 38 points | 💬 18 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
