@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 08, 2026
+> **Last Updated:** October 09, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. New gTLD Application for .lan**
-- 🔗 [Read on HackerNews](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
-- 👤 By mzajc | 📈 29 points | 💬 18 comments
+**#1. Deno Is Joining Cloudflare**
+- 🔗 [Read on HackerNews](https://deno.com/blog/cloudflare)
+- 👤 By ilreb | 📈 521 points | 💬 277 comments
 
-**#2. Beauty in DVD Menus**
-- 🔗 [Read on HackerNews](https://vale.rocks/posts/dvd-menus)
-- 👤 By speckx | 📈 122 points | 💬 81 comments
+**#2. Our $445M Series D**
+- 🔗 [Read on HackerNews](https://oxide.computer/blog/our-445m-series-d)
+- 👤 By ahlCVA | 📈 280 points | 💬 100 comments
 
-**#3. “Math 2.0” will need to value mathematical progress more holistically**
-- 🔗 [Read on HackerNews](https://mathstodon.xyz/@tao/117395269325940185)
-- 👤 By ent101 | 📈 510 points | 💬 508 comments
+**#3. Let your AI agents paint big arrows, boxes and text on your screen**
+- 🔗 [Read on HackerNews](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+- 👤 By franze | 📈 238 points | 💬 95 comments
 
-**#4. The Slow Formation of Durable Software**
-- 🔗 [Read on HackerNews](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
-- 👤 By benbreen | 📈 157 points | 💬 51 comments
+**#4. I'm in a Meeting**
+- 🔗 [Read on HackerNews](https://iminafleeting.com/)
+- 👤 By splintersio | 📈 343 points | 💬 129 comments
 
-**#5. Telnet BBS Guide**
-- 🔗 [Read on HackerNews](https://www.telnetbbsguide.com/)
-- 👤 By kmstout | 📈 63 points | 💬 24 comments
+**#5. Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay**
+- 🔗 [Read on HackerNews](https://www.nobelprize.org/prizes/peace/2026/press-release/)
+- 👤 By Anon84 | 📈 261 points | 💬 143 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
