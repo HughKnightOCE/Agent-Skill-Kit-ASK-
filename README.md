@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 09, 2026
+> **Last Updated:** October 10, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Deno Is Joining Cloudflare**
-- 🔗 [Read on HackerNews](https://deno.com/blog/cloudflare)
-- 👤 By ilreb | 📈 521 points | 💬 277 comments
+**#1. Bitwarden Dual License Model**
+- 🔗 [Read on HackerNews](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
+- 👤 By Cider9986 | 📈 48 points | 💬 10 comments
 
-**#2. Our $445M Series D**
-- 🔗 [Read on HackerNews](https://oxide.computer/blog/our-445m-series-d)
-- 👤 By ahlCVA | 📈 280 points | 💬 100 comments
+**#2. `123456' password used in Danish CPR data breach**
+- 🔗 [Read on HackerNews](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
+- 👤 By baal80spam | 📈 284 points | 💬 161 comments
 
-**#3. Let your AI agents paint big arrows, boxes and text on your screen**
-- 🔗 [Read on HackerNews](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
-- 👤 By franze | 📈 238 points | 💬 95 comments
+**#3. Lobbying Is Corruption**
+- 🔗 [Read on HackerNews](https://carette.xyz/posts/lobbying_and_corruption/)
+- 👤 By LucidLynx | 📈 293 points | 💬 139 comments
 
-**#4. I'm in a Meeting**
-- 🔗 [Read on HackerNews](https://iminafleeting.com/)
-- 👤 By splintersio | 📈 343 points | 💬 129 comments
+**#4. Talorys – A self-hosted personal AI agent on Cloudflare's free tier**
+- 🔗 [Read on HackerNews](https://github.com/rociiu/talorys)
+- 👤 By rociiu | 📈 106 points | 💬 49 comments
 
-**#5. Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay**
-- 🔗 [Read on HackerNews](https://www.nobelprize.org/prizes/peace/2026/press-release/)
-- 👤 By Anon84 | 📈 261 points | 💬 143 comments
+**#5. REA Reverse – Engineer Anything**
+- 🔗 [Read on HackerNews](https://rea.tools/)
+- 👤 By modinfo | 📈 540 points | 💬 235 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
