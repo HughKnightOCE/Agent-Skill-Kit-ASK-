@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 10, 2026
+> **Last Updated:** October 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Bitwarden Dual License Model**
-- 🔗 [Read on HackerNews](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
-- 👤 By Cider9986 | 📈 48 points | 💬 10 comments
+**#1. Internal files add to evidence of an ExxonMobil climate deception campaign**
+- 🔗 [Read on HackerNews](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
+- 👤 By gumby | 📈 135 points | 💬 67 comments
 
-**#2. `123456' password used in Danish CPR data breach**
-- 🔗 [Read on HackerNews](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
-- 👤 By baal80spam | 📈 284 points | 💬 161 comments
+**#2. I paid people to try and follow my README**
+- 🔗 [Read on HackerNews](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+- 👤 By edent | 📈 176 points | 💬 100 comments
 
-**#3. Lobbying Is Corruption**
-- 🔗 [Read on HackerNews](https://carette.xyz/posts/lobbying_and_corruption/)
-- 👤 By LucidLynx | 📈 293 points | 💬 139 comments
+**#3. LineageOS 24.0**
+- 🔗 [Read on HackerNews](https://lineageos.org/Changelog-32/)
+- 👤 By timschumi | 📈 261 points | 💬 85 comments
 
-**#4. Talorys – A self-hosted personal AI agent on Cloudflare's free tier**
-- 🔗 [Read on HackerNews](https://github.com/rociiu/talorys)
-- 👤 By rociiu | 📈 106 points | 💬 49 comments
+**#4. Valen's Memory Safety: A New Kind of Borrow Checking**
+- 🔗 [Read on HackerNews](https://verdagon.dev/blog/valen-group-borrowing)
+- 👤 By verdagon | 📈 47 points | 💬 21 comments
 
-**#5. REA Reverse – Engineer Anything**
-- 🔗 [Read on HackerNews](https://rea.tools/)
-- 👤 By modinfo | 📈 540 points | 💬 235 comments
+**#5. The tilde in your PATH may not be your HOME**
+- 🔗 [Read on HackerNews](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+- 👤 By arusekk | 📈 74 points | 💬 45 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
