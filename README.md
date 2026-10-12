@@ -13,33 +13,30 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 11, 2026
+> **Last Updated:** October 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Internal files add to evidence of an ExxonMobil climate deception campaign**
-- 🔗 [Read on HackerNews](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
-- 👤 By gumby | 📈 135 points | 💬 67 comments
+**#1. GLM-Legal**
+- 🔗 [Read on HackerNews](https://z.ai/blog/glm-legal)
+- 👤 By ilreb | 📈 242 points | 💬 144 comments
 
-**#2. I paid people to try and follow my README**
-- 🔗 [Read on HackerNews](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
-- 👤 By edent | 📈 176 points | 💬 100 comments
+**#2. Codex CLI installs a persistent, self-updating background daemon by default**
+- 🔗 [Read on HackerNews](https://github.com/openai/codex/issues/48195)
+- 👤 By whimblepop | 📈 23 points | 💬 6 comments
 
-**#3. LineageOS 24.0**
-- 🔗 [Read on HackerNews](https://lineageos.org/Changelog-32/)
-- 👤 By timschumi | 📈 261 points | 💬 85 comments
+**#3. A Modern Web App in C**
+- 🔗 [Read on HackerNews](https://prophitt.me/writing/a-modern-web-app-in-c)
+- 👤 By prophittcorey | 📈 163 points | 💬 69 comments
 
-**#4. Valen's Memory Safety: A New Kind of Borrow Checking**
-- 🔗 [Read on HackerNews](https://verdagon.dev/blog/valen-group-borrowing)
-- 👤 By verdagon | 📈 47 points | 💬 21 comments
-
-**#5. The tilde in your PATH may not be your HOME**
-- 🔗 [Read on HackerNews](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
-- 👤 By arusekk | 📈 74 points | 💬 45 comments
+**#5. AI coding agents generate more code, but not more software**
+- 🔗 [Read on HackerNews](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
+- 👤 By gumby | 📈 91 points | 💬 67 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
