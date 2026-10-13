@@ -13,29 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 12, 2026
+> **Last Updated:** October 13, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GLM-Legal**
-- 🔗 [Read on HackerNews](https://z.ai/blog/glm-legal)
-- 👤 By ilreb | 📈 242 points | 💬 144 comments
+**#1. Gemini 4 Argon**
+- 🔗 [Read on HackerNews](https://deepmind.google/models/gemini/)
+- 👤 By 737max | 📈 215 points | 💬 172 comments
 
-**#2. Codex CLI installs a persistent, self-updating background daemon by default**
-- 🔗 [Read on HackerNews](https://github.com/openai/codex/issues/48195)
-- 👤 By whimblepop | 📈 23 points | 💬 6 comments
+**#2. Apple HomeView**
+- 🔗 [Read on HackerNews](https://www.apple.com/apple-homeview/)
+- 👤 By etothet | 📈 389 points | 💬 496 comments
 
-**#3. A Modern Web App in C**
-- 🔗 [Read on HackerNews](https://prophitt.me/writing/a-modern-web-app-in-c)
-- 👤 By prophittcorey | 📈 163 points | 💬 69 comments
+**#3. Thunderbird for iOS**
+- 🔗 [Read on HackerNews](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
+- 👤 By mjorgers | 📈 87 points | 💬 25 comments
 
-**#5. AI coding agents generate more code, but not more software**
-- 🔗 [Read on HackerNews](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
-- 👤 By gumby | 📈 91 points | 💬 67 comments
+**#4. 11 year old unsoundness bugs found in Rust borrow checker**
+- 🔗 [Read on HackerNews](https://github.com/rust-lang/rust/issues/164250)
+- 👤 By formerly_proven | 📈 504 points | 💬 287 comments
+
+**#5. We turned EmbeddingGemma 2 into a speech-to-text model**
+- 🔗 [Read on HackerNews](https://eg2.haku.sh/)
+- 👤 By amrrs | 📈 290 points | 💬 68 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
