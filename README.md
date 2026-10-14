@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 13, 2026
+> **Last Updated:** October 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Gemini 4 Argon**
-- 🔗 [Read on HackerNews](https://deepmind.google/models/gemini/)
-- 👤 By 737max | 📈 215 points | 💬 172 comments
+**#1. Iosevka is an open-source, sans-serif and slab-serif, monospace font**
+- 🔗 [Read on HackerNews](https://typeof.net/Iosevka/)
+- 👤 By otobrglez | 📈 361 points | 💬 125 comments
 
-**#2. Apple HomeView**
-- 🔗 [Read on HackerNews](https://www.apple.com/apple-homeview/)
-- 👤 By etothet | 📈 389 points | 💬 496 comments
+**#2. Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW**
+- 🔗 [Read on HackerNews](https://github.com/timescale/pg_vectorsearch)
+- 👤 By jascha_eng | 📈 81 points | 💬 28 comments
 
-**#3. Thunderbird for iOS**
-- 🔗 [Read on HackerNews](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
-- 👤 By mjorgers | 📈 87 points | 💬 25 comments
+**#3. Pulsar at ESUG 2026 (new Smalltalk IDE)**
+- 🔗 [Read on HackerNews](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
+- 👤 By mpweiher | 📈 47 points | 💬 5 comments
 
-**#4. 11 year old unsoundness bugs found in Rust borrow checker**
-- 🔗 [Read on HackerNews](https://github.com/rust-lang/rust/issues/164250)
-- 👤 By formerly_proven | 📈 504 points | 💬 287 comments
+**#4. Amazon pushes up prices across the Internet**
+- 🔗 [Read on HackerNews](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
+- 👤 By sighborg | 📈 271 points | 💬 264 comments
 
-**#5. We turned EmbeddingGemma 2 into a speech-to-text model**
-- 🔗 [Read on HackerNews](https://eg2.haku.sh/)
-- 👤 By amrrs | 📈 290 points | 💬 68 comments
+**#5. Sound – Bartosz Ciechanowski (2022)**
+- 🔗 [Read on HackerNews](https://ciechanow.ski/sound/)
+- 👤 By dverlaeckt80 | 📈 192 points | 💬 22 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
