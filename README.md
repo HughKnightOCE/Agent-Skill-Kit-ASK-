@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 14, 2026
+> **Last Updated:** October 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Iosevka is an open-source, sans-serif and slab-serif, monospace font**
-- 🔗 [Read on HackerNews](https://typeof.net/Iosevka/)
-- 👤 By otobrglez | 📈 361 points | 💬 125 comments
+**#1. Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support**
+- 🔗 [Read on HackerNews](https://libreboot.org/news/libreboot2610.html)
+- 👤 By iamnothere | 📈 72 points | 💬 26 comments
 
-**#2. Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW**
-- 🔗 [Read on HackerNews](https://github.com/timescale/pg_vectorsearch)
-- 👤 By jascha_eng | 📈 81 points | 💬 28 comments
+**#2. Israeli firm's digital ads enabling installation of 'zero-click' spyware**
+- 🔗 [Read on HackerNews](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
+- 👤 By chunkyslink | 📈 140 points | 💬 40 comments
 
-**#3. Pulsar at ESUG 2026 (new Smalltalk IDE)**
-- 🔗 [Read on HackerNews](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
-- 👤 By mpweiher | 📈 47 points | 💬 5 comments
+**#3. C++26 Contracts: Introduction to Preconditions and Postconditions**
+- 🔗 [Read on HackerNews](https://www.cppstories.com/2026/cpp26_contracts/)
+- 👤 By ibobev | 📈 12 points | 💬 3 comments
 
-**#4. Amazon pushes up prices across the Internet**
-- 🔗 [Read on HackerNews](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
-- 👤 By sighborg | 📈 271 points | 💬 264 comments
+**#4. Things to know when you get cancer**
+- 🔗 [Read on HackerNews](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- 👤 By jjmaxwell4 | 📈 1656 points | 💬 395 comments
 
-**#5. Sound – Bartosz Ciechanowski (2022)**
-- 🔗 [Read on HackerNews](https://ciechanow.ski/sound/)
-- 👤 By dverlaeckt80 | 📈 192 points | 💬 22 comments
+**#5. Wanted to download an ISO, ended up writing a kernel exploit**
+- 🔗 [Read on HackerNews](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+- 👤 By 0xdeafbeef | 📈 222 points | 💬 109 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
