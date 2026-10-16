@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 15, 2026
+> **Last Updated:** October 16, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support**
-- 🔗 [Read on HackerNews](https://libreboot.org/news/libreboot2610.html)
-- 👤 By iamnothere | 📈 72 points | 💬 26 comments
+**#1. I Love Software Rendering**
+- 🔗 [Read on HackerNews](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+- 👤 By speckx | 📈 59 points | 💬 31 comments
 
-**#2. Israeli firm's digital ads enabling installation of 'zero-click' spyware**
-- 🔗 [Read on HackerNews](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
-- 👤 By chunkyslink | 📈 140 points | 💬 40 comments
+**#2. Yet another way to invoke functions without parentheses**
+- 🔗 [Read on HackerNews](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
+- 👤 By aragonite | 📈 146 points | 💬 48 comments
 
-**#3. C++26 Contracts: Introduction to Preconditions and Postconditions**
-- 🔗 [Read on HackerNews](https://www.cppstories.com/2026/cpp26_contracts/)
-- 👤 By ibobev | 📈 12 points | 💬 3 comments
+**#3. Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]**
+- 🔗 [Read on HackerNews](https://www.youtube.com/watch?v=sjNpfz4UzqU)
+- 👤 By johnnyApplePRNG | 📈 554 points | 💬 170 comments
 
-**#4. Things to know when you get cancer**
-- 🔗 [Read on HackerNews](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
-- 👤 By jjmaxwell4 | 📈 1656 points | 💬 395 comments
+**#4. The Economic Complexity of the Western Roman Empire**
+- 🔗 [Read on HackerNews](https://www.michelecoscia.com/?p=2613)
+- 👤 By mikk14 | 📈 79 points | 💬 13 comments
 
-**#5. Wanted to download an ISO, ended up writing a kernel exploit**
-- 🔗 [Read on HackerNews](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
-- 👤 By 0xdeafbeef | 📈 222 points | 💬 109 comments
+**#5. Meta’s new commercial terms will allow the scraping of news sites: experts**
+- 🔗 [Read on HackerNews](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- 👤 By 0in | 📈 384 points | 💬 136 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
