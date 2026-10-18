@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 17, 2026
+> **Last Updated:** October 18, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. DeepSeek: DeepSeek v4.1 Flash 1017**
-- 🔗 [Read on HackerNews](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
-- 👤 By theanonymousone | 📈 281 points | 💬 106 comments
+**#1. DeepSeek search and fetch – $0.75 per 1000 successful requests**
+- 🔗 [Read on HackerNews](https://api-docs.deepseek.com/guides/search/)
+- 👤 By fagnerbrack | 📈 295 points | 💬 137 comments
 
-**#2. Super Intelligence**
-- 🔗 [Read on HackerNews](https://www.si.gov/)
-- 👤 By wiradikusuma | 📈 9 points | 💬 1 comments
+**#2. Legal experts warn Meta's new terms still grant broad scraping permissions**
+- 🔗 [Read on HackerNews](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
+- 👤 By DeepLogin | 📈 34 points | 💬 10 comments
 
-**#3. Ultramarine 1 Flash**
-- 🔗 [Read on HackerNews](https://www.paperinstruments.com/ultramarine)
-- 👤 By i_rush_carriers | 📈 279 points | 💬 90 comments
+**#3. Open MicroManipulator – A sub-micrometer 3D motion control plattform**
+- 🔗 [Read on HackerNews](https://github.com/0x23/MicroManipulatorStepper)
+- 👤 By _Microft | 📈 27 points | 💬 3 comments
 
-**#4. Tesla Roadster**
-- 🔗 [Read on HackerNews](https://www.tesla.com/roadster)
-- 👤 By shekhar101 | 📈 1477 points | 💬 2650 comments
+**#4. Parser Combinators**
+- 🔗 [Read on HackerNews](https://t3.at/blog/2026-10-17-parser-combinators/)
+- 👤 By schindlabua | 📈 68 points | 💬 36 comments
 
-**#5. Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware**
-- 🔗 [Read on HackerNews](https://llmspeed.dev/)
-- 👤 By albinstman | 📈 118 points | 💬 41 comments
+**#5. How the Elizabeth Holmes documentary “You Can See Everything” is deceiving**
+- 🔗 [Read on HackerNews](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
+- 👤 By MaysonL | 📈 194 points | 💬 223 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
