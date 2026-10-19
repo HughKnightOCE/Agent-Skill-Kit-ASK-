@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 18, 2026
+> **Last Updated:** October 19, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. DeepSeek search and fetch – $0.75 per 1000 successful requests**
-- 🔗 [Read on HackerNews](https://api-docs.deepseek.com/guides/search/)
-- 👤 By fagnerbrack | 📈 295 points | 💬 137 comments
+**#1. Wine Ported to OpenBSD**
+- 🔗 [Read on HackerNews](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- 👤 By iamnothere | 📈 210 points | 💬 55 comments
 
-**#2. Legal experts warn Meta's new terms still grant broad scraping permissions**
-- 🔗 [Read on HackerNews](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
-- 👤 By DeepLogin | 📈 34 points | 💬 10 comments
+**#2. Another day another GitHub incident**
+- 🔗 [Read on HackerNews](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
+- 👤 By gateauxd | 📈 31 points | 💬 4 comments
 
-**#3. Open MicroManipulator – A sub-micrometer 3D motion control plattform**
-- 🔗 [Read on HackerNews](https://github.com/0x23/MicroManipulatorStepper)
-- 👤 By _Microft | 📈 27 points | 💬 3 comments
+**#3. Timestral: Mistral release time-series foundation models**
+- 🔗 [Read on HackerNews](https://mistral.ai/news/timestral/)
+- 👤 By groar | 📈 326 points | 💬 52 comments
 
-**#4. Parser Combinators**
-- 🔗 [Read on HackerNews](https://t3.at/blog/2026-10-17-parser-combinators/)
-- 👤 By schindlabua | 📈 68 points | 💬 36 comments
+**#4. Linux 7.3**
+- 🔗 [Read on HackerNews](https://lwn.net/Articles/1101143/)
+- 👤 By cjd8 | 📈 501 points | 💬 219 comments
 
-**#5. How the Elizabeth Holmes documentary “You Can See Everything” is deceiving**
-- 🔗 [Read on HackerNews](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
-- 👤 By MaysonL | 📈 194 points | 💬 223 comments
+**#5. Alternatives to Animal Testing Are Finally Taking Off**
+- 🔗 [Read on HackerNews](https://spectrum.ieee.org/alternatives-to-animal-testing)
+- 👤 By rbanffy | 📈 155 points | 💬 44 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
