@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 19, 2026
+> **Last Updated:** October 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Wine Ported to OpenBSD**
-- 🔗 [Read on HackerNews](https://marc.info/?l=openbsd-ports&m=179236125692175)
-- 👤 By iamnothere | 📈 210 points | 💬 55 comments
+**#1. DeepSeek just open-sourced its inference engine**
+- 🔗 [Read on HackerNews](https://github.com/deepseek-ai/DeepInfer)
+- 👤 By ggcr | 📈 1147 points | 💬 397 comments
 
-**#2. Another day another GitHub incident**
-- 🔗 [Read on HackerNews](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
-- 👤 By gateauxd | 📈 31 points | 💬 4 comments
+**#2. Apple broke an essential presentation feature of iPads**
+- 🔗 [Read on HackerNews](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+- 👤 By evanb | 📈 103 points | 💬 40 comments
 
-**#3. Timestral: Mistral release time-series foundation models**
-- 🔗 [Read on HackerNews](https://mistral.ai/news/timestral/)
-- 👤 By groar | 📈 326 points | 💬 52 comments
+**#3. NixOS is making me less afraid**
+- 🔗 [Read on HackerNews](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
+- 👤 By ibobev | 📈 52 points | 💬 14 comments
 
-**#4. Linux 7.3**
-- 🔗 [Read on HackerNews](https://lwn.net/Articles/1101143/)
-- 👤 By cjd8 | 📈 501 points | 💬 219 comments
+**#4. Publish fake stats, get cited in LLMs**
+- 🔗 [Read on HackerNews](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
+- 👤 By robtherobber | 📈 35 points | 💬 19 comments
 
-**#5. Alternatives to Animal Testing Are Finally Taking Off**
-- 🔗 [Read on HackerNews](https://spectrum.ieee.org/alternatives-to-animal-testing)
-- 👤 By rbanffy | 📈 155 points | 💬 44 comments
+**#5. MicroG: Free-libre re-implementation of Google's proprietary Android user space**
+- 🔗 [Read on HackerNews](https://github.com/microg/GmsCore/wiki)
+- 👤 By theanonymousone | 📈 218 points | 💬 19 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
