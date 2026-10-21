@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 20, 2026
+> **Last Updated:** October 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. DeepSeek just open-sourced its inference engine**
-- 🔗 [Read on HackerNews](https://github.com/deepseek-ai/DeepInfer)
-- 👤 By ggcr | 📈 1147 points | 💬 397 comments
+**#1. Updated PHP version released to GitHub**
+- 🔗 [Read on HackerNews](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- 👤 By tuyuri | 📈 214 points | 💬 76 comments
 
-**#2. Apple broke an essential presentation feature of iPads**
-- 🔗 [Read on HackerNews](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
-- 👤 By evanb | 📈 103 points | 💬 40 comments
+**#2. PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out**
+- 🔗 [Read on HackerNews](https://www.php.net/index.php)
+- 👤 By timvdalen | 📈 181 points | 💬 46 comments
 
-**#3. NixOS is making me less afraid**
-- 🔗 [Read on HackerNews](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
-- 👤 By ibobev | 📈 52 points | 💬 14 comments
+**#3. PHP2Shell: AI uncovers critical RCE in PHP**
+- 🔗 [Read on HackerNews](https://www.wiz.io/blog/php2shell-php-rce)
+- 👤 By danlark1 | 📈 71 points | 💬 15 comments
 
-**#4. Publish fake stats, get cited in LLMs**
-- 🔗 [Read on HackerNews](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
-- 👤 By robtherobber | 📈 35 points | 💬 19 comments
+**#4. Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds**
+- 🔗 [Read on HackerNews](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+- 👤 By hkc | 📈 458 points | 💬 209 comments
 
-**#5. MicroG: Free-libre re-implementation of Google's proprietary Android user space**
-- 🔗 [Read on HackerNews](https://github.com/microg/GmsCore/wiki)
-- 👤 By theanonymousone | 📈 218 points | 💬 19 comments
+**#5. Most advice is right for the person giving it**
+- 🔗 [Read on HackerNews](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
+- 👤 By rohanm93 | 📈 46 points | 💬 26 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
