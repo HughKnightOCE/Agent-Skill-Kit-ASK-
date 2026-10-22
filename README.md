@@ -13,33 +13,30 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 21, 2026
+> **Last Updated:** October 22, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Updated PHP version released to GitHub**
-- 🔗 [Read on HackerNews](https://github.com/php/php-src/releases/tag/php-8.2.35)
-- 👤 By tuyuri | 📈 214 points | 💬 76 comments
+**#1. CVE-2026-111943: Compromised Intermediate Certificate Authority**
+- 🔗 [Read on HackerNews](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
+- 👤 By keks24 | 📈 317 points | 💬 105 comments
 
-**#2. PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out**
-- 🔗 [Read on HackerNews](https://www.php.net/index.php)
-- 👤 By timvdalen | 📈 181 points | 💬 46 comments
+**#2. What Is Gridifcation**
+- 🔗 [Read on HackerNews](https://musicalform.substack.com/p/what-is-gridifcation)
+- 👤 By gumby | 📈 132 points | 💬 40 comments
 
-**#3. PHP2Shell: AI uncovers critical RCE in PHP**
-- 🔗 [Read on HackerNews](https://www.wiz.io/blog/php2shell-php-rce)
-- 👤 By danlark1 | 📈 71 points | 💬 15 comments
+**#3. Crystal 1.22.0 Is Released**
+- 🔗 [Read on HackerNews](https://crystal-lang.org/2026/10/12/1.22.0-released/)
+- 👤 By ksec | 📈 29 points | 💬 4 comments
 
-**#4. Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds**
-- 🔗 [Read on HackerNews](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-- 👤 By hkc | 📈 458 points | 💬 209 comments
-
-**#5. Most advice is right for the person giving it**
-- 🔗 [Read on HackerNews](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
-- 👤 By rohanm93 | 📈 46 points | 💬 26 comments
+**#4. Jailbreaking the Switch 2**
+- 🔗 [Read on HackerNews](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
+- 👤 By ledoge | 📈 330 points | 💬 120 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
