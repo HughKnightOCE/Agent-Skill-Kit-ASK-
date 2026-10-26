@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 25, 2026
+> **Last Updated:** October 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism**
-- 🔗 [Read on HackerNews](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
-- 👤 By vrganj | 📈 387 points | 💬 233 comments
+**#1. Sebastian Raschka's from-scratch video course on building reasoning models**
+- 🔗 [Read on HackerNews](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- 👤 By sgiannopoulos | 📈 33 points | 💬 2 comments
 
-**#2. fheroes2: A recreation of Heroes of Might and Magic II game engine**
-- 🔗 [Read on HackerNews](https://github.com/ihhub/fheroes2)
-- 👤 By tosh | 📈 69 points | 💬 22 comments
+**#2. Fixing Tool-Call Accuracy in vLLM**
+- 🔗 [Read on HackerNews](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
+- 👤 By coffeemug | 📈 93 points | 💬 44 comments
 
-**#3. Tool book of a Nuremberg knight from 1505**
-- 🔗 [Read on HackerNews](https://loeffelholz-codex.org/en/)
-- 👤 By edwardog | 📈 15 points | 💬 0 comments
+**#3. Pharo 14**
+- 🔗 [Read on HackerNews](https://pharo.org/news/2026-10-26-Pharo14Release.html)
+- 👤 By xkriva11 | 📈 89 points | 💬 21 comments
 
-**#4. Challenge Is Gone**
-- 🔗 [Read on HackerNews](https://blog.alxgsv.com/challenge-is-gone/)
-- 👤 By alxgsv | 📈 5 points | 💬 0 comments
+**#4. One of the Greatest Inventions in the History of Human Transport**
+- 🔗 [Read on HackerNews](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
+- 👤 By skadamat | 📈 130 points | 💬 44 comments
 
-**#5. We should be more ambitious with the software we build**
-- 🔗 [Read on HackerNews](https://danluu.com/ambitious/)
-- 👤 By ltratt | 📈 523 points | 💬 466 comments
+**#5. Birdwatching rewires the brain and slows cognitive decline**
+- 🔗 [Read on HackerNews](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+- 👤 By cisc | 📈 323 points | 💬 136 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
