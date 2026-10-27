@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 26, 2026
+> **Last Updated:** October 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Sebastian Raschka's from-scratch video course on building reasoning models**
-- 🔗 [Read on HackerNews](https://magazine.sebastianraschka.com/p/building-reasoning-models)
-- 👤 By sgiannopoulos | 📈 33 points | 💬 2 comments
+**#1. PHP2Shell: Exploitation Attempts and Remediation Trends**
+- 🔗 [Read on HackerNews](https://www.wiz.io/blog/php2shell-exploitation-so-far)
+- 👤 By acossta | 📈 82 points | 💬 25 comments
 
-**#2. Fixing Tool-Call Accuracy in vLLM**
-- 🔗 [Read on HackerNews](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
-- 👤 By coffeemug | 📈 93 points | 💬 44 comments
+**#2. Python's experimental JIT to be removed**
+- 🔗 [Read on HackerNews](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+- 👤 By f311a | 📈 200 points | 💬 110 comments
 
-**#3. Pharo 14**
-- 🔗 [Read on HackerNews](https://pharo.org/news/2026-10-26-Pharo14Release.html)
-- 👤 By xkriva11 | 📈 89 points | 💬 21 comments
+**#3. AI promised less work. I've never worked more**
+- 🔗 [Read on HackerNews](https://oioannou.com/blog/ai-promised-less-work/)
+- 👤 By oorestisime | 📈 377 points | 💬 335 comments
 
-**#4. One of the Greatest Inventions in the History of Human Transport**
-- 🔗 [Read on HackerNews](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
-- 👤 By skadamat | 📈 130 points | 💬 44 comments
+**#4. Wikipedia's Cleanup of AI-Generated Content**
+- 🔗 [Read on HackerNews](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
+- 👤 By rbanffy | 📈 185 points | 💬 82 comments
 
-**#5. Birdwatching rewires the brain and slows cognitive decline**
-- 🔗 [Read on HackerNews](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
-- 👤 By cisc | 📈 323 points | 💬 136 comments
+**#5. Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?**
+- 🔗 [Read on HackerNews](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
+- 👤 By adrq | 📈 47 points | 💬 13 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
