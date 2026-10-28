@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 27, 2026
+> **Last Updated:** October 28, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. PHP2Shell: Exploitation Attempts and Remediation Trends**
-- 🔗 [Read on HackerNews](https://www.wiz.io/blog/php2shell-exploitation-so-far)
-- 👤 By acossta | 📈 82 points | 💬 25 comments
+**#1. Ten days later, Git on macOS still trusts the compromised eMudhra certificates**
+- 🔗 [Read on HackerNews](https://emudhra.we-have-a-problem.com/apple.html)
+- 👤 By galadran | 📈 602 points | 💬 228 comments
 
-**#2. Python's experimental JIT to be removed**
-- 🔗 [Read on HackerNews](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
-- 👤 By f311a | 📈 200 points | 💬 110 comments
+**#2. CNC Stone Carving**
+- 🔗 [Read on HackerNews](https://carmelitegothic.com/cnc-stone-carving/)
+- 👤 By bschne | 📈 94 points | 💬 10 comments
 
-**#3. AI promised less work. I've never worked more**
-- 🔗 [Read on HackerNews](https://oioannou.com/blog/ai-promised-less-work/)
-- 👤 By oorestisime | 📈 377 points | 💬 335 comments
+**#3. Kentucky man becomes the first humanist granted religious exemption from AI**
+- 🔗 [Read on HackerNews](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
+- 👤 By danso | 📈 167 points | 💬 176 comments
 
-**#4. Wikipedia's Cleanup of AI-Generated Content**
-- 🔗 [Read on HackerNews](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
-- 👤 By rbanffy | 📈 185 points | 💬 82 comments
+**#4. Start Doing Graph Theory**
+- 🔗 [Read on HackerNews](https://vertex.degree/)
+- 👤 By ibobev | 📈 324 points | 💬 73 comments
 
-**#5. Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?**
-- 🔗 [Read on HackerNews](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
-- 👤 By adrq | 📈 47 points | 💬 13 comments
+**#5. ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History**
+- 🔗 [Read on HackerNews](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
+- 👤 By zzzeek | 📈 702 points | 💬 491 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
