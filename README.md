@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 28, 2026
+> **Last Updated:** October 29, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Ten days later, Git on macOS still trusts the compromised eMudhra certificates**
-- 🔗 [Read on HackerNews](https://emudhra.we-have-a-problem.com/apple.html)
-- 👤 By galadran | 📈 602 points | 💬 228 comments
+**#1. Mistral Large 4 (Le Chonk) is now Open Weight**
+- 🔗 [Read on HackerNews](https://mistral.ai/news/mistral-large-4-oss/)
+- 👤 By kuberwastaken | 📈 403 points | 💬 96 comments
 
-**#2. CNC Stone Carving**
-- 🔗 [Read on HackerNews](https://carmelitegothic.com/cnc-stone-carving/)
-- 👤 By bschne | 📈 94 points | 💬 10 comments
+**#2. DoorDash is acquiring Instacart for $17B**
+- 🔗 [Read on HackerNews](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
+- 👤 By DeepLogin | 📈 98 points | 💬 71 comments
 
-**#3. Kentucky man becomes the first humanist granted religious exemption from AI**
-- 🔗 [Read on HackerNews](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
-- 👤 By danso | 📈 167 points | 💬 176 comments
+**#3. Read the letter the FBI sent MLK to try to convince him to kill himself (2014)**
+- 🔗 [Read on HackerNews](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
+- 👤 By surprisetalk | 📈 307 points | 💬 195 comments
 
-**#4. Start Doing Graph Theory**
-- 🔗 [Read on HackerNews](https://vertex.degree/)
-- 👤 By ibobev | 📈 324 points | 💬 73 comments
+**#4. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5**
+- 🔗 [Read on HackerNews](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
+- 👤 By theHocineSaad | 📈 248 points | 💬 195 comments
 
-**#5. ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History**
-- 🔗 [Read on HackerNews](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
-- 👤 By zzzeek | 📈 702 points | 💬 491 comments
+**#5. Only 40% of AI-cited statistics trace back to a study**
+- 🔗 [Read on HackerNews](https://trakkr.ai/trakkr-research/zombie-stats)
+- 👤 By mektrik | 📈 21 points | 💬 2 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
