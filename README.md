@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 29, 2026
+> **Last Updated:** October 30, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Mistral Large 4 (Le Chonk) is now Open Weight**
-- 🔗 [Read on HackerNews](https://mistral.ai/news/mistral-large-4-oss/)
-- 👤 By kuberwastaken | 📈 403 points | 💬 96 comments
+**#1. elect.horse**
+- 🔗 [Read on HackerNews](https://elect.horse/)
+- 👤 By solarist | 📈 454 points | 💬 117 comments
 
-**#2. DoorDash is acquiring Instacart for $17B**
-- 🔗 [Read on HackerNews](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
-- 👤 By DeepLogin | 📈 98 points | 💬 71 comments
+**#2. Backdoor in Claude Code for VS Code extension on the Cursor Marketplace**
+- 🔗 [Read on HackerNews](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- 👤 By _chall | 📈 227 points | 💬 328 comments
 
-**#3. Read the letter the FBI sent MLK to try to convince him to kill himself (2014)**
-- 🔗 [Read on HackerNews](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
-- 👤 By surprisetalk | 📈 307 points | 💬 195 comments
+**#3. Azure's Weakest Link – Five Full Cross-Tenant Compromises**
+- 🔗 [Read on HackerNews](https://www.binarysecurity.no/posts/2026/10/one-root-case)
+- 👤 By swq115 | 📈 151 points | 💬 19 comments
 
-**#4. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5**
-- 🔗 [Read on HackerNews](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
-- 👤 By theHocineSaad | 📈 248 points | 💬 195 comments
+**#4. US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech**
+- 🔗 [Read on HackerNews](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
+- 👤 By DeepLogin | 📈 377 points | 💬 249 comments
 
-**#5. Only 40% of AI-cited statistics trace back to a study**
-- 🔗 [Read on HackerNews](https://trakkr.ai/trakkr-research/zombie-stats)
-- 👤 By mektrik | 📈 21 points | 💬 2 comments
+**#5. Northflank Breached**
+- 🔗 [Read on HackerNews](https://status.northflank.com)
+- 👤 By js4ever | 📈 18 points | 💬 7 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
