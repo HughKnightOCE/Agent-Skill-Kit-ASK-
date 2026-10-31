@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 30, 2026
+> **Last Updated:** October 31, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. elect.horse**
-- 🔗 [Read on HackerNews](https://elect.horse/)
-- 👤 By solarist | 📈 454 points | 💬 117 comments
+**#1. Molly(Signal fork) has not been updated since 3 months and is vulnerable**
+- 🔗 [Read on HackerNews](https://piefed.world/post/1503394)
+- 👤 By DeepLogin | 📈 134 points | 💬 84 comments
 
-**#2. Backdoor in Claude Code for VS Code extension on the Cursor Marketplace**
-- 🔗 [Read on HackerNews](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
-- 👤 By _chall | 📈 227 points | 💬 328 comments
+**#2. We Took over ChatGPT Accounts**
+- 🔗 [Read on HackerNews](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+- 👤 By armcat | 📈 143 points | 💬 63 comments
 
-**#3. Azure's Weakest Link – Five Full Cross-Tenant Compromises**
-- 🔗 [Read on HackerNews](https://www.binarysecurity.no/posts/2026/10/one-root-case)
-- 👤 By swq115 | 📈 151 points | 💬 19 comments
+**#3. Switch Lowering in GCC**
+- 🔗 [Read on HackerNews](https://xoranth.net/gcc-switch/)
+- 👤 By signa11 | 📈 120 points | 💬 22 comments
 
-**#4. US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech**
-- 🔗 [Read on HackerNews](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
-- 👤 By DeepLogin | 📈 377 points | 💬 249 comments
+**#4. Simple circuits can create complex behaviors**
+- 🔗 [Read on HackerNews](https://aatishb.com/myriad/lets-build-a-brain/)
+- 👤 By aatish | 📈 47 points | 💬 4 comments
 
-**#5. Northflank Breached**
-- 🔗 [Read on HackerNews](https://status.northflank.com)
-- 👤 By js4ever | 📈 18 points | 💬 7 comments
+**#5. Serbia just elected the world's brainiest parliament**
+- 🔗 [Read on HackerNews](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
+- 👤 By input_sh | 📈 515 points | 💬 311 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
