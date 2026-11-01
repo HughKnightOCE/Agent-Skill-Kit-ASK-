@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** October 31, 2026
+> **Last Updated:** November 01, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Molly(Signal fork) has not been updated since 3 months and is vulnerable**
-- 🔗 [Read on HackerNews](https://piefed.world/post/1503394)
-- 👤 By DeepLogin | 📈 134 points | 💬 84 comments
+**#1. HackerTube: YouTube built from videos recommended by HN**
+- 🔗 [Read on HackerNews](https://karpathy.bearblog.dev/hacker-tube/)
+- 👤 By karpathy | 📈 1687 points | 💬 445 comments
 
 **#2. We Took over ChatGPT Accounts**
-- 🔗 [Read on HackerNews](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
-- 👤 By armcat | 📈 143 points | 💬 63 comments
+- 🔗 [Read on HackerNews](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
+- 👤 By paaloeye | 📈 5 points | 💬 0 comments
 
-**#3. Switch Lowering in GCC**
-- 🔗 [Read on HackerNews](https://xoranth.net/gcc-switch/)
-- 👤 By signa11 | 📈 120 points | 💬 22 comments
+**#3. Proving and Improving the Platonic Representation Hypothesis with JEPAs**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2610.39302)
+- 👤 By Anon84 | 📈 40 points | 💬 8 comments
 
-**#4. Simple circuits can create complex behaviors**
-- 🔗 [Read on HackerNews](https://aatishb.com/myriad/lets-build-a-brain/)
-- 👤 By aatish | 📈 47 points | 💬 4 comments
+**#4. Novellas with Groff**
+- 🔗 [Read on HackerNews](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
+- 👤 By dverlaeckt80 | 📈 32 points | 💬 5 comments
 
-**#5. Serbia just elected the world's brainiest parliament**
-- 🔗 [Read on HackerNews](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
-- 👤 By input_sh | 📈 515 points | 💬 311 comments
+**#5. Bidirectional Charging During Grid Outages**
+- 🔗 [Read on HackerNews](https://www.jefftk.com/p/bidirectional-charging-during-grid-outages)
+- 👤 By luu | 📈 10 points | 💬 2 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
