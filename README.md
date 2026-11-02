@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 01, 2026
+> **Last Updated:** November 02, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. HackerTube: YouTube built from videos recommended by HN**
-- 🔗 [Read on HackerNews](https://karpathy.bearblog.dev/hacker-tube/)
-- 👤 By karpathy | 📈 1687 points | 💬 445 comments
+**#1. Astra can read and write weights to improve Qwen**
+- 🔗 [Read on HackerNews](https://rikiyat.github.io/blog/weight-space-programming/)
+- 👤 By dbreunig | 📈 232 points | 💬 51 comments
 
-**#2. We Took over ChatGPT Accounts**
-- 🔗 [Read on HackerNews](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
-- 👤 By paaloeye | 📈 5 points | 💬 0 comments
+**#2. Show HN: Subvocal – Talk to your computer without making noise**
+- 🔗 [Read on HackerNews](https://subvocal.company/)
+- 👤 By aarushyadav | 📈 258 points | 💬 177 comments
 
-**#3. Proving and Improving the Platonic Representation Hypothesis with JEPAs**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2610.39302)
-- 👤 By Anon84 | 📈 40 points | 💬 8 comments
+**#3. Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app**
+- 🔗 [Read on HackerNews](https://momentic.ai/)
+- 👤 By wuweiweiwu | 📈 68 points | 💬 46 comments
 
-**#4. Novellas with Groff**
-- 🔗 [Read on HackerNews](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
-- 👤 By dverlaeckt80 | 📈 32 points | 💬 5 comments
+**#4. Agentic Backdoors via Pretraining Poisoning**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2610.37741)
+- 👤 By gmays | 📈 27 points | 💬 4 comments
 
-**#5. Bidirectional Charging During Grid Outages**
-- 🔗 [Read on HackerNews](https://www.jefftk.com/p/bidirectional-charging-during-grid-outages)
-- 👤 By luu | 📈 10 points | 💬 2 comments
+**#5. US boy names that became girl names and vice versa**
+- 🔗 [Read on HackerNews](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+- 👤 By xoobdev | 📈 116 points | 💬 111 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
