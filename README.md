@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 02, 2026
+> **Last Updated:** November 03, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Astra can read and write weights to improve Qwen**
-- 🔗 [Read on HackerNews](https://rikiyat.github.io/blog/weight-space-programming/)
-- 👤 By dbreunig | 📈 232 points | 💬 51 comments
+**#1. Jailbreaking my car's navigation system just so I can change the time**
+- 🔗 [Read on HackerNews](https://blog.nns.ee/2026/11/02/renault-hack/)
+- 👤 By xx_ns | 📈 143 points | 💬 30 comments
 
-**#2. Show HN: Subvocal – Talk to your computer without making noise**
-- 🔗 [Read on HackerNews](https://subvocal.company/)
-- 👤 By aarushyadav | 📈 258 points | 💬 177 comments
+**#2. Fujifilm to boost tape production 5x as AI fuels archiving demand**
+- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+- 👤 By bookofjoe | 📈 160 points | 💬 66 comments
 
-**#3. Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app**
-- 🔗 [Read on HackerNews](https://momentic.ai/)
-- 👤 By wuweiweiwu | 📈 68 points | 💬 46 comments
+**#3. Mac at Any Scale**
+- 🔗 [Read on HackerNews](https://namespace.so/blog/mac-at-any-scale)
+- 👤 By anner_ | 📈 67 points | 💬 17 comments
 
-**#4. Agentic Backdoors via Pretraining Poisoning**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2610.37741)
-- 👤 By gmays | 📈 27 points | 💬 4 comments
+**#4. The 'Astra can read and write weights to improve Qwen' post is misleading**
+- 🔗 [Read on HackerNews](https://honnibal.dev/blog/astra-read-write-misleading)
+- 👤 By syllogism | 📈 627 points | 💬 143 comments
 
-**#5. US boy names that became girl names and vice versa**
-- 🔗 [Read on HackerNews](https://namedaisy.com/blog/boy-names-that-became-girl-names)
-- 👤 By xoobdev | 📈 116 points | 💬 111 comments
+**#5. Tiny Basic for Arduino**
+- 🔗 [Read on HackerNews](https://dilshan.github.io/tiny-basic/)
+- 👤 By AlexeyBrin | 📈 22 points | 💬 3 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
