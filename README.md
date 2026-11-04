@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 03, 2026
+> **Last Updated:** November 04, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Jailbreaking my car's navigation system just so I can change the time**
-- 🔗 [Read on HackerNews](https://blog.nns.ee/2026/11/02/renault-hack/)
-- 👤 By xx_ns | 📈 143 points | 💬 30 comments
+**#1. AI is forcing us to pay off 40 years of technical debt**
+- 🔗 [Read on HackerNews](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+- 👤 By pseudolus | 📈 596 points | 💬 389 comments
 
-**#2. Fujifilm to boost tape production 5x as AI fuels archiving demand**
-- 🔗 [Read on HackerNews](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
-- 👤 By bookofjoe | 📈 160 points | 💬 66 comments
+**#2. Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)**
+- 🔗 [Read on HackerNews](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
+- 👤 By zenincognito | 📈 89 points | 💬 23 comments
 
-**#3. Mac at Any Scale**
-- 🔗 [Read on HackerNews](https://namespace.so/blog/mac-at-any-scale)
-- 👤 By anner_ | 📈 67 points | 💬 17 comments
+**#3. Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux**
+- 🔗 [Read on HackerNews](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
+- 👤 By novaRom | 📈 414 points | 💬 192 comments
 
-**#4. The 'Astra can read and write weights to improve Qwen' post is misleading**
-- 🔗 [Read on HackerNews](https://honnibal.dev/blog/astra-read-write-misleading)
-- 👤 By syllogism | 📈 627 points | 💬 143 comments
+**#4. Evergreen: A Provably Safe Systems Language**
+- 🔗 [Read on HackerNews](https://evergreenlang.net)
+- 👤 By jordan_bonecut | 📈 36 points | 💬 19 comments
 
-**#5. Tiny Basic for Arduino**
-- 🔗 [Read on HackerNews](https://dilshan.github.io/tiny-basic/)
-- 👤 By AlexeyBrin | 📈 22 points | 💬 3 comments
+**#5. North Korean fake job interview led to $6.3B Binance heist**
+- 🔗 [Read on HackerNews](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398)
+- 👤 By smalltech | 📈 273 points | 💬 158 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
