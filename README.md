@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 04, 2026
+> **Last Updated:** November 05, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. AI is forcing us to pay off 40 years of technical debt**
-- 🔗 [Read on HackerNews](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
-- 👤 By pseudolus | 📈 596 points | 💬 389 comments
+**#1. sshole**
+- 🔗 [Read on HackerNews](https://sshhole.com)
+- 👤 By josemrb | 📈 1304 points | 💬 362 comments
 
-**#2. Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)**
-- 🔗 [Read on HackerNews](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
-- 👤 By zenincognito | 📈 89 points | 💬 23 comments
+**#2. Alpine Linux Security advisory: OpenSSH-server password authentication bypass**
+- 🔗 [Read on HackerNews](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+- 👤 By pantalaimon | 📈 215 points | 💬 10 comments
 
-**#3. Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux**
-- 🔗 [Read on HackerNews](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
-- 👤 By novaRom | 📈 414 points | 💬 192 comments
+**#3. Motorola Signature 27 with GrapheneOS support**
+- 🔗 [Read on HackerNews](https://motorolanews.com/motorola-signature-27-2/)
+- 👤 By monneyboi | 📈 84 points | 💬 23 comments
 
-**#4. Evergreen: A Provably Safe Systems Language**
-- 🔗 [Read on HackerNews](https://evergreenlang.net)
-- 👤 By jordan_bonecut | 📈 36 points | 💬 19 comments
+**#4. September in Servo: <progress>, rounded rectangles, and more**
+- 🔗 [Read on HackerNews](https://servo.org/blog/2026/11/05/september-in-servo/)
+- 👤 By iamnothere | 📈 79 points | 💬 15 comments
 
-**#5. North Korean fake job interview led to $6.3B Binance heist**
-- 🔗 [Read on HackerNews](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398)
-- 👤 By smalltech | 📈 273 points | 💬 158 comments
+**#5. The Lisp curse, now coming to your ecosystem**
+- 🔗 [Read on HackerNews](https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html)
+- 👤 By marcolinux | 📈 35 points | 💬 10 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
