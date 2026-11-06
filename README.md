@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 05, 2026
+> **Last Updated:** November 06, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. sshole**
-- 🔗 [Read on HackerNews](https://sshhole.com)
-- 👤 By josemrb | 📈 1304 points | 💬 362 comments
+**#1. Deus Ex**
+- 🔗 [Read on HackerNews](https://www.filfre.net/2026/11/deus-ex/)
+- 👤 By cybersoyuz | 📈 89 points | 💬 42 comments
 
-**#2. Alpine Linux Security advisory: OpenSSH-server password authentication bypass**
-- 🔗 [Read on HackerNews](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
-- 👤 By pantalaimon | 📈 215 points | 💬 10 comments
+**#2. Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS**
+- 🔗 [Read on HackerNews](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+- 👤 By microtonal | 📈 499 points | 💬 305 comments
 
-**#3. Motorola Signature 27 with GrapheneOS support**
-- 🔗 [Read on HackerNews](https://motorolanews.com/motorola-signature-27-2/)
-- 👤 By monneyboi | 📈 84 points | 💬 23 comments
+**#3. FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control**
+- 🔗 [Read on HackerNews](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
+- 👤 By pseudolus | 📈 48 points | 💬 30 comments
 
-**#4. September in Servo: <progress>, rounded rectangles, and more**
-- 🔗 [Read on HackerNews](https://servo.org/blog/2026/11/05/september-in-servo/)
-- 👤 By iamnothere | 📈 79 points | 💬 15 comments
+**#4. Gemini Omni 1.2 Flash**
+- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+- 👤 By thisisauserid | 📈 177 points | 💬 142 comments
 
-**#5. The Lisp curse, now coming to your ecosystem**
-- 🔗 [Read on HackerNews](https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html)
-- 👤 By marcolinux | 📈 35 points | 💬 10 comments
+**#5. RIP Cybertruck**
+- 🔗 [Read on HackerNews](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/)
+- 👤 By voxadam | 📈 167 points | 💬 211 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
