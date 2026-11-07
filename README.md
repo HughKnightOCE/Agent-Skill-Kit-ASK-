@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 06, 2026
+> **Last Updated:** November 07, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Deus Ex**
-- 🔗 [Read on HackerNews](https://www.filfre.net/2026/11/deus-ex/)
-- 👤 By cybersoyuz | 📈 89 points | 💬 42 comments
+**#1. The $8 Linux Computer (2022)**
+- 🔗 [Read on HackerNews](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+- 👤 By zenincognito | 📈 37 points | 💬 15 comments
 
-**#2. Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS**
-- 🔗 [Read on HackerNews](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
-- 👤 By microtonal | 📈 499 points | 💬 305 comments
+**#2. Need for Speed Underground 2 online in the browser**
+- 🔗 [Read on HackerNews](https://nfsu2.xyz/)
+- 👤 By fluxusars | 📈 353 points | 💬 111 comments
 
-**#3. FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control**
-- 🔗 [Read on HackerNews](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
-- 👤 By pseudolus | 📈 48 points | 💬 30 comments
+**#3. Libghostty 1.0**
+- 🔗 [Read on HackerNews](https://mitchellh.com/writing/libghostty-1-0)
+- 👤 By mfiguiere | 📈 849 points | 💬 140 comments
 
-**#4. Gemini Omni 1.2 Flash**
-- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
-- 👤 By thisisauserid | 📈 177 points | 💬 142 comments
+**#4. Every Mac comes with an (undocumented) family member classifier**
+- 🔗 [Read on HackerNews](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+- 👤 By infwhispers | 📈 324 points | 💬 174 comments
 
-**#5. RIP Cybertruck**
-- 🔗 [Read on HackerNews](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/)
-- 👤 By voxadam | 📈 167 points | 💬 211 comments
+**#5. Running a law firm on Free software**
+- 🔗 [Read on HackerNews](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
+- 👤 By DeepLogin | 📈 79 points | 💬 31 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
