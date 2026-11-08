@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 07, 2026
+> **Last Updated:** November 08, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. The $8 Linux Computer (2022)**
-- 🔗 [Read on HackerNews](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
-- 👤 By zenincognito | 📈 37 points | 💬 15 comments
+**#1. Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU**
+- 🔗 [Read on HackerNews](https://github.com/synchopate/llama-modchip)
+- 👤 By joshcsimmons | 📈 136 points | 💬 41 comments
 
-**#2. Need for Speed Underground 2 online in the browser**
-- 🔗 [Read on HackerNews](https://nfsu2.xyz/)
-- 👤 By fluxusars | 📈 353 points | 💬 111 comments
+**#2. Porting Android 16 to my blind mother's keypad phone**
+- 🔗 [Read on HackerNews](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
+- 👤 By z1xus | 📈 70 points | 💬 17 comments
 
-**#3. Libghostty 1.0**
-- 🔗 [Read on HackerNews](https://mitchellh.com/writing/libghostty-1-0)
-- 👤 By mfiguiere | 📈 849 points | 💬 140 comments
+**#3. Quadrillion-parameter transformers and how to train them**
+- 🔗 [Read on HackerNews](https://qlabs.sh/research/parameters)
+- 👤 By frozenseven | 📈 44 points | 💬 32 comments
 
-**#4. Every Mac comes with an (undocumented) family member classifier**
-- 🔗 [Read on HackerNews](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
-- 👤 By infwhispers | 📈 324 points | 💬 174 comments
+**#4. Writing as a Thinking Tool**
+- 🔗 [Read on HackerNews](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
+- 👤 By jruohonen | 📈 47 points | 💬 6 comments
 
-**#5. Running a law firm on Free software**
-- 🔗 [Read on HackerNews](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
-- 👤 By DeepLogin | 📈 79 points | 💬 31 comments
+**#5. Person of Interest**
+- 🔗 [Read on HackerNews](https://krthr.co/person-of-interest/)
+- 👤 By krthr | 📈 210 points | 💬 130 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
