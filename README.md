@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 08, 2026
+> **Last Updated:** November 09, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU**
-- 🔗 [Read on HackerNews](https://github.com/synchopate/llama-modchip)
-- 👤 By joshcsimmons | 📈 136 points | 💬 41 comments
+**#1. Too many men suffering in silence, national health report finds (Canada)**
+- 🔗 [Read on HackerNews](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
+- 👤 By nosecreek | 📈 201 points | 💬 145 comments
 
-**#2. Porting Android 16 to my blind mother's keypad phone**
-- 🔗 [Read on HackerNews](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
-- 👤 By z1xus | 📈 70 points | 💬 17 comments
+**#2. Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system**
+- 🔗 [Read on HackerNews](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- 👤 By ocd | 📈 301 points | 💬 174 comments
 
-**#3. Quadrillion-parameter transformers and how to train them**
-- 🔗 [Read on HackerNews](https://qlabs.sh/research/parameters)
-- 👤 By frozenseven | 📈 44 points | 💬 32 comments
+**#3. Our Smallest, Most Efficient Model: Muse Ember**
+- 🔗 [Read on HackerNews](https://research.meta.ai/blog/muse-ember)
+- 👤 By dvaplima | 📈 89 points | 💬 43 comments
 
-**#4. Writing as a Thinking Tool**
-- 🔗 [Read on HackerNews](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
-- 👤 By jruohonen | 📈 47 points | 💬 6 comments
+**#4. Claude Fable 5.2 and Mythos 5.2**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- 👤 By meetpateltech | 📈 301 points | 💬 116 comments
 
-**#5. Person of Interest**
-- 🔗 [Read on HackerNews](https://krthr.co/person-of-interest/)
-- 👤 By krthr | 📈 210 points | 💬 130 comments
+**#5. DeepX claims inference up to 100B parameters at less than 5 W**
+- 🔗 [Read on HackerNews](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
+- 👤 By giuliomagnifico | 📈 26 points | 💬 2 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
