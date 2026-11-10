@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 09, 2026
+> **Last Updated:** November 10, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Too many men suffering in silence, national health report finds (Canada)**
-- 🔗 [Read on HackerNews](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
-- 👤 By nosecreek | 📈 201 points | 💬 145 comments
+**#1. Blender 5.3 released with Gaussian Splat support**
+- 🔗 [Read on HackerNews](https://www.blender.org/download/releases/5-3/)
+- 👤 By amlib | 📈 100 points | 💬 9 comments
 
-**#2. Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system**
-- 🔗 [Read on HackerNews](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
-- 👤 By ocd | 📈 301 points | 💬 174 comments
+**#2. AlphaProof Code**
+- 🔗 [Read on HackerNews](https://deepmind.google/blog/introducing-alphaproof-code/)
+- 👤 By ilreb | 📈 407 points | 💬 136 comments
 
-**#3. Our Smallest, Most Efficient Model: Muse Ember**
-- 🔗 [Read on HackerNews](https://research.meta.ai/blog/muse-ember)
-- 👤 By dvaplima | 📈 89 points | 💬 43 comments
+**#3. Gemini 4 Carbon is now available**
+- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
+- 👤 By meetpateltech | 📈 121 points | 💬 52 comments
 
-**#4. Claude Fable 5.2 and Mythos 5.2**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/claude-fable-and-mythos-5-2)
-- 👤 By meetpateltech | 📈 301 points | 💬 116 comments
+**#4. The Hardest Tarball?**
+- 🔗 [Read on HackerNews](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
+- 👤 By thatslast | 📈 90 points | 💬 5 comments
 
-**#5. DeepX claims inference up to 100B parameters at less than 5 W**
-- 🔗 [Read on HackerNews](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
-- 👤 By giuliomagnifico | 📈 26 points | 💬 2 comments
+**#5. Amazon saves millions by replacing Sonnet 4.6 with Strands Decider**
+- 🔗 [Read on HackerNews](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- 👤 By aloukissas | 📈 575 points | 💬 201 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
