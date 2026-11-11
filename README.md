@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 10, 2026
+> **Last Updated:** November 11, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Blender 5.3 released with Gaussian Splat support**
-- 🔗 [Read on HackerNews](https://www.blender.org/download/releases/5-3/)
-- 👤 By amlib | 📈 100 points | 💬 9 comments
+**#1. Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h**
+- 🔗 [Read on HackerNews](https://pietromiotti.com/latest/maya-site/?maya)
+- 👤 By eyvindn | 📈 683 points | 💬 257 comments
 
-**#2. AlphaProof Code**
-- 🔗 [Read on HackerNews](https://deepmind.google/blog/introducing-alphaproof-code/)
-- 👤 By ilreb | 📈 407 points | 💬 136 comments
+**#2. Why aren't we shipping faster now?**
+- 🔗 [Read on HackerNews](https://cabird.com/talks/shipping-faster/)
+- 👤 By azhenley | 📈 24 points | 💬 24 comments
 
-**#3. Gemini 4 Carbon is now available**
-- 🔗 [Read on HackerNews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
-- 👤 By meetpateltech | 📈 121 points | 💬 52 comments
+**#3. Pharo in the Browser with WebAssembly**
+- 🔗 [Read on HackerNews](https://massimo-nocentini.github.io/pharo-vm/world.html)
+- 👤 By xkriva11 | 📈 77 points | 💬 16 comments
 
-**#4. The Hardest Tarball?**
-- 🔗 [Read on HackerNews](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
-- 👤 By thatslast | 📈 90 points | 💬 5 comments
+**#4. A false smoke alarm almost drowned Jane Street's only NYC datacenter**
+- 🔗 [Read on HackerNews](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+- 👤 By mbac32768 | 📈 16 points | 💬 1 comments
 
-**#5. Amazon saves millions by replacing Sonnet 4.6 with Strands Decider**
-- 🔗 [Read on HackerNews](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-- 👤 By aloukissas | 📈 575 points | 💬 201 comments
+**#5. Atuin Threads: All your agent sessions on every machine**
+- 🔗 [Read on HackerNews](https://blog.atuin.sh/threads-agent-sessions/)
+- 👤 By linsomniac | 📈 84 points | 💬 33 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
