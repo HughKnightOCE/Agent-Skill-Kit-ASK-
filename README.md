@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 11, 2026
+> **Last Updated:** November 12, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h**
-- 🔗 [Read on HackerNews](https://pietromiotti.com/latest/maya-site/?maya)
-- 👤 By eyvindn | 📈 683 points | 💬 257 comments
+**#1. NVIDIA Announces CEO Transition**
+- 🔗 [Read on HackerNews](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+- 👤 By lldb | 📈 1461 points | 💬 1207 comments
 
-**#2. Why aren't we shipping faster now?**
-- 🔗 [Read on HackerNews](https://cabird.com/talks/shipping-faster/)
-- 👤 By azhenley | 📈 24 points | 💬 24 comments
+**#2. Anthropic IPO**
+- 🔗 [Read on HackerNews](https://ipo.anthropic.com/us/)
+- 👤 By josephljohnston | 📈 555 points | 💬 583 comments
 
-**#3. Pharo in the Browser with WebAssembly**
-- 🔗 [Read on HackerNews](https://massimo-nocentini.github.io/pharo-vm/world.html)
-- 👤 By xkriva11 | 📈 77 points | 💬 16 comments
+**#3. Abandoned Quake 4 expansion finished by modders and now playable**
+- 🔗 [Read on HackerNews](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
+- 👤 By klaussilveira | 📈 115 points | 💬 38 comments
 
-**#4. A false smoke alarm almost drowned Jane Street's only NYC datacenter**
-- 🔗 [Read on HackerNews](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
-- 👤 By mbac32768 | 📈 16 points | 💬 1 comments
+**#4. I'm making LLMs work on small and old devices**
+- 🔗 [Read on HackerNews](https://github.com/hyperionaidev/smolmaxxing/)
+- 👤 By mrashad74 | 📈 60 points | 💬 17 comments
 
-**#5. Atuin Threads: All your agent sessions on every machine**
-- 🔗 [Read on HackerNews](https://blog.atuin.sh/threads-agent-sessions/)
-- 👤 By linsomniac | 📈 84 points | 💬 33 comments
+**#5. Talking Zen 6 with Mike Clark at AMD In-Depth**
+- 🔗 [Read on HackerNews](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
+- 👤 By dverlaeckt80 | 📈 98 points | 💬 1 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
