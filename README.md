@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 13, 2026
+> **Last Updated:** November 14, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Reverse Engineering My Coway Air Purifier to Ditch the Cloud**
-- 🔗 [Read on HackerNews](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
-- 👤 By scottjg | 📈 309 points | 💬 83 comments
+**#1. Why get an expensive Pi when I have an old phone?**
+- 🔗 [Read on HackerNews](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+- 👤 By casi | 📈 300 points | 💬 175 comments
 
-**#2. Elevated errors on claude.ai, Claude Code, and platform.claude.com**
-- 🔗 [Read on HackerNews](https://status.claude.com/incidents/nn11wk485zfn)
-- 👤 By __vivek | 📈 422 points | 💬 345 comments
+**#2. Show HN: A terminal-native idle factory game, written in Rust with ratatui**
+- 🔗 [Read on HackerNews](https://gitlab.com/snipedbywifi/terminactory)
+- 👤 By snipedbywifi | 📈 34 points | 💬 2 comments
 
-**#3. Why Zig over C for Systems Programming**
-- 🔗 [Read on HackerNews](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
-- 👤 By torutofu | 📈 132 points | 💬 76 comments
+**#3. KDE: The Documentary on Free Software [video]**
+- 🔗 [Read on HackerNews](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
+- 👤 By mrkn1 | 📈 31 points | 💬 0 comments
 
-**#4. A technical vision for the Haskell ecosystem**
-- 🔗 [Read on HackerNews](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
-- 👤 By cosmic_quanta | 📈 59 points | 💬 21 comments
+**#4. Generative AI uses more energy on non-English text**
+- 🔗 [Read on HackerNews](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
+- 👤 By DeepLogin | 📈 62 points | 💬 41 comments
 
-**#5. Doomsday: Friday, 13 November, A.D. 2026 (1960)**
-- 🔗 [Read on HackerNews](https://www.science.org/doi/10.1126/science.132.3436.1291)
-- 👤 By voxleone | 📈 322 points | 💬 221 comments
+**#5. Advancing science and engineering with Antigravity's /teamwork**
+- 🔗 [Read on HackerNews](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
+- 👤 By acossta | 📈 30 points | 💬 10 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
