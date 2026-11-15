@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 14, 2026
+> **Last Updated:** November 15, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Why get an expensive Pi when I have an old phone?**
-- 🔗 [Read on HackerNews](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
-- 👤 By casi | 📈 300 points | 💬 175 comments
+**#1. All AI-generated code should be Open Source**
+- 🔗 [Read on HackerNews](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+- 👤 By jcubic | 📈 175 points | 💬 115 comments
 
-**#2. Show HN: A terminal-native idle factory game, written in Rust with ratatui**
-- 🔗 [Read on HackerNews](https://gitlab.com/snipedbywifi/terminactory)
-- 👤 By snipedbywifi | 📈 34 points | 💬 2 comments
+**#2. The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use**
+- 🔗 [Read on HackerNews](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
+- 👤 By MacAnorak | 📈 159 points | 💬 85 comments
 
-**#3. KDE: The Documentary on Free Software [video]**
-- 🔗 [Read on HackerNews](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
-- 👤 By mrkn1 | 📈 31 points | 💬 0 comments
+**#3. Things That Turbo Pascal Is Smaller Than (2011)**
+- 🔗 [Read on HackerNews](https://prog21.dadgum.com/116.html)
+- 👤 By ksec | 📈 64 points | 💬 17 comments
 
-**#4. Generative AI uses more energy on non-English text**
-- 🔗 [Read on HackerNews](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
-- 👤 By DeepLogin | 📈 62 points | 💬 41 comments
+**#4. SpaceX catches the Starship to end Flight 15**
+- 🔗 [Read on HackerNews](https://www.spacex.com/launches/starship-flight-15)
+- 👤 By ls612 | 📈 1453 points | 💬 979 comments
 
-**#5. Advancing science and engineering with Antigravity's /teamwork**
-- 🔗 [Read on HackerNews](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
-- 👤 By acossta | 📈 30 points | 💬 10 comments
+**#5. Understanding Positional Embeddings in Modern LLMs**
+- 🔗 [Read on HackerNews](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
+- 👤 By vismit2000 | 📈 86 points | 💬 1 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
