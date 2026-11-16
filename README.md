@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 15, 2026
+> **Last Updated:** November 16, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. All AI-generated code should be Open Source**
-- 🔗 [Read on HackerNews](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
-- 👤 By jcubic | 📈 175 points | 💬 115 comments
+**#1. Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle**
+- 🔗 [Read on HackerNews](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
+- 👤 By samk3nny | 📈 100 points | 💬 30 comments
 
-**#2. The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use**
-- 🔗 [Read on HackerNews](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
-- 👤 By MacAnorak | 📈 159 points | 💬 85 comments
+**#2. Grazing sheep in fields with solar arrays**
+- 🔗 [Read on HackerNews](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+- 👤 By PaulHoule | 📈 98 points | 💬 82 comments
 
-**#3. Things That Turbo Pascal Is Smaller Than (2011)**
-- 🔗 [Read on HackerNews](https://prog21.dadgum.com/116.html)
-- 👤 By ksec | 📈 64 points | 💬 17 comments
+**#3. Jiff 1.0: A datetime library for Rust**
+- 🔗 [Read on HackerNews](https://burntsushi.net/jiff/)
+- 👤 By burntsushi | 📈 156 points | 💬 38 comments
 
-**#4. SpaceX catches the Starship to end Flight 15**
-- 🔗 [Read on HackerNews](https://www.spacex.com/launches/starship-flight-15)
-- 👤 By ls612 | 📈 1453 points | 💬 979 comments
+**#4. Frame – 31.5" color ePaper display**
+- 🔗 [Read on HackerNews](https://trmnl.com/blog/introducing-frame)
+- 👤 By geerlingguy | 📈 71 points | 💬 34 comments
 
-**#5. Understanding Positional Embeddings in Modern LLMs**
-- 🔗 [Read on HackerNews](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
-- 👤 By vismit2000 | 📈 86 points | 💬 1 comments
+**#5. The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)**
+- 🔗 [Read on HackerNews](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
+- 👤 By sammatilda | 📈 251 points | 💬 99 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
