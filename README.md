@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 16, 2026
+> **Last Updated:** November 17, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle**
-- 🔗 [Read on HackerNews](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
-- 👤 By samk3nny | 📈 100 points | 💬 30 comments
+**#1. GPT‑6.2 Astra and Sol**
+- 🔗 [Read on HackerNews](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+- 👤 By jasondavies | 📈 281 points | 💬 113 comments
 
-**#2. Grazing sheep in fields with solar arrays**
-- 🔗 [Read on HackerNews](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
-- 👤 By PaulHoule | 📈 98 points | 💬 82 comments
+**#2. What is the best harness for each model?**
+- 🔗 [Read on HackerNews](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+- 👤 By Edward40 | 📈 200 points | 💬 80 comments
 
-**#3. Jiff 1.0: A datetime library for Rust**
-- 🔗 [Read on HackerNews](https://burntsushi.net/jiff/)
-- 👤 By burntsushi | 📈 156 points | 💬 38 comments
+**#3. Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off**
+- 🔗 [Read on HackerNews](https://alloyhtml.com/example.html)
+- 👤 By prafandy | 📈 107 points | 💬 14 comments
 
-**#4. Frame – 31.5" color ePaper display**
-- 🔗 [Read on HackerNews](https://trmnl.com/blog/introducing-frame)
-- 👤 By geerlingguy | 📈 71 points | 💬 34 comments
+**#4. Carnegie Mellon is putting computer science courses on YouTube for free**
+- 🔗 [Read on HackerNews](https://www.cs.cmu.edu/learn/)
+- 👤 By pcompeau | 📈 2150 points | 💬 287 comments
 
-**#5. The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)**
-- 🔗 [Read on HackerNews](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
-- 👤 By sammatilda | 📈 251 points | 💬 99 comments
+**#5. New Evidence Shows School Phone Bans Are Gradually Improving Test Scores**
+- 🔗 [Read on HackerNews](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+- 👤 By donohoe | 📈 886 points | 💬 456 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
