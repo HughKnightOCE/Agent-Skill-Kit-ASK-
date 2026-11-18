@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 17, 2026
+> **Last Updated:** November 18, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. GPT‑6.2 Astra and Sol**
-- 🔗 [Read on HackerNews](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
-- 👤 By jasondavies | 📈 281 points | 💬 113 comments
+**#1. Pre-auth RCE in Nginx HTTP/2 handling**
+- 🔗 [Read on HackerNews](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- 👤 By speedping | 📈 366 points | 💬 121 comments
 
-**#2. What is the best harness for each model?**
-- 🔗 [Read on HackerNews](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
-- 👤 By Edward40 | 📈 200 points | 💬 80 comments
+**#2. Microsoft AI: Seven new world-class models at scalable price-performance**
+- 🔗 [Read on HackerNews](https://microsoft.ai/news/microsoft-ignite-2026/)
+- 👤 By gmays | 📈 137 points | 💬 88 comments
 
-**#3. Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off**
-- 🔗 [Read on HackerNews](https://alloyhtml.com/example.html)
-- 👤 By prafandy | 📈 107 points | 💬 14 comments
+**#3. Inside Deutsche Bank**
+- 🔗 [Read on HackerNews](https://www.inside-db.com/)
+- 👤 By gyre007 | 📈 247 points | 💬 83 comments
 
-**#4. Carnegie Mellon is putting computer science courses on YouTube for free**
-- 🔗 [Read on HackerNews](https://www.cs.cmu.edu/learn/)
-- 👤 By pcompeau | 📈 2150 points | 💬 287 comments
+**#4. CVE-2026-99312: KVM Guest-to-Host Escape**
+- 🔗 [Read on HackerNews](https://www.terra.security/blog/kvm-guest-to-host-escape)
+- 👤 By Kozmik1 | 📈 87 points | 💬 40 comments
 
-**#5. New Evidence Shows School Phone Bans Are Gradually Improving Test Scores**
-- 🔗 [Read on HackerNews](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
-- 👤 By donohoe | 📈 886 points | 💬 456 comments
+**#5. Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy**
+- 🔗 [Read on HackerNews](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+- 👤 By ritzaco | 📈 349 points | 💬 105 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
