@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 18, 2026
+> **Last Updated:** November 19, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Pre-auth RCE in Nginx HTTP/2 handling**
-- 🔗 [Read on HackerNews](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
-- 👤 By speedping | 📈 366 points | 💬 121 comments
+**#1. Anthropic hits $2T in Nasdaq debut**
+- 🔗 [Read on HackerNews](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- 👤 By wslh | 📈 104 points | 💬 56 comments
 
-**#2. Microsoft AI: Seven new world-class models at scalable price-performance**
-- 🔗 [Read on HackerNews](https://microsoft.ai/news/microsoft-ignite-2026/)
-- 👤 By gmays | 📈 137 points | 💬 88 comments
+**#2. Claude Fable 5.2 solves two open problems in the physics of black holes**
+- 🔗 [Read on HackerNews](https://www.anthropic.com/research/claude-black-hole-physics)
+- 👤 By cybermango | 📈 37 points | 💬 5 comments
 
-**#3. Inside Deutsche Bank**
-- 🔗 [Read on HackerNews](https://www.inside-db.com/)
-- 👤 By gyre007 | 📈 247 points | 💬 83 comments
+**#3. Pete warden on local AI, open models, voice interfaces, the future of hardware**
+- 🔗 [Read on HackerNews](https://thedataexchange.media/pete-warden-moonshine/)
+- 👤 By datascientist | 📈 127 points | 💬 107 comments
 
-**#4. CVE-2026-99312: KVM Guest-to-Host Escape**
-- 🔗 [Read on HackerNews](https://www.terra.security/blog/kvm-guest-to-host-escape)
-- 👤 By Kozmik1 | 📈 87 points | 💬 40 comments
+**#4. Garage Door Spam**
+- 🔗 [Read on HackerNews](https://blog.harrison.page/garage-door-spam/)
+- 👤 By harrisonpage | 📈 503 points | 💬 221 comments
 
-**#5. Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy**
-- 🔗 [Read on HackerNews](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
-- 👤 By ritzaco | 📈 349 points | 💬 105 comments
+**#5. Launch HN: Onlook (YC W25) – An open-source developer tool for designers**
+- 🔗 [Read on HackerNews](https://github.com/onlook-dev/onlook/)
+- 👤 By D_R_Farrell | 📈 24 points | 💬 16 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
