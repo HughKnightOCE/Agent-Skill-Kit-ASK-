@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 19, 2026
+> **Last Updated:** November 20, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Anthropic hits $2T in Nasdaq debut**
-- 🔗 [Read on HackerNews](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
-- 👤 By wslh | 📈 104 points | 💬 56 comments
+**#1. Language Models Can Rewrite Their Own Weights**
+- 🔗 [Read on HackerNews](https://arxiv.org/abs/2611.21885)
+- 👤 By lwhsiao | 📈 95 points | 💬 31 comments
 
-**#2. Claude Fable 5.2 solves two open problems in the physics of black holes**
-- 🔗 [Read on HackerNews](https://www.anthropic.com/research/claude-black-hole-physics)
-- 👤 By cybermango | 📈 37 points | 💬 5 comments
+**#2. Anthropic employee claims general proof of the Riemann Hypothesis [pdf]**
+- 🔗 [Read on HackerNews](https://alpo.ge/remark.pdf)
+- 👤 By iamronaldo | 📈 1410 points | 💬 962 comments
 
-**#3. Pete warden on local AI, open models, voice interfaces, the future of hardware**
-- 🔗 [Read on HackerNews](https://thedataexchange.media/pete-warden-moonshine/)
-- 👤 By datascientist | 📈 127 points | 💬 107 comments
+**#3. I'll never buy Framework hardware again**
+- 🔗 [Read on HackerNews](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
+- 👤 By unchar1 | 📈 398 points | 💬 252 comments
 
-**#4. Garage Door Spam**
-- 🔗 [Read on HackerNews](https://blog.harrison.page/garage-door-spam/)
-- 👤 By harrisonpage | 📈 503 points | 💬 221 comments
+**#4. Finite-time blow-up for the Navier–Stokes equations**
+- 🔗 [Read on HackerNews](https://github.com/tristanbuckmaster/navier-stokes/)
+- 👤 By trotro | 📈 74 points | 💬 17 comments
 
-**#5. Launch HN: Onlook (YC W25) – An open-source developer tool for designers**
-- 🔗 [Read on HackerNews](https://github.com/onlook-dev/onlook/)
-- 👤 By D_R_Farrell | 📈 24 points | 💬 16 comments
+**#5. If you can't explain something in simple terms, you don't understand it (2017)**
+- 🔗 [Read on HackerNews](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
+- 👤 By sammatilda | 📈 435 points | 💬 230 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
