@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 20, 2026
+> **Last Updated:** November 21, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Language Models Can Rewrite Their Own Weights**
-- 🔗 [Read on HackerNews](https://arxiv.org/abs/2611.21885)
-- 👤 By lwhsiao | 📈 95 points | 💬 31 comments
+**#1. Derek Lowe: Detonating a Pile of Lead Azide**
+- 🔗 [Read on HackerNews](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
+- 👤 By beginning_end | 📈 236 points | 💬 130 comments
 
-**#2. Anthropic employee claims general proof of the Riemann Hypothesis [pdf]**
-- 🔗 [Read on HackerNews](https://alpo.ge/remark.pdf)
-- 👤 By iamronaldo | 📈 1410 points | 💬 962 comments
+**#2. Lean Verification of the Riemann Hypothesis - Joint statement by...**
+- 🔗 [Read on HackerNews](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- 👤 By g-b-r | 📈 240 points | 💬 186 comments
 
-**#3. I'll never buy Framework hardware again**
-- 🔗 [Read on HackerNews](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
-- 👤 By unchar1 | 📈 398 points | 💬 252 comments
+**#3. Brazil's tax authority open-sources its tax calculator on GitHub under MIT**
+- 🔗 [Read on HackerNews](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
+- 👤 By dvaplima | 📈 393 points | 💬 132 comments
 
-**#4. Finite-time blow-up for the Navier–Stokes equations**
-- 🔗 [Read on HackerNews](https://github.com/tristanbuckmaster/navier-stokes/)
-- 👤 By trotro | 📈 74 points | 💬 17 comments
+**#4. My Monitor Was Cutting My Download Speed by 75%**
+- 🔗 [Read on HackerNews](https://blog.tymscar.com/posts/studiodisplayethernet/)
+- 👤 By soheilpro | 📈 217 points | 💬 92 comments
 
-**#5. If you can't explain something in simple terms, you don't understand it (2017)**
-- 🔗 [Read on HackerNews](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
-- 👤 By sammatilda | 📈 435 points | 💬 230 comments
+**#5. Hurried Announcement: Alessandro Masullo GRH**
+- 🔗 [Read on HackerNews](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- 👤 By jasondavies | 📈 2287 points | 💬 1081 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
