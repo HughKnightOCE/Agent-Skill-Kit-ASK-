@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 21, 2026
+> **Last Updated:** November 22, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Derek Lowe: Detonating a Pile of Lead Azide**
-- 🔗 [Read on HackerNews](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-- 👤 By beginning_end | 📈 236 points | 💬 130 comments
+**#1. Open Social Web Alliance**
+- 🔗 [Read on HackerNews](https://osw-alliance.net/en/)
+- 👤 By doener | 📈 71 points | 💬 59 comments
 
-**#2. Lean Verification of the Riemann Hypothesis - Joint statement by...**
-- 🔗 [Read on HackerNews](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-- 👤 By g-b-r | 📈 240 points | 💬 186 comments
+**#2. Show HN: I built a game where you are an LLM's subagent**
+- 🔗 [Read on HackerNews](https://github.com/gulivan/worker755)
+- 👤 By ivantgam | 📈 108 points | 💬 25 comments
 
-**#3. Brazil's tax authority open-sources its tax calculator on GitHub under MIT**
-- 🔗 [Read on HackerNews](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
-- 👤 By dvaplima | 📈 393 points | 💬 132 comments
+**#3. Toyota, Nissan, and Honda to standardize parts to lower costs**
+- 🔗 [Read on HackerNews](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- 👤 By zdw | 📈 927 points | 💬 543 comments
 
-**#4. My Monitor Was Cutting My Download Speed by 75%**
-- 🔗 [Read on HackerNews](https://blog.tymscar.com/posts/studiodisplayethernet/)
-- 👤 By soheilpro | 📈 217 points | 💬 92 comments
+**#4. Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'**
+- 🔗 [Read on HackerNews](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
+- 👤 By rafaelc | 📈 1233 points | 💬 267 comments
 
-**#5. Hurried Announcement: Alessandro Masullo GRH**
-- 🔗 [Read on HackerNews](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
-- 👤 By jasondavies | 📈 2287 points | 💬 1081 comments
+**#5. A Better Vocabulary for Testing**
+- 🔗 [Read on HackerNews](https://alperenkeles.com/posts/vocab-for-testing/)
+- 👤 By alpaylan | 📈 31 points | 💬 6 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
