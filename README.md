@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 22, 2026
+> **Last Updated:** November 23, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Open Social Web Alliance**
-- 🔗 [Read on HackerNews](https://osw-alliance.net/en/)
-- 👤 By doener | 📈 71 points | 💬 59 comments
+**#1. "Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"**
+- 🔗 [Read on HackerNews](https://arm.jonpalmisc.com/)
+- 👤 By tech234a | 📈 505 points | 💬 100 comments
 
-**#2. Show HN: I built a game where you are an LLM's subagent**
-- 🔗 [Read on HackerNews](https://github.com/gulivan/worker755)
-- 👤 By ivantgam | 📈 108 points | 💬 25 comments
+**#2. Nvidia Reinstates Jensen Huang as CEO**
+- 🔗 [Read on HackerNews](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- 👤 By jaz | 📈 1560 points | 💬 2682 comments
 
-**#3. Toyota, Nissan, and Honda to standardize parts to lower costs**
-- 🔗 [Read on HackerNews](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
-- 👤 By zdw | 📈 927 points | 💬 543 comments
+**#3. Ladybird is now in alpha**
+- 🔗 [Read on HackerNews](https://ladybird.org/posts/alpha/)
+- 👤 By janvdberg | 📈 954 points | 💬 254 comments
 
-**#4. Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'**
-- 🔗 [Read on HackerNews](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
-- 👤 By rafaelc | 📈 1233 points | 💬 267 comments
+**#4. GLM-5.4: Toward generalized coding with our first loop transformer**
+- 🔗 [Read on HackerNews](https://z.ai/blog/glm-5.4)
+- 👤 By foohis | 📈 942 points | 💬 317 comments
 
-**#5. A Better Vocabulary for Testing**
-- 🔗 [Read on HackerNews](https://alperenkeles.com/posts/vocab-for-testing/)
-- 👤 By alpaylan | 📈 31 points | 💬 6 comments
+**#5. Dario is hyping the dangers so OSS models are illegal and *he* stays in control**
+- 🔗 [Read on HackerNews](https://twitter.com/ylecun/status/2124550037912920090)
+- 👤 By MrBuddyCasino | 📈 521 points | 💬 266 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
