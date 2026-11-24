@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 23, 2026
+> **Last Updated:** November 24, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. "Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"**
-- 🔗 [Read on HackerNews](https://arm.jonpalmisc.com/)
-- 👤 By tech234a | 📈 505 points | 💬 100 comments
+**#1. What Cloudflare Doesn't Tell You**
+- 🔗 [Read on HackerNews](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
+- 👤 By fishcharlie | 📈 65 points | 💬 33 comments
 
-**#2. Nvidia Reinstates Jensen Huang as CEO**
-- 🔗 [Read on HackerNews](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
-- 👤 By jaz | 📈 1560 points | 💬 2682 comments
+**#2. Active Intrusion Campaign Against Check Point Security Management Servers**
+- 🔗 [Read on HackerNews](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+- 👤 By louiereederson | 📈 205 points | 💬 72 comments
 
-**#3. Ladybird is now in alpha**
-- 🔗 [Read on HackerNews](https://ladybird.org/posts/alpha/)
-- 👤 By janvdberg | 📈 954 points | 💬 254 comments
+**#3. Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)**
+- 🔗 [Read on HackerNews](https://grafana.com/grafana/download)
+- 👤 By petecooper | 📈 33 points | 💬 6 comments
 
-**#4. GLM-5.4: Toward generalized coding with our first loop transformer**
-- 🔗 [Read on HackerNews](https://z.ai/blog/glm-5.4)
-- 👤 By foohis | 📈 942 points | 💬 317 comments
+**#4. Jetty Pro**
+- 🔗 [Read on HackerNews](http://hypercritical.co/2026/11/23/jetty-pro)
+- 👤 By zdw | 📈 183 points | 💬 68 comments
 
-**#5. Dario is hyping the dangers so OSS models are illegal and *he* stays in control**
-- 🔗 [Read on HackerNews](https://twitter.com/ylecun/status/2124550037912920090)
-- 👤 By MrBuddyCasino | 📈 521 points | 💬 266 comments
+**#5. Mechanical Pencil: Spray Bottle**
+- 🔗 [Read on HackerNews](https://mechanical-pencil.com/products/spray-bottle)
+- 👤 By vinhnx | 📈 197 points | 💬 57 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
