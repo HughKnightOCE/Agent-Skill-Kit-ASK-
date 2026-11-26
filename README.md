@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 25, 2026
+> **Last Updated:** November 26, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. 1Password Security Incident**
-- 🔗 [Read on HackerNews](https://1password.com/blog/update-on-nov-2026-security-incident)
-- 👤 By lxhrstn | 📈 334 points | 💬 144 comments
+**#1. Tracking Diseases Cured by AI**
+- 🔗 [Read on HackerNews](https://diseasescuredbyai.com/)
+- 👤 By spoofyroot | 📈 210 points | 💬 105 comments
 
-**#2. A few questions for the guy who went snorkeling in a Home Depot retention pond**
-- 🔗 [Read on HackerNews](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
-- 👤 By gumby | 📈 320 points | 💬 84 comments
+**#2. AMD Specific Patches for Llama.cpp**
+- 🔗 [Read on HackerNews](https://devnull.land/amd-specific-llama-cpp)
+- 👤 By julianlam | 📈 86 points | 💬 25 comments
 
-**#3. Google releases Cogentic papers on integer factorization, discrete logs and more**
-- 🔗 [Read on HackerNews](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
-- 👤 By rgwohlbold | 📈 337 points | 💬 258 comments
+**#3. CTO of 'RansomwareHelp' Indicted for Wire Fraud**
+- 🔗 [Read on HackerNews](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+- 👤 By Bender | 📈 38 points | 💬 10 comments
 
-**#4. Windows Loudness Equalization, reverse-engineered and ported to PipeWire**
-- 🔗 [Read on HackerNews](https://github.com/xoxorwr/pw-loudness-eq)
-- 👤 By ThrowNotAway | 📈 260 points | 💬 152 comments
+**#4. Intel One Mono font (2023)**
+- 🔗 [Read on HackerNews](https://github.com/intel/intel-one-mono)
+- 👤 By saikatsg | 📈 380 points | 💬 213 comments
 
-**#5. I checked Clojure's core with Lean and found unreported bugs**
-- 🔗 [Read on HackerNews](https://s.conao3.com/blog/2026/e4f733)
-- 👤 By encyclopedism | 📈 89 points | 💬 32 comments
+**#5. NP_R ≠ PAR_R**
+- 🔗 [Read on HackerNews](https://github.com/samueleverett01/bss-permanent-separations)
+- 👤 By sameverett | 📈 93 points | 💬 88 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
