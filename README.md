@@ -13,33 +13,34 @@
 
 ## 🚀 Today's Agent Intelligence
 
-> **Last Updated:** November 26, 2026
+> **Last Updated:** November 27, 2026
 
 ### 📊 Top 5 Trending Tech Stories
 
-**#1. Tracking Diseases Cured by AI**
-- 🔗 [Read on HackerNews](https://diseasescuredbyai.com/)
-- 👤 By spoofyroot | 📈 210 points | 💬 105 comments
+**#1. Credit card skimming scripts using WebRTC found on popular shopping sites**
+- 🔗 [Read on HackerNews](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+- 👤 By scanr | 📈 163 points | 💬 94 comments
 
-**#2. AMD Specific Patches for Llama.cpp**
-- 🔗 [Read on HackerNews](https://devnull.land/amd-specific-llama-cpp)
-- 👤 By julianlam | 📈 86 points | 💬 25 comments
+**#2. Show HN: bouncemarket – a live prediction market game for a bouncing ball**
+- 🔗 [Read on HackerNews](https://bouncemarket.minhanhday.com/)
+- 👤 By mday404 | 📈 246 points | 💬 74 comments
 
-**#3. CTO of 'RansomwareHelp' Indicted for Wire Fraud**
-- 🔗 [Read on HackerNews](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
-- 👤 By Bender | 📈 38 points | 💬 10 comments
+**#3. False computer-checked proofs**
+- 🔗 [Read on HackerNews](https://cr.yp.to/proofs/falseccp.html)
+- 👤 By _tk_ | 📈 98 points | 💬 39 comments
 
-**#4. Intel One Mono font (2023)**
-- 🔗 [Read on HackerNews](https://github.com/intel/intel-one-mono)
-- 👤 By saikatsg | 📈 380 points | 💬 213 comments
+**#4. First images of the impact of DART asteroid deflection experiment**
+- 🔗 [Read on HackerNews](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
+- 👤 By Bender | 📈 126 points | 💬 41 comments
 
-**#5. NP_R ≠ PAR_R**
-- 🔗 [Read on HackerNews](https://github.com/samueleverett01/bss-permanent-separations)
-- 👤 By sameverett | 📈 93 points | 💬 88 comments
+**#5. I'm Scared of AI**
+- 🔗 [Read on HackerNews](https://thesoapbox.email/archive/3)
+- 👤 By mgirkins | 📈 115 points | 💬 112 comments
 
 
 
 > *This section is auto-updated daily with trending tech intelligence.*
+
 
 
 
